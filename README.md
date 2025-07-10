@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jacson-logo-small.svg" alt="JacSON Logo" width="200"/>
+  <img src="assets/jacson-logo-small.svg" alt="JacSON Logo" width="200"/>
 </p>
 
 # JacSON — Overview, Setup & Configuration Guide
