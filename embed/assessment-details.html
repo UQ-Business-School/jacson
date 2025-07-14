@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- Assessment-Details.html V2.00 - 14 July 2025 -->
+    <!-- Assessment-Details.html V2.00 - GitHub Hosted Version -->
     <!-- Created by Geoffrey Blazer, CC BY-NC-SA 4.0 International -->
     <!-- Available from: https://uq-business-school.github.io/ibis -->
 <head>
@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Assessment Details</title>
   <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/styleguide/css/superstyle.css" />
-  <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/jacson/embed/css/assessment-details.css" />
+  <link rel="stylesheet" media="all" href="https://uqgblaze.github.io/jacson/embed/css/assessment-details.css" />
 </head>
 <body>
   <div class="container">
@@ -121,13 +121,13 @@
           const assessmentIndex = parseInt(assessmentParam) - 1;
           
           if (assessmentIndex < 0) {
-            throw new Error('Invalid assessment number');
+            throw new Error('Invalid assessment number. Ensure you include both json and assessment into the url, e.g.: https://uqgblaze.github.io/jacson/embed/assessment-details-v2.0.html?json=7520/TIMS7811-22499-7520&assessment=1');
           }
           
           // Parse course information from JSON path
           const pathParts = jsonPath.split('/');
           if (pathParts.length !== 2) {
-            throw new Error('Invalid JSON path format');
+            throw new Error('Invalid JSON path format. Ensure you include both json and assessment into the url, e.g.: https://uqgblaze.github.io/jacson/embed/assessment-details-v2.0.html?json=7520/TIMS7811-22499-7520&assessment=1');
           }
           
           const semesterCode = pathParts[0];
@@ -163,7 +163,7 @@
           }
           
           // Construct full JSON URL
-          const jsonUrl = `https://uq-business-school.github.io/jacson/profiles/${jsonPath}.json`;
+          const jsonUrl = `https://uqgblaze.github.io/jacson/profiles/${jsonPath}.json`;
           
           // Fetch course data
           const response = await fetch(jsonUrl);
