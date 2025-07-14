@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Assessment-Details.html V2.00 - 14 July 2025 -->
+    <!-- Created by Geoffrey Blazer, CC BY-NC-SA 4.0 International -->
+    <!-- Available from: https://uq-business-school.github.io/ibis -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assessment Details</title>
+  <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/styleguide/css/superstyle.css" />
+  <link rel="stylesheet" media="all" href="https://uqgblaze.github.io/jacson/embed/css/assessment-details.css" />
+</head>
+<body>
+  <div class="container">
+    <!-- Loading State -->
+    <div id="loadingState" class="loading-message">
+      <div class="loading-spinner"></div>
+      <p>Loading assessment details...</p>
+    </div>
+
+    <!-- Error State -->
+    <div id="errorState" class="error-message hidden">
+      <p>Error loading assessment details. Please check the URL or try again later.</p>
+    </div>
+
+    <!-- Main Content (Hidden initially) -->
+    <div id="mainContent" class="hidden">
+      <!-- Hidden assessment ID for reference -->
+      <p id="assessmentId" style="display: none;"></p>
+      
+      <!-- Assessment Header -->
+      <div class="assessment-header">
+        <h5 id="assessmentHeader" style="margin: 0 0 0.5rem 0; color: white; font-size: 1rem;">Assessment Details</h5>
+        <div class="assessment-title" id="assessmentTitle">Loading...</div>
+        <div class="special-indicators">
+          <ul class="icon-list icon-list--inline margin--bottom-reset spacing--bottom-s" id="specialIndicators">
+            <!-- Populated dynamically -->
+          </ul>
+        </div>
+      </div>
+
+      <!-- Assessment Details Table -->
+      <table class="details-table">
+        <thead>
+          <tr>
+            <th>Mode</th>
+            <th>Category</th>
+            <th>Weight</th>
+            <th>Due Date</th>
+            <th>Learning Outcomes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td id="mode">Loading...</td>
+            <td id="category">Loading...</td>
+            <td id="weighting">Loading...</td>
+            <td id="dueDate">Loading...</td>
+            <td id="learningObjectives">Loading...</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- Task Description -->
+      <div class="section">
+        <h6>Task Description</h6>
+        <div class="section-content" id="taskDescription">
+          Loading...
+        </div>
+      </div>
+
+      <!-- Submission Guidelines -->
+      <div class="section">
+        <h6>Submission Guidelines</h6>
+        <div class="section-content" id="submissionGuidelines">
+          Loading...
+        </div>
+      </div>
+
+      <!-- Deferral or Extension -->
+      <div class="section">
+        <h6>Deferral or Extension</h6>
+        <div class="section-content" id="deferralOrExtension">
+          Loading...
+        </div>
+      </div>
+
+      <!-- Late Submission -->
+      <div class="section">
+        <h6>Late Submission</h6>
+        <div class="section-content" id="lateSubmission">
+          Loading...
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+    // GitHub-hosted Assessment Details Controller
+    (function () {
+      document.addEventListener('DOMContentLoaded', async () => {
+        const loadingState = document.getElementById('loadingState');
+        const errorState = document.getElementById('errorState');
+        const mainContent = document.getElementById('mainContent');
+        
+        try {
+          // Get parameters from URL
+          const urlParams = new URLSearchParams(window.location.search);
+          const jsonPath = urlParams.get('json');
+          const assessmentParam = urlParams.get('assessment');
+          
+          if (!jsonPath) {
+            throw new Error('JSON path parameter is required');
+          }
+          
+          if (!assessmentParam) {
+            throw new Error('Assessment parameter is required');
+          }
+          
+          // Convert assessment number to index (1-based to 0-based)
+          const assessmentIndex = parseInt(assessmentParam) - 1;
+          
+          if (assessmentIndex < 0) {
+            throw new Error('Invalid assessment number');
+          }
+          
+          // Parse course information from JSON path
+          const pathParts = jsonPath.split('/');
+          if (pathParts.length !== 2) {
+            throw new Error('Invalid JSON path format');
+          }
+          
+          const semesterCode = pathParts[0];
+          const filename = pathParts[1];
+          
+          // Extract course code from filename pattern: COURSE-CLASS-SEMESTER
+          const filenameMatch = filename.match(/^([A-Z]+\d+)-(\d+)-(\d+)$/);
+          if (!filenameMatch) {
+            throw new Error('Invalid filename format');
+          }
+          
+          const [, courseCode, classCode, semesterFromFile] = filenameMatch;
+          
+          // Determine header styling based on course level
+          const coursePrefixMatch = courseCode.match(/[A-Z]+(\d+)/);
+          if (coursePrefixMatch && coursePrefixMatch[1]) {
+            const firstDigit = parseInt(coursePrefixMatch[1][0]);
+            const headerEl = document.querySelector('.assessment-header');
+
+            if (headerEl) {
+              if (firstDigit >= 1 && firstDigit <= 5) {
+                headerEl.classList.add('bg-purple-gradient-horizontal');
+              } else if (firstDigit >= 6 && firstDigit <= 9) {
+                headerEl.classList.add('bg-postgrad-gradient-horizontal');
+              }
+            }
+          }
+          
+          // Update assessment header with the assessment number
+          const header = document.getElementById('assessmentHeader');
+          if (header) {
+            header.textContent = `Assessment ${assessmentParam}`;
+          }
+          
+          // Construct full JSON URL
+          const jsonUrl = `https://uqgblaze.github.io/jacson/profiles/${jsonPath}.json`;
+          
+          // Fetch course data
+          const response = await fetch(jsonUrl);
+          if (!response.ok) {
+            throw new Error(`Failed to fetch course data: ${response.status}. To fix this issue, ensure that your course profile is publicly available on https://course-profiles.uq.edu.au, and that the profile data has been successfully added to the repository.`);
+          }
+          
+          const courseData = await response.json();
+          
+          // Check if assessment exists
+          if (!courseData.assessments || !courseData.assessments[assessmentIndex]) {
+            throw new Error(`Assessment ${assessmentParam} not found in course data. This course either does not have this assessment item, the course profile is not yet publicly available, or the profile data has not yet been successfully added to the repository.`);
+          }
+          
+          // Render the assessment data
+          renderAssessmentData(courseData.assessments[assessmentIndex], assessmentIndex);
+          
+          // Show main content and hide loading
+          loadingState.classList.add('hidden');
+          mainContent.classList.remove('hidden');
+          
+        } catch (error) {
+          console.error('Error loading assessment data:', error);
+          loadingState.classList.add('hidden');
+          errorState.classList.remove('hidden');
+          errorState.querySelector('p').textContent = `Error: ${error.message}`;
+        }
+      });
+
+      function renderAssessmentData(assessment, index) {
+        // Set assessment ID (hidden)
+        document.getElementById('assessmentId').textContent = `assessment_detail_section_id_${index}`;
+
+        // Set assessment title
+        document.getElementById('assessmentTitle').textContent = assessment.assessment_title;
+
+        // Render special indicators
+        const specialIndicators = document.getElementById('specialIndicators');
+        specialIndicators.innerHTML = '';
+        if (assessment.special_indicators && assessment.special_indicators.length > 0) {
+          assessment.special_indicators.forEach(indicator => {
+            const li = document.createElement('li');
+            
+            // Create span element for the icon
+            const iconSpan = document.createElement('span');
+            
+            // Set the proper UQ icon classes using special_indicators_class
+            const iconClass = indicator.special_indicators_class || '';
+            iconSpan.className = `uq-icon uq-icon--light uq-${iconClass}`;
+            
+            // Add text content
+            const textNode = document.createTextNode(indicator.special_indicator_text);
+            
+            // Append icon and text to li
+            li.appendChild(iconSpan);
+            li.appendChild(textNode);
+            
+            specialIndicators.appendChild(li);
+          });
+        }
+
+        // Populate table data
+        document.getElementById('mode').textContent = assessment.mode || 'N/A';
+        document.getElementById('category').textContent = assessment.category || 'N/A';
+        
+        // Clean up weighting
+        const weighting = assessment.weighting ? assessment.weighting.replace(/<\/?dd>/g, '') : 'N/A';
+        document.getElementById('weighting').textContent = weighting;
+        
+        // Clean up and highlight due date
+        const dueDate = assessment.due_date ? assessment.due_date.replace(/<\/?dd>|<\/?p>/g, '').trim() : 'N/A';
+        const dueDateElement = document.getElementById('dueDate');
+        dueDateElement.innerHTML = `<span class="due-date">${dueDate}</span>`;
+        
+        document.getElementById('learningObjectives').textContent = assessment.learning_objectives || 'N/A';
+
+        // Populate sections
+        populateSection('taskDescription', assessment.task_description);
+        populateSection('submissionGuidelines', assessment.submission_guidelines);
+        populateSection('deferralOrExtension', assessment.deferral_or_extension);
+        populateSection('lateSubmission', assessment.late_submission);
+      }
+
+      function populateSection(elementId, content) {
+        const element = document.getElementById(elementId);
+        if (content) {
+          // Clean up any collapsible wrapper HTML that might be present
+          let cleanContent = content
+            .replace(/<div class="collapsible[^>]*>/, '')
+            .replace(/<button class="collapsible__toggle"[\s\S]*?<\/button>/, '')
+            .replace(/<\/div>$/, '');
+          
+          element.innerHTML = cleanContent;
+          
+          // Make all links open in new tabs
+          const links = element.querySelectorAll('a');
+          links.forEach(link => {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          });
+        } else {
+          element.innerHTML = '<p><em>No information available, and/or this course profile is not yet public, and/or this course profile has not yet been compiled by JacSON.</em></p>';
+        }
+      }
+    })();
+</script>
+</body>
+</html>
