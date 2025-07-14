@@ -112,11 +112,11 @@
           const weekParam = urlParams.get('week');
           
           if (!jsonPath) {
-            throw new Error('JSON path parameter is required');
+            throw new Error('JSON path parameter is required. Ensure you include both json and assessment into the url, e.g.: ./weekly-activities.html?json=7520/TIMS7811-22499-7520&week=3');
           }
           
           if (!weekParam) {
-            throw new Error('Week parameter is required');
+            throw new Error('Week parameter is required. Ensure you include both json and assessment into the url, e.g.: ./weekly-activities.html?json=7520/TIMS7811-22499-7520&week=3');
           }
           
           // Parse course information from JSON path
