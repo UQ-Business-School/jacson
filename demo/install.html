@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JacSON: Installation Instructions</title>
+
+<!-- This block was generated on UQ IBIS: https://uq-business-school.github.io/ibis/ -->
+<!-- © Geoffrey Blazer, 2025. CC BY-NC 4.0 International License. -->
+<!-- This software is provided "as-is" without warranty of any kind. -->
+<!-- DO NOT CONTACT CENTRAL ELEARNING FOR SUPPORT ABOUT THIS ITEM - IT IS NOT SUPPORTED. -->
+<!-- You can generate your own block by visiting: https://uq-business-school.github.io/ibis/ -->
+
+<!-- UQ Tabs Component -->
+<!-- Required CSS -->
+<link rel='stylesheet' href='https://uq-business-school.github.io/ibis/templates/interactive/tabs/uqbs-tabs.css' />
+<link rel='stylesheet' media='all' href='https://uq-business-school.github.io/styleguide/css/superstyle.css' />
+</head>
+<body>
+<div class="uqbs-tab-body"><div class="uqbs-tab-container"><div class="uqbs-tabs" role="tablist" aria-label="Tab selection"><button class="uqbs-tab" role="tab" aria-selected="true" aria-controls="panel-0" id="tab-0" tabindex="0">Overview</button><button class="uqbs-tab" role="tab" aria-selected="false" aria-controls="panel-1" id="tab-1" tabindex="-1">🚀 1. Getting Started</button><button class="uqbs-tab" role="tab" aria-selected="false" aria-controls="panel-2" id="tab-2" tabindex="-1">🔐 2. Securing SECRETS</button><button class="uqbs-tab" role="tab" aria-selected="false" aria-controls="panel-3" id="tab-3" tabindex="-1">🔧 3. Edit Configuration</button><button class="uqbs-tab" role="tab" aria-selected="false" aria-controls="panel-4" id="tab-4" tabindex="-1">🏃 4. Run it!</button><div class="uqbs-tab-indicator" aria-hidden="true"></div></div><div class="uqbs-tab-content" role="tabpanel" id="panel-0" aria-labelledby="tab-0" aria-hidden="false"><p dir="auto" align="center"><a href="https://github.com/UQ-Business-School/jacson" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://uqgblaze.github.io/jacson/assets/jacson-logo.svg" alt="JacSON Logo" width="110" height="100"></a></p>
+<div class="markdown-heading" dir="auto">
+<h1 class="heading-element" dir="auto" tabindex="-1">JacSON — Overview, Setup &amp; Configuration Guide</h1>
+<a id="user-content-jacson--overview-setup--configuration-guide" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#jacson--overview-setup--configuration-guide" aria-label="Permalink: JacSON — Overview, Setup &amp; Configuration Guide"></a></div>
+<p dir="auto">Welcome to JacSON: a Javascript and JSON-based scraper and integration tool from UQ Jac Course Profiles into Blackboard Ultra.<br>This guide explains everything that must be edited if you're adapting JacSON for another school, faculty, or institution.</p>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Quick Links</h2>
+<a id="user-content-quick-links" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#quick-links" aria-label="Permalink: Quick Links"></a></div>
+<ul dir="auto">
+<li>View code on Github:&nbsp;<a href="https://github.com/uqgblaze/jacson">https://github.com/uqgblaze/jacson</a></li>
+<li>Live version:&nbsp;<a href="https://uqgblaze.github.io/jacson/" rel="nofollow">https://uqgblaze.github.io/jacson/</a></li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Overview</h2>
+<a id="user-content-overview" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#overview" aria-label="Permalink: Overview"></a></div>
+<p dir="auto">JacSON automates the retrieval of learning outcomes, assessment details, and weekly learning activities from the current (non-archived) version of the UQ course profiles website. These outputs can then be used to pre-populate components in Blackboard Ultra using JavaScript, enabling a more efficient course build process for teaching teams and learning designers.</p>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Key Features</h2>
+<a id="user-content-key-features" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#key-features" aria-label="Permalink: Key Features"></a></div>
+<ul dir="auto">
+<li>🧠&nbsp;<strong>Course Intelligence</strong>: Parses and extracts structured data such as:
+<ul dir="auto">
+<li>Learning Outcomes</li>
+<li>Assessment Tasks (titles, weights, dates, descriptions)</li>
+<li>Weekly Activities (topics, outcomes, periods)</li>
+</ul>
+</li>
+<li>⛔&nbsp;<strong>Smart Filtering</strong>: Ignores any links to archived course profiles.</li>
+<li>📝&nbsp;<strong>Google Sheets Enabled</strong>: Reads course codes from a central&nbsp;<strong>Google Sheet</strong>&nbsp;and updates scrape status and notes for each course</li>
+<li>🪵&nbsp;<strong>Creates logs and buffers</strong>: Uses a local&nbsp;<code>course-list.csv</code>&nbsp;file to determine which courses to scrape or ignore.</li>
+<li>🗃️&nbsp;<strong>Organized Output</strong>: Saves JSON output in folders by semester code.</li>
+<li>☁️&nbsp;<strong>Automatic Cloud Publishing</strong>: Configured to automatically upload JSON results to GitHub repository</li>
+<li>🧪&nbsp;<strong>Python-based and extensible</strong>: Designed to be modular and easy to integrate with existing Python or web workflows.</li>
+<li>✅&nbsp;<strong>Deploy and copy HTML to any course</strong>: You can then copy and deploy the HTML to&nbsp;<strong>any</strong>&nbsp;course in Blackboard Ultra. It will automatically find the course code and find the scraped JSON file within a document.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Limitations</h2>
+<a id="user-content-limitations" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#limitations" aria-label="Permalink: Limitations"></a></div>
+<ul dir="auto">
+<li>This tool is purpose-built for the&nbsp;<strong>UQ JAC system</strong>&nbsp;and may not generalize to other institutions without significant modification.</li>
+<li>Course profiles need to be written in a standardised format to benefit from this tool.</li>
+<li>The JSON file can only be called within a&nbsp;<strong>document</strong>&nbsp;on Blackboard.&nbsp;<strong>This script does not work at the course-view level.</strong></li>
+</ul></div><div class="uqbs-tab-content" role="tabpanel" id="panel-1" aria-labelledby="tab-1" aria-hidden="true"><p dir="auto">Here’s how to replicate JacSON from scratch in your school or faculty.</p>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">1. Download Repo as ZIP file</h3>
+<a id="user-content-1-download-repo-as-zip-file" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#1-download-repo-as-zip-file" aria-label="Permalink: 1. Download Repo as ZIP file"></a></div>
+<p dir="auto">If you haven't already, download the Repo as a ZIP file. Instructions below assume you've saved it to:&nbsp;<code>%USERPROFILE%\Documents\JacSON</code></p>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">2. 🐍 Install Python</h3>
+<a id="user-content-2--install-python" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#2--install-python" aria-label="Permalink: 2. 🐍 Install Python"></a></div>
+<p dir="auto">Make sure Python 3.10 or later is installed.</p>
+<ul dir="auto">
+<li><a href="https://www.python.org/downloads/" rel="nofollow">Download Python</a></li>
+<li>During install: ✅&nbsp;<em>Add Python to PATH</em></li>
+</ul>
+<p dir="auto">Once that is installed, open a command prompt window (CMD.exe, not PowerShell!) and change to the folder: e.g.&nbsp;<code>cd %USERPROFILE%\Documents\JacSON</code></p>
+<p dir="auto">Then install dependencies:</p>
+<p dir="auto"><code>pip install -r requirements.txt</code></p>
+<ul dir="auto">
+<li>If you get an error about 'pip', that means you need to manually install PIP. Google is your friend!</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">3. 📄 Google Sheet Setup</h3>
+<a id="user-content-3--google-sheet-setup" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#3--google-sheet-setup" aria-label="Permalink: 3. 📄 Google Sheet Setup"></a></div>
+<ul dir="auto">
+<li>See link for template:&nbsp;<a href="https://docs.google.com/spreadsheets/d/1y4JfTa76oVyWndfA83bAqeN4XwjbMKyWgOyR60yEzXs/edit?usp=sharing" rel="nofollow">https://docs.google.com/spreadsheets/d/1y4JfTa76oVyWndfA83bAqeN4XwjbMKyWgOyR60yEzXs/edit?usp=sharing</a></li>
+</ul>
+<p dir="auto">JacSON expects this layout:</p>
+<table>
+<thead>
+<tr>
+<th>A (Course Code)</th>
+<th>B (Auto)</th>
+<th>C (Status)</th>
+<th>D (Manual)</th>
+<th>E</th>
+<th>F (Notes)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ACCT7804</td>
+<td>TRUE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<ul dir="auto">
+<li>Column B:&nbsp;<code>TRUE</code>&nbsp;to auto-run</li>
+<li>Column C: Status (e.g., Scheduled, Success!, Failure)</li>
+<li>Column D: If&nbsp;<code>TRUE</code>, the course is ignored</li>
+</ul></div><div class="uqbs-tab-content" role="tabpanel" id="panel-2" aria-labelledby="tab-2" aria-hidden="true"><div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Getting your SECRETS ready</h2>
+<a id="user-content-getting-your-secrets-ready" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#getting-your-secrets-ready" aria-label="Permalink: Getting your SECRETS ready"></a></div>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">4. 🔐 Google Sheets Setup</h3>
+<a id="user-content-4--google-sheets-setup" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#4--google-sheets-setup" aria-label="Permalink: 4. 🔐 Google Sheets Setup"></a></div>
+<p dir="auto">JacSON reads and writes to a shared Google Sheet. To enable this:</p>
+<div class="markdown-heading" dir="auto">
+<h4 class="heading-element" dir="auto" tabindex="-1">a. Create a Service Account:</h4>
+<a id="user-content-a-create-a-service-account" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#a-create-a-service-account" aria-label="Permalink: a. Create a Service Account:"></a></div>
+<ul dir="auto">
+<li>Visit:&nbsp;<a href="https://console.cloud.google.com/" rel="nofollow">https://console.cloud.google.com/</a></li>
+<li>Create a new project and enable the&nbsp;<strong>Google Sheets API</strong></li>
+<li>Generate a Service Account with a JSON key file</li>
+<li>Share your Sheet with the service account email (e.g.,&nbsp;<code>jacson-api@your-project.iam.gserviceaccount.com</code>)</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h4 class="heading-element" dir="auto" tabindex="-1">b. Save the key file</h4>
+<a id="user-content-b-save-the-key-file" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#b-save-the-key-file" aria-label="Permalink: b. Save the key file"></a></div>
+<p dir="auto">Place your credentials JSON here:</p>
+<p dir="auto"><code>./secrets/credentials.json</code></p>
+<ul dir="auto">
+<li><strong>Currently unsupported feature</strong>: For GitHub Actions, set as an environment variable&nbsp;<code>GOOGLE_SERVICE_ACCOUNT_JSON</code>.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">🔐 How to Set Up a GitHub Personal Access Token</h3>
+<a id="user-content--how-to-set-up-a-github-personal-access-token" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-how-to-set-up-a-github-personal-access-token" aria-label="Permalink: 🔐 How to Set Up a GitHub Personal Access Token"></a></div>
+<div class="markdown-heading" dir="auto">
+<h4 class="heading-element" dir="auto" tabindex="-1">🧱 Prerequisites</h4>
+<a id="user-content--prerequisites" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-prerequisites" aria-label="Permalink: 🧱 Prerequisites"></a></div>
+<ul dir="auto">
+<li>A GitHub account</li>
+<li>Access to the target GitHub repository (owner or write access)</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h4 class="heading-element" dir="auto" tabindex="-1">✅ Step-by-Step Instructions</h4>
+<a id="user-content--step-by-step-instructions" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-step-by-step-instructions" aria-label="Permalink: ✅ Step-by-Step Instructions"></a></div>
+<div class="markdown-heading" dir="auto">
+<h5 class="heading-element" dir="auto" tabindex="-1"><strong>a. Log in to GitHub</strong></h5>
+<a id="user-content-a-log-in-to-github" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#a-log-in-to-github" aria-label="Permalink: a. Log in to GitHub"></a></div>
+<p dir="auto">Go to:&nbsp;<a href="https://github.com/login">https://github.com/login</a></p>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h5 class="heading-element" dir="auto" tabindex="-1"><strong>b. Open Developer Settings</strong></h5>
+<a id="user-content-b-open-developer-settings" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#b-open-developer-settings" aria-label="Permalink: b. Open Developer Settings"></a></div>
+<ul dir="auto">
+<li>Click your profile icon in the top-right</li>
+<li>Select&nbsp;<strong>"Settings"</strong></li>
+<li>Scroll down the left sidebar to&nbsp;<strong>"Developer settings"</strong></li>
+<li>Click on&nbsp;<strong>"Personal access tokens"</strong></li>
+<li>Then click&nbsp;<strong>"Tokens (classic)"</strong></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h5 class="heading-element" dir="auto" tabindex="-1"><strong>c. Generate a New Token</strong></h5>
+<a id="user-content-c-generate-a-new-token" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#c-generate-a-new-token" aria-label="Permalink: c. Generate a New Token"></a></div>
+<ul dir="auto">
+<li>Click&nbsp;<strong>"Generate new token" → "Generate new token (classic)"</strong></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h5 class="heading-element" dir="auto" tabindex="-1"><strong>d. Configure the Token</strong></h5>
+<a id="user-content-d-configure-the-token" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#d-configure-the-token" aria-label="Permalink: d. Configure the Token"></a></div>
+<p dir="auto">Fill out the form:</p>
+<ul dir="auto">
+<li><strong>Note</strong>: Something like&nbsp;<code>JacSON Uploader</code></li>
+<li><strong>Expiration</strong>: Choose a long-lived token if you're automating</li>
+<li><strong>Scopes</strong>: ✅ Tick only:
+<ul dir="auto">
+<li><code>repo</code>&nbsp;→ full control of private repositories</li>
+</ul>
+</li>
+</ul>
+<p dir="auto">This includes:</p>
+<ul dir="auto">
+<li><code>repo:status</code></li>
+<li><code>repo_deployment</code></li>
+<li><code>public_repo</code></li>
+<li><code>repo:invite</code></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h5 class="heading-element" dir="auto" tabindex="-1"><strong>e. Generate and Save the Token</strong></h5>
+<a id="user-content-e-generate-and-save-the-token" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#e-generate-and-save-the-token" aria-label="Permalink: e. Generate and Save the Token"></a></div>
+<ul dir="auto">
+<li>Click the green&nbsp;<strong>"Generate token"</strong>&nbsp;button</li>
+<li>📋&nbsp;<strong>Copy and Save the token immediately</strong>&nbsp;— GitHub will not show it again!</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">🔒 Using the Token in JacSON</h3>
+<a id="user-content--using-the-token-in-jacson" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-using-the-token-in-jacson" aria-label="Permalink: 🔒 Using the Token in JacSON"></a></div>
+<ol dir="auto">
+<li>
+<p dir="auto">Open your JacSON folder.</p>
+</li>
+<li>
+<p dir="auto">Create a file:</p>
+<p dir="auto"><code>./secrets/github_token.txt</code></p>
+</li>
+<li>
+<p dir="auto">Paste the token into the file:</p>
+<p dir="auto"><code>ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXX</code></p>
+</li>
+</ol>
+<p dir="auto">✔️ Now JacSON’s&nbsp;<code>upload_profiles.py</code>&nbsp;will authenticate and upload&nbsp;<code>.json</code></p></div><div class="uqbs-tab-content" role="tabpanel" id="panel-3" aria-labelledby="tab-3" aria-hidden="true"><div class="markdown-heading" dir="auto">
+<h1 class="heading-element" dir="auto" tabindex="-1">🔧 Editable Configuration Overview</h1>
+<a id="user-content--editable-configuration-overview" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-editable-configuration-overview" aria-label="Permalink: 🔧 Editable Configuration Overview"></a></div>
+<p dir="auto">Below is a complete list of files, variables, and settings that you will need to modify to get JacSON running in your own environment.</p>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">1. ✅ Google Sheets Configuration</h3>
+<a id="user-content-1--google-sheets-configuration" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#1--google-sheets-configuration" aria-label="Permalink: 1. ✅ Google Sheets Configuration"></a></div>
+<p dir="auto"><strong>File:</strong>&nbsp;<code>scripts/sheets_updater.py</code><br><strong>Lines:</strong></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+<pre><span class="pl-c1">SPREADSHEET_ID</span> <span class="pl-c1">=</span> <span class="pl-s">'1tJ04EY1AtyS-7iKlmgZhmom0f97xK3DsZ88wkqmRwNs'</span>
+<span class="pl-c1">RANGE_NAME</span>     <span class="pl-c1">=</span> <span class="pl-s">'Sheet1!A2:F'</span>
+<span class="pl-c1">CREDENTIALS_FILE</span> <span class="pl-c1">=</span> <span class="pl-s1">os</span>.<span class="pl-c1">path</span>.<span class="pl-c1">join</span>(<span class="pl-s">'secrets'</span>, <span class="pl-s">'credentials.json'</span>)</pre>
+<div class="zeroclipboard-container">&nbsp;</div>
+</div>
+<ul dir="auto">
+<li>🔄 Replace&nbsp;<code>SPREADSHEET_ID</code>&nbsp;with your own Google Sheet ID (found in the URL).</li>
+<li>🔄 Update&nbsp;<code>RANGE_NAME</code>&nbsp;if your data starts in a different cell.</li>
+<li>📁 Ensure&nbsp;<code>credentials.json</code>&nbsp;exists at&nbsp;<code>./secrets/credentials.json</code>.</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">2. 🔐 Google Service Account Setup</h3>
+<a id="user-content-2--google-service-account-setup" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#2--google-service-account-setup" aria-label="Permalink: 2. 🔐 Google Service Account Setup"></a></div>
+<p dir="auto"><strong>Files:</strong></p>
+<ul dir="auto">
+<li><code>scripts/sheets_updater.py</code></li>
+<li><code>scripts/update_status.py</code></li>
+<li><code>scripts/generate_course_list.py</code></li>
+</ul>
+<p dir="auto">These scripts expect a service account credential file saved to:</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
+<pre>./secrets/credentials.json</pre>
+<div class="zeroclipboard-container">&nbsp;</div>
+</div>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">3. ☁️ GitHub Repository Settings</h3>
+<a id="user-content-3-️-github-repository-settings" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#3-%EF%B8%8F-github-repository-settings" aria-label="Permalink: 3. ☁️ GitHub Repository Settings"></a></div>
+<p dir="auto"><strong>File:</strong>&nbsp;<code>scripts/upload_profiles.py</code><br><strong>Lines:</strong></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+<pre><span class="pl-c1">GITHUB_OWNER</span> <span class="pl-c1">=</span> <span class="pl-s">"uqgblaze"</span>
+<span class="pl-c1">GITHUB_REPO</span>  <span class="pl-c1">=</span> <span class="pl-s">"jacson"</span></pre>
+<div class="zeroclipboard-container">&nbsp;</div>
+</div>
+<ul dir="auto">
+<li>🔄 Replace with your GitHub username/org and repository name.</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">4. 🔑 GitHub Personal Access Token</h3>
+<a id="user-content-4--github-personal-access-token" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#4--github-personal-access-token" aria-label="Permalink: 4. 🔑 GitHub Personal Access Token"></a></div>
+<p dir="auto"><strong>File:</strong>&nbsp;<code>scripts/upload_profiles.py</code><br><strong>Line:</strong></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+<pre><span class="pl-c1">TOKEN_PATH</span> <span class="pl-c1">=</span> <span class="pl-s1">os</span>.<span class="pl-c1">path</span>.<span class="pl-c1">join</span>(<span class="pl-c1">PROJECT_ROOT</span>, <span class="pl-s">"secrets"</span>, <span class="pl-s">"github_token.txt"</span>)</pre>
+<div class="zeroclipboard-container">&nbsp;</div>
+</div>
+<ul dir="auto">
+<li>🔄 Store your GitHub token in this path as a plain text file (no newline).</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">5. 🧾 Google Sheet Column Logic</h3>
+<a id="user-content-5--google-sheet-column-logic" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#5--google-sheet-column-logic" aria-label="Permalink: 5. 🧾 Google Sheet Column Logic"></a></div>
+<p dir="auto">All Google Sheets integrations assume:</p>
+<ul dir="auto">
+<li>Column A = Course Code</li>
+<li>Column B = Auto-run checkbox</li>
+<li>Column C = Status (e.g., Scheduled, Success!, Failure)</li>
+<li>Column D = Manual flag (exclusion)</li>
+<li>Column F = Notes</li>
+</ul>
+<p dir="auto">🔄 Adjust in scripts if your Sheet layout differs.</p>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">6. 📄&nbsp;(Not required for UQ courses) Target Scraping Domain</h3>
+<a id="user-content-6--target-scraping-domain" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#6--target-scraping-domain" aria-label="Permalink: 6. 📄 Target Scraping Domain"></a></div>
+<p dir="auto"><strong>File:</strong>&nbsp;<code>jacson.py</code><br><strong>Line:</strong></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+<pre><span class="pl-s1">target_domain</span> <span class="pl-c1">=</span> <span class="pl-s">"https://course-profiles.uq.edu.au/course-profiles/"</span></pre>
+<div class="zeroclipboard-container">&nbsp;</div>
+</div>
+<ul dir="auto">
+<li>🔄 Replace with your institution’s profile system root URL.</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">7. 📁&nbsp;(Optional)&nbsp;Output File Structure</h3>
+<a id="user-content-7--output-file-structure" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#7--output-file-structure" aria-label="Permalink: 7. 📁 Output File Structure"></a></div>
+<p dir="auto"><strong>File:</strong>&nbsp;<code>jacson.py</code>&nbsp;→ inside&nbsp;<code>save_course_data()</code><br><strong>Line:</strong></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto">
+<pre><span class="pl-s1">profiles_root</span> <span class="pl-c1">=</span> <span class="pl-s1">os</span>.<span class="pl-c1">path</span>.<span class="pl-c1">join</span>(<span class="pl-s1">base_directory</span>, <span class="pl-s">"profiles"</span>)</pre>
+<div class="zeroclipboard-container">&nbsp;</div>
+</div>
+<ul dir="auto">
+<li>🔄 Change directory if you want to save files somewhere else.</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">8. 📋 (Optional) CSV Filename</h3>
+<a id="user-content-8--csv-filename" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#8--csv-filename" aria-label="Permalink: 8. 📋 CSV Filename"></a></div>
+<p dir="auto"><strong>Files:</strong>&nbsp;<code>jacson.py</code>,&nbsp;<code>generate_course_list.py</code>,&nbsp;<code>sheets_updater.py</code></p>
+<ul dir="auto">
+<li>🔄 The file&nbsp;<code>course-list.csv</code>&nbsp;is read and written by many scripts. You may rename it, but update all references.</li>
+</ul>
+<p>&nbsp;</p>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">📦 Summary Table</h2>
+<a id="user-content--summary-table" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-summary-table" aria-label="Permalink: 📦 Summary Table"></a></div>
+<table style="border-collapse: collapse; border-style: solid;" border="1">
+<thead>
+<tr style="background-color: #d7d1cc;">
+<th>What to Change</th>
+<th>File(s)</th>
+<th>Location/Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Google Sheets ID</td>
+<td><code>sheets_updater.py</code></td>
+<td><code>SPREADSHEET_ID</code></td>
+</tr>
+<tr>
+<td>Sheets API credentials</td>
+<td>All Google-related scripts</td>
+<td>Path:&nbsp;<code>./secrets/credentials.json</code></td>
+</tr>
+<tr>
+<td>GitHub repo details</td>
+<td><code>upload_profiles.py</code></td>
+<td><code>GITHUB_OWNER</code>,&nbsp;<code>GITHUB_REPO</code></td>
+</tr>
+<tr>
+<td>GitHub token</td>
+<td><code>upload_profiles.py</code></td>
+<td><code>./secrets/github_token.txt</code></td>
+</tr>
+<tr>
+<td>Course sheet column logic</td>
+<td>Sheets-related scripts</td>
+<td>B = Auto, C = Status, D = Manual, F = Notes</td>
+</tr>
+<tr>
+<td>Target scrape domain</td>
+<td><code>jacson.py</code></td>
+<td>Inside&nbsp;<code>get_course_profile_links()</code></td>
+</tr>
+<tr>
+<td>Output folder</td>
+<td><code>jacson.py</code></td>
+<td>Inside&nbsp;<code>save_course_data()</code></td>
+</tr>
+<tr>
+<td>CSV filename</td>
+<td>Most scripts</td>
+<td><code>course-list.csv</code></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div><div class="uqbs-tab-content" role="tabpanel" id="panel-4" aria-labelledby="tab-4" aria-hidden="true"><div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">🛠 Manual Controls</h2>
+<a id="user-content--manual-controls" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-manual-controls" aria-label="Permalink: 🛠 Manual Controls"></a></div>
+<ul dir="auto">
+<li>To&nbsp;<strong>test specific courses</strong>: edit&nbsp;<code>course-list.csv</code>&nbsp;directly</li>
+<li>To&nbsp;<strong>run individual scripts</strong>:
+<ul dir="auto">
+<li>Pull course list:&nbsp;<code>python scripts/generate_course_list.py</code></li>
+<li>Scrape only:&nbsp;<code>python jacson.py</code></li>
+<li>Upload only:&nbsp;<code>python scripts/upload_profiles.py</code></li>
+<li>Update status:</li>
+</ul>
+</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Automated Controls</h2>
+<a id="user-content-automated-controls" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#automated-controls" aria-label="Permalink: Automated Controls"></a></div>
+<ul dir="auto">
+<li>To run this automatically from your computer, run either option depending on your operating system:</li>
+</ul>
+<details>
+<summary>Option 1: 🪟&nbsp;<strong>Windows</strong>&nbsp;— Use Task Scheduler</summary>
+<h2 class="heading-element" dir="auto" tabindex="-1">🪟 Option 1:&nbsp;<strong>Windows</strong>&nbsp;— Use Task Scheduler</h2>
+<a id="user-content--option-1-windows--use-task-scheduler" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-option-1-windows--use-task-scheduler" aria-label="Permalink: ✅ Option 1: Windows — Use Task Scheduler"></a>
+<h3 class="heading-element" dir="auto" tabindex="-1">🔧 Script File (Windows Batch Script)</h3>
+<a id="user-content--script-file-windows-batch-script" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-script-file-windows-batch-script" aria-label="Permalink: 🔧 Script File (Windows Batch Script)"></a>
+<p dir="auto">Save this as&nbsp;<code>run_jacson.bat</code>&nbsp;in the same folder as your JacSON project:</p>
+<p dir="auto"><code>@echo off cd /d "C:\Path\To\Your\JacSON" python scraper_runner.py</code></p>
+<blockquote>
+<p dir="auto">🔄 Replace&nbsp;<code>C:\Path\To\Your\JacSON</code>&nbsp;with your actual folder path.</p>
+</blockquote>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">📅 Setup in Task Scheduler</h3>
+<a id="user-content--setup-in-task-scheduler" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-setup-in-task-scheduler" aria-label="Permalink: 📅 Setup in Task Scheduler"></a></div>
+<ol dir="auto">
+<li>Open&nbsp;<strong>Task Scheduler</strong></li>
+<li>Click&nbsp;<strong>Create Basic Task</strong></li>
+<li>Name it:&nbsp;<code>Run JacSON Scraper</code></li>
+<li>Choose&nbsp;<strong>Daily</strong></li>
+<li>Set your time (e.g., 9:00 PM)</li>
+<li>Action:&nbsp;<strong>Start a program</strong></li>
+<li>Program/script:&nbsp;<code>C:\Path\To\Your\JacSON\run_jacson.bat</code></li>
+<li>Finish ✅</li>
+</ol>
+</details>
+<details>
+<summary>Option 2: 🍏&nbsp;<strong>macOS / 🐧 Linux</strong>&nbsp;— Use Cron</summary>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">Option 2: 🍏&nbsp;<strong>macOS / 🐧 Linux</strong>&nbsp;— Use Cron</h2>
+<a id="user-content--option-2-macos--linux--use-cron" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-option-2-macos--linux--use-cron" aria-label="Permalink: ✅ Option 2: macOS / Linux — Use Cron"></a></div>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">🔧 Script File</h3>
+<a id="user-content--script-file" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-script-file" aria-label="Permalink: 🔧 Script File"></a></div>
+<p dir="auto">Save this as&nbsp;<code>run_jacson.sh</code>&nbsp;and make it executable:</p>
+<p dir="auto"><code>#!/bin/bash cd /path/to/your/JacSON /usr/bin/python3 scraper_runner.py</code></p>
+<blockquote>
+<p dir="auto">Use&nbsp;<code>which python3</code>&nbsp;to confirm the Python path</p>
+</blockquote>
+<p dir="auto">Then make it executable:</p>
+<p dir="auto"><code>chmod +x run_jacson.sh</code></p>
+<hr>
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto" tabindex="-1">📅 Setup Cron Job</h3>
+<a id="user-content--setup-cron-job" class="anchor" href="https://github.com/UQ-Business-School/jacson/tree/main#-setup-cron-job" aria-label="Permalink: 📅 Setup Cron Job"></a></div>
+<ol dir="auto">
+<li>
+<p dir="auto">Open terminal</p>
+</li>
+<li>
+<p dir="auto">Edit your crontab:</p>
+<p dir="auto"><code>crontab -e</code></p>
+</li>
+<li>
+<p dir="auto">Add a line like this (for 9:00 PM daily):</p>
+<p dir="auto"><code>0 21 * * * /path/to/your/JacSON/run_jacson.sh &gt;&gt; /path/to/your/JacSON/logs/cron.log 2&gt;&amp;1</code></p>
+</li>
+</ol>
+</details></div></div></div>
+
+<!-- Inline Tab Functionality -->
+<script src="https://uq-business-school.github.io/ibis/templates/interactive/tabs/uqbs-tabs-mini.js"></script>
+
+</body>
+</html>
