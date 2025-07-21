@@ -1,0 +1,233 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7401-60238-7460",
+    "full_course_code": "FINM7401-60238-7460",
+    "course_code": "FINM7401",
+    "class_code": "60238",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand what corporate finance is, the role of the corporate manager, ethical issues and corporate responsibility, and the goal of financial management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply financial mathematics to problems on valuation and decision making and evaluate the strengths and weaknesses of the various financial decision-making techniques."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply and evaluate the basic concepts of risk in a financial context, and the approaches adopted in finance to minimise this risk."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate scenarios using the capital asset pricing model (CAPM) and the weighted average cost of capital (WACC)."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "Week 7During Lecture Time",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The In-Semester Exam will be held during the lecture time as an online quiz via Blackboard.The exam will contain a mix of theory-based and calculation-based multiple-choice questions. Further details will be made available on Blackboard closer to the date of the exam.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "21/10/2024 10:00 am",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The objective of this project is to assess students’ ability to apply valuation methods to estimate the price of a public company. You will need to gather all the necessary financial data either through the financial websites or databases provided by UQ. The main assessment criteria will be to assess students' ability to demonstrate their own thinking and justify their workings and final valuation. Whenever possible, students will need to discuss how they estimate all the inputs needed for the calculation.Your report is to be typed in 12pt Times New Roman with 1.5 line spacing and normal margin.Importantly, you need to upload a soft copy of your excel worksheet (workings).AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assignment must be submitted using both Turnitin and blackboard. For more details, refers to the \"Assignment Guidelines\" on Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is aclosed book, invigilatedexam as required by UQ and Professional Accounting organisations.The exam consists of problem-solving and short-answer questions. More details will be provided on the Course Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1: Introduction to FinanceThe company and its goals, the roles of the financial manager, agency conflicts, stakeholder theory, corporate social responsibility, and ethical finance.Learning outcomes:L01",
+            "topic_title": "Lecture 1: Introduction to Finance",
+            "topic_description": "The company and its goals, the roles of the financial manager, agency conflicts, stakeholder theory, corporate social responsibility, and ethical finance.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Introduction to FinanceLearning outcomes:L01",
+            "topic_title": "Tutorial 1: Introduction to Finance",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Time Value of Money (I)Learning outcomes:L02",
+            "topic_title": "Tutorial 2: Time Value of Money (I)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Time Value of Money (II)Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02",
+            "topic_title": "Tutorial 3: Time Value of Money (II)",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Share ValuationLearning outcomes:L02",
+            "topic_title": "Tutorial 4: Share Valuation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Bond ValuationLearning outcomes:L02",
+            "topic_title": "Tutorial 5: Bond Valuation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No TutorialNo tutorial this week due to the mid-semester exam.",
+            "topic_title": "No Tutorial",
+            "topic_description": "No tutorial this week due to the mid-semester exam.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Risk and Return (I)Learning outcomes:L03",
+            "topic_title": "Tutorial 6: Risk and Return (I)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Risk and Return (II)Learning outcomes:L03, L04",
+            "topic_title": "Tutorial 7: Risk and Return (II)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Capital Budgeting (I)Learning outcomes:L02",
+            "topic_title": "Tutorial 8: Capital Budgeting (I)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "Project PresentationTwo (identical) online sessions: (1) Tuesday, October 8 from 4pm to 6pm; (2) Wednesday, October 9, from 4pm to 6pm. More information will be posted on blackboard. The session will be recorded and posted on blackboard.",
+            "topic_title": "Project Presentation",
+            "topic_description": "Two (identical) online sessions: (1) Tuesday, October 8 from 4pm to 6pm; (2) Wednesday, October 9, from 4pm to 6pm. More information will be posted on blackboard. The session will be recorded and posted on blackboard.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Capital Budgeting (II)Learning outcomes:L02",
+            "topic_title": "Tutorial 9: Capital Budgeting (II)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Cost of CapitalLearning outcomes:L04",
+            "topic_title": "Tutorial 10: Cost of Capital",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        }
+    ]
+}
