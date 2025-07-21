@@ -1,0 +1,230 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7620-60284-7460",
+    "full_course_code": "MGTS7620-60284-7460",
+    "course_code": "MGTS7620",
+    "class_code": "60284",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Define and describe the nature of leadership as a practice."
+        },
+        {
+            "number": "LO2.",
+            "description": "As individuals and in groups, describe and understand how individual and organisational practices relate to leadership."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate leadership capabilities in the personal and professional life."
+        },
+        {
+            "number": "LO4.",
+            "description": "Have a comprehensive understanding of leadership as context-related capacity."
+        },
+        {
+            "number": "LO5.",
+            "description": "Comprehend and describe the role of leadership in the well-being of self and others at the organisational, national, and international levels."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Peer-mentoring",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "9/09/2024 5:00 pm",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Activity/ Performance, Written",
+            "category": "Role play/ Simulation",
+            "task_description": "TASK:This is a one-on-one peer mentoring practice, and each student is required to find one mentor and one mentee from the class. The mentorship begins in week 3, and must be completed by week 7. You are required to submit a written reflective report about your experience and observations as a mentor and mentee.The length of the report may range from 1000 to 2000 words count. About 500-1000 words for each role; ie mentor and mentee.For more details about the task, see the 'Mentorship Practice' document on Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Via Blackboard",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "The Dark Side of Leadership",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "14/10/202421/10/2024You will deliver your presentation in person during the seminar time in Week 12 or Week 13.",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Written",
+            "category": "Presentation",
+            "task_description": "You will deliver a presentation based on your Leadership Practices and how the practices enable you to mitigate the dark side of leadership in your future leadership.In your presentation, you should cover the following points:What is the dark side of leadership?Critically reflecting on the five Leadership Practices, explain how you think the leadership practices enable you to mitigate toxic elements in your leadership.The presentation will take place during the scheduled seminar. Failure to attend the presentation on the due date will incur a mark.Please note that the quality of the content is much more important than the delivery. However, a good presentation is a combination of reliable and clear content + professional communication. For this reason, I have allocated marks to both the content and presentation (see the marking rubric).A copy of your slides needs to be submitted via Blackboard, and before the seminar.Please make sure that you:Stick to the time limit (8 minutes per person. This may vary depending on the number of enrolments. You will be advised in advance if any changes were applied.)Limit the number of slides you use (I recommend no more than 6)Draw on quality reference materials and cite them on your slides. At least five journal articles (other than the suggested readings). Your reflection should show the benefit of having read intelligently in order to give you useful concepts and vocabulary.Focus on professional communication (eye contact, pace, projection, etc.)This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit a copy of your presentation slides (PPT file) via Blackboard.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Introduction & Course OverviewLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Introduction & Course Overview",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "What is leadership?Learning outcomes:L01, L02, L04",
+            "topic_title": "What is leadership?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Mentoring and CoachingLearning outcomes:L02, L03, L04, L05",
+            "topic_title": "Mentoring and Coaching",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Leadership developmentLearning outcomes:L01, L05",
+            "topic_title": "Leadership development",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Leadership character + Practice 1: What is my life priority as a future leader?Learning outcomes:L01, L02, L05",
+            "topic_title": "Leadership character + Practice 1: What is my life priority as a future leader?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Decision-making and Problem-solving + Practice 2: What is my decision-making style?Learning outcomes:L01, L04, L05",
+            "topic_title": "Decision-making and Problem-solving + Practice 2: What is my decision-making style?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Cognitive-Emotional Mastery + Practice 3: How to improve my emotional mastery?Learning outcomes:L02, L03, L04",
+            "topic_title": "Cognitive-Emotional Mastery + Practice 3: How to improve my emotional mastery?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Strategic-Visionary Leadership + Practice 4: Strategic Thinking - Can I foresee the future?Learning outcomes:L01, L02, L03",
+            "topic_title": "Strategic-Visionary Leadership + Practice 4: Strategic Thinking - Can I foresee the future?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Leadership and Culture + Practice 5: How much do I understand the cross-cultural dynamics?Learning outcomes:L02, L03, L04",
+            "topic_title": "Leadership and Culture + Practice 5: How much do I understand the cross-cultural dynamics?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Review & Presentation Q&ALearning outcomes:L01, L02, L04",
+            "topic_title": "Review & Presentation Q&A",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "PUBLIC HOLIDAYKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic_title": "PUBLIC HOLIDAY",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Student presentationsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Student presentations",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Student presentationsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Student presentations",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
