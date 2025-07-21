@@ -1,0 +1,213 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7204-64215-7460",
+    "full_course_code": "BSAN7204-64215-7460",
+    "course_code": "BSAN7204",
+    "class_code": "64215",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Perform exploratory data analysis to describe data."
+        },
+        {
+            "number": "LO2.",
+            "description": "Construct and evaluate models for inferential statistical analysis for real-world problem solving."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate data-driven insights and value propositions for stakeholders."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Exploratory Data Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "16/08/2024 3:00 pm",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Analytics Practice",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "4/10/2024 3:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Complete via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Technical Report and Stakeholder Presentation",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "25/10/2024 3:00 pm",
+            "learning_objectives": "L02, L03",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "The objective of this assessment is for you to work with a complex collection of data files in order to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:Multiple linear regressionLogistic regression and multiple logistic regressionTime seriesYou will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders.Please Note:The presentation will be recorded for marking purposes.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Further details of submission will be provided on Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 1.1 - Univariate AnalysisSelf-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?Learning outcomes:L01",
+            "topic_title": "Topic 1.1 - Univariate Analysis",
+            "topic_description": "Self-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 1.2 - Bivariate AnalysisSelf-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?Learning outcomes:L01",
+            "topic_title": "Topic 1.2 - Bivariate Analysis",
+            "topic_description": "Self-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "Assessment PreparationAssignment preparation",
+            "topic_title": "Assessment Preparation",
+            "topic_description": "Assignment preparation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 2.1 - Hypothesis TestingSelf-Directed Learning: How can we draw conclusions about population comparisons using our sample data?Learning outcomes:L02",
+            "topic_title": "Topic 2.1 - Hypothesis Testing",
+            "topic_description": "Self-Directed Learning: How can we draw conclusions about population comparisons using our sample data?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 2.2 - Linear RegressionSelf-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?Learning outcomes:L02",
+            "topic_title": "Topic 2.2 - Linear Regression",
+            "topic_description": "Self-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 3.1 - Multiple RegressionSelf-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?Learning outcomes:L02",
+            "topic_title": "Topic 3.1 - Multiple Regression",
+            "topic_description": "Self-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 3.2 - Logistic RegressionSelf-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?Learning outcomes:L02",
+            "topic_title": "Topic 3.2 - Logistic Regression",
+            "topic_description": "Self-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 3.3 - Time SeriesSelf-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?Learning outcomes:L02",
+            "topic_title": "Topic 3.3 - Time Series",
+            "topic_description": "Self-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Not Timetabled",
+            "topic": "Assessment PreparationAssessment Preparation",
+            "topic_title": "Assessment Preparation",
+            "topic_description": "Assessment Preparation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 4.1 - Model SelectionSelf-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?Learning outcomes:L03",
+            "topic_title": "Topic 4.1 - Model Selection",
+            "topic_description": "Self-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 4.2 - Regression Case StudySelf-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?Learning outcomes:L03",
+            "topic_title": "Topic 4.2 - Regression Case Study",
+            "topic_description": "Self-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 4.3 - Time Series Case StudySelf-Directed Learning: What issues are important when putting theory into practice in time series analysis?Learning outcomes:L03",
+            "topic_title": "Topic 4.3 - Time Series Case Study",
+            "topic_description": "Self-Directed Learning: What issues are important when putting theory into practice in time series analysis?",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "Assessment PreparationAssessment Preparation",
+            "topic_title": "Assessment Preparation",
+            "topic_description": "Assessment Preparation",
+            "learning_outcomes": []
+        }
+    ]
+}
