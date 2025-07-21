@@ -1,0 +1,247 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7406-60242-7460",
+    "full_course_code": "FINM7406-60242-7460",
+    "course_code": "FINM7406",
+    "class_code": "60242",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate a knowledge of the international monetary system and an ability to calculate and interpret values to various exchange rate problems"
+        },
+        {
+            "number": "LO2.",
+            "description": "Outline and apply theories of international finance which are used by firms to forecast exchange rates"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain foreign exchange exposure and compare instruments and techniques available to manage it"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply theories of international finance to case studies so as to analyse and evaluate and then articulate solutions to real world problems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Compare costs and sources of capital of international and domestic firms"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam (Online)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "Week 7, ThuOnline during Lecture time",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The test will comprisemultiple-choicequestions, short answers, and problem solving questions.We will hold the online mid-term exam in Week 7 during the usual lecture time. You can take the exam from any location, but we highly recommend choosing a place with a stable internet connection to ensure a smooth experience.A 15-minute submission period is available for submitting your examination. If your examination is submitted after this period late penalties will be applied unless you can demonstrate that there were problems with the system and/or process that were beyond your control.AI Statement:This assessment task is to be completed online. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "10/10/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "This is an individual assignment.The project requires students to make various international financial decisions. Examples include maximizing portfolio returns, discussing issues related to cryptocurrency, etc.Students need to justify the decisions in a written report with supporting quantitative details. The report is to be 2,500 words (+/- 10%).The supporting details include excel computation and the underlying theories.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Assessment (In-person)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The Final Exam consists ofShort-answer questions,Problem-solving questions,Essay questions.Further details will be discussed in class.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Topic 1: Course Intro and The Intl Monetary SystemGlobalisation; four major types of exchange rate mechanims (floating vs. fixed); bitcoinLearning outcomes:L01",
+            "topic_title": "Topic 1: Course Intro and The Intl Monetary System",
+            "topic_description": "Globalisation; four major types of exchange rate mechanims (floating vs. fixed); bitcoin",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Course Introduction and The Intl MonetaryLearning outcomes:L01",
+            "topic_title": "Course Introduction and The Intl Monetary",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "The Foreign Exchange (Forex) MarketLearning outcomes:L01",
+            "topic_title": "The Foreign Exchange (Forex) Market",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "International Parity ConditionsRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02",
+            "topic_title": "International Parity Conditions",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Balance of PaymentsLearning outcomes:L01, L02",
+            "topic_title": "Balance of Payments",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial Revision for the In-Semester examLearning outcomes:L01, L02",
+            "topic_title": "Tutorial Revision for the In-Semester exam",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Foreign Currency DerivativesLearning outcomes:L01, L03",
+            "topic_title": "Foreign Currency Derivatives",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Foreign Exchange Exposure ILearning outcomes:L01, L03, L04",
+            "topic_title": "Foreign Exchange Exposure I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Foreign Exchange Exposure IILearning outcomes:L03, L04",
+            "topic_title": "Foreign Exchange Exposure II",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Intl Portfolio Theory and DiversificationLearning outcomes:L05",
+            "topic_title": "Intl Portfolio Theory and Diversification",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Sourcing Global Capital & Political RiskKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L05",
+            "topic_title": "Sourcing Global Capital & Political Risk",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "International Capital BudgetingLearning outcomes:L05",
+            "topic_title": "International Capital Budgeting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Revision TutorialsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Revision Tutorials",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
