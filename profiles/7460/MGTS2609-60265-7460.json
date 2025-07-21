@@ -1,0 +1,233 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS2609-60265-7460",
+    "full_course_code": "MGTS2609-60265-7460",
+    "course_code": "MGTS2609",
+    "class_code": "60265",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the links between business strategy and staffing needs in organisations, taking into account social and economic drivers."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse work requirements at the individual and group level, taking into account changing technology, ethics, diversity, and employee wellbeing."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse talent recruitment and selection processes to meet the staffing needs, considering ethics, diversity, and wellbeing."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the applicability of well designed recruitment and selection processes in the context organisational circumstances."
+        },
+        {
+            "number": "LO5.",
+            "description": "Working in a team, communicate evidence-based arguments and recommendations on HRM issues raised throughout the course."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Case Study Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "4 submissions for marking 12/08/2024 - 14/10/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "After completing your Blackboard Module and textbook reading each week, you must read the case study relevant to the topic so you can complete the Executive Summary in the tutorial. Links to the case studies and the Executive Summary questions can be found at the end of each Blackboard Module. You will need to successfully complete a weekly quiz at the end of the Blackboard Module so you can get access to the case study materials each week.In this course, you will be placed into a tutorial for the semester. Within your tutorial, you will be placed into a group for the full semester.As a joint formative and summative learning exercise in weeks 4 to 12, your group will prepare a brief executive summary (500-600 words) relating to the case study. This assessment requires you to only submit four (4) executive summaries for marking over the semester. Whether you choose to prepare an executive summary each week is up to your group to decide.Completing more summaries will be helpful for you in making sure the 4 executive summaries you submit are of a high standard.The questions you need to respond to in your executive summaries relating to the case studies are available in the corresponding weekly folder in the Learning Resources section in Blackboard.Remember the use of AI, such as ChatGPT is not permitted in this course. We want to know what about your analytical and writing skills, not what AI can tell us. The use of AI will be detected and a penalty will apply.Under the guidance and feedback from your tutor you will discuss the case study in class with your group and prepare and submit the executive summary in the class via Blackboard.As part of the executive summary, the group will need to attach a list that details the contribution of each member of the group to the final presentation. Your tutor will provide you with feedback on your submission each week so that you can make improvements where needed in your subsequent submissions.Your contribution to the group work and the Executive Summary will contribute to your final grade for the course. This is a group assessment and you cannot complete the Executive Summaries on your own.At the end of the semester, you will be required to submit a peer assessment via the Assessment folder in Blackboard of the other members of the group. Peer results will be used to adjust students' individual group assignment results.The executive summary is worth 35%, with an additional 5% for peer review to determine your final grade.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit the Executive Summary through the Blackboard link and Turnitin during class.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Employability Skills & The Future of Work",
+            "special_indicators": [],
+            "weighting": "15%",
+            "due_date": "2/10/2024 2:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "For this assessment, you will be writing about the value and impact of four skills from the 'Top 10 Skills on the Rise' list provided in the World Economic Forum's Future of Jobs 2023 report. The first skill, AI and Big Data, has been chosen for you. You will select the other three skills you want to write about from the list.Steps to Follow:Review Skill Definitions:Carefully review the definitions of each skill in the report.Rewrite these definitions in your own words, making sure to understand them fully.Critical Thinking:Think critically about the skills.Describe how each skill looks now and how it might evolve in your career or industry.Personal Insights:This is a personal writing task. Reflect on your own experiences and perspectives.You do not need to cite sources unless you refer to specific information from them.Use of Sources:If you use information from any source, be sure to cite it properly.Important Note:This assessment is designed to evaluate your abilities, skills, and knowledge without the help of generative Artificial Intelligence (AI). Using AI technologies to develop your responses is strictly prohibited and may be considered misconduct under the Student Code of Conduct.Detailed instructions, including questions to prompt your responses and the marking rubric, are provided in the assessment guide.Read full task descriptionHide full task description",
+            "submission_guidelines": "Assessment will be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [],
+            "weighting": "45%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This is a closed book exam consisting of 4 short essays. Students can choose from 8 questions from topics from weeks 4 to 12 in the course. Your short essay answers will be in your own handwriting.A good essay will not be based on your opinions as it must include a demonstrated understanding of HRM theory and be based on evidence using examples from the course case studies from the weekly Blackboard Modules to support your arguments.A good essay will be between 300-500 words long. You must use prose style with well-structured sentences and paragraphs. Dot points will not be acceptable. You do not need to provide references, but you will need to write using English academic language that is concise and clear for your marker to understand.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Welcome and introduction to the courseWelcomeContent of courseCourse AssessmentTutorial activitiesWhat does Building the Future Workforce mean?Learning outcomes:L01",
+            "topic_title": "Welcome and introduction to the course",
+            "topic_description": "Welcome \nContent of course \nCourse Assessment \nTutorial activities \nWhat does Building the Future Workforce mean?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Future of work in contextImportance of context and how it shapes workforce and the nature of workTutorial 1: Is Your Job Safe?the Economist video on BlackboardLearning outcomes:L02",
+            "topic_title": "Future of work in context",
+            "topic_description": "Importance of context and how it shapes workforce and the nature of work\nTutorial 1: Is Your Job Safe?\nthe Economist video on Blackboard",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Strategic PlanningStrategic planning and competitive advantageLearning outcomes:L01",
+            "topic_title": "Strategic Planning",
+            "topic_description": "Strategic planning and competitive advantage",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Strategic Human Resource ManagementRole of HR in productivity and performanceLearning outcomes:L01, L02, L03",
+            "topic_title": "Strategic Human Resource Management",
+            "topic_description": "Role of HR in productivity and performance",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Workforce PlanningWorkforce planning and overall business objectivesLearning outcomes:L01, L03, L04",
+            "topic_title": "Workforce Planning",
+            "topic_description": "Workforce planning and overall business objectives",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Job Analysis and DesignThe importance and relevance of job analysis and design to business successLearning outcomes:L03, L04",
+            "topic_title": "Job Analysis and Design",
+            "topic_description": "The importance and relevance of job analysis and design to business success",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Recruitment 1Strategic recruitment, challenges and opportunitiesLearning outcomes:L03, L04",
+            "topic_title": "Recruitment 1",
+            "topic_description": "Strategic recruitment, challenges and opportunities",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Recruitment 2E-recruitment and social media applicationsLearning outcomes:L03, L04",
+            "topic_title": "Recruitment 2",
+            "topic_description": "E-recruitment and social media applications",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Selection 1Selection processes and the importance of the interview.Tutorial 8: Working at Google. On BlackboardLearning outcomes:L03, L04",
+            "topic_title": "Selection 1",
+            "topic_description": "Selection processes and the importance of the interview. \nTutorial 8: Working at Google. On Blackboard",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakLearning outcomes:L05",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Selection 2: Application of technology in selectionLearning outcomes:L01",
+            "topic_title": "Selection 2: Application of technology in selection",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Remuneration and BenefitsLinks between remuneration, benefits, and business objectives.Learning outcomes:L01",
+            "topic_title": "Remuneration and Benefits",
+            "topic_description": "Links between remuneration, benefits, and business objectives.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Career DevelopmentThe importance of career planning and developmentLearning outcomes:L01, L02",
+            "topic_title": "Career Development",
+            "topic_description": "The importance of career planning and development",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Final LectureMore details will be posted on Blackboard.Learning outcomes:L05",
+            "topic_title": "Final Lecture",
+            "topic_description": "More details will be posted on Blackboard.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        }
+    ]
+}
