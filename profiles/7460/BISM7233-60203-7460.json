@@ -1,0 +1,233 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7233-60203-7460",
+    "full_course_code": "BISM7233-60203-7460",
+    "course_code": "BISM7233",
+    "class_code": "60203",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate knowledge of Data Analytics for decision-making"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the principles of data management to model and integrate organisational data"
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply data analytics techniques individually to solve business problems"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply data visualisation principles and techniques to represent insights from data"
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate knowledge of managerial and societal issues related to data"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "2/09/2024During Lecture Time",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The exam may consist of multiple choice questions, fill in the blanks, short descriptive questions, scenario-based problem solving questions related to mini-cases provided in this examination.The exam may include:Databases and Dimensional modellingETLVisualisationFor MCQ: each question will be marked objectively and can have more than one correct answer.Fill in the Blanks, Short Descriptive Questions, Scenario-Based Problem Solving Questions Related to Mini-Cases, etc.Further details about the In-Semester Exam will be discussed in class and posted to our course BB site if required.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Data Visualisation Using Microsoft PowerBI",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "4/10/2024 4:00 pm",
+            "learning_objectives": "L01, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Essay/ Critique, Practical/ Demonstration, Project",
+            "task_description": "Using Microsoft PowerBI Students will be expected to:work with a given data setexplore the given data setclean the data, rearrange it, transform it if requiredcreate multiple visualisations using Microsoft PowerBI to develop interesting insightsdocument their insights generated form the visualisations and report themcritically analyse those insights and recommend related actions or interventionsAI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Business Analytics Case Study",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "25/10/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "You will complete an essay that requires you to undertake research in order to prepare a report (minimum 1500 words and strictly no more than 2000 words).You will be presented with a business analytics case with diverse stakeholder requests. You are tasked with developing recommendations for business analytics cases where you will apply your knowledge and skill to develop an analytical model for business decision-making.A detailed rubric for the project will appear on Turnitin accessible via Blackboard.Full details of the requirements for the written report will be provided with the release of the Project assessment document.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Report to be submitted electronically via TurnItIn",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Course Overview and Business Analytics FrameworkThis lecture will introduce an overall Business Analytics Framework including its various components.Learning outcomes:L01, L05",
+            "topic_title": "Course Overview and Business Analytics Framework",
+            "topic_description": "This lecture will introduce an overall Business Analytics Framework including its various components.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "Practical 1: Introduction to Business AnalyticsLearning outcomes:L01",
+            "topic_title": "Practical 1: Introduction to Business Analytics",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Practical",
+            "topic": "Practical 2: ER Modelling and SQLLearning outcomes:L01, L02",
+            "topic_title": "Practical 2: ER Modelling and SQL",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Practical",
+            "topic": "Practical 3: Dimensional ModellingRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02",
+            "topic_title": "Practical 3: Dimensional Modelling",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Practical",
+            "topic": "Practical 4: Dashboards with Microsoft Power BILearning outcomes:L01, L04",
+            "topic_title": "Practical 4: Dashboards with Microsoft Power BI",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Practical",
+            "topic": "Practical 5: Building Report with Power BILearning outcomes:L03, L04",
+            "topic_title": "Practical 5: Building Report with Power BI",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Information technology session",
+            "topic": "Doubt Clearing Related to PracticalNo tutorial this week due to Exam",
+            "topic_title": "Doubt Clearing Related to Practical",
+            "topic_description": "No tutorial this week due to Exam",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Practical",
+            "topic": "Practical 6: ETL with SQL Server Integration ServicesLearning outcomes:L01, L02",
+            "topic_title": "Practical 6: ETL with SQL Server Integration Services",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Data Analytics- Classification and ClusteringThis lecture focuses on classification and clustering algorithms such as logistic regression, decision trees and K-means clustering.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Data Analytics- Classification and Clustering",
+            "topic_description": "This lecture focuses on classification and clustering algorithms such as logistic regression, decision trees and K-means clustering.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Practical",
+            "topic": "Practical 8: Predicting with Linear RegressionLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Practical 8: Predicting with Linear Regression",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Practical",
+            "topic": "Practical 9: Classification with RapidMinerKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03",
+            "topic_title": "Practical 9: Classification with RapidMiner",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Practical",
+            "topic": "Practical 10: Clustering with RapidMinerLearning outcomes:L01, L03",
+            "topic_title": "Practical 10: Clustering with RapidMiner",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No Tutorial",
+            "topic_title": "No Tutorial",
+            "topic_description": "",
+            "learning_outcomes": []
+        }
+    ]
+}
