@@ -1,0 +1,261 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7102-60182-7460",
+    "full_course_code": "ACCT7102-60182-7460",
+    "course_code": "ACCT7102",
+    "class_code": "60182",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe and analyse the conceptual and methodological issues in recognising revenue and in accounting for topics such as company income taxes, non-current tangible and intangible assets, leases, subsequent events, extractive industries, revenue recognition, employee benefits, financial instruments and foreign currency transactions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Discuss national and international influences on the regulation of financial reporting by listed companies."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement and evaluate the requirements of accounting standards and other regulations that govern accounting practice."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse specific situations and transactions, presented as a case study, and identify applicable accounting regulations and financial statement consequences."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand and interpret reports including non-financial data and information such as sustainability reports, integrated reports and extended external reporting."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam during Class",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "26/08/2024 2:00 pmPaper based exam held during class.",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The in-semester exam will be held during the lecture time (i.e., 2:00 PM - 5:00PM).Coverage: Topics 1, 2, 3 and 4Note: This assessment task is to be completedin person. If you are unable to sit your exam, you must apply for a deferred exam.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Case Study Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "9/10/2024 2:00 pm",
+            "learning_objectives": "L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "You are required to independently prepare a case study report.The case will be used to examine your research skills, professional writing skills, general accounting knowledge, and the ability to critically source and evaluate complex case scenarios.Full details of the assignment will be provided via the course Blackboard site.Note: This assessment task evaluates students' abilities, skills and knowledgewithoutthe aid of generative Artificial Intelligence(AI). Students are advised that theuse of AI technologiesto develop responses isstrictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The case study assignment is to be submitted online through Turnitin on the course Blackboard site. The submission instructions are provided with the case study assignment questions. These questions will be available on the course Blackboard site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final examination will comprise: short answer, practical and problem type questions.More details will be provided in class and on the course Blackboard site.Note: This assessment task is to be completedin person. If you are unable to sit your exam, you must apply for a deferred exam.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1 - Accounting for Non-Current AssetsValuation and impairmentLearning outcomes:L01, L02, L03",
+            "topic_title": "Lecture 1 - Accounting for Non-Current Assets",
+            "topic_description": "Valuation and impairment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "Workshop 1 - Accounting for Non-Current AssetsValuation and impairmentLearning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 1 - Accounting for Non-Current Assets",
+            "topic_description": "Valuation and impairment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "Workshop 2 - Accounting for Income TaxesAccounting for income taxes from an accounting perspectiveLearning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 2 - Accounting for Income Taxes",
+            "topic_description": "Accounting for income taxes from an accounting perspective",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "Workshop 3 - Accounting for Leases (Part 1)Accounting treatment of leases for Lessees(Note: Wednesday 14th August is EKKA public holiday. Students who normally attend the Wednesday workshop can attend alternate workshops in this week).Learning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 3 - Accounting for Leases (Part 1)",
+            "topic_description": "Accounting treatment of leases for Lessees\n(Note: Wednesday 14th August is EKKA public holiday. Students who normally attend the Wednesday workshop can attend alternate workshops in this week).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "Workshop 4 - Accounting for Leases (Part 2)Accounting treatment of leases for LessorsLearning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 4 - Accounting for Leases (Part 2)",
+            "topic_description": "Accounting treatment of leases for Lessors",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No Workshop - In-Semester ExamThere will be no lecture and no workshops in this week to assist with revision for the mid-semester test.",
+            "topic_title": "No Workshop - In-Semester Exam",
+            "topic_description": "There will be no lecture and no workshops in this week to assist with revision for the mid-semester test.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "Workshop 5 - Accounting for IntangiblesRecognition and subsequent measurement of intangiblesLearning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 5 - Accounting for Intangibles",
+            "topic_description": "Recognition and subsequent measurement of intangibles",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "Workshop 6 - Revenue RecognitionAn overview of AASB 15 and its implications & exceptions.Learning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 6 - Revenue Recognition",
+            "topic_description": "An overview of AASB 15 and its implications & exceptions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "Workshop 7 - Case Study DevelopmentAn introduction to the process of answering a case study, and coverage of material relevant to your case study assignmentLearning outcomes:L04, L05",
+            "topic_title": "Workshop 7 - Case Study Development",
+            "topic_description": "An introduction to the process of answering a case study, and coverage of material relevant to your case study assignment",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakThere are no lecture or workshops this week",
+            "topic_title": "In-Semester Break",
+            "topic_description": "There are no lecture or workshops this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "Workshop 8 - Accounting for foreign currencyDiscussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.Learning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 8 - Accounting for foreign currency",
+            "topic_description": "Discussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "Workshop 9 - Accounting for Financial InstrumentsDiscussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.Learning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 9 - Accounting for Financial Instruments",
+            "topic_description": "Discussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "Workshop 10 - Accounting for Employee BenefitsAccounting for various types of employee benefitsLearning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 10 - Accounting for Employee Benefits",
+            "topic_description": "Accounting for various types of employee benefits",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "Workshop 11 - Accounting for Extractive IndustriesExamination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15Learning outcomes:L01, L02, L03",
+            "topic_title": "Workshop 11 - Accounting for Extractive Industries",
+            "topic_description": "Examination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
