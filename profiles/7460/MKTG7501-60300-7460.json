@@ -1,0 +1,262 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7501-60300-7460",
+    "full_course_code": "MKTG7501-60300-7460",
+    "course_code": "MKTG7501",
+    "class_code": "60300",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Communicate an appreciation for the importance of marketing to business success in a range of contexts."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the central role of the customer, whether individual or organisational, in the marketing process."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate situational influences on marketing across a range of industries and companies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Collect and analyse evidence to determine competitive advantage, target market and position."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse marketing evidence to evaluate and determine the effectiveness of marketing mix strategies."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Marketing quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "15% Individual",
+            "due_date": "19/08/2024 - 20/08/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "An online quiz will be run in Week 5 during the scheduled time, via the course blackboard site, in Assessments>Assessment 1 online quiz.The quiz is designed to engage students in early exploration of marketing theory. The quiz will cover all content from Week 1, 2, and 3 lectures, as well as Week 2, 3 and 4 tutorials and all readings from these weeks (Chapters 1, 2, 3,and 5). Questions and answer orders will be randomly generated. The quiz will be available to complete during the scheduled time only, which is a 24 hour window, where students are to complete the quiz individually and will have 30 minutes to complete the quiz once it is commenced. Further instructions and details will be available in the Assessment folder. All students MUST follow the specific guidelines provided.Students MUST complete the quiz during the scheduled time. Students who fail to follow the guidelines and who have technical issues will be deemed responsible and will incur the outcome. Formal applications are essential for anyone not able to sit - no extension will be provided by course staff - this must be formally managed by students.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "STP Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40% Individual",
+            "due_date": "18/09/2024 2:00 pm",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "The aim of this assessment task is to increase knowledge of the segmenting, targeting and positioning. Learners will perform a review of a designated product brand (an actual real life market offering), examining the marketing theory and the market evidence to determine the current STP. In doing so, learners will need to consult marketing literature, research industry information, apply marketing theory and present their findings in a written report, with full assignment requirements available via Learn.UQ and discussed in classes prior to assessments commencing.A maximum word limit has been set in the guidelines available via Learn.UQ and any words submitted above the maximum limit will not be eligible for marking.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The written assignment must be submitted electronically through the Online Turnitin Submission on the Learn.UQ site, based on the specific instructions provided. Those who fail to follow the exact submission instructions will incur late penalties until submission is resolved.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Exam - during Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "45% Individual",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The aim of this final exam task is to increase knowledge of the marketing mix and demonstrate your understanding as an individual. This will include evaluation of theoretical knowledge and the ability to apply knowledge to real life marketing, using multiple choice questions and short answer questions. Further details of the final exam will be discussed in tutorials and lectures.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Course overview and marketing processOverview of marketing and course expectations. Strategic marketing planning, customer value and competitive advantage.Learning outcomes:L01, L02, L03",
+            "topic_title": "Course overview and marketing process",
+            "topic_description": "Overview of marketing and course expectations. Strategic marketing planning, customer value and competitive advantage.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Marketing environmentsThe internal and external marketing environment, including situational analysis.Learning outcomes:L01, L02, L03",
+            "topic_title": "Marketing environments",
+            "topic_description": "The internal and external marketing environment, including situational analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Consumer behaviourUnderstanding the drivers of customer behaviour.During this week ALL students should also watch the Library Guide - accessed via course website.Learning outcomes:L02, L03, L04",
+            "topic_title": "Consumer behaviour",
+            "topic_description": "Understanding the drivers of customer behaviour. \nDuring this week ALL students should also watch the Library Guide - accessed via course website.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Segmentation and targeting (STP)Examining how brands gain competitive advantage through segmenting and targeting the marketplace.Learning outcomes:L01, L04, L05",
+            "topic_title": "Segmentation and targeting (STP)",
+            "topic_description": "Examining how brands gain competitive advantage through segmenting and targeting the marketplace.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Positioning (STP)Exploring how brands position their offering in the minds of consumers.Assessment 2 overview.Learning outcomes:L04, L05",
+            "topic_title": "Positioning (STP)",
+            "topic_description": "Exploring how brands position their offering in the minds of consumers. \nAssessment 2 overview.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Product & Services StrategyProduct decisions in the marketing mix.Learning outcomes:L04, L05",
+            "topic_title": "Product & Services Strategy",
+            "topic_description": "Product decisions in the marketing mix.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Pricing StrategyContribution of pricing to the marketing mix.Final exam overview.Learning outcomes:L04, L05",
+            "topic_title": "Pricing Strategy",
+            "topic_description": "Contribution of pricing to the marketing mix.\nFinal exam overview.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Place StrategyDistribution and marketing channel considerations.Learning outcomes:L04, L05",
+            "topic_title": "Place Strategy",
+            "topic_description": "Distribution and marketing channel considerations.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Promotion - IMCCreating value in relationships through personal selling, sales promotion and direct and digital marketing.Learning outcomes:L04, L05",
+            "topic_title": "Promotion - IMC",
+            "topic_description": "Creating value in relationships through personal selling, sales promotion and direct and digital marketing.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester breakNo tutorials during mid-semester break.",
+            "topic_title": "In-Semester break",
+            "topic_description": "No tutorials during mid-semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Promotion - IMCCreating value in relationships through personal selling, sales promotion and direct and digital marketing.Learning outcomes:L04, L05",
+            "topic_title": "Promotion - IMC",
+            "topic_description": "Creating value in relationships through personal selling, sales promotion and direct and digital marketing.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Market research and implementationImportance of marketing information and approaches to research, and consideration of evaluation, budgeting and implementation of marketing plans.Learning outcomes:L03, L04, L05",
+            "topic_title": "Market research and implementation",
+            "topic_description": "Importance of marketing information and approaches to research, and consideration of evaluation, budgeting and implementation of marketing plans.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Ethics and contemporary issues and final examOverview of some of the major issues for ethical marketing and contemporary marketing managers.Discussion of the Final Exam approach.Learning outcomes:L01, L02, L03",
+            "topic_title": "Ethics and contemporary issues and final exam",
+            "topic_description": "Overview of some of the major issues for ethical marketing and contemporary marketing managers.\nDiscussion of the Final Exam approach.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Course review and exam preparationFinal course review with a focus on exam preparation.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Course review and exam preparation",
+            "topic_description": "Final course review with a focus on exam preparation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
