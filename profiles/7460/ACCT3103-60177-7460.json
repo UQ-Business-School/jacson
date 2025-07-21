@@ -1,0 +1,258 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3103-60177-7460",
+    "full_course_code": "ACCT3103-60177-7460",
+    "course_code": "ACCT3103",
+    "class_code": "60177",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe current issues in areas of advanced accounting, including how the themes of control and varying levels of influence pervade accounting for corporate structures."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain current international trends in the reporting of key accounting areas, recognising their impact on Australian reporting entities, and linking these to the relevant Australian Accounting Standards relating to inter-corporate investments."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate the ability to evaluate and apply Australian Accounting Standards to a range of specific issues including company income tax, joint arrangements, associated companies, and external administration including liquidation."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate the ability to explain and evaluate the process of consolidation and undertake the accounting procedures required to consolidate a parent entity and its controlled entities (including partly-owned controlled entities) in compliance with Australian Accounting Standards."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse and critically evaluate accounting topics in real world scenarios, showing the ability to present findings to peers and professional accountants."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual Video Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "22/08/2024 1:00 pm",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "Details of the requirements and format for the case study and a comprehensive marking criteria sheet will be provided on the course Blackboard and discussed in lectures.This assessment item has three specific learning goals. Each learning goal is identified below with the relevant marking criteria:Be able to deliver a quality business presentation (4-Minute Video)Knowledge:Presenter clearly understands content and provides informed answers to questions.Non-verbal skills:Presenter does not rely on notes, has good eye contact and body language throughout.Verbal skills:Presenter is audible, articulate and has good delivery of content.Professionalism:Visual materials are logical, easy to follow, and free from spelling, punctuation and grammatical errors.Be knowledgeable within field of accounting and be creative analytical thinkersIdentification:Problem is identified and discussed within relevant contextAnalysis:Problem is analysed with integration of relevant research of accounting standards and data.Conclusion:Consequences are considered, discussed, and conclusion reachedHave professional and effective writing skillsStructure:Written work is logically sequenced with sound paragraph structure, clear and easy to read.Clarity of expression:Writing is free of spelling, punctuation and grammatical errors.Research and Referencing:Written work is referenced and demonstrates an ability to undertake independent research.Please Note:The presentation will be recorded for marking purposes.AI Statement:Note: This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AItechnologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Blackboard upload (see detailed instructions provided on BB). Make sure you have a receipt of your submission. Penalties for late submission will be applied based on the details on the Late Submission instructions below.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "Week 8During Lecture Time",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The in-semester exam is anONLINE Blackboard exam administered through Blackboard during lecture time.You will have 90 minutes of working time and 10 minutes of reading time.If you are unable to sit your exam, you must apply for a deferred exam.The exam questions will cover five topics (Teaching Weeks 1 to 5 inclusive).Short answer, practical and problem-solving questions containing accounting items are marked according to the accurate recognition, numerical measurement, and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors.More detailed information on the in-semester exam will be discussed in the lecture prior to the exam.AI Statement:Note: This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50% Invigilated",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "Cover all topics in the course with a focus on topics 6-10.This exam is apaper-based, closed book, invigilated exam by UQ-appointed invigilatorsas required by UQ and Professional Accounting organisations.Short answer, practical and problem solving questions containing accounting items are marked according to the accurate recognition, numerical measurement and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors, however marking penalties will apply in journal-related practical questions for the inclusion of additional journals. Short answer theory and short essay questions are marked according to the correct application of accounting framework, accounting standards and generally accepted accounting principles to source information.Further details will be provided via Central Examinations, Blackboard communications, and an exam information lecture.AI Statement:Note: This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Topic 1: Accounting for Income TaxLearning outcomes:L01, L02, L03, L05",
+            "topic_title": "Topic 1: Accounting for Income Tax",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Accounting for Income TaxLearning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial 1: Accounting for Income Tax",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2:  Introduction to Business CombinationsLearning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 2:  Introduction to Business Combinations",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Consolidation: Basic PrinciplesLearning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 3: Consolidation: Basic Principles",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No tutorial: Independent study",
+            "topic_title": "No tutorial: Independent study",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Consolidation: FVA and Tax EffectsLearning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 4: Consolidation: FVA and Tax Effects",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Consolidation: Intra-group TransactionsLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Tutorial 5: Consolidation: Intra-group Transactions",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No Tutorials Independent StudyNo tutorials due to IN-SEMESTER EXAM.",
+            "topic_title": "No Tutorials Independent Study",
+            "topic_description": "No tutorials due to IN-SEMESTER EXAM.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Consolidation: Partly Owned Subs (DNCI)Learning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 6: Consolidation: Partly Owned Subs (DNCI)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Consolidation: Partly Owned Subs (INCI)Learning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 7: Consolidation: Partly Owned Subs (INCI)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Joint ArrangementsKing's Birthday Public Holiday - No Tutorials on Monday, 7 October - please attend an alternative tutorial this week only.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial 8: Joint Arrangements",
+            "topic_description": "King's Birthday Public Holiday - No Tutorials on Monday, 7 October - please attend an alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Equity AccountingLearning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 9: Equity Accounting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Insolvency and LiquidationLearning outcomes:L01, L03, L05",
+            "topic_title": "Tutorial 10: Insolvency and Liquidation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
