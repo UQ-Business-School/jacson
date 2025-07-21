@@ -1,0 +1,181 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7503-60301-7460",
+    "full_course_code": "MKTG7503-60301-7460",
+    "course_code": "MKTG7503",
+    "class_code": "60301",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Define, illustrate and critically analyse the cognitive, behavioural and cultural theories that inform an understanding of consumer behaviour."
+        },
+        {
+            "number": "LO2.",
+            "description": "Appreciate and evaluate the range of theories that can be applied to understanding aspects of consumers values, personality, learning, buying decision-making, gender, lifestyles, social class and consumption culture."
+        },
+        {
+            "number": "LO3.",
+            "description": "Complete a research project that demonstrates creativity and an ability to apply theory, and present research that informs a contemporary understanding of consumer behaviour relevant to marketing management."
+        },
+        {
+            "number": "LO4.",
+            "description": "Effectively work within a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate effective communication abilities in making consumer and marketing decisions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessment 1 - Research proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "23/09/2024 3:00 pm",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "This is a group assessment.In this research proposal (or project plan), students in a group setting will discuss relevant consumer behaviours (an effect, a phenomenon, a trend, a consumption experience, etc.) that will be more thoroughly examined in Assessment 2 (the independent research report).Broadly, your team will:(1)    Pick three consumer behaviours of interest. The three behaviours shall cover diverse industries rather than come from a single industry. A good starting point is to look at trends (or changes) in consumer decision-making process, consumption process, and post-consumption experiences during the past 10 to 20 years. Examples of potential topics or areas will be provided and discussed during class.(2)    Background information (e.g., an overview of the phenomenon).(3)    Explain or justify behaviour/effect/phenomenon (problem formulation/identification). Detailed guidelines will be provided in class.(3)    For each behaviour, clearly state the research aim.(4)    For each behaviour, formulate and spell out two research questions (i.e., a total of 6 research questions for the three behaviours in assessment 1).The main purpose of this proposal (Assessment 1) is for your group to receive feedback and suggestions from the teaching team on how to improve the topic, research aim, and research questions. You should incorporate the feedback into the independent research project report (Assessment 2).Peer Review:Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements with team members' contributions that cannot be resolved, students must bring the problem to the attention of their Course Coordinator as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Your report is to be submitted to Blackboard either on or before the due date.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assessment 2 - Full report",
+            "special_indicators": [],
+            "weighting": "60%",
+            "due_date": "4/11/2024 3:00 pm",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "This is an individual assessment.In this project, you will examine a particular consumer behaviour (an effect, a phenomenon, a consumption experience, etc), study it (by gathering information from primary data), and generate valuable and relevant insights for consumers, firms and/or policymakers.Broadly, you will(1)       Pick a particular consumer behaviour of interest (i.e. one of the three topics in Assessment 1, or work on a different topic not covered by Assessment 1)(2)       Explore and examine the contextual information surrounding the phenomenon.(3)       List and justify your research aim and research questions.(4)       Conducting personal interviews to collect data to answer research questions. Seven (7) participants/interviewees are expected for data collection. Note that this course is not about research methods; therefore the larger sample is neither required nor rewarded with extra marks. Nor should you use any statistical techniques/tools for data analysis. (Instructions and guidelines will be provided in class).(5)       Draw insightful and sensible conclusions based on the analysis of data, and make recommendations to relevant shareholders and stakeholders.Detailed instructions and assessment rubric will be provided and downable from our course Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The report is to be submitted to Blackboard either on or before the due date.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1 - Introduction to consumer behaviourCourse overview",
+            "topic_title": "Lecture 1 - Introduction to consumer behaviour",
+            "topic_description": "Course overview",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Lecture 2 - Contemporary perspectives on consumer behaviourContemporary perspectives on consumer behaviour.Behavioural economics.",
+            "topic_title": "Lecture 2 - Contemporary perspectives on consumer behaviour",
+            "topic_description": "Contemporary perspectives on consumer behaviour.\nBehavioural economics.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Lecture 3 - Decision-making & involvementDecision making stages and process.Concept of consumer involvement.",
+            "topic_title": "Lecture 3 - Decision-making & involvement",
+            "topic_description": "Decision making stages and process.\nConcept of consumer involvement.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Lecture 4 - Information session for Assessment 1Information session for Assessment One (group project).Introduction on research aim, purpose, and questions.Referencing styles & Information searching strategies.",
+            "topic_title": "Lecture 4 - Information session for Assessment 1",
+            "topic_description": "Information session for Assessment One (group project).\nIntroduction on research aim, purpose, and questions. \nReferencing styles & Information searching strategies.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Lecture 5 - Learning & MemoryBehavioural and cognitive learning.Classical conditioning and Operant conditioning.Theories of short- and long-term memory",
+            "topic_title": "Lecture 5 - Learning & Memory",
+            "topic_description": "Behavioural and cognitive learning.\nClassical conditioning and Operant conditioning.\nTheories of short- and long-term memory",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Lecture 6 - Perceptual processPerceptual process & perceptual mapping",
+            "topic_title": "Lecture 6 - Perceptual process",
+            "topic_description": "Perceptual process & perceptual mapping",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Lecture 7 - Attitude & behaviour changeTheories and measurement of attitude.The process of behaviour change.The Elaboration Likelihood Model.",
+            "topic_title": "Lecture 7 - Attitude & behaviour change",
+            "topic_description": "Theories and measurement of attitude.\nThe process of behaviour change.\nThe Elaboration Likelihood Model.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report)First half of the class: Personality (section one of the theories on Personality).Second half of the class: Assessment 2 briefing - guidelines and marking rubric.",
+            "topic_title": "Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report)",
+            "topic_description": "First half of the class: Personality (section one of the theories on Personality). \nSecond half of the class: Assessment 2 briefing - guidelines and marking rubric.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Lecture 9 - Personality (section 2), self & motivationPersonality (second section of theories Personality).The multiplicity of Self.Theories of Motivation.(From this week we'd have finished the micro-view on consumer behaviour and start to move onto the macro, social-environmental aspect.",
+            "topic_title": "Lecture 9 - Personality (section 2), self & motivation",
+            "topic_description": "Personality (second section of theories Personality). \nThe multiplicity of Self.\nTheories of Motivation.\n (From this week we'd have finished the micro-view on consumer behaviour and start to move onto the macro, social-environmental aspect.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "IN-SEMESTER BREAKNo class during semester break.",
+            "topic_title": "IN-SEMESTER BREAK",
+            "topic_description": "No class during semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Lecture 10 - Groups & social processesReference groups.Social pressure.Social power.",
+            "topic_title": "Lecture 10 - Groups & social processes",
+            "topic_description": "Reference groups.\nSocial pressure.\nSocial power.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "Lecture 11 - NO CLASSKing’s Birthday public holiday. No class on this day.Students should have commenced working on the major project report.",
+            "topic_title": "Lecture 11 - NO CLASS",
+            "topic_description": "King’s Birthday public holiday. No class on this day.\nStudents should have commenced working on the major project report.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Lecture 12 - Consumer CultureConsumer culture.Effective marketing communications.",
+            "topic_title": "Lecture 12 - Consumer Culture",
+            "topic_description": "Consumer culture.\nEffective marketing communications.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Lecture 13 -Buying patterns and future trends of consumer behaviour(Last week) Patterns and future trends of consumer behaviour.Q&A session for Assessment 2.Wrapping up.",
+            "topic_title": "Lecture 13 -Buying patterns and future trends of consumer behaviour",
+            "topic_description": "(Last week) Patterns and future trends of consumer behaviour. \nQ&A session for Assessment 2.\nWrapping up.",
+            "learning_outcomes": []
+        }
+    ]
+}
