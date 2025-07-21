@@ -1,0 +1,122 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7805-60245-7460",
+    "full_course_code": "FINM7805-60245-7460",
+    "course_code": "FINM7805",
+    "class_code": "60245",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (06/09/2024 - 04/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the financial objective of the firm, and the key decision rules that stem from this objective."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply financial mathematics and use it for valuation of securities."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain and apply the capital budgeting process techniques to complex valuation situations including calculating the weighted average cost of capital."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the concepts of risk in a financial context, and be able to compare and apply the various approaches to manage these risks."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work successfully in a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessment 1: In-Semester Exam",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "29/10/2024Released at 6pm Tuesday 29th and Due 9pm Tuesday 29th.",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination, Tutorial/ Problem Set",
+            "task_description": "This assessment will consist of a problem set that students will be required to complete and submit through Blackboard.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit your completed exam to the Turnitin Submission Point",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assessment 2: Team Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "15/11/2024 5:30 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "The team case study will involve the evaluation and analysis of financial data to form recommendations based on a scenario outlined in the case study. The assignment will involve analysis of financial data in an Australian context.The assignment is to be completed in assigned teams of up to 4 students.Each team will prepare a Excel analysis and a report.These will be submitted electronically via TurnItIn.Full details, and relevant materials, will be provided on the course Blackboard site.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assessment 3: Take Home Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "4/11/2024 - 5/11/2024From12pm on Monday 4thNovember 2024. The assessment is due at12pm on Tuesday 5thNovember 2024 (AEST).",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique, Tutorial/ Problem Set",
+            "task_description": "Final assessment involving project sets and business analysis application.Read full task descriptionHide full task description",
+            "submission_guidelines": "You must submit to the Submission Point by the due date",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "Maths refresher workshopMonday 14/10:Refresher on key maths concepts used in this courseLearning outcomes:L02",
+            "topic_title": "Maths refresher workshop",
+            "topic_description": "Monday 14/10: Refresher on key maths concepts used in this course",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "The Capital Asset Pricing ModelMonday 21/10Session 18:00 - 12:00 -Setting up investment portfolios and developing the Capital Asset Pricing Model.Session 113:00 - 16:00 -Understanding the trade-off between Beta risk and return.Learning outcomes:L02, L04",
+            "topic_title": "The Capital Asset Pricing Model",
+            "topic_description": "Monday 21/10\nSession 1 8:00 - 12:00 - Setting up investment portfolios and developing the Capital Asset Pricing Model. \nSession 1 13:00 - 16:00 - Understanding the trade-off between Beta risk and return.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Leverage and capital structureMonday 28/10:Examine how Companies Set Capital StructureLearning outcomes:L02, L03, L04",
+            "topic_title": "Leverage and capital structure",
+            "topic_description": "Monday 28/10: Examine how Companies Set Capital Structure",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
