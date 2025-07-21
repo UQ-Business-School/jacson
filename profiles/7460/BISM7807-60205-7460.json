@@ -1,0 +1,283 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7807-60205-7460",
+    "full_course_code": "BISM7807-60205-7460",
+    "course_code": "BISM7807",
+    "class_code": "60205",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate a comprehensive working knowledge of operations management and application systems and practices, and apply operations management process tools and frameworks to improve core business processes."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand why quality is core to successful operations, and how operational practices contribute to the production of quality products in both service and manufacturing environments."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify the core business processes along an organisation's supply chain and the interactions that will lead to high quality outcomes in a computer-based environment."
+        },
+        {
+            "number": "LO4.",
+            "description": "Appraise the use of operations design modelling and analytical tools to recommend solutions to operational problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply theoretical principles to a real-world case study."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work collaboratively and professionally in a student team on an assigned case study and in seminar group activities."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team Case Study Presentation and Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "11/09/2024 - 30/10/2024Dates will depend on the number of groups which depends on the class size",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "In the first seminar, teams will be allocated to work together throughout the course.The participants of each team will work together on a case study to identify the operational issues, and formulate a strategy for moving forward.The overall objective of the case study is to prepare a 1,500 word board report on the operations of the case assigned to the team.The team will present their solutions to the class. (This will form 10% of the course assessment.) A total of 30 minutes will be allocated for each presentation including a class discussion. Teams should allocate 10 to 15 minutes within the time allocated for discussion with the lecturer and class. The presentation schedule will be communicated at the first seminar.The team will then write up the Case Study Report, incorporating feedback from the presentation. The style of the report should be as if being submitted to the Board of Directors of the Case Study entity. (This will form 20% of the course assessment.)The study must concentrate on the operational aspects of the operation considered. While there may be marketing or strategic issues involved, for example, it would not be appropriate to devote all the analysis to development of marketing plans or strategic plans. The aim of the exercise is not only to demonstrate an understanding of how the operation supports or hinders the attainment of the organisation's objectives but more importantly to identify any outstanding operational problems and make recommendations for improvement.The final report should include the following:an Executive Summary;a brief description of the business or organisational objectives and context including its method of obtaining competitive advantage;an analysis of the operational issues and challenges involved;identification of the problems involved, including problems already dealt with;identification of any outstanding problems;recommendations and implementation plans to address these problems.As a team assessment item, it is important team members have the opportunity to provide a peer evaluation with this assessment. Team members will be given the oppportunity to provide feedback on the contributions made by other team members. Consequently, an individual team member's assessment may increase or decrease as a result of the evaluation of their contribution to the team by their peers. Further details will be provided in the class by the Course Coordinator during Seminar One.Further details will be provided in the case study briefing available in Seminar One.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Report submitted to TurnItIn in Blackboard Assessment link one week after presentation. Presentation must be emailed to the lecturer immediately after the presentation in class.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Operational Audit Report",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "28/10/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The overall objective of the Operational Audit is to prepare a 1,500 to 2,000 word Operational Audit report on an aspect of the operations of an organisation selected by the student.The study must primarily concentrate on the operational aspects of the operation identified. While there may be marketing or strategic issues involved, it would not be appropriate to devote all the analysis to the development of marketing or strategic plans.This task requires consideration of one or more of the analytical frameworks or methodologies addressed in the course to examine the organisation's operations and to support the conclusions reached and any recommendations proposed.The aim of the assignment is not only to demonstrate an understanding of how the operation supports or hinders the attainment of the organisation's objectives, but also to identify any outstanding operational problems, and make recommendations for improvement, focussed at Board level.Further information will be supplied in the assignment guideline.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submitted through TurnItIn in the Blackboard Assessment link.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Take-Home Assessment",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "9/11/2024 - 10/11/2024This assessment item will become available at 1pm on Saturday, November 9th and must be completed by 1pm on Sunday, November 10th.",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This assessment is a take-home assessment of 24 hours in duration. However, it is expected that the assessment will take approximately two to three hours to complete. The assessment takes the form of several problem-solving (requiring mathematical calculations and interpretation of results) and short essay questions focussed upon a single cohesive case study addressing operational management issues. The assessment is to be completed individually. More details will be provided during seminars.AI StatementThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submitted via TurnItIn in Blackboard.  Late penalties will apply.  No deferred assessment is provided for; rather, extensions in line with UQ policy will be provided where applicable.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Items (for which no extension has been granted) submitted after the due date and time, incur a late submission penalty. The Late Submission Penalty is applied for that particular piece of assessment, for each hour or part thereof that the item is overdue. The penalty once calculated is deducted from the marks awarded for the assessment.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Session 1Course Introduction; Operations and Supply Chain Strategy for CompetitivenessLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 1",
+            "topic_description": "Course Introduction; Operations and Supply Chain Strategy for Competitiveness",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Session 2Projects and Project ManagementLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 2",
+            "topic_description": "Projects and Project Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Session 3Product Design; Transformation; Process Design and PlanningLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 3",
+            "topic_description": "Product Design; Transformation; Process Design and Planning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Session 4Monitoring and Controlling Processes.Learning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 4",
+            "topic_description": "Monitoring and Controlling Processes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Session 5Capacity Planning and Scheduling; Benihana SimulationLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 5",
+            "topic_description": "Capacity Planning and Scheduling; Benihana Simulation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Session 6Process Measurement and Improvement with Six Sigma; Process ModellingLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 6",
+            "topic_description": "Process Measurement and Improvement with Six Sigma; Process Modelling",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Session 7Process Improvement   Lean and the Focus on Value; AgileLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 7",
+            "topic_description": "Process Improvement   Lean and the Focus on Value; Agile",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Session 8Supply Chain Strategy, Design, and ManagementLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 8",
+            "topic_description": "Supply Chain Strategy, Design, and Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Session 9Supply Chain Planning and Analytics; BlockchainLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 9",
+            "topic_description": "Supply Chain Planning and Analytics; Blockchain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Session 10Supply Chain Management - Inventory ManagementLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 10",
+            "topic_description": "Supply Chain Management - Inventory Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Session 11Outsourcing; Insourcing; Global Sourcing and Operations; Service Process AutomationLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 11",
+            "topic_description": "Outsourcing; Insourcing; Global Sourcing and Operations; Service Process Automation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Session 13Course Conclusion; Guidance for the Take Home AssessmentLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Session 13",
+            "topic_description": "Course Conclusion; Guidance for the Take Home Assessment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
