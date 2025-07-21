@@ -1,0 +1,233 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG4501-60299-7460",
+    "full_course_code": "MKTG4501-60299-7460",
+    "course_code": "MKTG4501",
+    "class_code": "60299",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and explain the interplay of marketing strategy, organisational policy and strategy making."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain how marketing strategy supports the achievement of the strategic ambitions of organisations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply marketing research methods to support establishing effective marketing strategies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Compare and critically evaluate the processes of strategic marketing and marketing decision making."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate intellectual leadership by conducting a significant research project within the domain of marketing."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Advanced Study in Marketing Proposal (A1)",
+            "special_indicators": [],
+            "weighting": "30% Individual; 2,000 Words",
+            "due_date": "6/09/2024 2:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "A written project plan/proposal (maximum 2000 words and 12 pages, excluding references and appendices) outlining an advanced study in marketing. A draft copy of a survey must be attached as an appendix item (export from online survey software Qualtrics).AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission of the Assignment on Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Strategic Marketing Presentation (A2)",
+            "special_indicators": [],
+            "weighting": "20% Individual",
+            "due_date": "8/10/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "A presentation (20 minutes, inclusive of 15 minutes presentation and 5 minutes question/discussion time) of a strategic marketing plan based on the results of an advanced study in marketing.Please Note:The presentation will be recorded for marking purposes.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
+            "submission_guidelines": "Blackboard submission",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Advanced Study in Marketing Report (A3)",
+            "special_indicators": [],
+            "weighting": "50% Individual",
+            "due_date": "4/11/2024 5:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "A written project report (maximum 5000 words and 30 pages, excluding references and appendices) of the full technical results of an advanced study in marketing.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
+            "submission_guidelines": "Blackboard submission",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Introduction to advanced studies in marketingIntroduction to advanced studies in marketingLearning outcomes:L01",
+            "topic_title": "Introduction to advanced studies in marketing",
+            "topic_description": "Introduction to advanced studies in marketing",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Coming up with interesting research ideasComing up with interesting research ideasLearning outcomes:L01, L03",
+            "topic_title": "Coming up with interesting research ideas",
+            "topic_description": "Coming up with interesting research ideas",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Aligning market research with organisation policyAligning market research with organisation policyLearning outcomes:L01, L02, L04",
+            "topic_title": "Aligning market research with organisation policy",
+            "topic_description": "Aligning market research with organisation policy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Collecting data for high quality researchCollecting data for high quality researchLearning outcomes:L03",
+            "topic_title": "Collecting data for high quality research",
+            "topic_description": "Collecting data for high quality research",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Ethics and Survey DesignEthics and Survey DesignLearning outcomes:L03",
+            "topic_title": "Ethics and Survey Design",
+            "topic_description": "Ethics and Survey Design",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Sampling design and data collectionSampling design and data collectionLearning outcomes:L03",
+            "topic_title": "Sampling design and data collection",
+            "topic_description": "Sampling design and data collection",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Advanced study in marketing proposalAdvanced study in marketing proposalLearning outcomes:L03",
+            "topic_title": "Advanced study in marketing proposal",
+            "topic_description": "Advanced study in marketing proposal",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Advanced marketing intelligence modellingAdvanced marketing intelligence modellingLearning outcomes:L03, L05",
+            "topic_title": "Advanced marketing intelligence modelling",
+            "topic_description": "Advanced marketing intelligence modelling",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Pilot data analysis and research quality controlPilot data analysis and research quality controlLearning outcomes:L03, L04, L05",
+            "topic_title": "Pilot data analysis and research quality control",
+            "topic_description": "Pilot data analysis and research quality control",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-semester break",
+            "topic_title": "In-semester break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Data AnalysisData AnalysisLearning outcomes:L03, L04, L05",
+            "topic_title": "Data Analysis",
+            "topic_description": "Data Analysis",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "Strategic Marketing Presentations:Strategic Marketing PresentationsLearning Objectives: 1, 2, 3, 4, 5Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Strategic Marketing Presentations:",
+            "topic_description": "Strategic Marketing Presentations\nLearning Objectives: 1, 2, 3, 4, 5",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Strategic Marketing PresentationsStrategic Marketing PresentationsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Strategic Marketing Presentations",
+            "topic_description": "Strategic Marketing Presentations",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Course Review and ReflectionsCourse Review and ReflectionsLearning outcomes:L01",
+            "topic_title": "Course Review and Reflections",
+            "topic_description": "Course Review and Reflections",
+            "learning_outcomes": [
+                "L01"
+            ]
+        }
+    ]
+}
