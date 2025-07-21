@@ -1,0 +1,255 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7103-60183-7460",
+    "full_course_code": "ACCT7103-60183-7460",
+    "course_code": "ACCT7103",
+    "class_code": "60183",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the nature and functions of auditing in the context of the audit engagement/different types of audits."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse the ethical and legal issues faced by auditors to form professional judgements on the appropriate course of action."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply the stages of audit planning and preliminary procedures to form an understanding of the audit client and its environment in order to develop audit strategies and design appropriate audit procedures."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess the audit client's risks, including carrying out an evaluation of the client's internal control system, and design appropriate audit procedures to test for material misstatements in financial statements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design audit procedures to complete the audit (including detecting subsequent events) and use professional judgement to form an audit opinion."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work on audit issues as a member of a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "In-semester Saturday31/08/2024 - 14/09/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The exam time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ web sites.The In-Semester Exam:will be based on the first four topics, including lectures and tutorialscontains about 10 multiple choice questions and 3 written questionsthe written questions include practical/problem-solving questions that require you to analyse mini cases/scenarios and apply relevant audit theories/regulations/techniques to form appropriate judgments/decisionsthe written questions usually require you to demonstrate your understanding about important aspects of the audit processAI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study: Audit Planning and testing",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "11/10/2024 2:00 pm",
+            "learning_objectives": "L03, L04, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This is a group case study designed to give you some practical experience in audit planning, the application of the audit risk model, tests of control procedures, and substantive testing. The word limit of this case study is 1000 words (further instructions will be available on the Course Blackboard site). Please make sure you are up to date with all course readings and class materials before undertaking the case study.Students need to form a group of 3 students to work on the case study together. An online forum will be created to help you find team members. Your workshops are also a good place to find potential team members.The case study contains a number of questions. You must answer all questions and submit your case study in the following manner:Please save your case study in a word document. Adobe pdf file is not acceptable.Upload your case study on Blackboard via Turn-it-in before the due date. Only one student needs to submit the case study for the group but please clearly specify the identification details of all team members on the first page of the case study file.Please Note:All group members need to complete a peer review section on Blackboard, the results of the peer evaluation may affect your individual mark for this assessment.Please avoid submitting your case study at the last minute because the system may be down or may malfunction due to the number of submission attempts at that time. Late submission without extension approval will be penalised according to the university policy.Please make sure you have successfully submitted the file by taking a screenshot of the receipt. Keep this receipt as proof of your submission.Please be advised the academic integrity rules applies - copying from other students and contract cheating are strictly prohibited.A penalty will apply if students submit this assignment as an individual assignment without the course coordinator's approval.For more details about the case study's format, expectations and submission, see the case study notice on Blackboard in the \"Assignment\" folder.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assignment must be submitted electronically on Blackboard through Turn-it-in.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam (invigilated closed book exam)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This Exam:is aclosed book, invigilated examas required by UQ and Professional Accounting organisationstime/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ websitescontains about 4 to 5 written questions. Each question consists of a number of short answer/short essay/problem solving/application questionsthe written questions focus on problem-solving, which involves analysing cases/scenarios and applying relevant audit theories/regulations/techniques to form appropriate judgments/decisionssome written questions require you to demonstrate your understanding of important aspects of the audit processmore details of the final exam will be made available towards the end of the semesteryou are advised thatALL areas of the course are examinableand thus leaving out any section of the course material from your study plans would be ill-advisedAI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Topic 1 Introduction & Audit objectivesLearning outcomes:L01",
+            "topic_title": "Topic 1 Introduction & Audit objectives",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "Workshop 1: Introduction & Audit objectivesLearning outcomes:L01",
+            "topic_title": "Workshop 1: Introduction & Audit objectives",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "Workshop 2: Audit reportsLearning outcomes:L01, L05",
+            "topic_title": "Workshop 2: Audit reports",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "Workshop 3: Audit ethics and independenceLearning outcomes:L01, L02",
+            "topic_title": "Workshop 3: Audit ethics and independence",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "Workshop 4: Audit risk model & Audit evidenceLearning outcomes:L03, L04, L06",
+            "topic_title": "Workshop 4: Audit risk model & Audit evidence",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "Workshop 5: Audit planning, materiality and riskLearning outcomes:L03, L04, L06",
+            "topic_title": "Workshop 5: Audit planning, materiality and risk",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "Workshop 6: Internal control, control risk and fraudLearning outcomes:L03, L04, L06",
+            "topic_title": "Workshop 6: Internal control, control risk and fraud",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "Workshop 7: Tests of controls and substantive tests 1Tests of controls and substantive testing part 1.Learning outcomes:L03, L04, L06",
+            "topic_title": "Workshop 7: Tests of controls and substantive tests 1",
+            "topic_description": "Tests of controls and substantive testing part 1.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "Workshop 8: Tests of controls and substantive tests 2Tests of controls and substantive tests part 2.Learning outcomes:L04, L06",
+            "topic_title": "Workshop 8: Tests of controls and substantive tests 2",
+            "topic_description": "Tests of controls and substantive tests part 2.",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "Workshop 9: Tests of controls and substantive tests 3Tests of controls and substantive tests part 3.Learning outcomes:L04, L06",
+            "topic_title": "Workshop 9: Tests of controls and substantive tests 3",
+            "topic_description": "Tests of controls and substantive tests part 3.",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No WorkshopWeek 11 Monday 7/10/2024 King's birthday public holiday, so there is no workshop / lecture this week.",
+            "topic_title": "No Workshop",
+            "topic_description": "Week 11 Monday 7/10/2024 King's birthday public holiday, so there is no workshop / lecture this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "Workshop 10: Audit sampling and Audit liabilitiesLearning outcomes:L02, L04",
+            "topic_title": "Workshop 10: Audit sampling and Audit liabilities",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "Workshop 11: Completing the auditLearning outcomes:L05",
+            "topic_title": "Workshop 11: Completing the audit",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L05"
+            ]
+        }
+    ]
+}
