@@ -1,0 +1,224 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3106-60179-7460",
+    "full_course_code": "ACCT3106-60179-7460",
+    "course_code": "ACCT3106",
+    "class_code": "60179",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand why and how to reformulate financial statements to facilitate equity valuation and financial statement analysis"
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand how to apply and evaluate accounting-based valuation models, including forecasting of financial statements."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse financial ratios to determine the drivers of profitability and growth, and to assist with forecasting"
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess accounting quality, understand the motivations for earnings management, and understand common techniques used to manage earnings"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Financial analysis and valuation project part 1",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "6/09/2024 2:00 pm",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "The project requires students to complete a detailed financial statement analysis and valuation of a publicly listed company, applying the concepts from the first eight lectures/tutorials.The project will be completed in two parts. Part 1 will focus on applying concepts taught in the first four lectures/tutorials.Full details will be provided by the end of week one of semester through the Course Information Document which will be posted on Learn.UQ.AI Statement:This project is to be completed individually. The use of generative AI tools, such as ChatGPT, is prohibited. Note that all assignments will be checked by Turnitin for similarity and for evidence of AI-generated text.Note that because this is part 1 of a two-part assignment, extensions may be limited to allow for timely feedback to be distributed to the class in preparation for the second part of the assessment.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please submit your written answers through the Turnitin link on Learn.UQ.Please submit your Excel workings through the Blackboard submission link on Learn.UQ.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Financial analysis and valuation project part 2",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "25/10/2024 2:00 pm",
+            "learning_objectives": "L02, L03",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "The project requires students to complete a detailed financial statement analysis and valuation of a publicly listed company, applying the concepts from the first eight lectures/tutorials.The project will be completed in two parts. Part 2 will focus on applying the concepts taught in lectures/tutorials five-eight, although it may also build on content covered in earlier weeks.Because Part 2 of the assignment builds on Part 1 of the assignment, suggested solutions for important components of Part 1 will be provided through Learn.UQ after all students have submitted Part 1. Studentsmustbuild on these solutions in answering Part 2 of the assignment. This is to ensure that all students begin Part 2 of the assignment on the right track.Full details will be provided by the end of week one of semester through the Course Information Document which will be posted on Learn.UQ.AI Statement:This project is to be completed individually. The use of generative AI tools, such as ChatGPT, is prohibited. Note that all assignments will be checked by Turnitin for similarity and for evidence of AI-generated text.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please submit your written answers through the Turnitin link on Learn.UQ.Please submit your Excel workings through the Blackboard submission link on Learn.UQ.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "60%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "Exam questions will address practical and conceptual issues covered over the full course.This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Introduction and OverviewLearning outcomes:L01",
+            "topic_title": "Introduction and Overview",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Introduction and OverviewLearning outcomes:L01",
+            "topic_title": "Tutorial 1: Introduction and Overview",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Financial Statement Reformulation Part 1Learning outcomes:L01",
+            "topic_title": "Tutorial 2: Financial Statement Reformulation Part 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Financial Statement Reformulation Part 2Wednesday 14th Public Holiday. - Affected students please attend an alternate tutorial for this week only.Learning outcomes:L01",
+            "topic_title": "Tutorial 3: Financial Statement Reformulation Part 2",
+            "topic_description": "Wednesday 14th Public Holiday. - Affected students please attend an alternate tutorial for this week only.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Financial Statement Reformulation Part 3Learning outcomes:L01",
+            "topic_title": "Tutorial 4: Financial Statement Reformulation Part 3",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Unlevered Valuation/Reverse EngineeringLearning outcomes:L02",
+            "topic_title": "Tutorial 5: Unlevered Valuation/Reverse Engineering",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Financial Ratio AnalysisLearning outcomes:L03",
+            "topic_title": "Tutorial 6: Financial Ratio Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Financial ForecastingLearning outcomes:L02, L03",
+            "topic_title": "Tutorial 7: Financial Forecasting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Accounting Properties and Multiples ValuationLearning outcomes:L02, L03",
+            "topic_title": "Tutorial 8: Accounting Properties and Multiples Valuation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo classes this week due to mid-semester break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No classes this week due to mid-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Accounting Quality Analysis Part 1Learning outcomes:L04",
+            "topic_title": "Tutorial 9: Accounting Quality Analysis Part 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Accounting Quality Analysis Part 2King's Birthday public holiday - No tutorial held Monday 07 October 2024. Please attend an alternative tutorial this week only.Learning outcomes:L04",
+            "topic_title": "Tutorial 10: Accounting Quality Analysis Part 2",
+            "topic_description": "King's Birthday public holiday - No tutorial held Monday 07 October 2024. Please attend an alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Accounting Quality Analysis Part 3Learning outcomes:L04",
+            "topic_title": "Tutorial 11: Accounting Quality Analysis Part 3",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 12: Accounting Quality Analysis Part 4Learning outcomes:L04",
+            "topic_title": "Tutorial 12: Accounting Quality Analysis Part 4",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        }
+    ]
+}
