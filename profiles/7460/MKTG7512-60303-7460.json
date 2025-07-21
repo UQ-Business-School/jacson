@@ -1,0 +1,285 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7512-60303-7460",
+    "full_course_code": "MKTG7512-60303-7460",
+    "course_code": "MKTG7512",
+    "class_code": "60303",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the key concepts and tools in strategic marketing management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify the context of an organisation and its marketing philosophy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply an ethical analysis to marketing problems and practices."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically evaluate the impact of changing paradigms in marketing."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify strategies, tools and metrics for improving marketing effectiveness and market performance."
+        },
+        {
+            "number": "LO6.",
+            "description": "Working as a group, using Marketing strategy and frameworks to present the groups findings."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Interactive presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "2/09/2024 - 21/10/2024On the assigned in-class presentation day.",
+            "learning_objectives": "L01, L02, L03, L04, L06",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "This is agroup assessment.In this assessment, students in a group setting will critically analyse a case study assigned to them, create a deck of presentation slides, submit the slides to the teaching team prior to their scheduled presentation time, and make an oral presentation based on the slides.These presentations will be scheduled for weekly tutorials.To analyse the case content, students will use marketing strategy concepts and frameworks that will be discussed in lectures.Peer Review: Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of their Course Coordinator as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "A copy of the presentation slides should be submitted to Blackboard on the specified date.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case study report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "6/09/2024 - 22/09/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This is anindividual assessment.In this assessment, students will critically analyse and evaluate a firm (company) and its market offering based on lecture contents.Broadly, students will:Select a product or product line from a firm of their choiceConduct situational analysisCritically analyse the firm's competitive environmentConduct segmentation analysisConstruct a perceptual map that locates the product and competing offerings.Critically evaluate the current positioning of the product and provide feasible and useful suggestions on repositioning strategies.Instructions and marking criteria (rubric) will be provided on Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The report is to be submitted to Blackboard on or before the due date.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Online Blackboard exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The end-of-semester exam will be essay questions designed to test the depth of knowledge that you have gained from this course and your ability to apply this knowledge to organisations. Some questions may be based on case studies that were presented and discussed in tutorials.This is an online exam. You will receive the specific questions at the start of the exam, and you will submit your answers in a Word document at the end of the exam.Full details, sample questions, and recommended answer strategies will be provided in class.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1: Introduction and Course OverviewThe importance of strategic marketing,overview of the course and assessments.Learning outcomes:L01, L02, L03, L04, L06",
+            "topic_title": "Lecture 1: Introduction and Course Overview",
+            "topic_description": "The importance of strategic marketing,\noverview of the course and assessments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Introduction and Course OverviewGroup discussion - reflect on lecture 1 contents & Guidelines on interactive group presentation (assessment 1; see course blackboard for details)Learning outcomes:L01, L02, L04, L06",
+            "topic_title": "Tutorial 1: Introduction and Course Overview",
+            "topic_description": "Group discussion - reflect on lecture 1 contents & Guidelines on interactive group presentation (assessment 1; see course blackboard for details)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Strategic Marketing and EnvironmentGroup discussion - reflect on lecture 2 contentFirst practice case study for group presentation (check blackboard)Learning outcomes:L01, L02, L04, L05, L06",
+            "topic_title": "Tutorial 2: Strategic Marketing and Environment",
+            "topic_description": "Group discussion - reflect on lecture 2 content\nFirst practice case study for group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Customer and Competitor AnalysisGroup discussion - reflect on lecture 3 contentsSecond practice case study for group presentation (check blackboard)Note: public holiday on 14/08 (Wednesday); Wednesday students to attend alternative tutorials.Learning outcomes:L01, L02, L04, L05, L06",
+            "topic_title": "Tutorial 3: Customer and Competitor Analysis",
+            "topic_description": "Group discussion - reflect on lecture 3 contents\nSecond practice case study for group presentation (check blackboard)\n\n Note: public holiday on 14/08 (Wednesday); Wednesday students to attend alternative tutorials.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Organisation and SegmentationGroup discussion - reflect on lecture 4 contentsThird practice case study for group presentation (checkLearning outcomes:L01, L02, L04, L05, L06",
+            "topic_title": "Tutorial 4: Organisation and Segmentation",
+            "topic_description": "Group discussion - reflect on lecture 4 contents\nThird practice case study for group presentation (check",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Targeting and PositioningGroup discussion - reflect on lecture 5 contentsForth (and the last) practice case study for group presentation (check blackboard)Learning outcomes:L01, L02, L04, L05, L06",
+            "topic_title": "Tutorial 5: Targeting and Positioning",
+            "topic_description": "Group discussion - reflect on lecture 5 contents\nForth (and the last) practice case study for group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Information session for Case Study ReportInteractive group presentation (check blackboard)Learning outcomes:L01, L02, L03, L05, L06",
+            "topic_title": "Tutorial 6: Information session for Case Study Report",
+            "topic_description": "Interactive group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Sustainable Competitive AdvantageInteractive group presentation (check blackboard)Learning outcomes:L01, L02, L04, L05, L06",
+            "topic_title": "Tutorial 7: Sustainable Competitive Advantage",
+            "topic_description": "Interactive group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Customer management & SalesInteractive group presentation (check blackboard)Note: public holiday on 07 October (Monday); Alternative presentation schedule for Monday students (check blackboard for updated schedule).Learning outcomes:L01, L02, L03, L05, L06",
+            "topic_title": "Tutorial 8: Customer management & Sales",
+            "topic_description": "Interactive group presentation (check blackboard)\nNote: public holiday on 07 October (Monday); Alternative presentation schedule for Monday students (check blackboard for updated schedule).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo classes or tutorials this week",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No classes or tutorials this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: InnovationInteractive group presentation (check blackboard)Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial 9: Innovation",
+            "topic_description": "Interactive group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial  10: Strategic Alliances and NetworksInteractive group presentation (check blackboard)Learning outcomes:L01, L02, L05, L06",
+            "topic_title": "Tutorial  10: Strategic Alliances and Networks",
+            "topic_description": "Interactive group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11 - Corporate Social Responsibility and EthicsInteractive group presentation (check blackboard)Learning outcomes:L01, L03, L04, L05, L06",
+            "topic_title": "Tutorial 11 - Corporate Social Responsibility and Ethics",
+            "topic_description": "Interactive group presentation (check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 12: Contemporary issues & Course reviewInteractive group presentation (last group; check blackboard)Learning outcomes:L01, L03, L04, L05, L06",
+            "topic_title": "Tutorial 12: Contemporary issues & Course review",
+            "topic_description": "Interactive group presentation (last group; check blackboard)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
