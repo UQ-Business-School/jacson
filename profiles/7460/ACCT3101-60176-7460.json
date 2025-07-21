@@ -1,0 +1,214 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3101-60176-7460",
+    "full_course_code": "ACCT3101-60176-7460",
+    "course_code": "ACCT3101",
+    "class_code": "60176",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain auditor's statutory responsibilities and the nature and functions of auditing in the context of the audit engagement/different types of audits."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse the ethical and legal issues faced by auditors to form professional judgments on the appropriate course of action."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply the stages of audit planning and preliminary procedures to form an understanding of the audit client and its environment in order to develop audit strategies and design appropriate audit procedures."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess the audit client's risks, including carrying out an evaluation of the client's internal control system, and design appropriate audit procedures to identify any material misstatement in the financial statement."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design audit procedures to complete the audit (including testing for post balance day events) and use professional judgment to form an audit opinion."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "In-semester Saturday31/08/2024 - 14/09/2024",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The in-semester exam will be scheduled by UQ Central for a Saturday Exam.The exam time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ web sites.The exam will be based on the first four topics, including lectures and tutorials.The exam contains about 10 multiple choice questions and 3 written questions.The written questions include practical/problem-solving questions that require you to analyse mini cases/scenarios and apply relevant audit theories/regulations/techniques to form appropriate judgments/decisions.The written questions usually require you to demonstrate your understanding about important aspects of the audit process.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group assignment - Audit planning and testing",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "11/10/2024 2:00 pm",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This is a group case study designed to give you some practical experience in audit planning, the application of the audit risk model, tests of control procedures, and substantive testing. The word limit of this case study is 1000 words (further instructions will be available on the Course Blackboard site). Please make sure you are up to date with all course readings and class materials before undertaking the case study.Students need to form a group of 3 students to work on the case study together. An online forum will be created to help you find team members. Your workshops are also a good place to find potential team members.The case study contains a number of questions. You must answer all questions and submit your case study in the following manner:Please save your case study in a word document. Adobe pdf file is not acceptable.Upload your case study on Blackboard via Turn-it-in before the due date. Only one student needs to submit the case study for the group but please clearly specify the identification details of all team members on the first page of the case study file.Please Note:All group members need to complete a peer review section on Blackboard, the results of the peer evaluation may affect your individual mark for this assessment.Please avoid submitting your case study at the last minute because the system may be down or may malfunction due to the number of submission attempts at that time. Late submission without extension approval will be penalised according to the university policy.Please make sure you have successfully submitted the file by taking a screenshot of the receipt. Keep this receipt as proof of your submission.A penalty will apply if students submit this assignment as an individual assignment without the course coordinator's approval.Please be advised the academic integrity rules applies. The following conduct is strictly prohibited:1. Copying from other students (plagiarism).2. Contract cheating.3. Using artificial intelligence software to produce the assignment.More information about the case study will be posted on Blackboard later.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assignment must be submitted electronically on Blackboard through Turnitin.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam (closed book invigilated exam)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is a closed book, invigilated exam as required by UQ and Professional Accounting organisations.The exam time/date will be announced by the UQ Central Examination Office later in the semester.The final exam contains about 4 to 5 written questions. Each question contains a number of short answer /short essay /problem solving /application questions.The written questions focus on problem-solving, which involves analysing cases/scenarios and applying relevant audit theories/ regulations/ techniques to form appropriate judgments/ decisions.Exam questions also require you to demonstrate your understanding of important aspects of the audit process.More details of the final exam will be made available towards the end of the semester.You are advised that ALL areas of the course are examinable and thus leaving out any section of the course material from your study plans would be ill-advised.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Topic 1: Introduction and Audit Objectives",
+            "topic_title": "Topic 1: Introduction and Audit Objectives",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Introduction and Audit Objectives",
+            "topic_title": "Tutorial 1: Introduction and Audit Objectives",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Audit Reports",
+            "topic_title": "Tutorial 2: Audit Reports",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Ethics; Auditor Legal LiabilitiesWeek 4 has Ekka holiday on Wednesday 14/8/2024. Students who usually attend the Wednesday tutorials can go to the Friday tutorials or listen to tutorial class recording on Blackboard.",
+            "topic_title": "Tutorial 3: Ethics; Auditor Legal Liabilities",
+            "topic_description": "Week 4 has Ekka holiday on Wednesday 14/8/2024. Students who usually attend the Wednesday tutorials can go to the Friday tutorials or listen to tutorial class recording on Blackboard.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Audit Risk Model and Audit Evidence",
+            "topic_title": "Tutorial 4: Audit Risk Model and Audit Evidence",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Audit Planning, Materiality and Risk",
+            "topic_title": "Tutorial 5: Audit Planning, Materiality and Risk",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Internal Control, Control Risk and Fraud",
+            "topic_title": "Tutorial 6: Internal Control, Control Risk and Fraud",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Tests of Controls and Substantive Tests 1",
+            "topic_title": "Tutorial 7: Tests of Controls and Substantive Tests 1",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Tests of Controls and Substantive Tests 2",
+            "topic_title": "Tutorial 8: Tests of Controls and Substantive Tests 2",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo tutorial or consultation this week.",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No tutorial or consultation this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Tests of Controls and Substantive Tests 3",
+            "topic_title": "Tutorial 9: Tests of Controls and Substantive Tests 3",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No TutorialWeek 11: Monday 7/10/2024 is King's birthday public holiday, so there is no tutorial / lecture this week.",
+            "topic_title": "No Tutorial",
+            "topic_description": "Week 11: Monday 7/10/2024 is King's birthday public holiday, so there is no tutorial / lecture this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Audit Sampling and Legal Liabilities",
+            "topic_title": "Tutorial 10: Audit Sampling and Legal Liabilities",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Completing the Audit",
+            "topic_title": "Tutorial 11: Completing the Audit",
+            "topic_description": "",
+            "learning_outcomes": []
+        }
+    ]
+}
