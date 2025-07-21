@@ -1,0 +1,290 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2205-60211-7460",
+    "full_course_code": "BSAN2205-60211-7460",
+    "course_code": "BSAN2205",
+    "class_code": "60211",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and explain the role of machine learning for business."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the key concepts in machine learning for business."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply the methods of machine learning to business."
+        },
+        {
+            "number": "LO4.",
+            "description": "Compare and critically evaluate the methods of machine learning."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate how applications of machine learning can inform and improve business performance."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1 - Project Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "2/09/2024 5:00 pm",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "This first assessment item is a project proposal outlining the application of a method of predictive analytics to business. The proposal is an individual and written assessment item.Students will write proposals in the range of 1,500 to 2,000. The proposal should contain several key components.1) Background2) Problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan6) Project directionsMore details of criteria and suggestions for approaching each section of the proposal will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in Word format.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit through Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2 - Project Report and Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "21/10/2024 5:00 pm",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "This second assessment item is a project report documenting the application of a method of predictive analytics to business. The report is an individual and written assessment item, and should follow-on from the project proposal. Students will write reports in the range of 3,000 to 3,500. The report should contain several key components.1) Background/problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan/modelling approach6) Data screening/testing assumptions7) Results and discussion/interpretations8) Summary of key findings9) Project summaryMore details of criteria and suggestions for approaching each section of the report will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in PowerPoint format and further, record and submit a recording of their presentations.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit through Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3 - R Based Analytical Take Home Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "11/11/2024 - 15/11/2024",
+            "learning_objectives": "L03, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+            "task_description": "This third assignment item is a School-based take-home assessment will run during the final exam period. Expectations for the assessment will be discussed in class. Briefly, the assessment will consistent of short-answer style questions focused on the core content of the course and process questions that require students to run analyses in R, and report and interpret the results of their R analysis.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "All assessment is to be submitted through Blackboard , detailed submission instructions will be provided on the course Blackboard Course Site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "1. Course Introduction and A1 OverviewLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "1. Course Introduction and A1 Overview",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "2. Preparation for Machine LearningLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "2. Preparation for Machine Learning",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "3. Linear RegressionLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "3. Linear Regression",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "4. Logistic RegressionLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "4. Logistic Regression",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "5. Time Series AnalysisLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "5. Time Series Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "6. Tree-Based MethodsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "6. Tree-Based Methods",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "7. Support Vector Machines and A2 OverviewLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "7. Support Vector Machines and A2 Overview",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "8. Ensemble MethodsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "8. Ensemble Methods",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "9. ClusteringLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "9. Clustering",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "10. Project WorkshopLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "10. Project Workshop",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "11. Association Rule LearningLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "11. Association Rule Learning",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "12. Collaborative FilteringLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "12. Collaborative Filtering",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "13. Course Revision and A3 PreparationLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "13. Course Revision and A3 Preparation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
