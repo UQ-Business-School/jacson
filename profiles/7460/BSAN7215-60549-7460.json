@@ -1,0 +1,208 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7215-60549-7460",
+    "full_course_code": "BSAN7215-60549-7460",
+    "course_code": "BSAN7215",
+    "class_code": "60549",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply innovative analytics-based solutions for complex business problems in collaboration with industry partner and/or peers."
+        },
+        {
+            "number": "LO2.",
+            "description": "Communicate effectively and professionally to justify project outcomes to relevant stakeholders."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate and reflect on project implications to inform future business practices."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Prototype",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "16/08/2024 4:00 pm",
+            "learning_objectives": "L01",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Product/ Design",
+            "task_description": "For this assessment, you will create an initial prototype of the envisaged analytics solution that will be developed throughout the course. The prototype will help you test initial ideas and gather feedback from project supervisors and teaching team early in the development process.The prototype must be accompanied by a written report that explains how the prototype addresses the project’s business problem, how it meets the requirements, and why the proposed interface helps users make data-driven decisions from the business data.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Presentation",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "4/10/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "As an individual (or as a team, if allocated), you are asked to deliver an oral and visual presentation to communicate key aspects of your developed solution to other teams and industry partners.Your industry supervisor should be the target audience in the presentation, who needs to be convinced that your analytics solution produces data-driven insights that address the business problem in an effective, technically sound, and creative way. You should do this by communicating effectively; that is, using concise, fluent and persuasive language, and structuring the presentation in a way that keeps the audience engaged. The final part of the assessment integrates a Q&A segment, when your industry partner will ask you questions and provide feedback. This provides a great opportunity to gather valuable feedback from them, which can be incorporated in the final industry report.Please Note:The presentation will be recorded for marking purposes per UQ Policy.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Industry Report",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "25/10/2024 4:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "A written report describing the analytics solution produced and how it was developed, providing justifications for the methods and approaches used in relation to the business problem identified earlier in the course.The report must also discuss in detail the findings, insights and/or business recommendations produced by your analytics solutions, and how they can be applied by the industry partner to address the business problem and needs. This final report is intended to accompany the analytics solution developed, providing more detailed information about what your team has produced along the course of the project, how and why it was produced in that way.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Reflective Essay",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "15/11/2024 4:00 pm",
+            "learning_objectives": "L03",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "For this assessment, you will need to develop an essay reflecting on your project outputs and learning experience while solving a complex business problem with data analytics.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Kick-Off MeetingKick-off meeting with teaching team and industry partner. The session includes an initial project planning discussion.Learning outcomes:L01",
+            "topic_title": "Kick-Off Meeting",
+            "topic_description": "Kick-off meeting with teaching team and industry partner. The session includes an initial project planning discussion.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "Review Content and Commence IdeationSelf-Directed Learning: Review content from your previous courses covered in the Master of Business Analytics and identify theories and frameworks that are applicable to your project. Continue to work on Assessment 1.Learning outcomes:L01",
+            "topic_title": "Review Content and Commence Ideation",
+            "topic_description": "Self-Directed Learning: Review content from your previous courses covered in the Master of Business Analytics and identify theories and frameworks that are applicable to your project. Continue to work on Assessment 1.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Prototype Soft-pitchOpportunity for students to pitch and discuss their prototype with the industry partner.Learning outcomes:L01, L02, L03",
+            "topic_title": "Prototype Soft-pitch",
+            "topic_description": "Opportunity for students to pitch and discuss their prototype with the industry partner.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "ReflectSelf-Directed Learning: Students can apply feedback received from the Industry Partner and Academic team. Students can work towards Assessments 2 and 3.Learning outcomes:L01, L02, L03",
+            "topic_title": "Reflect",
+            "topic_description": "Self-Directed Learning: Students can apply feedback received from the Industry Partner and Academic team. Students can work towards Assessments 2 and 3.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 9",
+            "activity_type": "Not Timetabled",
+            "topic": "SprintSelf-Directed Learning: Students continue to work on Assessment 2 and 3.Learning outcomes:L01, L02, L03",
+            "topic_title": "Sprint",
+            "topic_description": "Self-Directed Learning: Students continue to work on Assessment 2 and 3.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Not Timetabled",
+            "topic": "Presentations and FeedbackLearning outcomes:L01, L02, L03",
+            "topic_title": "Presentations and Feedback",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "Presentation RebuttalStudents to provide oral rebuttal to feedback from presentation. Students to continue solution development and incorporate feedback.Learning outcomes:L01, L02, L03",
+            "topic_title": "Presentation Rebuttal",
+            "topic_description": "Students to provide oral rebuttal to feedback from presentation. Students to continue solution development and incorporate feedback.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Not Timetabled",
+            "topic": "SprintSelf-Directed Learning: Project workLearning outcomes:L01, L02, L03",
+            "topic_title": "Sprint",
+            "topic_description": "Self-Directed Learning: Project work",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "General contact hours",
+            "topic": "Final ConsultationOpportunity for students to consult with academic team to clarify aspects of remaining assessments.Learning outcomes:L01, L02, L03",
+            "topic_title": "Final Consultation",
+            "topic_description": "Opportunity for students to consult with academic team to clarify aspects of remaining assessments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Exam week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "Finalise Reflective EssayLearning outcomes:L03",
+            "topic_title": "Finalise Reflective Essay",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        }
+    ]
+}
