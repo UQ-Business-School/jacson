@@ -1,0 +1,252 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7805-60246-7460",
+    "full_course_code": "FINM7805-60246-7460",
+    "course_code": "FINM7805",
+    "class_code": "60246",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the financial objective of the firm, and the key decision rules that stem from this objective."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply financial mathematics and use it for valuation of securities."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain and apply the capital budgeting process techniques to complex valuation situations including calculating the weighted average cost of capital."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the concepts of risk in a financial context, and be able to compare and apply the various approaches to manage these risks."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work successfully in a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Oral Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "27/08/2024 8:30 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Oral, Written",
+            "category": "Presentation",
+            "task_description": "The oral presentation consists of a 5 minute presentation followed by 5 minutes of Q&A, which will be held in class.You will be assessed on your: (i) written memorandum (i.e., a summary of your financial analysis), (ii) ability to present your key findings, and (iii) ability to answer questions from the audiences.If you are unable to attend the oral presentation, you must apply for an extension. Otherwise, penalties will be applied accordingly.Further details about oral presentation will be discussed in class and posted to our course Blackboard site.In-person assessment not permitting use of AI:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Financial Evaluation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "15/10/2024 5:30 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "For this project, you will be in a team of 4 or 5 members.Your task will be to undertake security valuation and portfolio analysis.Full details, and relevant materials will be provided on the course Blackboard site and discussed in class.Peer Review: Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of their Course Coordinator as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Take Home Assessment",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "4/11/2024 - 11/11/2024This assessment will be scheduled by the school and run for 24 hours during the examination period.",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The final assessment will be a 24-hour Take Home Assessment held during the official examination period. The Take Home Assessment will be scheduled by the School with students and staff updated on the specific details in due course.You will be assessed on the accuracy and clarity of answers.More details will be provided on Blackboard prior to the assessment release date.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "O-week",
+            "activity_type": "Seminar",
+            "topic": "Pre-course maths workshopLearning outcomes:L01, L02, L05",
+            "topic_title": "Pre-course maths workshop",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "The time value of moneyLearning outcomes:L01, L02",
+            "topic_title": "The time value of money",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Bond valuation and credit ratingsLearning outcomes:L01, L02",
+            "topic_title": "Bond valuation and credit ratings",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Stock valuationLearning outcomes:L01, L02",
+            "topic_title": "Stock valuation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "New project evaluation ILearning outcomes:L03",
+            "topic_title": "New project evaluation I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "New project evaluation IILearning outcomes:L03",
+            "topic_title": "New project evaluation II",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Oral presentationLearning outcomes:L01, L02",
+            "topic_title": "Oral presentation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Portfolio diversificationLearning outcomes:L04",
+            "topic_title": "Portfolio diversification",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Capital asset pricing modelLearning outcomes:L04",
+            "topic_title": "Capital asset pricing model",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Capital StructureLearning outcomes:L02, L04",
+            "topic_title": "Capital Structure",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester break",
+            "topic_title": "In-Semester break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Group AssignmentLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Group Assignment",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "The weighted-average cost of capitalLearning outcomes:L03",
+            "topic_title": "The weighted-average cost of capital",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Derivatives and risk managementLearning outcomes:L02, L04",
+            "topic_title": "Derivatives and risk management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Course reviewLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Course review",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
