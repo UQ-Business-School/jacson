@@ -1,0 +1,236 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7209-64239-7460",
+    "full_course_code": "BSAN7209-64239-7460",
+    "course_code": "BSAN7209",
+    "class_code": "64239",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Effectively appraise, judge and defend analytic projects and champion organisational change for a range of stakeholders."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design analytic projects aimed at high velocity industries and environments through practical approaches such as the business case, project plan, and test strategy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Manage project group dynamics to achieve agreed ethical, financial, temporal, and organisational objectives and expectations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Business Case with Pitch",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "3/09/2024 3:00 pmThe above due date and time is when the report and video of the pitch is due.Team pitches will be presented utilising the team’s video during the live session either this week or next.",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "This is a group assessment with multiple components. The assessment requires teams to:Write a project management focused business case (20%),Conduct a pitch (10%),Respond to Q&A (5%) andComplete peer assessment (5%) after the assessment has been submitted. All peer assessments will be due one week after the submission due date.Groups will be formed over Weeks 1 and 2. The group size will depend on the number of enrolments for the semester. This will be announced by the course coordinator in Week 1.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.More details can be found on the task sheet in the Assessment Folder on Blackboard, including arrangements for groups that cannot attend the live lecture to present.Read full task descriptionHide full task description",
+            "submission_guidelines": "The Business Case, Video and Peer Assessment will be submitted via the course's Learn.UQ site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Report",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "1st iteration 30/09/2024 3:00 pm21/10/2024 3:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "The business case from Assessment 1 forms the base of the now individual project plan that is at the centre of this assessment submission.An iteration of the report must be submitted by the end of Week 10.After submission of the iteration, you will receive details of a disruptor. The disruptor is to see how you propose to address the issue and to test your project plan in areas such as adaptability, resiliency, risk management and contingency planning. It will also test you as a project manager as parts of the disruptor may mean that you need to approach management and disagree with them with evidence to support such a position.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Further details can be found in the task sheet on Blackboard.Read full task descriptionHide full task description",
+            "submission_guidelines": "This assessment will be submitted via the course's Learn.UQ site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Reflective Report",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "4/11/2024 3:00 pm",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "Reflection is an important skill in agile approaches. While in agile approaches it is undertaken with others, here this assessment is an individual activity. The task is to write a reflective report that is to cover the areas stated on the task sheet available on Blackboard.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "This assessment will be submitted via the course's Learn.UQ site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 1.1: The BA project management journeySelf-Directed Learning: This is a two week module where you will take the first steps in navigating the journey of a business analytics project. We will consider: the differences between a business analytics project and business as usual, the required skills needed for your business analytics project, and evaluate the options available to kickstart a business analytics project.Learning outcomes:L01",
+            "topic_title": "Topic 1.1: The BA project management journey",
+            "topic_description": "Self-Directed Learning: This is a two week module where you will take the first steps in navigating the journey of a business analytics project. We will consider: the differences between a business analytics project and business as usual, the required skills needed for your business analytics project, and evaluate the options available to kickstart a business analytics project.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "Welcome session and course introductionThis week we will have a short introduction to the course and introduce the course content by running a simulation.Learning outcomes:L01",
+            "topic_title": "Welcome session and course introduction",
+            "topic_description": "This week we will have a short introduction to the course and introduce the course content by running a simulation.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "Simulation and project discussionThis week we will run the simulation again, finalise groups for the project and discuss the project.Learning outcomes:L01",
+            "topic_title": "Simulation and project discussion",
+            "topic_description": "This week we will run the simulation again, finalise groups for the project and discuss the project.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 1.2:Setting the scene for a kickstartSelf-Directed Learning: This topic will continue to discuss recommendations for the management of a business analytics project. This week will mainly concentrate on the kickstart of the project when using CRISP-DM embedded in Scrum.Learning outcomes:L01, L03",
+            "topic_title": "Topic 1.2:Setting the scene for a kickstart",
+            "topic_description": "Self-Directed Learning: This topic will continue to discuss recommendations for the management of a business analytics project. This week will mainly concentrate on the kickstart of the project when using CRISP-DM embedded in Scrum.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 2.1 Business understandingSelf-Directed Learning: This topic considers a number of ways that business understanding can be gained. It will consider the application of CRISP-DM and facilitating workshops involving key stakeholders, utilising a range of techniques.Learning outcomes:L01, L02",
+            "topic_title": "Topic 2.1 Business understanding",
+            "topic_description": "Self-Directed Learning: This topic considers a number of ways that business understanding can be gained. It will consider the application of CRISP-DM and facilitating workshops involving key stakeholders, utilising a range of techniques.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 2.2: Data understandingSelf-Directed Learning: This topic examines questions related to the data that will be needed for the project from a business case/project management perspective and delivery road maps.Learning outcomes:L02, L03",
+            "topic_title": "Topic 2.2: Data understanding",
+            "topic_description": "Self-Directed Learning: This topic examines questions related to the data that will be needed for the project from a business case/project management perspective and delivery road maps.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 2.3: Ethics and project management practicesSelf-Directed Learning: This topic is to allow some time to consider holistically how to avoid or mitigate common ethical dilemmas or issues that arise in business analytics project management.Learning outcomes:L01, L03",
+            "topic_title": "Topic 2.3: Ethics and project management practices",
+            "topic_description": "Self-Directed Learning: This topic is to allow some time to consider holistically how to avoid or mitigate common ethical dilemmas or issues that arise in business analytics project management.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Not Timetabled",
+            "topic": "Module 2 ConclusionSelf-Directed Learning: This week's self directed study is to focus on concluding this module's work.Learning outcomes:L01, L02, L03",
+            "topic_title": "Module 2 Conclusion",
+            "topic_description": "Self-Directed Learning: This week's self directed study is to focus on concluding this module's work.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 3.1 Daily Project Life and ChallengesSelf-Directed Learning: This topic considers the management of a business analytics project's daily life during delivery and addressing risks, issues and changes.Learning outcomes:L01, L03",
+            "topic_title": "Topic 3.1 Daily Project Life and Challenges",
+            "topic_description": "Self-Directed Learning: This topic considers the management of a business analytics project's daily life during delivery and addressing risks, issues and changes.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 3.2: Organisational ChangeSelf-Directed Learning: This topic critically examines how a project manager can influence organisational change to lessen the risk of project failure, in particular, if the organisational culture may be creating barriers.Learning outcomes:L01, L03",
+            "topic_title": "Topic 3.2: Organisational Change",
+            "topic_description": "Self-Directed Learning: This topic critically examines how a project manager can influence organisational change to lessen the risk of project failure, in particular, if the organisational culture may be creating barriers.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Not Timetabled",
+            "topic": "Module 3 ConclusionSelf-Directed Learning: This week is a good time to reflect and explore the extra resources provided in this module. You may wish to reconsider Module 3.1 again in the light of the organisational change issues raised in Module 3.2. Please spend some time discussing the module topics on the discussion board.Learning outcomes:L01, L03",
+            "topic_title": "Module 3 Conclusion",
+            "topic_description": "Self-Directed Learning: This week is a good time to reflect and explore the extra resources provided in this module. You may wish to reconsider Module 3.1 again in the light of the organisational change issues raised in Module 3.2. Please spend some time discussing the module topics on the discussion board.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 4.1: Final Delivery and implementationSelf-Directed Learning: This topic considers the final delivery planning requirements including final testing and implementation needs.Learning outcomes:L01, L02",
+            "topic_title": "Topic 4.1: Final Delivery and implementation",
+            "topic_description": "Self-Directed Learning: This topic considers the final delivery planning requirements including final testing and implementation needs.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 4.2: The rocky last mileSelf-Directed Learning: This topic examines the closing a project to ensure a good handover into business as usual mode for the system and safeguarding the lessons learnt from this project so they are utilised by future projects.Learning outcomes:L01",
+            "topic_title": "Topic 4.2: The rocky last mile",
+            "topic_description": "Self-Directed Learning: This topic examines the closing a project to ensure a good handover into business as usual mode for the system and safeguarding the lessons learnt from this project so they are utilised by future projects.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "Topic 4.3 Course SummarySelf-Directed Learning: This week is looking back over the course and reflecting on the journey. It is an opportunity to undertake a retrospective. It is also about the completion of the final assessment piece.Learning outcomes:L01, L02, L03",
+            "topic_title": "Topic 4.3 Course Summary",
+            "topic_description": "Self-Directed Learning: This week is looking back over the course and reflecting on the journey. It is an opportunity to undertake a retrospective. It is also about the completion of the final assessment piece.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
