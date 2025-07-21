@@ -1,0 +1,244 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7108-64224-7460",
+    "full_course_code": "FINM7108-64224-7460",
+    "course_code": "FINM7108",
+    "class_code": "64224",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Lead all phases of an applied research project with high level analytical and robust technical skills incorporating considerations of advances in technology wherever appropriate."
+        },
+        {
+            "number": "LO2.",
+            "description": "Pitch a solution with consideration of stakeholder expectations to achieve a successful outcome to facilitate investments and other initiatives."
+        },
+        {
+            "number": "LO3.",
+            "description": "Reflect on Aboriginal and Torres Strait Islander peoples' knowledge systems, perspectives, pedagogies and ways of doing through storytelling when pitching."
+        },
+        {
+            "number": "LO4.",
+            "description": "Reflect on the project with an emphasis on the plan management and efficacy."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project plan",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "19/08/2024 5:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This assessment is a written document in which students are required to provide a plan of the project they will work on for the remainder of the semester. Full details are available on Blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via link on Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project plan presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "30/08/2024 5:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "Students will be required to present their project plan in person. Full details are available on Blackboard.Please Note:The presentation will be recorded for marking purposes per UQ policy.This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Presentation will take place in person.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Written report",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "21/10/2024 5:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "The main assessment component for this course is a written report. Full details are available on Blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Reflection",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "11/11/2024 5:00 pm",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "Students are required to write a reflection on this course. Details are available on Blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "Introduction to the course and research (online)Learning outcomes:L01, L03",
+            "topic_title": "Introduction to the course and research (online)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Literature review (online + in person session)Learning outcomes:L01, L03",
+            "topic_title": "Literature review (online + in person session)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "General contact hours",
+            "topic": "Academic writing (online)Learning outcomes:L01",
+            "topic_title": "Academic writing (online)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "General contact hours",
+            "topic": "Project plan preparation (online)Learning outcomes:L01, L02",
+            "topic_title": "Project plan preparation (online)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "General contact hours",
+            "topic": "Presentation skills (online)Learning outcomes:L01, L02",
+            "topic_title": "Presentation skills (online)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "General contact hours",
+            "topic": "Presentation preparation (online)Learning outcomes:L01, L02",
+            "topic_title": "Presentation preparation (online)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Report preparation (online + in person session)Learning outcomes:L01",
+            "topic_title": "Report preparation (online + in person session)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "General contact hours",
+            "topic": "Data collectionLearning outcomes:L01",
+            "topic_title": "Data collection",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "General contact hours",
+            "topic": "Data analysisLearning outcomes:L01",
+            "topic_title": "Data analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Report preparation (online + in person session)Learning outcomes:L01",
+            "topic_title": "Report preparation (online + in person session)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "General contact hours",
+            "topic": "Report preparationLearning outcomes:L01",
+            "topic_title": "Report preparation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "General contact hours",
+            "topic": "Finalise reportLearning outcomes:L01",
+            "topic_title": "Finalise report",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "General contact hours",
+            "topic": "Reflection (online)Learning outcomes:L03, L04",
+            "topic_title": "Reflection (online)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
