@@ -1,0 +1,271 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7804-60187-7460",
+    "full_course_code": "ACCT7804-60187-7460",
+    "course_code": "ACCT7804",
+    "class_code": "60187",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise asset, liability, equity, revenue and expense items and apply appropriate measurement techniques to them for recognition in financial statements."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and evaluate the content of external financial reports."
+        },
+        {
+            "number": "LO3.",
+            "description": "Examine the role of effective corporate governance in the preparation of financial statements."
+        },
+        {
+            "number": "LO4.",
+            "description": "Use ratio analysis to interpret and determine the performance and position of a reporting entity."
+        },
+        {
+            "number": "LO5.",
+            "description": "Examine and employ relatively sophisticated valuation concepts."
+        },
+        {
+            "number": "LO6.",
+            "description": "Be aware of the regulatory environment in which financial statements are prepared."
+        },
+        {
+            "number": "LO7.",
+            "description": "Utilise accounting information to make a variety of decisions internal to the firm."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Open Book In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "20/08/2024 8:00 pmDuring Class. From 5:30pm to 8:00pm",
+            "learning_objectives": "L01, L02, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "In-Semester exam covering topics up to and including the Profit and Loss Statement.This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI) or collaboration. Students are advised that the use of AI technologies and collaboration with others to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission in Excel via Blackboard",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Corporate Disclosure",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "1/10/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "Students are to select a publicly listed Australian company of their choice and provide answers to the questions on the project outline as listed on Blackboard.Students will need to access the company's Annual Report and website in order to do the project, as well as utilise databases such as Morningstar DatAnalysis Premium and Factiva, which are available through the UQ library. Other sources of information such as analyst reports or articles in the financial press should also be consulted.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submitted in Turnitin via Blackboard Assessments in PDF format only.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End-of-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "5/11/2024 9:00 pmFrom 5:30pm to 9:00pm",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "It will cover topics since the In-Semester Exam and will also draw on some of the concepts from the beginning of the course.This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI) or collaboration. Students are advised that the use of AI technologies and collaboration with others to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission in Excel via Blackboard",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "O-week",
+            "activity_type": "Workshop",
+            "topic": "Financial Maths Workshop",
+            "topic_title": "Financial Maths Workshop",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Introduction to AccountingLearning outcomes:L01, L02, L06",
+            "topic_title": "Introduction to Accounting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Balance Sheet: AssetsLearning outcomes:L01, L02, L06",
+            "topic_title": "Balance Sheet: Assets",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Balance Sheet: Liabilities and Owner's EquityLearning outcomes:L01, L02, L05, L06",
+            "topic_title": "Balance Sheet: Liabilities and Owner's Equity",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Income StatementLearning outcomes:L01, L02, L06",
+            "topic_title": "Income Statement",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "In-Semester ExamLearning outcomes:L01, L02, L05, L06",
+            "topic_title": "In-Semester Exam",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Statement of Cash FlowsIn-Semester Exam during ClassLearning outcomes:L01, L02, L06",
+            "topic_title": "Statement of Cash Flows",
+            "topic_description": "In-Semester Exam during Class",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Financial Statement AnalysisLearning outcomes:L01, L02, L04",
+            "topic_title": "Financial Statement Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Corporate GovernanceLearning outcomes:L03, L06",
+            "topic_title": "Corporate Governance",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Forecast Statements and Business ValuationsLearning outcomes:L01, L02, L04, L05, L07",
+            "topic_title": "Forecast Statements and Business Valuations",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo Lecture. In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No Lecture. In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Business Valuations (External Perspective)Learning outcomes:L02, L05, L07",
+            "topic_title": "Business Valuations (External Perspective)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Cost Behaviour and Break Even AnalysisLearning outcomes:L07",
+            "topic_title": "Cost Behaviour and Break Even Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Costing and Marginal AnalysisLearning outcomes:L07",
+            "topic_title": "Costing and Marginal Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Management Control SystemsLearning outcomes:L07",
+            "topic_title": "Management Control Systems",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L07"
+            ]
+        }
+    ]
+}
