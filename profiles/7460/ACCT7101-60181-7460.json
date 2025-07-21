@@ -1,0 +1,266 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7101-60181-7460",
+    "full_course_code": "ACCT7101-60181-7460",
+    "course_code": "ACCT7101",
+    "class_code": "60181",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "understand the role of financial accounting in the business world including financial accounting framework and processes"
+        },
+        {
+            "number": "LO2.",
+            "description": "prepare accounting records and financial reports"
+        },
+        {
+            "number": "LO3.",
+            "description": "apply relevant accounting standards to accounting issues"
+        },
+        {
+            "number": "LO4.",
+            "description": "perform basic financial statement analysis"
+        },
+        {
+            "number": "LO5.",
+            "description": "evaluate financial accounting information to make business decisions"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25% Topics 1 to 4",
+            "due_date": "In-semester Saturday31/08/2024 - 14/09/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "In-semester exam consists of multiple choice questions, short answer theory questions, practical questions including the preparation of journal entries (including adjusting and closing entries), and the preparation of basic financial statements. The material will be drawn fromTopics 1 to 4 inclusive. In preparing for the in-semester exam you should review all lecture material, tutorial questions and exercises.The in-semester exam is acentrally scheduled & administered PAPER-BASED exam invigilated on campus.The exam will be scheduled by UQ Central Examinations for the Saturday In-Semester Exam period.More detailed information will be discussed in the lecture prior to the exam.AI Statement:Note: This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Note: \"Learning objectives\" refer to the objectives listed in section 2.2 of the course outline, NOT lecture topics.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Financial Report Analysis and Decision Making",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "10/10/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "You will be randomly assigned two ASX listed companies that operate in the same industry (Company A and Company B). Research the financial press and other sources of available information to familiarise yourself with the industry in which your allocated companies operate and with company-specific factors that may have or will affect either company’s performance.(a) Assume you are a loan officer who evaluates loan applications. Make a recommendation to the bank head office advising if the bank should accept or reject the loan application of company A.(b) Assume you are an investment manager who evaluates private equity placements. Make a recommendation to the board of directors advising which company to invest.The written responses to this assignment are limited to a maximum of 5 pages (Times Roman 12 point type, 1.5 line spacing and minimum 2 cm margin on either side). The Excel table of financial ratios and a list of references are excluded from this page limit.AI Statement:Note: This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised thatthe use of AI technologies to develop responses is strictly prohibitedandmay constitute student misconduct under the Student Code of Conduct.More details of the assignment will be provided in the lecture.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit your assignment before or on the due date. Follow the instructions below.a) Submit the assignment electronically as a PDF to the Turn-it-in link located in the Blackboard Assessment link. Follow the submission instructions. The title of your assignment in the Turn-it-in Submission Page must be the ASX code of your assigned Company A. Do not add anything else in the title. For example, Super Retail Group Ltd title would be: SUL.b) The assignment can be submitted once only. Once submitted your assignment cannot be modified and re-submitted. However, before submitting the assignment you can test it for text matching through a draft submission in the Draft Turn-it-in Assignment - To Test Originality folder.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50% All topics",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final exam will coverall the topics 1 to 11.The final exam consists of multiple-choice questions and written questions, including both practical and theoretical components. More detailed information regarding the exam will be provided in the revision lecture.This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.AI Statement:Note: This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Note: Sample exams are available on the university library website. Please note, however, that these are provided for revision purposes only.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1 - Introduction to Financial ReportingIntroduction to Financial Reporting - This lecture will provide an introduction to accounting including the business environment, the regulatory environment and the financial statements.Learning outcomes:L01, L04, L05",
+            "topic_title": "Lecture 1 - Introduction to Financial Reporting",
+            "topic_description": "Introduction to Financial Reporting - This lecture will provide an introduction to accounting including the business environment, the regulatory environment and the financial statements.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1 - Introduction to Financial ReportingIntroduction to Financial Reporting &Overview of accounting software: XeroLearning outcomes:L01, L04, L05",
+            "topic_title": "Tutorial 1 - Introduction to Financial Reporting",
+            "topic_description": "Introduction to Financial Reporting &\nOverview of accounting software: Xero",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2 - Double Entry AccountingRecording Transactions - Double Entry Accounting & Xero workshop(1): Preparing journal entries and trial balance using XeroLearning outcomes:L02, L03",
+            "topic_title": "Tutorial 2 - Double Entry Accounting",
+            "topic_description": "Recording Transactions - Double Entry Accounting & Xero workshop(1): Preparing journal entries and trial balance using Xero",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3 - Revenue and Expense RecognitionRevenue and Expense Recognition in Accrual Accounting & Xero workshop(2): Preparing adjusting journal entries and financial statements using XeroRoyal Queensland Show Public Holiday - No tutorial Wednesday 14 August 2024. Please attend alternative tutorial this week only.Learning outcomes:L02",
+            "topic_title": "Tutorial 3 - Revenue and Expense Recognition",
+            "topic_description": "Revenue and Expense Recognition in Accrual Accounting & Xero workshop(2): Preparing adjusting journal entries and financial statements using Xero\nRoyal Queensland Show Public Holiday - No tutorial Wednesday 14 August 2024. Please attend alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4 - Accounting for Merchandising FirmsLearning outcomes:L02, L03, L04, L05",
+            "topic_title": "Tutorial 4 - Accounting for Merchandising Firms",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5 - Financial Statement AnalysisLearning outcomes:L01, L04, L05",
+            "topic_title": "Tutorial 5 - Financial Statement Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Exam: No Tutorials Or LectureThere will be no lectures or tutorials in the week conducting the Saturday in-semester exam, which will cover the material from lectures 1 to 4.",
+            "topic_title": "In-Semester Exam: No Tutorials Or Lecture",
+            "topic_description": "There will be no lectures or tutorials in the week conducting the Saturday in-semester exam, which will cover the material from lectures 1 to 4.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6 - Accounting for Current AssetsLearning outcomes:L02, L03, L05",
+            "topic_title": "Tutorial 6 - Accounting for Current Assets",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7 - Accounting for Non-Current AssetsLearning outcomes:L02, L03, L05",
+            "topic_title": "Tutorial 7 - Accounting for Non-Current Assets",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8 - LiabilitiesLearning outcomes:L02, L03, L05",
+            "topic_title": "Tutorial 8 - Liabilities",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9 - EquityKing's Birthday Public Holiday - No tutorial Monday 7 October 2024. Please attend alternative tutorial this week only.Learning outcomes:L02, L03, L05",
+            "topic_title": "Tutorial 9 - Equity",
+            "topic_description": "King's Birthday Public Holiday - No tutorial Monday 7 October 2024. Please attend alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10 - Statement of Cash Flows ILearning outcomes:L02, L03, L04, L05",
+            "topic_title": "Tutorial 10 - Statement of Cash Flows I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11 - Statement of Cash Flows IIStatement of Cash Flows II & Analysing and Integrating GAAPLearning outcomes:L02, L03, L04, L05",
+            "topic_title": "Tutorial 11 - Statement of Cash Flows II",
+            "topic_description": "Statement of Cash Flows II & Analysing and Integrating GAAP",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
