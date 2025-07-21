@@ -1,0 +1,229 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM2416-60228-7460",
+    "full_course_code": "FINM2416-60228-7460",
+    "course_code": "FINM2416",
+    "class_code": "60228",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand factors that impact financial markets."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse financial data in order to assess a particular investment or investment strategy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Perform and evaluate different techniques to value equity, debt, and alternative investments."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain and evaluate the risks associated with investing, including understanding ethical and professional standards in an investment management context."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse techniques for portfolio creation and to measure portfolio performance."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "In-semester Saturday31/08/2024 - 14/09/2024Centrally timetabled exam on one of the following days: 31/08/2024, 07/09/2024 or 14/09/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Activity/ Performance",
+            "category": "Examination",
+            "task_description": "More details about the exam will be posted to our course BB site.The in-semester exam date will be advised as soon as we are made aware by the university.The in-semester exam will consist of 25 multiple-choice questions and 2 short conceptual questions from the topics covered in lectures (1-5) and tutorials (1-5).If you are unable to sit your exam, you must apply for a deferred exam (see section 5.4).This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of ConductRead full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Free Cash Flow Valuation of a Company",
+            "special_indicators": [],
+            "weighting": "25%",
+            "due_date": "18/09/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "You will be required to produce a report based on valuation of a company from the standpoint of a financial analyst. Overall you will provide an evaluation of the investment potential of the company's shares. In answering thisAn introduction and conclusion (with investment suggestions) is necessary.Your report is to be no more than 1200 words and typed in 12pt Times New Roman with 1.5 line spacing and normal margin.Your report should include assumptions, valuation, sensitivity analysis and investment suggestions.This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assignment must be submitted to both Turnitin AND Blackboard submission links. For more details, refers to the \"Assessment Guidelines\" on Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [],
+            "weighting": "45%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The course is integrative and thus all components of the course are subject to examination and should be understood to perform well.The final exam will consist of problem-solving and short-answer questions.This is a 120 minutes exam plus 10 minutes of reading time.If you are unable to sit your final exam, you must apply for a deferred exam.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Behavioral FinanceEfficient Market Hypothesis, Behavioral Biases, and Technical AnalysisLearning outcomes:L01, L02",
+            "topic_title": "Behavioral Finance",
+            "topic_description": "Efficient Market Hypothesis, Behavioral Biases, and Technical Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Behavioral FinanceLearning outcomes:L01, L02",
+            "topic_title": "Tutorial 1: Behavioral Finance",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Financial Statement AnalysisLearning outcomes:L02",
+            "topic_title": "Tutorial 2: Financial Statement Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Stock Valuation 1Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L03",
+            "topic_title": "Tutorial 3: Stock Valuation 1",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Stock Valuation 2Learning outcomes:L03",
+            "topic_title": "Tutorial 4: Stock Valuation 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Macro and Industry analysisLearning outcomes:L01, L02",
+            "topic_title": "Tutorial 5: Macro and Industry analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Fixed Income SecuritiesLearning outcomes:L03",
+            "topic_title": "Tutorial 6: Fixed Income Securities",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Bond PortfoliosLearning outcomes:L03",
+            "topic_title": "Tutorial 7: Bond Portfolios",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Portfolio Theory 1Learning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 8: Portfolio Theory 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Portfolio Theory 2Learning outcomes:L04, L05",
+            "topic_title": "Tutorial 9: Portfolio Theory 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Portfolio Theory 3King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L03, L04, L05",
+            "topic_title": "Tutorial 10: Portfolio Theory 3",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Alternative InvestmentsLearning outcomes:L02, L03, L04",
+            "topic_title": "Tutorial 11: Alternative Investments",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 12: Ethics and Professional Standards in the Investment IndustryOverview of lecture content, ethics in practice, scenario/case study examples to test the theory of the ethical framework and standardsLearning outcomes:L02, L03, L04",
+            "topic_title": "Tutorial 12: Ethics and Professional Standards in the Investment Industry",
+            "topic_description": "Overview of lecture content, ethics in practice, scenario/case study examples to test the theory of the ethical framework and standards",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
