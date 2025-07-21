@@ -1,0 +1,222 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM1201-60193-7460",
+    "full_course_code": "BISM1201-60193-7460",
+    "course_code": "BISM1201",
+    "class_code": "60193",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the terminology and concepts that are the fundamental building blocks of current and emerging business information systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and evaluate the role of business information systems in organisations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Utilise problem solving strategies to analyse and solve authentic business information system challenges."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Essay on Information Systems Theory",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "30/08/2024 3:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "This assessment will centre on evaluating your understanding of information systems.You will be required to answer questions in essay format, based on a case study.Please note that this is anindividualassignment and will be progressively discussed in weekly seminars.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via the Submission icon in the assessment link on the Blackboard course.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Excel Workbook",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "4/10/2024 3:00 pm",
+            "learning_objectives": "L02, L03",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Notebook/ Logbook, Practical/ Demonstration, Tutorial/ Problem Set",
+            "task_description": "This assessment will center on evaluating your understanding of ExcelThe assignment specifications will be distributed around Week 6.You will be required to work on a provided excel spreadsheet following provided instructions to answer given questions.Please note that this is anindividualassignment and will be progressively discussed in weekly seminars.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [],
+            "weighting": "60%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This is aninvigilated, closed-bookexam held on-campus focusing on work covered in the course.The exam comprises short answer, multiple choice and problem solving questions.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Course overview - Introduction to ISLearning outcomes:L01",
+            "topic_title": "Course overview - Introduction to IS",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Strategy, Value and ProcessesLearning outcomes:L01, L02",
+            "topic_title": "Strategy, Value and Processes",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Business Processes and Information SystemsLearning outcomes:L02",
+            "topic_title": "Business Processes and Information Systems",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Business Processes and Enterprise SystemsRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02, L03",
+            "topic_title": "Business Processes and Enterprise Systems",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Information Systems Development, WaterfallLearning outcomes:L01, L02, L03",
+            "topic_title": "Information Systems Development, Waterfall",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Information System Development, AgileLearning outcomes:L01, L02, L03",
+            "topic_title": "Information System Development, Agile",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Information Systems Development - Industry Guest SpeakerLearning outcomes:L01, L02",
+            "topic_title": "Information Systems Development - Industry Guest Speaker",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Relational DatabasesLearning outcomes:L01, L02",
+            "topic_title": "Relational Databases",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Relational DatabasesLearning outcomes:L02, L03",
+            "topic_title": "Relational Databases",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Information Systems in OrganisationsLearning outcomes:L02, L03",
+            "topic_title": "Information Systems in Organisations",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Business IntelligenceKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02, L03",
+            "topic_title": "Business Intelligence",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Business IntelligenceLearning outcomes:L02, L03",
+            "topic_title": "Business Intelligence",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Revision and Final Exam PreparationLearning outcomes:L01, L02",
+            "topic_title": "Revision and Final Exam Preparation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
