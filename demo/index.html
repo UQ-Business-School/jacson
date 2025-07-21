@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Quadrant Layout</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            font-family: Arial, sans-serif;
+        }
+        
+        .container {
+            margin: 0 20%;
+            min-height: 100vh;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: auto;
+            gap: 20px;
+            box-sizing: border-box;
+        }
+
+        /* --- Notice styling --- */
+        .dev-notice-top {
+            margin: 32px 20% 32px 20%;
+            background: #fff3cd;
+            border: 1.5px solid #ffeaa7;
+            border-radius: 8px;
+            padding: 20px 28px 18px 28px;
+            color: #856404;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .dev-notice-top h2 {
+            margin: 0 0 8px 0;
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #856404;
+        }
+        .dev-notice-top p {
+            margin: 0 0 10px 0;
+        }
+        .dev-notice-top ul {
+            margin: 0 0 0 18px;
+            padding-left: 0;
+        }
+        .dev-notice-top li {
+            margin-bottom: 6px;
+            font-size: 1em;
+        }
+        .dev-notice-top code {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 3px;
+            padding: 2px 6px;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            color: #e83e8c;
+        }
+        /* ---------------------- */
+
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            min-height: 120px;
+            height: 40%;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        }
+        
+        .scrape-request {
+            background-color: #1F0029;
+        }
+        
+        .assessment {
+            background-color: #51247A;
+        }
+        
+        .week {
+            background-color: #962A8B;
+        }
+        
+        .install {
+            background-color: #D7D1CC;
+            color: #333;
+        }
+
+        .github {
+            background-color: #24292e;
+            color: #ffffff;
+        }
+        
+        .card-subheading {
+            font-size: 18px;
+            font-weight: bold;
+            color: inherit;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- NOTICE AT TOP OF PAGE -->
+    <div class="dev-notice-top">
+        <h2>Note: JacSON is still in active development and has bugs.</h2>
+        <h4>It is nearly ready for closed-beta, but needs further refinement before it goes into production.</h4>
+        <p>Last update: 21 July 2025</p>
+        <p>To be fixed:</p>
+        <ul>
+            <li>Week 1 grabs anything that starts with a 1; so Week 1, 10, 11, 12, and 13.</li>
+            <li>Need to update the code in these blocks to point to <code>uq-business-school</code> and not to <code>uqgblaze</code></li>
+            <li>Include versioning in the copy/paste code so that future updates can be diagnosed if we run into errors.</li>
+            <li>Have the <code>iframe</code> dynamically increase in size based on the height of the page.</li>
+        </ul>
+    </div>
+    <!-- END NOTICE -->
+
+    <div class="container">
+        <button class="card scrape-request" type="button" data-url="https://docs.google.com/spreadsheets/d/1tJ04EY1AtyS-7iKlmgZhmom0f97xK3DsZ88wkqmRwNs/edit?usp=sharing">
+            <div class="card-subheading">Scrape Request</div>
+        </button>
+
+        <button class="card assessment" type="button" data-url="https://uq-business-school.github.io/jacson/demo/assessment.html">
+            <div class="card-subheading">Assessment</div>
+        </button>
+
+        <button class="card week" type="button" data-url="https://uq-business-school.github.io/jacson/demo/week.html">
+            <div class="card-subheading">Week</div>
+        </button>
+
+        <button class="card install" type="button" data-url="https://uq-business-school.github.io/jacson/demo/install.html">
+            <div class="card-subheading">Install Instructions</div>
+        </button>
+
+        <button class="card github" type="button" data-url="https://github.com/uqgblaze/jacson">
+            <div class="card-subheading">Github: Original Creator</div>
+        </button>
+
+        <button class="card github" type="button" data-url="https://github.com/UQ-Business-School/jacson">
+            <div class="card-subheading">Github: UQ Business School Clone</div>
+        </button>
+    </div>
+
+    <script>
+        // Add click handlers to navigate to the URLs
+        document.querySelectorAll('.card').forEach(card => {
+            card.addEventListener('click', () => {
+                const url = card.getAttribute('data-url');
+                if (url) {
+                    window.open(url, '_self');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
