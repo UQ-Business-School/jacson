@@ -1,0 +1,261 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7202-60198-7460",
+    "full_course_code": "BISM7202-60198-7460",
+    "course_code": "BISM7202",
+    "class_code": "60198",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply theoretical knowledge of information systems fundamentals as well as the latest trends in information systems and technology practice in your future careers."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and critically evaluate the impacts (including ethical and sustainability impacts) information systems (including artificial intelligence) have on individuals, organisations, and society as a whole."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate a basic level of knowledge of the different types of information systems such as artificial intelligence and data analytics tools."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the importance of information systems as knowledge, decision and business intelligence tools for managers."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop skills to make informed decisions on the development and installation of new information systems and the upgrade of existing information systems, including the development of spreadsheets to support business decision-making."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual In-Semester Online Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "10%",
+            "due_date": "Week 8 - further details will be advised in Seminars throughout the semester.",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "This is an open-book online quiz, scheduled to be in the middle of the semester.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "MS Excel Assignment and Reflective Essay",
+            "special_indicators": [],
+            "weighting": "35%",
+            "due_date": "21/10/2024 5:00 pm",
+            "learning_objectives": "L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project, Reflection",
+            "task_description": "A foundational Excel Spreadsheet is provided for students to modify and update to meet the challenges presented in the Case Specification.The assignmentMUSTbe done individually. The assignment may also include self-learning components that cover content/knowledge not present in the tutorials. It is expected that the student will undertake their own research to master this component.Assessment Criteria may include Formulas & Functions, PivotTables, PivotCharts, and Charts, Database & Advanced Functions, What-if Analysis, Solver, General Aspects, Reflections Quality, and other relevant measures. More details will be provided on Blackboard.As part of the assignment, students will write an essay and share their reflections on the process of developing the solution.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assignment must be submitted electronically (as a compressed file) via the Blackboard Assessment link.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Invigilated End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "55%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The assessment covers the content of the lectures and any extra materials provided. This exam will be scheduled by the Examinations Office.This exam is aclosed book, invigilated, paper-based examas required by UQ and Professional Accounting organisations.AI Statement:This exam is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Course Overview and IntroductionIS and your career; Course Overview; Course Assessment; Introduction to the Course.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Course Overview and Introduction",
+            "topic_description": "IS and your career; Course Overview; Course Assessment; Introduction to the Course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Introduction to ExcelCreating and Formatting a WorksheetLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 1: Introduction to Excel",
+            "topic_description": "Creating and Formatting a Worksheet",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Formulas and functionsPerforming Quantitative AnalysisLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 2: Formulas and functions",
+            "topic_description": "Performing Quantitative Analysis",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: ChartsDepicting Data Visually.Wed 16th August - Public Holiday. Affected students please attend an alternate tutorial for this week only.Learning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 3: Charts",
+            "topic_description": "Depicting Data Visually.\nWed 16th August - Public Holiday. Affected students please attend an alternate tutorial for this week only.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Datasets and TablesManaging Large Volumes of DataLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 4: Datasets and Tables",
+            "topic_description": "Managing Large Volumes of Data",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Subtotals, Pivottables, and PivotChartsSummarising and AnalysingLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 5: Subtotals, Pivottables, and PivotCharts",
+            "topic_description": "Summarising and Analysing",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: What-if AnalysisUsing Decision-Making ToolsLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 6: What-if Analysis",
+            "topic_description": "Using Decision-Making Tools",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Specialised FunctionsUsing Date, Logical, Statistical, Financial FunctionsLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 7: Specialised Functions",
+            "topic_description": "Using Date, Logical, Statistical, Financial Functions",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Additional Specialised FunctionsUsing Text, Database, and Lookup FunctionsLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 8: Additional Specialised Functions",
+            "topic_description": "Using Text, Database, and Lookup Functions",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Dive Deep and Statistical FunctionsReview previous tutorials and Analysing StatisticsLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 9: Dive Deep and Statistical Functions",
+            "topic_description": "Review previous tutorials and Analysing Statistics",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Multiple Sheet Workbook ManagementEnsuring Quality ControlKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 10: Multiple Sheet Workbook Management",
+            "topic_description": "Ensuring Quality Control\nKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Power Add-InsManaging DataLearning outcomes:L02, L04, L05",
+            "topic_title": "Tutorial 11: Power Add-Ins",
+            "topic_description": "Managing Data",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 12: Exam Preparation + Future Skills: VBA and MacrosDevelop VBA scripts and macros; Exam Preparation Hints and TipsLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 12: Exam Preparation + Future Skills: VBA and Macros",
+            "topic_description": "Develop VBA scripts and macros; Exam Preparation Hints and Tips",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
