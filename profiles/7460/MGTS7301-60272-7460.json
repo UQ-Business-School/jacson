@@ -1,0 +1,263 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7301-60272-7460",
+    "full_course_code": "MGTS7301-60272-7460",
+    "course_code": "MGTS7301",
+    "class_code": "60272",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply commonly used rational analytical tools to real-world business problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply commonly used business studio design tools to real-world business problems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Synthesise and evaluate complex findings in an effective way."
+        },
+        {
+            "number": "LO4.",
+            "description": "Examine a complicated business environment as part of a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe and discuss the ethical context of business decisions and situation analysis."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Strategic analysis reflections",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40% (Two reflection reports and one simulation game)",
+            "due_date": "23/08/2024 3:00 pm20/09/2024 3:00 pm11/10/2024 3:00 pm",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Reflection, Role play/ Simulation",
+            "task_description": "During workshops, students will have the chance to discuss cases using specific strategic analytical tools covered each week. Students are highly encouraged to read the cases, actively participate in discussions, and consider how these tools and techniques can be practically applied.Students must submit reflection reports twice and complete one simulation game during the semester: once in week 5, again in week 9 and one simulation game in week 11 . Each reflection report should be within 1500 words.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Business Tools For Making Decisions",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "21/10/2024 3:00 pm",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "Students will be asked to form in teams of three (3) and be assessed on their group analysis report.The team will select a company to apply tools and frameworks we have learnt through the semester. In this analysis, three main sections are required, includingframing and identifying problems and opportunities, strategy choice and positioning, and strategy evaluation and implementation.At the end of the assessment task, all team members will be required to complete a peer assessment of each other's performance and contribution to the assessment. Instructions for how to do this will be provided in class.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Take home assignment",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "4/11/2024 - 11/11/2024This assessment will be scheduled by the school and run for 48 hours during the examination period",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "The final assessment will be a take home assignment. You will have 48 hours during the examination period to complete the assessment and to submit it electronically. A schedule will be released towards the end of semester.The assessment requires students to familiarise themselves with the facts of a business case that will be made available during the semester. Students will be asked to develop and justify a 'best practices' response to the application of tools and techniques. Students will be given more information about how to access the business case and questions towards the end of the semester.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Course Overview and strategic thinkingThis lecture will provide you with a brief history of the tools for business analysis we will cover in this course. The course syllabus and assessment will also be outlined. You will also be introduced to the concepts of rational analytical tools, strategic thinking, and critical thinking, with an explanation of how these are used in Business.Learning outcomes:L01, L03, L04, L05",
+            "topic_title": "Course Overview and strategic thinking",
+            "topic_description": "This lecture will provide you with a brief history of the tools for business analysis we will cover in this course. The course syllabus and assessment will also be outlined. You will also be introduced to the concepts of rational analytical tools, strategic thinking, and critical thinking, with an explanation of how these are used in Business.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "Strategic thinking and logical thinkingIn this workshop, we will examine the evolution of tools and techniques beginning with a focus on rational analytical tools. Students will also be introduced to the simulation game for their workshop activities. Students will form teams to practice the critical thinking, strategic thinking, and strategic planning through simulation game.Students will also take self-evaluation about their critical thinking and strategic thinking abilities during the workshop.Learning outcomes:L01, L03, L04, L05",
+            "topic_title": "Strategic thinking and logical thinking",
+            "topic_description": "In this workshop, we will examine the evolution of tools and techniques beginning with a focus on rational analytical tools. Students will also be introduced to the simulation game for their workshop activities. Students will form teams to practice the critical thinking, strategic thinking, and strategic planning through simulation game. \nStudents will also take self-evaluation about their critical thinking and strategic thinking abilities during the workshop.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Case-based learning",
+            "topic": "External business environment analysisIn this workshop, you will apply external analysis tools to the case study and use your findings to make decisions on behalf of the organisation. A multimedia case will be provided before the workshop along with questions. During the workshop, we will discuss the case and solve these questions together.Learning outcomes:L01, L03, L04",
+            "topic_title": "External business environment analysis",
+            "topic_description": "In this workshop, you will apply external analysis tools to the case study and use your findings to make decisions on behalf of the organisation. A multimedia case will be provided before the workshop along with questions. During the workshop, we will discuss the case and solve these questions together.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Case-based learning",
+            "topic": "Stakeholder analysis applicationIn this workshop, we will explore the stakeholder analysis tools and apply it to the case study. A case study will be provided before the workshop along with case questions. During the workshop, we will listen to a Podcast, which includes the interview with the manager. We will discuss based on the case content and the interview around how to reconcile shareholders with other stakeholders.Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L03, L04, L05",
+            "topic_title": "Stakeholder analysis application",
+            "topic_description": "In this workshop, we will explore the stakeholder analysis tools and apply it to the case study. A case study will be provided before the workshop along with case questions. During the workshop, we will listen to a Podcast, which includes the interview with the manager. We will discuss based on the case content and the interview around how to reconcile shareholders with other stakeholders. \nRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Case-based learning",
+            "topic": "Application of the Internal capability analysis toolsIn this workshop, you will apply VRIN Resources and Capabilities analysis to the case study, and use your findings to make decisions on behalf of the organisation.Learning outcomes:L01, L03, L04, L05",
+            "topic_title": "Application of the Internal capability analysis tools",
+            "topic_description": "In this workshop, you will apply VRIN Resources and Capabilities analysis to the case study, and use your findings to make decisions on behalf of the organisation.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Case-based learning",
+            "topic": "Business crisis turnaround analysisIn this workshop, you will analyze a declining firm as a case study and apply relevant tools and frameworks.Learning outcomes:L01, L03, L04, L05",
+            "topic_title": "Business crisis turnaround analysis",
+            "topic_description": "In this workshop, you will analyze a declining firm as a case study and apply relevant tools and frameworks.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Case-based learning",
+            "topic": "Application of Scenario planningIn this workshop, you will apply Scenario Planning to the case study and use your findings to make decisions on behalf of the organisation.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Application of Scenario planning",
+            "topic_description": "In this workshop, you will apply Scenario Planning to the case study and use your findings to make decisions on behalf of the organisation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Case-based learning",
+            "topic": "Corporate level strategy choice and decisionIn this workshop, students will be given a case study, where tools and frameworks can be used and applied to analyze and decide on corporate level strategy.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Corporate level strategy choice and decision",
+            "topic_description": "In this workshop, students will be given a case study, where tools and frameworks can be used and applied to analyze and decide on corporate level strategy.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Case-based learning",
+            "topic": "Business level strategy choice and decisionIn this workshop, students will apply tools and frameworks to analyze a company business level strategy.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Business level strategy choice and decision",
+            "topic_description": "In this workshop, students will apply tools and frameworks to analyze a company business level strategy.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester break",
+            "topic_title": "In-Semester break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Case-based learning",
+            "topic": "Business model analysisIn this workshop, you will analyze a given business case based on Competitive strategy & Business Model tools and frameworks.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Business model analysis",
+            "topic_description": "In this workshop, you will analyze a given business case based on Competitive strategy & Business Model tools and frameworks.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "Balanced scorecardIn this workshop, you will be given a simulation game to use the balanced scorecard as practice.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Balanced scorecard",
+            "topic_description": "In this workshop, you will be given a simulation game to use the balanced scorecard as practice.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Business functionsIn this lecture, we will introduce a few commonly used frameworks to implement business functions, such as CAGE framework; leadership; communication; marketing 4P, and supply chain analysis framework.Learning outcomes:L01, L03, L05",
+            "topic_title": "Business functions",
+            "topic_description": "In this lecture, we will introduce a few commonly used frameworks to implement business functions, such as CAGE framework; leadership; communication; marketing 4P, and supply chain analysis framework.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Course RecapWhere have we been in the course? What does this indicate for the future of business tools?Learning outcomes:L01, L03, L05",
+            "topic_title": "Course Recap",
+            "topic_description": "Where have we been in the course? What does this indicate for the future of business tools?",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
