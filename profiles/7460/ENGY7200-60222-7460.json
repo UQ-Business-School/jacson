@@ -1,0 +1,165 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGY7200-60222-7460",
+    "full_course_code": "ENGY7200-60222-7460",
+    "course_code": "ENGY7200",
+    "class_code": "60222",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (19/08/2024 - 19/10/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the critical strategic importance of innovation for all organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically evaluate the nature and context of the innovation process in the sustainable energy sector and how it is changing."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate competence in adapting and applying the strategic and operational managerial frameworks and tools necessary for innovation leadership."
+        },
+        {
+            "number": "LO4.",
+            "description": "Interpret and apply the theory of disruptive innovation to market and industry trends."
+        },
+        {
+            "number": "LO5.",
+            "description": "Using teamwork skills, develop an innovation strategy for an organisation, illustrating insight in the application of innovation themes and theories."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Foundation Modules Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "10%",
+            "due_date": "19/08/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "Multiple-choice and short-answer quiz on Blackboard, to test understanding of Foundation Modules.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Quiz administered via Blackboard site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Proposal Presentations",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "10%",
+            "due_date": "29/08/2024Online via Zoom 17:00 to 20:00 - More information provided in class.",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation, Project",
+            "task_description": "Students, in groups, will present their project proposals for an analysis of innovation strategies of a given organisation in the energy/sustainability sector. Please see Blackboard for further details.Team Presentation Slides are to be submitted to Blackboard PRIOR to the presentation.Peer Assessment is available: if a group member wishes to do a peer assessment of their group's work, they must notify the lecturer, who will then invite ALL group members to do it. This assessment will produce a Peer Assessment Factor (PAF) which will be multiplied by the total group mark for the assessment piece to form an individual mark.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Reflective Essay on Simulation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "13/09/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique, Reflection",
+            "task_description": "The assignment is to write a 1500 word reflective essay, based on your experience with the online innovation strategy simulation, to be electronically submitted via Blackboard. Please see Blackboard for further details.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "All assessment items should be submitted through the ENGY7200 Blackboard site via TurnItIn",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Innovation Strategy Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "8/10/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "Students, in groups, will compile an innovation strategy report analysing the innovation strategies of a given organisation in the energy/sustainability sector. This report builds on work and feedback in the Group Presentation assignment task. Please see Blackboard for further details.Peer Assessment will be available for this assessment.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "All assessment items should be submitted through the ENGY7200 Blackboard site via TurnItIn",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "General contact hours",
+            "topic": "Foundation Modules: 12/08 to 19/08Self Directed LearningLearning outcomes:L01",
+            "topic_title": "Foundation Modules: 12/08 to 19/08",
+            "topic_description": "Self Directed Learning",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "General contact hours",
+            "topic": "Online Discussion 1 - 29/08Discussion of AssessmentsLearning outcomes:L03, L04, L05",
+            "topic_title": "Online Discussion 1 - 29/08",
+            "topic_description": "Discussion of Assessments",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "General contact hours",
+            "topic": "Online Discussion 2 - 23/09Feedback and Discussion of BBBBay Battery Assessment - Integration of LearningLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Online Discussion 2 - 23/09",
+            "topic_description": "Feedback and Discussion of BBB\nBay Battery Assessment - Integration of Learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "Day 1 - 20/08Introduction to the Course, Strategy Concepts and the Energy TransitionCreativity, Ideation and the Innovation ProcessThe Guest SpeakerTeam FormationBack Bay Battery Simulation: Basic Scenario with 10 runsLearning outcomes:L01, L02, L03",
+            "topic_title": "Day 1 - 20/08",
+            "topic_description": "Introduction to the Course, Strategy Concepts and the Energy Transition\nCreativity, Ideation and the Innovation Process\nThe Guest Speaker\nTeam Formation\nBack Bay Battery Simulation: Basic Scenario with 10 runs",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
