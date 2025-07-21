@@ -1,0 +1,230 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7106-60185-7460",
+    "full_course_code": "ACCT7106-60185-7460",
+    "course_code": "ACCT7106",
+    "class_code": "60185",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Undertake industry and competitive strategy analysis."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand why and how to reformulate financial statements to facilitate equity valuation and financial statement analysis."
+        },
+        {
+            "number": "LO3.",
+            "description": "Undertake financial ratio analysis to determine the drivers of profitability and growth and to assess accounting quality."
+        },
+        {
+            "number": "LO4.",
+            "description": "Prepare pro forma forecasts of the financial statements based on sales forecasts, growth rates, and ratios."
+        },
+        {
+            "number": "LO5.",
+            "description": "Provide an intrinsic price estimate for a stock using the appropriate valuation model and formulate a buy-sell recommendation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Financial Statement Analysis Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "9/09/2024 1:00 pm",
+            "learning_objectives": "L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "This project requires students to complete a detailed financial statement analysis of an Australian listed company.In broad terms, the required analysis follows the content of thefirst five classes:Reformulation of the four financial statementsAnalysis of financial ratiosNote also:Detailed instructions will be provided on Learn.UQ (Blackboard).Students will be randomly assigned a company to analyse.This is an individual assessment.You must prepare a written report and provide your supporting workings in Excel. Excel work must reflect correct financial modelling conventions, which will be discussed in the class.Forecasting, valuation and accounting quality analysis will not be required for this project.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please submit your write-up and Excel workings through Learn.UQ (Blackboard). See the Project Document on Learn.UQ (Blackboard).",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "60%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "Exam questions will address practical and conceptual issues covered over the full course.The exam is anon-campus, closed book, and paper-basedexam invigilated by UQ appointed invigilators.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1 - IntroductionLearning outcomes:L02",
+            "topic_title": "Lecture 1 - Introduction",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "Workshop 1 - IntroductionLearning outcomes:L02",
+            "topic_title": "Workshop 1 - Introduction",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "Workshop 2 - Accounting Reformulation ILearning outcomes:L02",
+            "topic_title": "Workshop 2 - Accounting Reformulation I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "Workshop 3 - Accounting Reformulation IIThere is a public holiday on 14 August (Wednesday) - EKKA holiday. Thus, the affected workshops will be rescheduled for this week only. The schedule will be made available closer to this week.Learning outcomes:L02",
+            "topic_title": "Workshop 3 - Accounting Reformulation II",
+            "topic_description": "There is a public holiday on 14 August (Wednesday) - EKKA holiday. Thus, the affected workshops will be rescheduled for this week only. The schedule will be made available closer to this week.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "Workshop 4 - Accounting Reformulation IIILearning outcomes:L02",
+            "topic_title": "Workshop 4 - Accounting Reformulation III",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "Workshop 5 - Ratio AnalysisLearning outcomes:L03",
+            "topic_title": "Workshop 5 - Ratio Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "Workshop 6 - Valuation & Forecasting ILearning outcomes:L01, L04, L05",
+            "topic_title": "Workshop 6 - Valuation & Forecasting I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "Workshop 7 - Valuation & Forecasting IILearning outcomes:L04, L05",
+            "topic_title": "Workshop 7 - Valuation & Forecasting II",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "Workshop 8 - Valuation & Forecasting IIILearning outcomes:L04, L05",
+            "topic_title": "Workshop 8 - Valuation & Forecasting III",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "Workshop 9 - Valuation & Forecasting IVLearning outcomes:L01, L04, L05",
+            "topic_title": "Workshop 9 - Valuation & Forecasting IV",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "Workshop 10 - Accounting Quality ILearning outcomes:L03",
+            "topic_title": "Workshop 10 - Accounting Quality I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "Workshop 11 - Accounting Quality IILearning outcomes:L03",
+            "topic_title": "Workshop 11 - Accounting Quality II",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Lecture 13 - Summary and RevisionLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Lecture 13 - Summary and Revision",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
