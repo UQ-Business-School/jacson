@@ -1,0 +1,259 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7403-60240-7460",
+    "full_course_code": "FINM7403-60240-7460",
+    "course_code": "FINM7403",
+    "class_code": "60240",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse and evaluate accounting, financial and non-financial information relevant to the task of asset allocation and security selection."
+        },
+        {
+            "number": "LO2.",
+            "description": "Assess the value of a financial asset using a variety of accepted methods."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain and evaluate the risks associated with investments on portfolio and security levels."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the performance of a portfolio and portfolio manager."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply theory to the analysis of real world cases when working as part of a team, and employ databases and softwares commonly used in the industry."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "17/09/2024 6:50 pmDuring Lecture.",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The In-Semester exam is an open-book and online exam during class.The exam consists of multiple choice and short answer questions. Solving some of these problems will involve calculation.More details will be provided on the course Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Team Assignment + Peer Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "14/10/2024 5:00 pm",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "The assignment consists of:1. group project tasks that you are required to work in a team to complete all the project tasks in the assignment sheet (20 marks). The assignment task sheet will be available on Learn.UQ (Blackboard) from Teaching Week 2.2. a peer assessment of each assignment group member's contributions (5 marks). A peer assessment is to be completed individually, for which you must rate the contribution of each member of your project team using the Peer Assessment tool on Blackboard.NOTE:Artificial Intelligence (AI) or Machine Translation (MT) uses:You may use AI in completing a specified part of this assignment. The use of AI must be acknowledged and referenced. Not referencing or acknowledging AI use may constitute student misconduct under the (PPL 3.60.01)Student Code of Conduct. While for other parts of the assignment, the use of AI is prohibited. Machine Translation is prohibited in all parts of the assignment.Detailed guidelines for this assignment are provided on our course BB site. You should aim to complete this assignment progressively throughout the semester, and you will be guided each week as to what parts of your analysis you are adequately equipped to undertake. Leaving this assignment until the final week before it's due won't provide you with enough time to communicate effectively between your team members to complete this task.WORD LIMIT:2,500 words.Read full task descriptionHide full task description",
+            "submission_guidelines": "The project must be submitted for grading via the Blackboard Assignment submission link. It is also required that students submit the project to Turnitin for an integrity check.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "45%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final assessment consists ofShort-answer questions,Essay questions.Further details will be discussed in class.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1: The Investment EnvironmentThis topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets.Learning outcomes:L02, L05",
+            "topic_title": "Lecture 1: The Investment Environment",
+            "topic_description": "This topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: The Investment EnvironmentLearning outcomes:L02, L05",
+            "topic_title": "Tutorial 1: The Investment Environment",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Equity Valuation ILearning outcomes:L01, L02, L05",
+            "topic_title": "Tutorial 2: Equity Valuation I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Equity Valuation IIRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial 3: Equity Valuation II",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Equity Valuation IIILearning outcomes:L01, L03, L05",
+            "topic_title": "Tutorial 4: Equity Valuation III",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Bond Valuation ILearning outcomes:L01, L03, L05",
+            "topic_title": "Tutorial 5: Bond Valuation I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Bond Valuation IINo Tutorial due to In-Semester ExamLearning outcomes:L01, L03, L05",
+            "topic_title": "Tutorial 6: Bond Valuation II",
+            "topic_description": "No Tutorial due to In-Semester Exam",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Portfolio Theory ILearning outcomes:L01, L02, L05",
+            "topic_title": "Tutorial 7: Portfolio Theory I",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "No tutorial this week",
+            "topic_title": "No tutorial this week",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Portfolio Theory IILearning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial 8: Portfolio Theory II",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Portfolio Performance EvaluationLearning outcomes:L03, L04, L05",
+            "topic_title": "Tutorial 9: Portfolio Performance Evaluation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Options MarketsLearning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial 10: Options Markets",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: EMH & Behavioural FinanceLearning outcomes:L03, L04, L05",
+            "topic_title": "Tutorial 11: EMH & Behavioural Finance",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
