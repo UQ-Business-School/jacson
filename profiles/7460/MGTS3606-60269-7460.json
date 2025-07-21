@@ -1,0 +1,238 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS3606-60269-7460",
+    "full_course_code": "MGTS3606-60269-7460",
+    "course_code": "MGTS3606",
+    "class_code": "60269",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Consider the impact of globalisation on human resource management practices and principles."
+        },
+        {
+            "number": "LO2.",
+            "description": "Engage in global HR with a sensitive understanding of the impact of diversity."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply international human resource management practices and principles."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate an ability to create effective processes and productive team dynamics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team Global Mobility Handbook",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "50% Team",
+            "due_date": "12/08/2024 - 11/10/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Presentation, Reflection",
+            "task_description": "TheGlobal Mobility Handbookis a team projectand consists of a written report, a recorded presentation, and 2 peer assessments. Please see Blackboard for further description and expectations.The project expects students to describe, evaluate, and analyse a global recruitment and selection challenge in an emerging market context.The written report is approximately 2,000 words or 8 pages, whichever comes first.The team presentation must not be longer than 4 minutes in duration, and ideally no less than 3.Peer assessments are conducted following the written and presentation components.The project covers Themes 1, 2, and 3 put forward in the course.Written project submission deadline (W8; September 13, 12:00pm AEST).Team presentation deadline (W11; October 11, 12:00pm AEST).This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Team written report submission completed through Turnitin in the Blackboard Assessments link.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "5 Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "12/08/2024 - 11/10/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "Form: 5 open-book quizzes to be completed individually.Questions: 5 multiple choice questions per quiz.Medium: Exclusively online via Blackboard.Timing:Chapter 2 content covered in Week 3&4 will be assess in Week 5 (Quiz 1).Chapter 5 content covered in Week 5&6 will be assessed in Week 7 (Quiz 2).Chapter 6 content covered in Week 7 will be assessed in Week 8 (Quiz 3).Chapter 7 content covered in Week 8&9 will be assessed in Week 10 (Quiz 4).Chapter 8 content covered in Week 10 will be assessed in Week 11 (Quiz 5).This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You cannot defer or apply for an extension for this assessment.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Global Mobility Handbook",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "8/10/2024 - 22/10/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "ThisGlobal Mobility Handbookcomponent is anindividual projectand consists of awritten report only.Please see Blackboard for further description and expectations.Each student is expected to describe, evaluate, and analyseeithera global performance and career management, global training and development,ora global compensation challenge in an emerging market context.The written report is approximately 2,000 words or 8 pages, whichever comes first.The content of the project can be general or be written with an industry, occupation, or company context in mind.The project covers Themes 1, 2, and 3 put forward in the course.Submission deadline (W13; October 22, 17:00 AEST).This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission of written report through Turnitin in the Blackboard Assessments link.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Course IntroductionCourse Introduction & Chapter 1Learning outcomes:L01",
+            "topic_title": "Course Introduction",
+            "topic_description": "Course Introduction & Chapter 1",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Introduction to Global HRChapter 1 cont.Learning outcomes:L01",
+            "topic_title": "Introduction to Global HR",
+            "topic_description": "Chapter 1 cont.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Global HR and Diversity & Inclusion, Part 1Chapter 2Learning outcomes:L01, L02, L03",
+            "topic_title": "Global HR and Diversity & Inclusion, Part 1",
+            "topic_description": "Chapter 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Global HR and Diversity & Inclusion, Part 2Chapter 2Learning outcomes:L01, L02",
+            "topic_title": "Global HR and Diversity & Inclusion, Part 2",
+            "topic_description": "Chapter 2",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Sourcing Global Talent, Part 1Chapter 5Quiz #1Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Sourcing Global Talent, Part 1",
+            "topic_description": "Chapter 5\nQuiz #1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Sourcing Global Talent, Part 2Chapter 5Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Sourcing Global Talent, Part 2",
+            "topic_description": "Chapter 5",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Global Performance ManagementChapter 6Quiz #2Learning outcomes:L01, L03",
+            "topic_title": "Global Performance Management",
+            "topic_description": "Chapter 6\nQuiz #2",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Global Training and Development, Part 1Chapter 7Quiz #3Learning outcomes:L01, L03",
+            "topic_title": "Global Training and Development, Part 1",
+            "topic_description": "Chapter 7\nQuiz #3",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Global Training and Development, Part 2Chapter 7Learning outcomes:L01, L03",
+            "topic_title": "Global Training and Development, Part 2",
+            "topic_description": "Chapter 7",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakIndependent Study",
+            "topic_title": "In-Semester Break",
+            "topic_description": "Independent Study",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Global Compensation, Part 1Chapter 8Quiz #4Learning outcomes:L01, L03",
+            "topic_title": "Global Compensation, Part 1",
+            "topic_description": "Chapter 8\nQuiz #4",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "Global Compensation, Part 2Chapter 8Quiz #5Learning outcomes:L01, L02, L03",
+            "topic_title": "Global Compensation, Part 2",
+            "topic_description": "Chapter 8\nQuiz #5",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Future Global HR Trends and ReviewChapter 10Learning outcomes:L01, L02, L03",
+            "topic_title": "Future Global HR Trends and Review",
+            "topic_description": "Chapter 10",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Course SummaryCourse Summary",
+            "topic_title": "Course Summary",
+            "topic_description": "Course Summary",
+            "learning_outcomes": []
+        }
+    ]
+}
