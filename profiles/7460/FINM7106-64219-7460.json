@@ -1,0 +1,135 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7106-64219-7460",
+    "full_course_code": "FINM7106-64219-7460",
+    "course_code": "FINM7106",
+    "class_code": "64219",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (19/08/2024 - 04/10/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Integrate financial and non-financial data from multiple sources to make robust investment decisions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse return streams on the various stages of a private business/venture evolution over different investment horizons to maximise returns on exit."
+        },
+        {
+            "number": "LO3.",
+            "description": "Present conclusions, key valuation strategies and findings to stakeholders with a group of peers through using Indigenous Knowledge Systems, Perspectives, Pedagogy and ways of doing."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate technological feasibility and business model viability."
+        },
+        {
+            "number": "LO5.",
+            "description": "Customise incentive frameworks appropriate for different stakeholders within the investment model."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Case Study Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "6/09/2024 3:00 pm",
+            "learning_objectives": "L02, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "Students will be required to apply the knowledge and skills acquired during the initial online/self-directed learning content to analyse a chosen case study connected to Private Equity.  They will provide a written paper responding to a range of questions and advise on strategies and approaches to Private Equity investments,.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Simulation Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "35%",
+            "due_date": "Simulation During Class 13/09/2024Written Reflection 4/10/2024 3:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral, Written",
+            "category": "Presentation, Reflection, Role play/ Simulation",
+            "task_description": "On Day 3 of the face-to-face course you will work on an LBO simulation. You will be assessed on your group collaboration and the quality of the answers you present on the day. The questions you will present will depend on the number of groups on the day (70% of the total grade for this assignment).Following the face-to-face sessions, an additional short reflection piece on this exercise will be done in your group highlighting what you did well, what you could have done better and what you learnt from the exercise (30% of the total grade for this assignment).This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "15%",
+            "due_date": "4/10/2024 3:00 pm",
+            "learning_objectives": "L04, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "Following the face-to-face sessions students will submit a short reflection referring to the practical investment negotiations they performed. You will incorporate what you did well and why, what you could have done differently and the anticipated outcomes and provide specific examples of negotiations to describe the specifics of venture-capitalist/entrepreneurs negotiations.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3",
+            "activity_type": "General contact hours",
+            "topic": "Online Learning / Self-Paced Learning19 August - 10 September (Self-Directed Learning)Topics covered include structuring a fund and raising capital, assessing investment opportunities and valuing potential investments.Learning outcomes:L01, L02, L04",
+            "topic_title": "Online Learning / Self-Paced Learning",
+            "topic_description": "19 August - 10 September (Self-Directed Learning)\nTopics covered include structuring a fund and raising capital, assessing investment opportunities and valuing potential investments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "Face-Face Learning: Day 111 September 2024Topics: Venture capital growth - negotiation and structuring the transaction.Learning outcomes:L01, L03, L05",
+            "topic_title": "Face-Face Learning: Day 1",
+            "topic_description": "11 September 2024\nTopics: Venture capital growth - negotiation and structuring the transaction.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 7",
+            "activity_type": "General contact hours",
+            "topic": "Online Learning / Assessment14 September - 4 OctoberTopics include Value creation in portfolio companies and exit strategies. In addition to self directed learning, students will be working individually to develop their assessment.Learning outcomes:L01, L02, L04, L05",
+            "topic_title": "Online Learning / Assessment",
+            "topic_description": "14 September - 4 October\nTopics include Value creation in portfolio companies and exit strategies. In addition to self directed learning, students will be working individually to develop their assessment.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
