@@ -1,0 +1,255 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ADVT3509-60189-7460",
+    "full_course_code": "ADVT3509-60189-7460",
+    "course_code": "ADVT3509",
+    "class_code": "60189",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the key components in managing the advertising function within a firm efficiently and effectively."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply knowledge of advertising including features, trends and measurement."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically examine and critique advertising strategy and practice in relation to various industry campaigns."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work with a team to create and pitch a persuasive comprehensive advertising campaign to a professional audience."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Ad Campaign Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "30/08/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This assessment involves the preparation of an ad campaign analysis.Individually,you are to provide an analysis of the campaign elements for a chosen recent advertisement.You are to submit a 3 x A4 page (maximum) report that provides an understanding of the product and audience factors underpinning the ad campaign, the strategic approach, and the creative strategy of the advertising campaign. Further details about this task will be available in class and on Blackboard.As per UQ Assessment Policy, all submissions must be written in English.Student use of AI in assessment:This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "Assignments must be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Advertising Campaign Pitch",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "18/10/2024",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Presentation, Project",
+            "task_description": "This assessment is to be completed as a team project and offers you an exciting opportunity to develop a full advertising campaign in response to the client brief. This assessment is to be completed as a team. Each team must formally prepare a presentation [the “Pitch”] for their advertising project findings.Teams will comprise 5 students, and presentations will be delivered on campus during tutorials of Week 12. The Pitch presentation slides deck will be due for submission on the day of your presentation. The Pitch presentation will be restricted to 15 minutes per team. Presentations must be professional as if you were presenting your solution to the Client. All group members must be present on Pitch day and must speak in the presentation, but not necessarily for the same amount of time.Detailed assessment guidelines and the marking criteria sheet for this group assessment will be posted on Blackboard and discussed in workshops. The Pitch presentation must be delivered/submitted in English.Please Note:The presentation will be recorded for marking purposes per UQ Policy.TeamworkGroup members are expected to contribute equally, fulfilling the tasks agreed on early in the semester. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of the Tutor/Lecturer/Course Coordinator as early as possible. Students will be required to complete a Self and Peer Review Evaluation, reflecting on their own and their member's contributions during the development of the group assessment items. Students final individual grades will be determined by the team's project grade and individual results of the Peer evaluations. Further details will be outlined in the assessment guidelines document on Blackboard. Team members who work in good faith will not experience grade adjustments, while individuals who perform below expectations or fail to pull their weight will experience a negative grade adjustment. The Course Coordinator reserves the right to adjust peer evaluations to ensure fairness. Students are advised to be proactive and make expectations of one another clear from the start. Poor communication is often the source of discrepancies. Any problems that arise are expected to be brought to the Course Coordinator's attention well before the assessment submission deadlines.Student use of AI in assessment:This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Pitch presentations will be delivered during tutorials in Week 12. The Pitch presentation slides deck must be uploaded to Blackboard on the day of your the presentation.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The exam consists of 20 multiple-choice questions and 2 short-essay questions.This exam is a closed book, on-campus, paper-based exam invigilated by UQ appointed invigilators.Further details will be made available on Blackboard closer to the date of the exam.Student use of AI in assessment:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "No tutorial Week 1",
+            "topic_title": "No tutorial Week 1",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Intro to Advertising ManagementLearning outcomes:L01, L03",
+            "topic_title": "Intro to Advertising Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Advertising FoundationsLearning outcomes:L01, L03",
+            "topic_title": "Advertising Foundations",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Advertising PlanningLearning outcomes:L01, L02, L03",
+            "topic_title": "Advertising Planning",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Target Audience AnalysisLearning outcomes:L02, L03",
+            "topic_title": "Target Audience Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Consumer InsightsLearning outcomes:L01, L02, L03",
+            "topic_title": "Consumer Insights",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Creative StrategyLearning outcomes:L01, L03",
+            "topic_title": "Creative Strategy",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "IdeationLearning outcomes:L01, L02, L03",
+            "topic_title": "Ideation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Media StrategyLearning outcomes:L01, L03",
+            "topic_title": "Media Strategy",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Social MediaLearning outcomes:L01, L03",
+            "topic_title": "Social Media",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Brand PositioningKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L03",
+            "topic_title": "Brand Positioning",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Ad Pitch AssessmentLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Ad Pitch Assessment",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Course Review and Exam PrepLearning outcomes:L01, L03",
+            "topic_title": "Course Review and Exam Prep",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        }
+    ]
+}
