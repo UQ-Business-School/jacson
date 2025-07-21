@@ -1,0 +1,247 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/EIBS7311-60218-7460",
+    "full_course_code": "EIBS7311-60218-7460",
+    "course_code": "EIBS7311",
+    "class_code": "60218",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Create a validated Business Model Canvas."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate the potential for a new business opportunity."
+        },
+        {
+            "number": "LO3.",
+            "description": "Create a compelling presentation to convince a wide range of customers, investors and stakeholder of the potential for a new business opportunity."
+        },
+        {
+            "number": "LO4.",
+            "description": "Create and articulate a new business opportunity by exploiting unaddressed customer problems and opportunities."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate and validate or invalidate assumptions and hypotheses with a diverse range of customers about a range of problems and solutions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Humble Discovery Opportunity Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "9/09/2024 2:00 pm",
+            "learning_objectives": "L02, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "Students will be required to personally present a slide deck including:Business Model Environmental Map (BMEM) Analysis -an analysis of the external Trends and forces influencing the creation of the new Business ModelExternal Discovery –Situational analysis of context, research, innovations and challengesHumble Discovery –Qualitativeinterviews and observations of stakeholdersExperiments– In-person and online experiments to identify and engage stakeholders to gain and test assumptions and insights.Detailed DescriptionBMEM- Business Models exist and are relevant at a specific point in time. When developing a business model one must take into account the current context and environment the business model will exist in. This assessment will require students to complete a detailed Business Model Environment Map (BMEM) including an analysis of:Key TrendsIndustry ForcesMarket Forces; andMacroeconomic ForcesStudents should highlight the most relevant insights gained through this analysis and how they are relevant to their project.A detailed overview of the BMEM is available in class resourcesExternal Discovery– New products, services and business models exist and are relevant at a specific point in time. When endeavouring to challenge the status quo one must consider the past, present and emerging context and environment.Students should assemble a cohesive analysis of the status quo context by:a.  Identifying the top 5 organisations and the 5 fastest growing start-ups/social enterprises solving the relevant problem or exploiting a relevant opportunity.b.  Analyse scholarly literature reviews to identify current and emerging challenges, trends and opportunities.c.  Create an ecosystem map, identifying all the key stakeholders and the relationships between themStudents should summarise the most relevant insights and how they relate to their project.Humble Discovery- Thick Data is the best method for mapping unknown territory as it provides something External (Big) Data explicitly does not — inspiration. The act of collecting and analysing stories produces insights. Thick Data uses qualitative, ethnographic methods to uncover people’s emotions, stories, and models of their world. It’s the sticky stuff that’s difficult to quantify. It only requires a small sample size which can deliver an depth of meanings and stories.a)  Conduct a minimum of 20 in person interviews (not surveys) across at least three types of stakeholders including customers, users, beneficiaries, economic buyers, decision-makers and saboteurs to identify unsatisfied social, emotional and functional jobs and unrealised opportunities.b)  Present2 customer empathy maps. One for theprimary consumer, user, beneficiaryand one for the first best customer, economic buyer.Experiments- Demonstrate how you have used experiments to identify and engage relevant stakeholders to test assumptions and gain insights. Examples of no cost experiments are found in Module 4 and include:·      A very basic landing page·      A simple LinkedIn, Facebook, Instagram, Tik Tok or Reddit post·      Online or in-person seminars, webinars and focus groups·      An Immersion experience (see IDEO’s Field Guide to Human Centred Design)·      Stakeholders diary (see module 4)·      Any tool described in the Stanford Pretotype table (see module 4)·      Get potential users and customers to look at or try a low-fidelity MVP·      Use your imaginationAI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written (and or audio visual) submission independent of AI tools.Students cannot have any audio visual (ie AI generated avatar) presenting any part of their assessment.Read full task descriptionHide full task description",
+            "submission_guidelines": "Students will be required to",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Insight and Empathy Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "21/10/2024",
+            "learning_objectives": "L03, L04",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation, Reflection",
+            "task_description": "Assignment 2 - Stakeholder Journey and Reflection PresentationEvery student will present in class an extract of their pre-recorded audio visual enabled presentation including:1. A contrast between the current Status Quo (BAU) Business Model of incumbents you will be disrupting or usurping and your proposed new Business Model.NB: Use the below format1.Ways to present the business model canvas: avoiding mistakes and delivering a killer presentation (strategyzer.com)2.Strategyzer Webinar: Ways To Present The Business Model Canvas - YouTube2. Final customer foothold personas and empathy maps for your final1.  consumer/user/beneficiary2.  customer/economic buyer3. A Reflection on the three biggest insights you discovered about:1.Your project- Describe the most surprising insights you learned about your target customer(s) functional, social and emotional Jobs to be Done;2.You- How has the course changed your understanding of yourself,  your motivations, decisions and behaviours? How will this capstone experience impact your future work and life?Presentations should go for 7-8 minutesPlease Note:The presentation will be recorded for marking purposes.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written (and or audio visual) submission independent of AI tools.Students cannot have any audio visual (ie AI generated avatar) presenting any part of their assessment.Read full task descriptionHide full task description",
+            "submission_guidelines": "Students need to:",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Business Model Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "4/11/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "Assignment 3 – Final Written ReportThe submission must contain all the assumptions, evidence of validation and details of insights gained from data collection and synthesis and convergence of BMEM and customer interviews and observations. Essentially this final report is a compilation of the entire semester's work and should be able to stand alone with a prospective investor, partner or customer and offer a compelling rationale to act.The final report will include:Humble Discovery insights- The journey from the start to the end including:How your understanding of your stakeholders changed through the semesterYour final Foothold Persona forConsumer/user/beneficiaryCustomer/Economic Buyer/Decision maker; andEvidence from interviews, observations and experiments validating Problem-Solution Fit.Interview data - A table listing all the interviews undertaken and the associated insights gained.Experiments and MVP’s- Outline all the experiments and MVP's used to identify target customers, test solutions, gain evidence of problem-solution fit, validate or invalidate assumptions and demonstrate your first best customers' and relevant stakeholders willingness to engage and act.The Final Business Modelincluding:·      Detailed description of each of the 9 BMC segments which includes evidence your Business Model is desirable, feasible and viable;·      An evaluation and justification of how your business model rates against the Strategyzer Innovative BMC Assessment Questions for Leaders;and·      How your business model is different to the prevailing Business Model of competitors.All interview Data needs to be documented including:the date, name and demographics of the intervieweethe insights gained from the interviewAI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written (and or audio visual) submission independent of AI tools.Students cannot have any audio visual (ie AI generated avatar) presenting any part of their assessment.Read full task descriptionHide full task description",
+            "submission_guidelines": "Upload the assignment through the Blackboard Turnitin link.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Understanding and influencing human behaviour – For goodAt the outset, we're going to dive straight into the main purpose of innovation. Spoiler alert – It’s not about making you rich. Innovation is the engine that drives the advancement of humanity, for better and worse to be honest. We’re going to dive into the different types of innovation, from small incremental to large and transformational. We will also learn that innovation requires influencing humans to change their behaviour, which is probably one of the hardest things you will ever try. But the best and only place to start is to acquire empathy and understanding with UQ's proprietary approach called Humble Discovery.Students will present projects to the class outlining either a problem or a solution/idea they want to explore. Students can work on their own or in a team.Learning outcomes:L02, L05",
+            "topic_title": "Understanding and influencing human behaviour – For good",
+            "topic_description": "At the outset, we're going to dive straight into the main purpose of innovation. Spoiler alert – It’s not about making you rich. Innovation is the engine that drives the advancement of humanity, for better and worse to be honest. We’re going to dive into the different types of innovation, from small incremental to large and transformational. We will also learn that innovation requires influencing humans to change their behaviour, which is probably one of the hardest things you will ever try. But the best and only place to start is to acquire empathy and understanding with UQ's proprietary approach called Humble Discovery.\n\nStudents will present projects to the class outlining either a problem or a solution/idea they want to explore. Students can work on their own or in a team.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Discovering and Understanding your WhoThis week we will explore the logic, methods, tactics and tools an innovator needs to be able to navigate through the ambiguity and uncertainty of the innovation process. We will introduce you to the field of ethnography; understanding people and their worlds and how you can use it to develop and deliver products and services that users, customers and stakeholders will use and love. In order to develop a new intervention that solves targeted stakeholders' problems or unlocks new value we need confidence and evidence we are solving the right problem or building something people will use. This week we will explore how to gather this evidence.An overview of the requirements for Assignment 1 will be provided.Learning outcomes:L01, L02",
+            "topic_title": "Discovering and Understanding your Who",
+            "topic_description": "This week we will explore the logic, methods, tactics and tools an innovator needs to be able to navigate through the ambiguity and uncertainty of the innovation process. We will introduce you to the field of ethnography; understanding people and their worlds and how you can use it to develop and deliver products and services that users, customers and stakeholders will use and love. In order to develop a new intervention that solves targeted stakeholders' problems or unlocks new value we need confidence and evidence we are solving the right problem or building something people will use. This week we will explore how to gather this evidence.\nAn overview of the requirements for Assignment 1 will be provided.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "How do you discover problems worth solving and opportunities worth creating?So how do we discover the right problems to solve and the best new opportunities, products and services to create that people will love? This is the most important question in the process of innovation and entrepreneurship and the hardest skill to develop. This week, we're going to learn how to interact with lots of people in such a way to “discover” their problems without asking them directly and “create” new opportunities they will love.Learning outcomes:L03, L04, L05",
+            "topic_title": "How do you discover problems worth solving and opportunities worth creating?",
+            "topic_description": "So how do we discover the right problems to solve and the best new opportunities, products and services to create that people will love? This is the most important question in the process of innovation and entrepreneurship and the hardest skill to develop. This week, we're going to learn how to interact with lots of people in such a way to “discover” their problems without asking them directly and “create” new opportunities they will love.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Identifying Insights, Testing Assumptions and Finding StakeholdersPerhaps the biggest discovery we’ve made about challenging the status quo is that we need to test every assumption and do not proceed until we have validated or invalidated our assumptions. People are complex so this task is difficult. However, many methods, tools and tactics have been developed to enable innovators to test whether their understanding of their stakeholders and associated problems, solutions and opportunities are valid. This session will introduce you to a series of tools and tactics to increase your capacity to discover real problems needing solutions and strategies to exploit new opportunities.Learning outcomes:L04, L05",
+            "topic_title": "Identifying Insights, Testing Assumptions and Finding Stakeholders",
+            "topic_description": "Perhaps the biggest discovery we’ve made about challenging the status quo is that we need to test every assumption and do not proceed until we have validated or invalidated our assumptions. People are complex so this task is difficult. However, many methods, tools and tactics have been developed to enable innovators to test whether their understanding of their stakeholders and associated problems, solutions and opportunities are valid. This session will introduce you to a series of tools and tactics to increase your capacity to discover real problems needing solutions and strategies to exploit new opportunities.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Experiment workshop and Students present an update of their Humble Discovery InsightsThis session will be a hands-on workshop to build digital and analogue experiments including a landing page, apps, wireframes and physical artifacts which can be used to test assumptions and hypotheses and gain insights into your stakeholders' problems, latent aspirations, hopes, dreams, fears, driving and restraining forces.Students present an update of their Humble Discovery InsightsLearning outcomes:L02, L05",
+            "topic_title": "Experiment workshop and Students present an update of their Humble Discovery Insights",
+            "topic_description": "This session will be a hands-on workshop to build digital and analogue experiments including a landing page, apps, wireframes and physical artifacts which can be used to test assumptions and hypotheses and gain insights into your stakeholders' problems, latent aspirations, hopes, dreams, fears, driving and restraining forces.\nStudents present an update of their Humble Discovery Insights",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Fieldwork",
+            "topic": "UQ Ventures VisitAt UQ Ventures St Lucia, students will hear about the extensive UQ Start-up support programs. Presentations will be made by UQ Ventures staff, the iLab start-up accelerator Entrepreneur in Residence and past iLab alumni. Students will have an opportunity to pitch their start-up project idea.Learning outcomes:L04, L05",
+            "topic_title": "UQ Ventures Visit",
+            "topic_description": "At UQ Ventures St Lucia, students will hear about the extensive UQ Start-up support programs. Presentations will be made by UQ Ventures staff, the iLab start-up accelerator Entrepreneur in Residence and past iLab alumni. Students will have an opportunity to pitch their start-up project idea.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Past Student Presentations and Guest speakersPast Lean Start-up students will present their final project summary and what they learned throughout the course.Learning outcomes:L02, L04",
+            "topic_title": "Past Student Presentations and Guest speakers",
+            "topic_description": "Past Lean Start-up students will present their final project summary and what they learned throughout the course.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "A Desirable, Feasible and Viable Business ModelThe Business Model Canvas (BMC) was developed as a tool to describe and prototype how new and established organisations can differentiate, design and describe their business model. While the term business model has been standard management vernacular for decades, if not longer, the advent of the BMC by Alexander Osterwalder and Yves Pigneur and the subsequent incorporation of the BMC into Steve Blanks’ Lean Launchpad start-up methodology firmly entrenched the BMC as an enduring artifact in strategy, innovation and entrepreneurship teaching and practice.Learning outcomes:L01",
+            "topic_title": "A Desirable, Feasible and Viable Business Model",
+            "topic_description": "The Business Model Canvas (BMC) was developed as a tool to describe and prototype how new and established organisations can differentiate, design and describe their business model. While the term business model has been standard management vernacular for decades, if not longer, the advent of the BMC by Alexander Osterwalder and Yves Pigneur and the subsequent incorporation of the BMC into Steve Blanks’ Lean Launchpad start-up methodology firmly entrenched the BMC as an enduring artifact in strategy, innovation and entrepreneurship teaching and practice.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Assignment 1 Summary PresentationStudents will be required to present a summary of:1. Humble Discovery insights incl 2 x empathy maps and Customer Foothold Persona.2. Their use of multiple MVP's and experiments to identify and engage relevant stakeholders.Learning outcomes:L03, L05",
+            "topic_title": "Assignment 1 Summary Presentation",
+            "topic_description": "Students will be required to present a summary of:\n1. Humble Discovery insights incl 2 x empathy maps and Customer Foothold Persona.\n2. Their use of multiple MVP's and experiments to identify and engage relevant stakeholders.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo Class",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No Class",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Creating Disruptive Business ModelsGuest Lecturer this week - details to be announced on BlackboardAlex Osterwalder’s company Strategyzer has gradually been refining a series of tools that enable innovators, entrepreneurs and game changers to use the BMC to invent new business models. This culminated in their latest book “The Invincible Company”. While it’s primarily designed to help established organisations innovate to avoid disruption, chapter three is particularly relevant for game changers and innovators looking to invent new disruptive business models.Learning outcomes:L01",
+            "topic_title": "Creating Disruptive Business Models",
+            "topic_description": "Guest Lecturer this week - details to be announced on Blackboard\nAlex Osterwalder’s company Strategyzer has gradually been refining a series of tools that enable innovators, entrepreneurs and game changers to use the BMC to invent new business models. This culminated in their latest book “The Invincible Company”. While it’s primarily designed to help established organisations innovate to avoid disruption, chapter three is particularly relevant for game changers and innovators looking to invent new disruptive business models.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "Consultations with Lecturers - NO CLASS (Seminar):There is no Class this week. Students are encouraged to make an appointment with the Lecturers to discuss their project.th, td {\n         position: relative;\n      }\n      th {\n         background: #f0f0f0;\n         border: 1px solid #dad7d7;\n         background-clip: padding-box;\n      }\n      td {\n         border: 1px solid lightgray;\n         padding: 4px;\n      }\n      .table-blot-wrapper {\n         position: relative;\n       }\n      .active-cell {\n        outline: 1px solid #066fa9;\n        background: rgba(193, 214, 253, 0.3);\n      }\n      .menu-placeholder {\n         position: absolute;\n         background: #dad7d7;\n         top: 50%;\n         transform: translateY(-50%);\n         right: 2px;\n         visibility: hidden;\n         z-index:1;\n         border-radius: 3px;\n         cursor: pointer;\n      }\n      .active-cell .menu-placeholder {\n       visibility:visible;\n      }\n      .cell-content {\n        line-height: 22px;\n        outline: none;\n        min-width: 120px;\n        min-height: 40px;\n        padding: 10px 0 10px 5px;\n      }\n      .table-operations-menu {\n        position: absolute;\n        width: 225px;\n        min-height: 100px;\n        top: 25px;\n        border-radius: 5px;\n        visibility: hidden;\n        padding: 10px 5px 10px 10px;\n        background: #fff;\n        box-shadow: -2px 2px 7px 0 rgba(0, 0, 0, 0.5);\n      }\n      .table-operations-menu-item {\n        padding: 4px 0;\n        cursor:pointer;\n        font-weight: normal;\n      }\n      .table-operations-menu-item img {\n        margin-right: 4px;\n        vertical-align: -4px;\n      }\n      .table-operations-menu-item.no-image {\n        padding-left: 24px;\n      }\n      .border-bottom {\n        border-bottom: 1px solid #dad7d7;\n        padding-bottom: 10px !important;\n        margin-bottom: 10px;\n      }\n      .set-background input {\n        width:14px;\n        height: 14px;\n        margin-right: 10px;\n        vertical-align: -2px;\n        cursor: pointer;\n      }\n      .color-box {\n        display: inline-block;\n        width: 20px;\n        height: 20px;\n        background: #f0f0f0;\n        border: solid 1px #dad7d7;\n        margin-left: 10px;\n        border-radius: 2px;\n        vertical-align: -4px;\n      }\n      .background-active {\n        background: #f0f0f0 !important;\n        outline: 1px solid #d7d7d7;\n      }\n      .text-format-item {\n        width: 20px !important;\n        display: inline-block;\n        margin-right: 5px;\n      }\n      .bold {\n        font-weight: bold !important;\n      }\n      .italic {\n        font-style: italic !important;\n      }\n      .underline {\n        text-decoration: underline !important;\n      }\n      .align-left {\n        text-align: left !important;\n      }\n      .align-right {\n        text-align: right !important;\n      }\n      .center {\n        text-align: center !important;\n      }Learning outcomes:L01",
+            "topic_title": "Consultations with Lecturers - NO CLASS (Seminar):",
+            "topic_description": "There is no Class this week. Students are encouraged to make an appointment with the Lecturers to discuss their project.\n\n\n\n      th, td {\n         position: relative;\n      }\n      th {\n         background: #f0f0f0;\n         border: 1px solid #dad7d7;\n         background-clip: padding-box;\n      }\n      td {\n         border: 1px solid lightgray;\n         padding: 4px;\n      }\n      .table-blot-wrapper {\n         position: relative;\n       }\n      .active-cell {\n        outline: 1px solid #066fa9;\n        background: rgba(193, 214, 253, 0.3);\n      }\n      .menu-placeholder {\n         position: absolute;\n         background: #dad7d7;\n         top: 50%;\n         transform: translateY(-50%);\n         right: 2px;\n         visibility: hidden;\n         z-index:1;\n         border-radius: 3px;\n         cursor: pointer;\n      }\n      .active-cell .menu-placeholder {\n       visibility:visible;\n      }\n      .cell-content {\n        line-height: 22px;\n        outline: none;\n        min-width: 120px;\n        min-height: 40px;\n        padding: 10px 0 10px 5px;\n      }\n      .table-operations-menu {\n        position: absolute;\n        width: 225px;\n        min-height: 100px;\n        top: 25px;\n        border-radius: 5px;\n        visibility: hidden;\n        padding: 10px 5px 10px 10px;\n        background: #fff;\n        box-shadow: -2px 2px 7px 0 rgba(0, 0, 0, 0.5);\n      }\n      .table-operations-menu-item {\n        padding: 4px 0;\n        cursor:pointer;\n        font-weight: normal;\n      }\n      .table-operations-menu-item img {\n        margin-right: 4px;\n        vertical-align: -4px;\n      }\n      .table-operations-menu-item.no-image {\n        padding-left: 24px;\n      }\n      .border-bottom {\n        border-bottom: 1px solid #dad7d7;\n        padding-bottom: 10px !important;\n        margin-bottom: 10px;\n      }\n      .set-background input {\n        width:14px;\n        height: 14px;\n        margin-right: 10px;\n        vertical-align: -2px;\n        cursor: pointer;\n      }\n      .color-box {\n        display: inline-block;\n        width: 20px;\n        height: 20px;\n        background: #f0f0f0;\n        border: solid 1px #dad7d7;\n        margin-left: 10px;\n        border-radius: 2px;\n        vertical-align: -4px;\n      }\n      .background-active {\n        background: #f0f0f0 !important;\n        outline: 1px solid #d7d7d7;\n      }\n      .text-format-item {\n        width: 20px !important;\n        display: inline-block;\n        margin-right: 5px;\n      }\n      .bold {\n        font-weight: bold !important;\n      }\n      .italic {\n        font-style: italic !important;\n      }\n      .underline {\n        text-decoration: underline !important;\n      }\n      .align-left {\n        text-align: left !important;\n      }\n      .align-right {\n        text-align: right !important;\n      }\n      .center {\n        text-align: center !important;\n      }",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Viability, Scalability and Communicating (Seminar):Fundraising via 3 F’s, Bootstrapping, Grantstrapping, Angel, VC and Strategic equity investment, Reverse ASX listing, Franchising, crowdfunding and philanthropy.Pricing strategies to increase customer lifetime value (CLV) and ensure profitability and therefore scalability and viability.Pitching and communicating for stakeholder engagement and funding supportLearning outcomes:L01",
+            "topic_title": "Viability, Scalability and Communicating (Seminar):",
+            "topic_description": "Fundraising via 3 F’s, Bootstrapping, Grantstrapping, Angel, VC and Strategic equity investment, Reverse ASX listing, Franchising, crowdfunding and philanthropy.\nPricing strategies to increase customer lifetime value (CLV) and ensure profitability and therefore scalability and viability.\nPitching and communicating for stakeholder engagement and funding support",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Final Project ReflectionStudents will present to the class a summary of their project and personal reflectionThe presentation must include:A Reflection on the three biggest insights you discovered about:1.Your project- Describe the most surprising insights you learned about your target customer(s) functional, social and emotional Jobs to be Done;2.You- How has the course changed your understanding of yourself,  your motivations, decisions and behaviours? How will this capstone experience impact your future work and life?Learning outcomes:L02, L04, L05",
+            "topic_title": "Final Project Reflection",
+            "topic_description": "Students will present to the class a summary of their project and personal reflection\nThe presentation must include:\n\nA Reflection on the three biggest insights you discovered about:\n1.  Your project - Describe the most surprising insights you learned about your target customer(s) functional, social and emotional Jobs to be Done;\n2.  You - How has the course changed your understanding of yourself,  your motivations, decisions and behaviours? How will this capstone experience impact your future work and life?",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
