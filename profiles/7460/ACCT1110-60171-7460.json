@@ -1,0 +1,268 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT1110-60171-7460",
+    "full_course_code": "ACCT1110-60171-7460",
+    "course_code": "ACCT1110",
+    "class_code": "60171",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the role and purpose of financial accounting within organisations and markets."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and record business transactions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Prepare financial statements."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse and interpret financial statements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Appreciate the need for regulation, corporate governance and ethical considerations in preparing financial accounting information."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "15% Topics 1 and 2",
+            "due_date": "15/08/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "This assignment is an individual assignment based on topics 1 and 2.It consists of practical accounting questions that provide an exercise in recording a variety of business transactions common to businesses.It is a take home assignment that will be released in Week 2 and is to be submitted via Turnitin.Further information will be available on Blackboard in Week 2.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "via Turnitin on Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "35% Topics 3-6",
+            "due_date": "In-semester Saturday31/08/2024 - 14/09/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is aclosed book, invigilated exam.It will be based on topics 3-6.The exam will consist of multiple choice questions and practical problem solving questions.In preparation for the exam, you should review all the relevant online workbooks, textbook chapters, lecture and tutorial materials.The in-semester exam takes place during the Saturday in-semester exam period and will be held on Saturday 23 March, 13 April or 20 April. The exam date will be confirmed when the in-semester exam timetable is released.AI Statement:Any issues regarding the administration, timetabling and non-attendance of examinations must be directed to the University of Queensland Examinations Section. These issues are not the responsibility of the Course Coordinator. If you are unable to sit your exam, you must apply for a deferred exam, see section 5.4.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50% Topics 7-11; Invigilated",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.The final exam covers Topics 7-11.Your understanding of Topics 1-6 will be regarded as assumed knowledge in this assessment.The exam will consist of short answer and practical problem solving questions.In preparation for the exam, you should review all the relevant online workbooks, textbook chapters, lecture and tutorial materials.The exam will be held during the official end of semester examination period.AI Statement:Any issues regarding the administration, timetabling and non-attendance at final examinations must be directed to the University of Queensland Examinations Section. These issues are not the responsibility of the Course Coordinator.If you are unable to sit your final exam, you must apply for a deferred exam, see section 5.4.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "1. Overview of Financial AccountingLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "1. Overview of Financial Accounting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "2. The Recording ProcessIncludes introduction to accounting software usage.Learning outcomes:L01, L02, L03",
+            "topic_title": "2. The Recording Process",
+            "topic_description": "Includes introduction to accounting software usage.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "3. Accrual AccountingLearning outcomes:L02, L03, L04",
+            "topic_title": "3. Accrual Accounting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "T3. Accrual AccountingPractical exercises using accounting software Xero.Week 4 tutorials - There will be no classes on the public holiday. Students who would normally attend a Wednesday tutorial are welcome to attend other tutorial this week.Learning outcomes:L02, L03, L04",
+            "topic_title": "T3. Accrual Accounting",
+            "topic_description": "Practical exercises using accounting software Xero. \nWeek 4 tutorials - There will be no classes on the public holiday. Students who would normally attend a Wednesday tutorial are welcome to attend other tutorial this week.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "T4. Income Statement 1Learning outcomes:L02, L03, L04",
+            "topic_title": "T4. Income Statement 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "T5. Income Statement 2Learning outcomes:L02, L03, L04",
+            "topic_title": "T5. Income Statement 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "T6. Balance Sheet 1 - Current AssetsLearning outcomes:L02, L03, L04",
+            "topic_title": "T6. Balance Sheet 1 - Current Assets",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "General contact hours",
+            "topic": "Self-StudyNo lectures or tutorials this week due to the Saturday in-semester exam. This activity may be updated depending on the scheduled date of the Saturday In-Semester Exam . Further details will be provided on Blackboard.",
+            "topic_title": "Self-Study",
+            "topic_description": "No lectures or tutorials this week due to the Saturday in-semester exam. This activity may be updated depending on the scheduled date of the Saturday In-Semester Exam . Further details will be provided on Blackboard.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "T7. Balance Sheet 2 - Non Current AssetsLearning outcomes:L02, L03, L04",
+            "topic_title": "T7. Balance Sheet 2 - Non Current Assets",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "T8. Balance Sheet 3 - Liabilities and EquityLearning outcomes:L02, L03, L04",
+            "topic_title": "T8. Balance Sheet 3 - Liabilities and Equity",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "T9. Cashflow Statement 1Learning outcomes:L02, L03, L04",
+            "topic_title": "T9. Cashflow Statement 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "T10. The Cash Flow Statement 2, Ethics & SustainabilityLearning outcomes:L01, L03, L04",
+            "topic_title": "T10. The Cash Flow Statement 2, Ethics & Sustainability",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "T11. Analysis and Interpretation of Fin. StatementsLearning outcomes:L01, L04, L05",
+            "topic_title": "T11. Analysis and Interpretation of Fin. Statements",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
