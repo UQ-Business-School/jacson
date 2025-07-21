@@ -1,0 +1,247 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM2415-60227-7460",
+    "full_course_code": "FINM2415-60227-7460",
+    "course_code": "FINM2415",
+    "class_code": "60227",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Determine cost of capital and conduct project valuation"
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate optimal capital structure"
+        },
+        {
+            "number": "LO3.",
+            "description": "Conduct corporate valuation, analyse capital raising decisions and mergers and acquisitions decisions"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse payout policy and understand corporate governance and corporate social responsibility"
+        },
+        {
+            "number": "LO5.",
+            "description": "Work collaboratively as a group in collecting and analyzing  financial data"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "26/08/2024 8:00 amDuring Lecture",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The In-Semester Exam covers materials from lectures 1-4 inclusive and will be conducted in person during lecture time.The exam will contain multiple choice questions.More detailed information will be available in the Assessments folder on Blackboard closer to the exam date.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "4/10/2024 2:00 pmAssignment due at 2pm, Peer assessment due 5pm, AEST.",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "You will be required to select a firm and analyse it using the knowledge learnt from this course. You will be asked to estimate the firm's cost of capital, analyse its capital structure, and do corporate valuation.You are required to do this assignment in a group of 4 to 5 people. Group members do not need to be registered in the same lecture or tutorial.GROUP REGISTRATION: Each group must complete your group registration via Blackboard before starting the assignment. Group registration must be completed by5PMFriday 16th August 2024 (Week 4). You should use the Discussion Board on Blackboard to look for group members. If you still have trouble forming your team, please let the teaching staff know as soon as possible. The assignment questions will be made available on Blackboard.PEER ASSESSMENT: Peer Assessment will be used to compute your final individual grade on the Group Assignment. Completing the Peer Assessment is mandatory. If you do not submit a Peer Assessment Form, you will receive a score of zero on the assignment. Peer Assessment will be completed on Blackboard, and is integrated into the Blackboard teams. Each team member will allocate 100 points between the members of their team. Justification of your distribution of points is essential if they are to be included in calculation of the final Peer Assessment Factor (PAF). In particular, if the score given to any team member deviates from the average by 10% or more, you must include a written justification. For example, in a team of 4, the average score will be 25. If you give someone 20 out of 25, you are saying that team member only deserves 80% (20/25) of the score on the team project. If everyone on the team gives the same score, then that team member will have a PAF of 0.8 and their project score will be 0.8 times the team score on the team assignment. Therefore, in a team of 4, all scores of 22.5 (27.5) and lower (higher) MUST be justified to count.The assignment is due at14:00 on 4th October 2024 (Week 10). Peer Assessment for the assignment is due at17:00 on Friday 4th October 2024 (Week 10)AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "55%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final exam will be conducted in person. It is a closed book exam.It will consist of 5 short-answer questions, each of which has a number of parts.Questions will cover the topics taught after the In-Semester Exam.Further details about the final exam will be discussed in class and posted to the course Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Introduction, Review of the Time Value of Money and the Cost of CapitalReview of time value of money, cost of capitalLearning outcomes:L01, L05",
+            "topic_title": "Introduction, Review of the Time Value of Money and the Cost of Capital",
+            "topic_description": "Review of time value of money, cost of capital",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Project EvaluationLearning outcomes:L01, L05",
+            "topic_title": "Project Evaluation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Capital Structure I: Capital Structure in Perfect Capital MarketsCapital structure in perfect capital marketsLearning outcomes:L02, L05",
+            "topic_title": "Capital Structure I: Capital Structure in Perfect Capital Markets",
+            "topic_description": "Capital structure in perfect capital markets",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Capital Structure II: Capital Structure with TaxesCapital Structure with debt and taxesLearning outcomes:L02, L05",
+            "topic_title": "Capital Structure II: Capital Structure with Taxes",
+            "topic_description": "Capital Structure with debt and taxes",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and InformationCapital Structure with financial distress, incentives, and informationLearning outcomes:L02, L05",
+            "topic_title": "Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information",
+            "topic_description": "Capital Structure with financial distress, incentives, and information",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "In-semester ExamLearning outcomes:L03, L05",
+            "topic_title": "In-semester Exam",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Corporate Valuation IMid-semester exam will be held during lecture timeLearning outcomes:L01, L02",
+            "topic_title": "Corporate Valuation I",
+            "topic_description": "Mid-semester exam will be held during lecture time",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Corporate Valuation IILearning outcomes:L03, L05",
+            "topic_title": "Corporate Valuation II",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Raising CapitalLearning outcomes:L03",
+            "topic_title": "Raising Capital",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Mergers and AcquisitionsLearning outcomes:L03",
+            "topic_title": "Mergers and Acquisitions",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "Pubic Holiday (No Tutorial)King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L03",
+            "topic_title": "Pubic Holiday (No Tutorial)",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Payout PolicyLearning outcomes:L04",
+            "topic_title": "Payout Policy",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Corporate Governance, Ethics, ESG (CSR) Issues, and ReviewLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Corporate Governance, Ethics, ESG (CSR) Issues, and Review",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
