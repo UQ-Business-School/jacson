@@ -1,0 +1,225 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ADVT7508-60191-7460",
+    "full_course_code": "ADVT7508-60191-7460",
+    "course_code": "ADVT7508",
+    "class_code": "60191",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate understanding of the way different media are used in advertising and explain why particular media and combinations of media are used in advertising campaigns."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify different kinds of advertising and advertising messages, and the reason why they are used (or not) in campaigns."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate understanding of what makes advertising effective, including metrics and tactics for measuring effectiveness."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop practical skills in creative strategy in advertising, examining various creative approaches, appeals and executions used by advertisers."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop competencies in the areas of creativity and written communication."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Ad Critique",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "13/09/2024 3:00 pm",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "This assessment involves the preparation of an ad critique.Individually,you are to choose a recent advertisement (in English, targeted to Australians) and provide a brief overview of the components of chosen ad, and a critique of the effectiveness of the ad.Submission is a 4 x A4 page (maximum) report.Further details about this task will be available in class and on Blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). You are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The ad critique must be submitted electronically to Blackboard (Ultra) by the due date.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Creative Brief and Pitch Presentation",
+            "special_indicators": [],
+            "weighting": "60% (Brief 40%; Presentation 20%)",
+            "due_date": "25/10/2024 3:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "This assessment involves the preparation of a creative brief for a selected client AND a (recorded) pitch presentation.Individually, you are to choose a client and develop a creative brief for the selected client. Further details about this task will be made available in class and on Blackboard.The assessment has two components:Creative brief (40%). In report format, propose the core components of a creative brief for the selected client (maximum 4 x A4 pages).Pitch presentation (20%). Prepare a 5 minute recorded presentation that outlines the core components of the creative brief in a pitch format. Please follow the submission guidelines on Blackboard for the recorded pitch carefully to ensure the assignment is submitted and can be marked.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). You are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The creative brief and pitch presentation should be submitted electronically on Blackboard (Ultra) by the due date.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Introduction to AdvertisingPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Introduction to Advertising",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "The Communication ProcessPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "The Communication Process",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Consumer Behaviour and EmpowermentPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Consumer Behaviour and Empowerment",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Consumer Insight and StrategyPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Consumer Insight and Strategy",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Creative StrategyPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Creative Strategy",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Media Strategy and PlanningPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Media Strategy and Planning",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Media Strategy and SelectionPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Media Strategy and Selection",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Advertising AnalyticsPre-recorded lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "Advertising Analytics",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "A2 (Creative Brief + Pitch Presentation) WorkshopLIVE Zoom lecture modeLearning outcomes:L01, L02, L03",
+            "topic_title": "A2 (Creative Brief + Pitch Presentation) Workshop",
+            "topic_description": "LIVE Zoom lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Social, Ethical and Regulatory AspectsPre-recorded lecture modeLearning outcomes:L02, L03",
+            "topic_title": "Social, Ethical and Regulatory Aspects",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Measuring Program EffectivenessPre-recorded lecture mode. Lecture will be uploaded at timetabled time regardless of public holiday.Learning outcomes:L04",
+            "topic_title": "Measuring Program Effectiveness",
+            "topic_description": "Pre-recorded lecture mode. Lecture will be uploaded at timetabled time regardless of public holiday.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Industry Guest LecturerLIVE Zoom Lecture modeLearning outcomes:L04",
+            "topic_title": "Industry Guest Lecturer",
+            "topic_description": "LIVE Zoom Lecture mode",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Selling Your Work + Course ReviewPre-recorded lecture modeLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Selling Your Work + Course Review",
+            "topic_description": "Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
