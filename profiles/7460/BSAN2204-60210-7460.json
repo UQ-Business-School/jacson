@@ -1,0 +1,225 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2204-60210-7460",
+    "full_course_code": "BSAN2204-60210-7460",
+    "course_code": "BSAN2204",
+    "class_code": "60210",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and explain the role of R for business analytics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the basic concepts used in R for managing and manipulating data."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply R for basic business analytics tasks, including data visualisation and predictive analytics/forecasting."
+        },
+        {
+            "number": "LO4.",
+            "description": "Compare and critically evaluate competing methods of business analytics."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate how business analytics can inform and improve managerial decision making."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Report 1",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "30/08/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This first project report will provide an introduction to the dataset the MSD (\"Million Song Dataset\") and demonstrate your ability to use the basic methods of business analytics introduced in the first half of the semester (data visualisation, descriptive statistics and a basic linear regression model).AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via submission link on Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Report 2",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "18/10/2024 4:00 pm",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "This second report will provide both technical documentation of the R script used in your analysis and demonstrate your ability to extend your analysis using the methods of business analytics taught in the latter half of the semester.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via submission link via Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Course IntroductionCourse Introduction, software requirements and information about the first assessment will be provided during this seminar.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "Course Introduction",
+            "topic_description": "Course Introduction, software requirements and information about the first assessment will be provided during this seminar.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Introduction to the Million Song DatasetLearning outcomes:L01, L02",
+            "topic_title": "Introduction to the Million Song Dataset",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Data VisualisationLearning outcomes:L02, L03, L04",
+            "topic_title": "Data Visualisation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Descriptive AnalyticsLearning outcomes:L02, L03, L04",
+            "topic_title": "Descriptive Analytics",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Linear RegressionLearning outcomes:L02, L03, L04",
+            "topic_title": "Linear Regression",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Project Report 1 WorkshopLearning outcomes:L03, L04, L05",
+            "topic_title": "Project Report 1 Workshop",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Introduction to R MarkdownLearning outcomes:L01, L02, L05",
+            "topic_title": "Introduction to R Markdown",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Extensions to Linear RegressionLearning outcomes:L02, L03, L04",
+            "topic_title": "Extensions to Linear Regression",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Dealing with Missing DataLearning outcomes:L02, L03, L04, L05",
+            "topic_title": "Dealing with Missing Data",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Project 2 WorkshopLearning outcomes:L03, L04, L05",
+            "topic_title": "Project 2 Workshop",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "King's Birthday Public Holiday",
+            "topic_title": "King's Birthday Public Holiday",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Project 2 Workshop (Troubleshooting)Learning outcomes:L03, L04, L05",
+            "topic_title": "Project 2 Workshop (Troubleshooting)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Course ReviewLearning outcomes:L01, L04, L05",
+            "topic_title": "Course Review",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
