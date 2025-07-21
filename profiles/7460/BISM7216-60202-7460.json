@@ -1,0 +1,243 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7216-60202-7460",
+    "full_course_code": "BISM7216-60202-7460",
+    "course_code": "BISM7216",
+    "class_code": "60202",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate knowledge of Business Process Management and the process lifecycle"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply business process modelling skills using international modelling standards"
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply knowledge of process improvement techniques and the ability to work as part of a team"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse common process bottlenecks and problems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate process analysis skills"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Process Modelling",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30% Individual",
+            "due_date": "Milestone 1 22/08/2024 2:00 pmMilestone 2 29/08/2024 2:00 pmFinal Submission 5/09/2024 2:00 pm",
+            "learning_objectives": "L02",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "For thisindividual project,you are required to model an as-is process using the BPMN modelling notation.A narrative of the process (process walkthrough) will be provided for you to interpret and model.This assignment will include multiple gradedmilestones to be submitted priorto the final submission date. Feedback on the correct approach will be provided in tutorials after each milestone to assist with learning key techniques, with the assignment grade provided after all components have been submitted.Milestone submissions must be made on the due dates, or within 3 days even if an extension has been approved as per UQ's formal process. Any later submissions will not be marked for that component.Further details about this project will be discussed in class and posted to our course Blackboard site.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submitted via the course Blackboard Site.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Group Process Improvement Project (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "25% Team",
+            "due_date": "17/10/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Presentation, Product/ Design, Project",
+            "task_description": "You will be required to work in teams of 4-5 students for this project.Based on a provided scenario, your task requires modelling of an as-is process, analysis of the process, and development of improvement recommendations and a related to-be process model.You will need to take your initiative to plan the delivery of this assignment to ensure it is fully complete AND compliant before the final submission date.Further details about this project will be discussed in class and posted to our course Blackboard site.This project, being a team project, will use Group Peer Assessment to ensure all team members have contributed well to the team. Your assignment mark may be moderated based on this feedback.Best approach is usually to identify and engage with your team early, and deliver good quality work that is fairly distributed across your team! Don't forget to give review time before submission!All team members will evaluate their fellow team members, and this peer evaluation process may affect an individual's mark (ie, it may be that not all team members receive the same mark). Therefore, you are strongly encouraged to incorporate mechanisms that capture evidence about the team process, such as dates/agendas for meetings, fair/agreed allocation of duties, internal team timelines, etc.Your peer assessment outcome will moderate your total marks for this assignment.Read full task descriptionHide full task description",
+            "submission_guidelines": "Online submission through Turnitin via Blackboard Assessment link.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "45% Individual",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Examination",
+            "task_description": "Your final exam will be a closed-book invigilated and in-person exam. The exam duration will be 2 hours.It will be largely based on a mini-case study scenario as described in the text. As such, it will require you to comprehend, assess, analyse and recommend solutions using techniques taught on the course. There will also be multiple choice questions and short answer questions. This is an individual assessment. Academic integrity provisions will be applied. The allocation of marks will be clearly indicated on each question. The exam will cover all course materials.Further details will be discussed in class and posted to our course Blackboard website.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Practical",
+            "topic": "No Prac",
+            "topic_title": "No Prac",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "Prac 1 - Business Process Mgmt & Business ValueLearning outcomes:L01",
+            "topic_title": "Prac 1 - Business Process Mgmt & Business Value",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Practical",
+            "topic": "Prac 2 - BPM History and Enterprise CapabilityLearning outcomes:L01",
+            "topic_title": "Prac 2 - BPM History and Enterprise Capability",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Process Modelling PracticePut your BPMN skills to practice: hands-on practical session using basic BPMN constructsLearning outcomes:L02",
+            "topic_title": "Process Modelling Practice",
+            "topic_description": "Put your BPMN skills to practice: hands-on practical session using basic BPMN constructs",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Practical",
+            "topic": "Prac 4 - Process Modelling PracticeLearning outcomes:L02",
+            "topic_title": "Prac 4 - Process Modelling Practice",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Practical",
+            "topic": "Prac 5 - Extended Process ModellingLearning outcomes:L02",
+            "topic_title": "Prac 5 - Extended Process Modelling",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Practical",
+            "topic": "Prac 6 - Process ID & Process ArchitecturesLearning outcomes:L01, L05",
+            "topic_title": "Prac 6 - Process ID & Process Architectures",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Practical",
+            "topic": "Prac 7 - Process DiscoveryLearning outcomes:L02, L05",
+            "topic_title": "Prac 7 - Process Discovery",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Practical",
+            "topic": "Prac 8 - Qualitative Process AnalysisLearning outcomes:L03, L04",
+            "topic_title": "Prac 8 - Qualitative Process Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "Lecture",
+            "topic": "IN-SEMESTER BREAK",
+            "topic_title": "IN-SEMESTER BREAK",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Practical",
+            "topic": "Prac 9 - Quantitative AnalysisLearning outcomes:L03, L04",
+            "topic_title": "Prac 9 - Quantitative Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Practical",
+            "topic": "Prac 10 - Process ImprovementLearning outcomes:L03, L04, L05",
+            "topic_title": "Prac 10 - Process Improvement",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Practical",
+            "topic": "Prac 11 - Process Implementation and MonitoringLearning outcomes:L04, L05",
+            "topic_title": "Prac 11 - Process Implementation and Monitoring",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Practical",
+            "topic": "Prac 12 - IndustryLearning outcomes:L01, L03, L04",
+            "topic_title": "Prac 12 - Industry",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
