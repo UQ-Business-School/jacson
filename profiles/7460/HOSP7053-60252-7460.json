@@ -1,0 +1,231 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/HOSP7053-60252-7460",
+    "full_course_code": "HOSP7053-60252-7460",
+    "course_code": "HOSP7053",
+    "class_code": "60252",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "critically evaluate leadership theories, styles and philosophies in a service and hospitality context;"
+        },
+        {
+            "number": "LO2.",
+            "description": "self-evaluate your leadership style to effectively utilise personal strengths and beliefs in leading people and service organisations;"
+        },
+        {
+            "number": "LO3.",
+            "description": "consider the importance of long term focus, and how to align hospitality organisational aims, mission, vision, values and strategies;"
+        },
+        {
+            "number": "LO4.",
+            "description": "analyse hospitality businesses in order to identify critical leadership success factors."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Leadership Compass & Team Inventory Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "23/08/2024 2:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "Students will use the Leadership Compass and the Team Inventory Tools provided to evaluate their own leadership traits, skills and values in a 1000 word reflection.First, use the Leadership Compass to evaluate your own leadership traits, skills and values. The result of the Leadership Compass will provide a dominant leadership perspective.Second, complete the Team Inventory to determine your preferences in working with others and making decisions when working in teams.Once these tools have provided you with results. You will write up a personal reflection that shares your results and an analysis of how, where and when these results have been present in your academic, professional or personal life.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via the Turnitin submission point on the course Learn.UQ site",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Leadership Analysis and Self-Evaluation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "13/09/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Reflection",
+            "task_description": "This assessment task is an individual research project onYOURSELF.You are required to produce a critically reflective and analytic report summarising your own leadership style, based on research, as well as critically discussing your strengths and weaknesses.Length:2000 wordsTask:Students willexamine the literature on leadership styles and approaches to identify their current strengths and weaknesses as a leader. An important part of this assignment is for students to reflect on what kind of leader they are, or would like to be, and how to develop and utilise their strengths, as well as consider strategies to overcome perceived weaknesses.Further information will be posted to our course Blackboard site and discussed in class.Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instanceA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via the Turnitin submission point on the course Learn.UQ site",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This is a problem-based assessment whereby students will have to apply service leadership principles, theories and approaches to address real-world situations and challenges facing all service industries - with a focus on the tourism, hospitality and events sectors. The assessment will assess your understanding of the content from all modules we have covered this semester.This is a 2 hour exam paper with 10 minutes reading time. The format of the assessment includes short answer questions in which you will be asked to apply concepts covered this semester to solve various service leadership problems and scenarios.More details will be provided in class, as well as preparation advice.Criteria & Marking:Further information will be provided on Blackboard and in class.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Course Introduction & OverviewIntroduction to teaching team and discussion about assessment.Learning outcomes:L01, L04",
+            "topic_title": "Course Introduction & Overview",
+            "topic_description": "Introduction to teaching team and discussion about assessment.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Trait, Skills & Behavioural ApproachesApplication Exercises and Activities.Learning outcomes:L01, L02",
+            "topic_title": "Trait, Skills & Behavioural Approaches",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Emotional Intelligence & LeadershipApplication Exercises and Activities.Learning outcomes:L01, L04",
+            "topic_title": "Emotional Intelligence & Leadership",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Transformational ApproachApplication Exercises and Activities.Learning outcomes:L01, L02, L04",
+            "topic_title": "Transformational Approach",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Authentic LeadershipApplication Exercises and Activities.Learning outcomes:L01, L02, L04",
+            "topic_title": "Authentic Leadership",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Servant LeadershipApplication Exercises and Activities.Learning outcomes:L01, L02",
+            "topic_title": "Servant Leadership",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Report Information SessionLearning outcomes:L01, L02, L04",
+            "topic_title": "Report Information Session",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Gender & LeadershipApplication Exercises and Activities.Learning outcomes:L01, L02, L04",
+            "topic_title": "Gender & Leadership",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Culture in LeadershipApplication Exercises and Activities.Learning outcomes:L01, L02, L04",
+            "topic_title": "Culture in Leadership",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Leadership & EthicsApplication Exercises and Activities.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Leadership & Ethics",
+            "topic_description": "Application Exercises and Activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Final Review",
+            "topic_title": "Final Review",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Informal Drop-in Session",
+            "topic_title": "Informal Drop-in Session",
+            "topic_description": "",
+            "learning_outcomes": []
+        }
+    ]
+}
