@@ -1,0 +1,225 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM4411-60235-7460",
+    "full_course_code": "FINM4411-60235-7460",
+    "course_code": "FINM4411",
+    "class_code": "60235",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop a team project plan to analyse a current issue raised by an industry partner."
+        },
+        {
+            "number": "LO2.",
+            "description": "Conduct independent research and analysis to address one or more aspects of a current industry issue."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply finance theories, concepts, and techniques (or develop new ones) in response to a current industry issue."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work in teams to synthesise and present research findings in response to an industry issue."
+        },
+        {
+            "number": "LO5.",
+            "description": "Professionally communicate outcomes via reports and presentations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "One Page Report on Industry Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "5%",
+            "due_date": "5/08/2024 9:00 am",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This assessment is a one page submission containing information on the project. It should contain the title of the project, composition of the team, information on the industry partner (i.e., name and contact details) and an overview of the question to be studied of no more than 200 words. Teams should also upload the email correspondence with industry partner about their willingness to be involved.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Plan by Group",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20% (Written Report 10%; Presentation 10%)",
+            "due_date": "Written Report 21/08/2024 3:00 pmPresentation During Class 22/08/2024",
+            "learning_objectives": "L01, L04, L05",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "You are required to form ateam of 3 or 4 studentsto address a live industry problem. The first task you must complete is a project plan for how your team will address the issue. The purpose of a project plan is to scope the project, allocate individual tasks, and plan timelines for project completion.To guide you in the completion of this task, your team is required to create a project plan that addresses the following details:The issue, and relevant background information.The proposed approach for researching and analysing the issue.How the work will be allocated amongst group members (this should include equally allocating various aspects of compiling the industry report such as writing the initial draft, editing subsequent drafts, formatting the document).Any anticipated difficulties in completing the project.A timeline.There are two components to this assessment task:(A)Written (due: 21August, 3 pm) whichmustinclude all elements mentioned above, with total word limit of up to a maximum of 2,000 words. (10% of overall grade)(B)Oral presentation by group to determine progress (due: 22August, in class, 10% of overall grade). The presentation will be held during scheduled lecture time (though we might have to start earlier to accommodate all teams).This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit Part A electronically via Blackboard. Part B is an in-person presentation.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "23/10/2024 3:00 pm",
+            "learning_objectives": "L02, L03, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The Individual Report will consist of the research and analysis that you individually undertook as evidence of your contribution towards the final Report. How this research is allocated amongst your team members (i.e., who researches what aspect/s of the issue) will have been decided as part of the project planning stage (Assessment Task 1).You will clearly and concisely communicate your findings in a written report, addressing the following elements:Identify and explain one (max 2) aspect of the industry issue for detailed analysisReview relevant secondary sources related to this aspect. These secondary sources may include academic research, industry reports, etc.Analyse findings and discuss how these apply to the industry issue.Please note:This task requires you to include a much more in-depth analysis of the aspect/s of the issue you are researching. Given this level of analysis, you will not be able to include all of this detail in the final team report.This is NOT a student's reflection on the work they did for the project.This 30% is NOT for writing drafts (or editing, formatting, proof-reading) of the industry report. Each team member is assumed to contribute roughly equally towards composing the report that is submitted to the industry partner.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The individual reports are to be submittedat the same timeas the final (industry) report. The submitted PDF file should include the individual research reports as appendices.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "The Final Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "45%",
+            "due_date": "23/10/2024 3:00 pmDuring Class",
+            "learning_objectives": "L04, L05",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "Working again with your original team members, you are required to synthesise the findings from your individual reports to prepare one cohesive final report. Once you have completed this task, your team will present the results of your final analysis and recommendations.All submissions (slides in pdf format, the industry report and individual research reports) are due by 3pm on 23rd October 2024.The presentations of the final report will occur on 24-25 October, 2024.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit the Final Report electronically via Blackboard. The individual reports will be submitted at the same time as the final (industry) report. The PDF file submitted should include the individual reports as appendices.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "Weekly meeting with academic supervisorIt is recommended that weekly meetings be arranged at a time that suits team and academic supervisor. Students also have the option of meeting with the course coordinator during the weekly \"check-in\" session.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Weekly meeting with academic supervisor",
+            "topic_description": "It is recommended that weekly meetings be arranged at a time that suits team and academic supervisor. Students also have the option of meeting with the course coordinator during the weekly \"check-in\" session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "IntroductionSetting out the main elements of the Team Project including:project topicsindustry partnersacademic mentorsteam compositionmeeting advice/strategyteam dynamics adviceto clarify course expectationsStudents are expected to attend this session in-person.Learning outcomes:L01, L03",
+            "topic_title": "Introduction",
+            "topic_description": "Setting out the main elements of the Team Project including:\n\nproject topics\nindustry partners\nacademic mentors\nteam composition\nmeeting advice/strategy\nteam dynamics advice\nto clarify course expectations\n\nStudents are expected to attend this session in-person.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 4",
+            "activity_type": "Seminar",
+            "topic": "\"Check-in\" SessionStudents have the option of doing a Check-in session with the course coordinator to talk about aspects of their project. Teams can schedule trial presentations around the project plan/final report presentations.The aim is to answer any residual questions that you might have. Participation is entirely voluntary.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "\"Check-in\" Session",
+            "topic_description": "Students have the option of doing a Check-in session with the course coordinator to talk about aspects of their project. Teams can schedule trial presentations around the project plan/final report presentations.\nThe aim is to answer any residual questions that you might have. Participation is entirely voluntary.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "In-class Presentation of Project PlanEach Team will present in-class what they have achieved and lay out their strategy for the completion of project (15 minutes). Subject to available time, 5 minutes of Q&A for each team.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "In-class Presentation of Project Plan",
+            "topic_description": "Each Team will present in-class what they have achieved and lay out their strategy for the completion of project (15 minutes). Subject to available time, 5 minutes of Q&A for each team.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 9",
+            "activity_type": "Seminar",
+            "topic": "\"Check-In\" SessionStudents have the option of doing a Check-in session with the course coordinator either to talk about aspects of their project or to do trial presentations.Learning outcomes:L01, L02, L03, L05",
+            "topic_title": "\"Check-In\" Session",
+            "topic_description": "Students have the option of doing a Check-in session with the course coordinator either to talk about aspects of their project or to do trial presentations.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo lectures or tutorials scheduled",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No lectures or tutorials scheduled",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 12",
+            "activity_type": "Seminar",
+            "topic": "\"Check-in\" sessionLearning outcomes:L01, L02, L03, L05",
+            "topic_title": "\"Check-in\" session",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Team presentations of Industry ReportTeams will be given 20 minutes to present their team's reports. In addition, teams will field up to 10 minutes of Q&A. The presentation will take place on 25th October, 2024; the time and location is to be determined.Thestart timefor the project presentations  will depend on the number of groups andwill be confirmed closer to the date.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Team presentations of Industry Report",
+            "topic_description": "Teams will be given 20 minutes to present their team's reports. In addition, teams will field up to 10 minutes of Q&A. The presentation will take place on 25th October, 2024; the time and location is to be determined.\nThe  start time  for the project presentations  will depend on the number of groups and will be confirmed closer to the date .",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
