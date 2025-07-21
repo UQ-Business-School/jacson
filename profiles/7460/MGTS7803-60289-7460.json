@@ -1,0 +1,252 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7803-60289-7460",
+    "full_course_code": "MGTS7803-60289-7460",
+    "course_code": "MGTS7803",
+    "class_code": "60289",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify key strategic challenges for business management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically analyse current strategic management theories and concepts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Deploy appropriate tools to determine industry structure and competitive dynamics."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and assess an organisation's competitive strategy."
+        },
+        {
+            "number": "LO5.",
+            "description": "Provide valuable input to a team-based approach to formulate strategy at business and corporate levels."
+        },
+        {
+            "number": "LO6.",
+            "description": "Rigorously defend your strategic analysis and recommendations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Competitor Analysis - Team report and oral presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "15/08/2024 - 25/10/2024Team reports and presentations to be submitted electronically. Oral Presentations will be scheduled for the final 2 weeks of semester.",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "In this activity your team will analyse the strategy of two organisations of your choice and provide your recommendations for each of them for dealing with their strategic challenges in the future. The analysis should be summarised in a written report, maximum of 2,000 words (plus exhibits) and your team will also deliver an oral ppt presentation to the class, following the guidelines for this activity. Each student teams will be scheduled to present during one of the seminars.For full details please refer to the course Blackboard site.Peer Review:Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of the lecturer as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please upload to Blackboard only one report/presentation per team.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Simulation Reflection Report",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "10/10/2024 - 25/10/2024",
+            "learning_objectives": "L01, L02, L03, L04, L06",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "The reflection report is based on your performance of a live business case (online simulation), which will be run during the seminar in week 11 of the semester.You will be assessed on your reflection in response to three guiding reflective tasks, i.e., setting a strategy and objectives, reflections on your strategy execution and performance in relation to the objectives, and proposed changes to the strategy/objectives and/or execution. Generative AI may not be used for this assessment item.The document should have a maximum length of 2,000 words, but you have the option to attach figures, tables or slides that may be necessary to support your analysis.Refer to the course Blackboard site for full details.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please submit through Turnitin in the Blackboard Assessment section.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "What is Strategy?Course Introduction & Basic concepts in strategy as well as value creationLearning outcomes:L01, L02",
+            "topic_title": "What is Strategy?",
+            "topic_description": "Course Introduction & Basic concepts in strategy as well as value creation",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Internal AnalysisEmploying strategic resources to create and sustain a competitive advantageLearning outcomes:L01, L02, L04",
+            "topic_title": "Internal Analysis",
+            "topic_description": "Employing strategic resources to create and sustain a competitive advantage",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "External & Industry AnalysisUnderstanding the macro environment, your industry and competitorsLearning outcomes:L01, L02, L04, L05",
+            "topic_title": "External & Industry Analysis",
+            "topic_description": "Understanding the macro environment, your industry and competitors",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Business Level StrategyWe investigate Business Unit level strategyLearning outcomes:L01, L02, L04",
+            "topic_title": "Business Level Strategy",
+            "topic_description": "We investigate Business Unit level strategy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Corporate Level StrategyCreating value through effective corporate parentingLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Corporate Level Strategy",
+            "topic_description": "Creating value through effective corporate parenting",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Designing a Growth StrategyHow to achieve growth through innovation and disruptionLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Designing a Growth Strategy",
+            "topic_description": "How to achieve growth through innovation and disruption",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Global StrategyProcess of internationalisation and globalisationLearning outcomes:L01, L02, L05, L06",
+            "topic_title": "Global Strategy",
+            "topic_description": "Process of internationalisation and globalisation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Assessment Items Workshop & SkillsAssessment items will be discussed in detail as well as assignment skills & secondary research tips. Teams will be finalized and locked in by course staff. Students will commence/further progress working on their team assessment, team charter etc.Learning outcomes:L01, L03, L04, L05, L06",
+            "topic_title": "Assessment Items Workshop & Skills",
+            "topic_description": "Assessment items will be discussed in detail as well as assignment skills & secondary research tips. Teams will be finalized and locked in by course staff. Students will commence/further progress working on their team assessment, team charter etc.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Managing Strategy ImplementationTranslating strategy into actionLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Managing Strategy Implementation",
+            "topic_description": "Translating strategy into action",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Strategic Leadership & Strategic ChangeStrategic leadership & strategic change seminar topic. Students will work on an online case simulation (a unique scenario) to apply concepts from this topic.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Strategic Leadership & Strategic Change",
+            "topic_description": "Strategic leadership & strategic change seminar topic. Students will work on an online case simulation (a unique scenario) to apply concepts from this topic.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "Strategic Change(cont) & Online Case SimulationStrategic leadership & strategic change topic continued. Students will apply this topic to an online case simulation. This online case simulation that students will work through is the basis of and required for completing Assessment 2Learning outcomes:L01, L02, L03, L04, L06",
+            "topic_title": "Strategic Change(cont) & Online Case Simulation",
+            "topic_description": "Strategic leadership & strategic change topic continued. Students will apply this topic to an online case simulation. This online case simulation that students will work through is the basis of and required for completing Assessment 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Team Oral PresentationsThe team oral presentations are a part of Assessment 1.Note: The Seminar and Team Oral Presentations will move from 17 October to 18 October. See Blackboard for more information.Learning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Team Oral Presentations",
+            "topic_description": "The team oral presentations are a part of Assessment 1.\nNote: The Seminar and Team Oral Presentations will move from 17 October to 18 October. See Blackboard for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Team Oral Presentations (continued)The team oral presentations are a part of Assessment 1.Learning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Team Oral Presentations (continued)",
+            "topic_description": "The team oral presentations are a part of Assessment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
