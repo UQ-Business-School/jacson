@@ -1,0 +1,255 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/HOSP2006-60247-7460",
+    "full_course_code": "HOSP2006-60247-7460",
+    "course_code": "HOSP2006",
+    "class_code": "60247",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain and apply the fundamental principles of revenue management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse customer-perceived value based on the principle of revenue management."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically assess the creation of demand and revenue forecasts based on operational data."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop revenue management strategies in a simulated environment as part of a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate the revenue management efforts using different key performance indices (KPIs)."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Simulation Report and Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "2/10/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "In this part, you are expected to prepare a3,000-word reflectionafter Round 2 simulation results are released.While the hotel operations are based on your team's decision, the focus of this reflection is on developingyour own narratives of the performancethat your hotel has shown in the past two rounds (excluding Practice round) based on key performance indices (KPIs). These KPIs include, but are not limited to, information in Key Figures in the simulation and indices discussed in the lecture on performance analysis.The narrative of your hotel performance requires you to identify and explainthe areas where your hotel outperformed competitorsandthe areas that require improvement. Avoid simply presenting the raw data in your narratives; you are expected tointerpretthe KPIs and provideinsightsinto the data and numbers. Additionally, you should propose actionable measures that can be taken to achieve sustainable and profitable growth in the upcoming rounds, considering the strengths and weaknesses of your hotel's performance.In this reflection, you are also expected to reflect on the knowledge acquired from the lecture and how it contributed to your completion of the simulation activities. Your reflection should reference relevant lecture topics, such as Lecture topic 1 from Week 3 materials, highlighting the specific learning points that influenced your understanding and decision-making throughout the simulation.Therefore, the key elements of this reflection include:Identification of the strengths of your hotel compared to other teams, aiming to sustain competitiveness.Recognition of the weaknesses of your hotel compared to other teams, emphasising the areas that require improvement.Development of strategies to uphold competitiveness and address the identified weaknesses in the upcoming simulation rounds.Reflection on the acquired knowledge and its application throughout the simulation activities and course materialsAI statementPlease be reminded that the use of any AI tools for completing this assignment is strictly prohibited. Any violations or indications of AI usages will result in severe penalties.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Weekly Online Simulation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "10%",
+            "due_date": "Prior to the current round result is announced  Week 7, Fri 11:59 pmPrior to the current round result is announced  Week 8, Fri 11:59 pmPrior to the current round result is announced  Week 9, Fri 11:59 pmPrior to the current round result is announced  Week 10, Fri 11:59 pmPrior to the current round result is announced  Week 11, Fri 11:59 pm",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance",
+            "category": "Role play/ Simulation",
+            "task_description": "In the simulation, you and your team members will manage a hotel together for five (5) rounds. Each round presents a unique scenario that requires you to make business decisions aligned with the given circumstances. While the simulation runs based on teams' decisions, you (as a team member) need to come up with the \"best\" estimations (which deliver sustainable, profitable growth) to inform your team's decision-making process.While your primary goal is to maximise hotel profit, there will be many other areas that you need to consider.Prior to your team's weekly meeting during tutorial sessionsto finalise group decisions, it is crucial for each individual member to complete each round as you will convene with your team. Each team member may then bring forth diverse decisions pertaining to different areas. Following these discussions, your team is required to suggest the \"optimum decisions\" for the current round before it closes. Each round stays open for a week before it is subsequently closed. In this simulation, there isn't a definitive correct answer; rather, a multitude of preferable answers exist.To complete this assessment, you, as an individual team member, mustcomplete each roundbeforethe team's weekly meeting andtake a screenshot of your decision checklist(instructions on how to locate it will be provided during the lecture). You will be requested to submit the screenshots of your decisions for the current round to Blackboard before the current round closes. Each round will remain open for a week after its launch - details of closing dates and related information will be explained in the lecture and the course Blackboard. Please be reminded that this assessment is irreversible once the round is closed. Each member is required to spend a minimum of 50 minutes on the simulation per round. Failing to do so will incur a 100% penalty for that round.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Team Video Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "4/11/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "When all scheduled simulation rounds are completed, each team is required to present how they have managed their hotel for the five rounds. Given the mixed learning mode, each team is required to create a 25-minute video presentation. Please be reminded that any decisions made by you or your team after the round is closed will not affect the performance of past, present, or future rounds. Missing a round is irreversible and will significantly affect completing this assignment. Therefore, please ensure that you and your team finish each round before it closes.What to PresentYour team's performance is evaluated based on cumulative earnings, which can be located under 'Key Figures' in the 'Results' tab within the simulation. It's mandatory for your team to elucidate the strategies implemented (e.g., causes) and how they contributed to these cumulative earnings (e.g., effects). Your team should scrutinise the scenarios (as seen in 'Outlook' in the situation) to validate the strategies employed in each round. Given that the decisions made in one round impact the performance in subsequent rounds, your team is expected to examine how these decisions influence cumulative earnings and other Key Performance Indicators (KPIs) over time.Please consider this presentation scenario; a presentation to the Board Members of the parent company. In real life, a good presentation can elevate the perception of a team's performance.FormatThis presentation does not require a presentation in class. Instead, your team will create a 25-minute video presentation (as you would present it to a ‘live’ audience).Each team member is required to be present in the video presentation. When you are presenting, you are required to record your physical appearance and voice (narration).MS PowerPoint file format (i.e., pptx) is recommended for the video presentation. While your team is allowed to use different applications to create the presentation, it is your team's responsibility to ensure proper file submission, especially if it is not in PPTX format.Each team needs to submit a file via the course Blackboard site. Each team appoints a team representative to submit the file on behalf of all members. Only one submission per team is required; it is unnecessary for each member to submit the file.Please check the submission history and confirm your assignment was successfully submitted.The teaching team will mark the file submitted to the system, regardless of whether it is incomplete or incorrect. Since the marks for this assignment will not be available to you/your team before the semester grade release date, it is essential to ensure that your team submits the correct file on time to avoid any unnecessary penalties.Peer EvaluationA peer evaluation is required for this group assignment. Your mark will be moderated based on your individual contribution to the assessment task as indicated by your peers through a Peer Assessment tool. Individual grades will be calculated as the team score weighted by the peer evaluation score.AI statementPlease be reminded that the use of any AI tools for completing this assignment is strictly prohibited. Any violations or indications of AI usages will result in severe penalties.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "IntroductionLearning outcomes:L01",
+            "topic_title": "Introduction",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "The Fundamentals of Pricing Hotel GuestsLearning outcomes:L01, L02",
+            "topic_title": "The Fundamentals of Pricing Hotel Guests",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Evolving Hotel SegmentationLearning outcomes:L01, L02",
+            "topic_title": "Evolving Hotel Segmentation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Key Hotel Distribution ChannelsLearning outcomes:L01, L02",
+            "topic_title": "Key Hotel Distribution Channels",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Competitive Analysis in Hotel Revenue ManagementLearning outcomes:L02, L03",
+            "topic_title": "Competitive Analysis in Hotel Revenue Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "Hotel Revenue Management: Forecast & BudgetLearning outcomes:L02, L03",
+            "topic_title": "Hotel Revenue Management: Forecast & Budget",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Performance Analysis in Hotel Revenue MgmtLearning outcomes:L03, L04, L05",
+            "topic_title": "Performance Analysis in Hotel Revenue Mgmt",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Market Data for Hotel Revenue ManagementLearning outcomes:L03, L04, L05",
+            "topic_title": "Market Data for Hotel Revenue Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Restaurant Revenue Management: Basic ConceptLearning outcomes:L01, L04, L05",
+            "topic_title": "Restaurant Revenue Management: Basic Concept",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Restaurant Revenue Management: Demand ManagementLearning outcomes:L01, L04, L05",
+            "topic_title": "Restaurant Revenue Management: Demand Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Restaurant Revenue Management: Supply ManagementLearning outcomes:L03, L04, L05",
+            "topic_title": "Restaurant Revenue Management: Supply Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Total Revenue ManagementLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Total Revenue Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Semester ReviewSemester reviewLearning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Semester Review",
+            "topic_description": "Semester review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
