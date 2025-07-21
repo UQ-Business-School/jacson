@@ -1,0 +1,269 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS1601-60261-7460",
+    "full_course_code": "MGTS1601-60261-7460",
+    "course_code": "MGTS1601",
+    "class_code": "60261",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate understanding of organisational behaviour as a field of study, including key theories, models, and concepts."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply relevant organisational behaviour theories to solve contemporary work challenges and problems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and carry out an experientially-based group workshop exploring key organisational behaviour topics and problems relevant to managers today."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse personal strengths and weaknesses within the context of a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically analyse the strengths and weaknesses of a team and implications for team outcomes and propose solutions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "Opens at 2pm and closes at 2pm 8/08/2024 - 13/08/2024Opens at 2pm and closes at 2pm 29/08/2024 - 3/09/2024Opens at 2pm and closes at 2pm 19/09/2024 - 24/09/2024Opens at 2pm and closes at 2pm 17/10/2024 - 22/10/2024Quiz Topic InformationWeek 3 quiz will be on Personality and Individual DifferencesWeek 6 quiz will be on Emotions and StressWeek 9 quiz will be on Motivation at WorkWeek 12 quiz will be on Organisational Culture",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "Four online quizzes will assess learning about specific topics throughout the semester.Each of the four quizzes has 10 questions and is worth 5% of your final grade.Scheduling and ContentOnce started, the quiz will last for 12 minutes and then close automatically.The quiz questions for each topic are based on both the study module and seminar content; each is an open-book quiz. The questions are randomly drawn from a comprehensive test bank so each individual quiz will be different.It is expected that students will study for each quiz ahead of time.Statement on Use of Artificial Intelligence (AI)The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:Students must clearly reference any use of AI in each instance, including any AI writing tools.A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.You should ensure that you keep drafts of your written work to demonstrate your progress over time.Students must not use AI tools to substantially rewrite or rephrase their written work. This includes the use of AI translation tools and grammar tools. Extensive use of these tools may constitute Student Misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Team Workshop",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "in tutorial Week 7,in tutorial Week 8,in tutorial Week 9,",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "Workshops will be conducted in tutorials between Weeks 7, 8 and 9. Workshops are for approximately 30 minutes on selected topics. Topics will be provided following the Week 2 tutorial and supporting materials will be made available at Blackboard.Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 3. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks.Peer Assessment:Buddycheck will be used to evaluate team members' individual contribution to the assessment task. If team members indicate that the other members generally contributed equally, all team members will receive the same mark. If team members indicate that one or more team members contributed less than others, these students' marks will be adjusted to reflect their average peer-rated percentage contribution to the workshop.Statement on Use of Artificial Intelligence (AI)The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:Students must clearly reference any use of AI in each instance, including any AI writing tools.A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.You should ensure that you keep drafts of your written work to demonstrate your progress over time.Students must not use AI tools to substantially rewrite or rephrase their written work. This includes the use of AI translation tools and grammar tools. Extensive use of these tools may constitute Student Misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Each team will present their workshop in their tutorial. Also, one team member must upload a copy of the PowerPoint slides, Task Allocation Sheet and Reference List to Blackboard on or before their workshop presentation date, on behalf of the whole team. This material must be submitted to Blackboard or the workshop cannot be marked.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Team Evaluation Report",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "4/10/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "During the semester you will work in a workshop team to develop an interactive workshop to deliver in your MGTS1601 tutorial. In this report, you are required to write an evaluative report about the effectiveness of your team, and analyse the factors that most affected your team's effectiveness. Please see Blackboard for more information about this task.You must use at least six peer-reviewed journal articles published between 2010 and 2024 in your report otherwise your mark will be restricted to 19/40.Please see Blackboard for more information about this task.Word length: 2000 words (+/- 10%)Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 3. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks.Statement on Use of Artificial Intelligence (AI)The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:Students must clearly reference any use of AI in each instance, including any AI writing tools.A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.You should ensure that you keep drafts of your written work to demonstrate your progress over time.Students must not use AI tools to substantially rewrite or rephrase their written work. This includes the use of AI translation tools and grammar tools. Extensive use of these tools may constitute Student Misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Online via the Turnitin submission link at Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Course Reflection",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "4/11/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "In this reflective essay, you will be required to think about yourself as a person, your experiences throughout the semester and what you have learnt about yourself and how you work with others. Evidence from the academic literature will be required. Please see the marking criteria at Blackboard for more information.Please note that you MUST attend the Week 12 and 13 tutorials and complete the required activities to pass this assessment task. Students who do not attend these tutorials and do not notify course staff with an adequate reason for their absence by the end of Week 13 can only receive a maximum of 9/20.Statement on Use of Artificial Intelligence (AI)The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:Students must clearly reference any use of AI in each instance, including any AI writing tools.A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.You should ensure that you keep drafts of your written work to demonstrate your progress over time.Students must not use AI tools to substantially rewrite or rephrase their written work. This includes the use of AI translation tools and grammar tools. Extensive use of these tools may constitute Student Misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Online via the Turnitin submission link at Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "O-week",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Introduction to OBOnline study moduleLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Introduction to OB",
+            "topic_description": "Online study module",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Groups and TeamsLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Groups and Teams",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Personality and Individual DifferencesLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Personality and Individual Differences",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Attitudes at WorkLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Attitudes at Work",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Assessment ModulesLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Assessment Modules",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Emotions and StressLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Emotions and Stress",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Perception and Decision-MakingLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Perception and Decision-Making",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Business EthicsLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Business Ethics",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Motivation at WorkLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Motivation at Work",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: No moduleLearning outcomes:L01, L02",
+            "topic_title": "Study Module: No module",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Power and Political BehaviourLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Power and Political Behaviour",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Organisational CultureLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Organisational Culture",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Not Timetabled",
+            "topic": "Study Module: Course Reflection ModuleLearning outcomes:L01, L02",
+            "topic_title": "Study Module: Course Reflection Module",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Employability Guest SpeakerLearning outcomes:L01",
+            "topic_title": "Employability Guest Speaker",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        }
+    ]
+}
