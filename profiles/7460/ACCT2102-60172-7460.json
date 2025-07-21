@@ -1,0 +1,264 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT2102-60172-7460",
+    "full_course_code": "ACCT2102-60172-7460",
+    "course_code": "ACCT2102",
+    "class_code": "60172",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain cost behaviour, its application to breakeven analysis and its importance in management decisions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply alternative methods of calculating the costs of products, services and other cost objects and evaluate how the method used can affect management decisions and organisational performance."
+        },
+        {
+            "number": "LO3.",
+            "description": "Compare and critically evaluate actual versus planned operating performance."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the need for management accounting information, systems and practices to change in response to changes in the operating and business environments."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "28/08/2024 8:00 amDuring Lecture",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "Further details about the exam:Held online with the Blackboard Test Tool, during Lecture Time.90 minute exam.Will coverWeek 1 to Week 4(i.e., Job Costing through to and including Process Costing).Will consist of a combination of multiple choice, short answer and practical/problem solving questions.Once marked, results will be posted on the MyGrades link via the course Blackboard site.If you are unable to sit your exam, you must apply for a deferral.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "22/10/2024 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "Cases help increase your learning of the topic areas concerned by requiring the application of course material to real business organisations.Students are required to submit a single pdf of their case study.Further details will accompany the case study when released.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission is through Blackboard and/or Turnitin.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Invigilated Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.The exam is an on-campus, paper-based exam invigilated by UQ appointed invigilators.Further details about the exam:The final exam will coverWeek 5 to Week 12(i.e., Cost Behaviour and CVP Analysis through to and including Overhead Variances)The final exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Job CostingLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Job Costing",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "Job Costing Systems RefinementLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Job Costing Systems Refinement",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "Activity Based Costing and ManagementLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Activity Based Costing and Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "Process costingNo class because of EKKA Show Holiday - Lecture will be pre-recorded.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Process costing",
+            "topic_description": "No class because of EKKA Show Holiday - Lecture will be pre-recorded.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "Cost Behaviour and CVP AnalysisLearning outcomes:L01, L02, L03",
+            "topic_title": "Cost Behaviour and CVP Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "In-Semester Exam During Class",
+            "topic_title": "In-Semester Exam During Class",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "Data Analytic Thinking and PredictionLearning outcomes:L01, L02, L03",
+            "topic_title": "Data Analytic Thinking and Prediction",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "Decision Making and Relevant Info (Pt 1)Learning outcomes:L01, L02, L03",
+            "topic_title": "Decision Making and Relevant Info (Pt 1)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "Decision Making and Relevant Info (Pt 2)Learning outcomes:L01, L02, L04",
+            "topic_title": "Decision Making and Relevant Info (Pt 2)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "Capital Budgeting and Cost AnalysisLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Capital Budgeting and Cost Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "Direct Input Variances (DM & DL)Learning outcomes:L01, L03, L04",
+            "topic_title": "Direct Input Variances (DM & DL)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "Overhead VariancesLearning outcomes:L01, L03, L04",
+            "topic_title": "Overhead Variances",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Final Exam Information LectureLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Final Exam Information Lecture",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
