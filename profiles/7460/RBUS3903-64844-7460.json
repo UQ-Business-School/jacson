@@ -1,0 +1,74 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS3903-64844-7460",
+    "full_course_code": "RBUS3903-64844-7460",
+    "course_code": "RBUS3903",
+    "class_code": "64844",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (24/06/2024 - 17/08/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Build social capital through establishing networks with entrepreneurs and entrepreneurship mentors within the startup ecosystems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Acquire practical skills and knowledge toward enhancing your entrepreneurial mindset and self-efficacy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply innovation and entrepreneurship theory to the process of founding, investing and growing an early stage startup, including how to clearly communicate your business case and value proposition."
+        },
+        {
+            "number": "LO4.",
+            "description": "Show an awareness of the fundamental challenges that entrepreneurs face when launching new ventures."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Critical reflection",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "19/07/2024 5:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "Students will reflect on their personal development resulting from their international immersion experience. This is an essay type assignment in which they will illustrate self-awareness, personal and professional growth, as well as improved understanding of the cultural and business-related complexities in entrepreneurial endeavours.The assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please refer to the Learn.UQ site for a detailed assessment task sheet and submission instructions.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Video presentation",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "26/07/2024 5:00 pm",
+            "learning_objectives": "L01, L02",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "Students will produce a short video presentation (max 5 minutes) about their immersion experience. They will talk about their experience, in particular the complexities and challenges they observed in their encounters with entrepreneurs and community leaders. They will reflect on the challenges they had to overcome and the network connections they were able to build. Finally, they will give account of the knowledge and skills they have gained and their personal growth.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Please Note:The presentation will be recorded for marking purposes.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please refer to the Learn.UQ site for a detailed assessment task sheet and submission instructions.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Report",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "2/08/2024 5:00 pm",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "Students will identify and analyse an innovation and/or entrepreneurship issue relevant to their immersion experience. The assessment piece must demonstrate thoughtful application of entrepreneurship and innovation theories. They must conduct research and submit an academic based paper using reviewed academic sources.The assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Please refer to the Learn.UQ site for a detailed assessment task sheet and submission instructions.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": []
+}
