@@ -1,0 +1,273 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7107-60186-7460",
+    "full_course_code": "ACCT7107-60186-7460",
+    "course_code": "ACCT7107",
+    "class_code": "60186",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the role of management accounting in the planning, control and decision making activities of organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify issues in organisational strategies and operations that require management accounting information, systems and practices for resolution."
+        },
+        {
+            "number": "LO3.",
+            "description": "Prepare, analyse and critically evaluate information to inform value-adding management decision making in areas of costing, planning and control."
+        },
+        {
+            "number": "LO4.",
+            "description": "Propose and justify management accounting practice changes based on analytic insights and the organisation's strategy, operations and business environment."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate the potential consequences of alternative management accounting practices on the behaviour of an organisation's management, employees, and performance."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam During Class",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "25%",
+            "due_date": "Week 5During Lecture",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The in-semester exam will be anin-person closed-bookexamThe exam will assess learning content from Lecture 1 to Lecture 3. Examinable content include the lectures and tutorial materials and all content of class discussions. Note that the information in the supplementary slides is not examinable.The assessment will comprise of two sections:Section 1: multiple-choice questions.Section 2: practical problems (calculations and short discussions)A practice exam will be made available.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Assignment",
+            "special_indicators": [],
+            "weighting": "25%",
+            "due_date": "11/09/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+            "task_description": "This assessment will assess learning content from Lecture 1 to Lecture 5 with a greater emphasis on Lecture 3 to Lecture 5.The case itself will be discussed in tutorials 1-5 to facilitate the integration between your course knowledge and the case. These tutorial case discussion questions are designed for facilitate a deep-learning engagement with the case scenario, however, they are not the same as the actual assignment questions.All inquiries regarding this assessment are to be directed to the lecturer. Students can make a case inquiry by (1) asking a question in person during the lecture, or (2) posting the inquiry to the discussion board.Assessment information will be made available to all students in the course. Students making a private case inquiry via email communications will be advised to contact via the discussion board.The course tutors are not involved in the delivery of this assessment and will refrain from providing guidance on how to answer the actual assignment questions.Students are advised to consult the marking rubric closely when drafting case responses.This is a Turnitin assignment.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The completed assignment will be submitted via Turnitin.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End-of-semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is aclosed book, invigilated examas required by UQ and Professional Accounting bodies as an accreditation requirement.This exam assesses learning content from Lecture 6 to Lecture 11. Your understanding of Lecture 1 to Lecture 5 will be regarded as assumed knowledge in this examination.In preparation for this assessment, students are expected to review all lecture, tutorial and self-study materials, inlcuding materials from the recommended text book.The assessment will comprise of two sections:Section 1: multiple-choice questionsSection 2: Practical problems (calculations and discussions)Past exam papers are available via the university library website. These are provided centrally by the university and no solutions are available.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Lecture 1: IntroductionIntroduction to Management AccountingCost Terms and ConceptsCost BehaviourLearning outcomes:L01, L02, L03",
+            "topic_title": "Lecture 1: Introduction",
+            "topic_description": "Introduction to Management Accounting\nCost Terms and Concepts\nCost Behaviour",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: IntroductionRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03",
+            "topic_title": "Tutorial 1: Introduction",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: CostingsRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03",
+            "topic_title": "Tutorial 2: Costings",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Costings IIRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03",
+            "topic_title": "Tutorial 3: Costings II",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No TutorialIn-Semester Exam this week - no tutorial",
+            "topic_title": "No Tutorial",
+            "topic_description": "In-Semester Exam this week - no tutorial",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Costings IIIRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 4: Costings III",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Pricing DecisionsRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 5: Pricing Decisions",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: BudgetingRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 6: Budgeting",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Standard CostingRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 7: Standard Costing",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: Decision MakingRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 8: Decision Making",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Management Control SystemsRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 9: Management Control Systems",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: The Balanced ScorecardRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 10: The Balanced Scorecard",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Performance Measurement and CompensationRefer to the list of weekly tutorial questions available on the course Blackboard site.Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Tutorial 11: Performance Measurement and Compensation",
+            "topic_description": "Refer to the list of weekly tutorial questions available on the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
