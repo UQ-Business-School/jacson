@@ -1,0 +1,262 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3104-60178-7460",
+    "full_course_code": "ACCT3104-60178-7460",
+    "course_code": "ACCT3104",
+    "class_code": "60178",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand and explain the role of the management accountant and management accounting information in planning, control and decision making of organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand, be able to evaluate and explain how management accounting information must adapt and respond to changes in organisational strategies, structure and operations over time, particularly in a changing business environment."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate ability to prepare, analyse and critically evaluate information to assist with costing, pricing and performance evaluation decisions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain and predict the behavioural implications of management accounting systems for costing, planning and control for the organisation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "28/08/2024During Lecture Time",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "Exam is online using Blackboard.The exam can only be taken once, with no breaks. The time starts as soon as you click on the link to open the exam.The in-semester exam will cover Topics 1 to 4.The in-semester exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.Results will be posted on the MyGrades link via the course Blackboard site.Please do not start the exam if you are unwell as you will not be eligible for a deferral if you have opened the exam link.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20%",
+            "due_date": "4/10/2024 1:00 pm",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "The case study along with the required format will be madeavailablevia Blackboard. The case will be based on a business that has an identifiable problem and issues that need to be investigated and analysed so that workable solutions can be proposed.Cases help increase your learning of the topic areas concerned by requiring the application of course material to real business organisations. The purpose of the case study is to have you develop (1) an understanding of the organisation and its environment, (2) an understanding of the problem and issues that face the organisation; (3) an appropriate analysis and discussion of the problem and issues using the concepts and techniques learned in ACCT3104, and (4) sound recommendations for the organisation that will alleviate/address the problem and issues.Students are required to submit a single pdf of their case study and a video recording of a short presentation of their case.Submission is via Turnitin link on the Blackboard site. Further details will accompany the case study when released.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. The use of an avatar for the video presentation is prohibited.Read full task descriptionHide full task description",
+            "submission_guidelines": "The submission will be via Turnitin link on the Blackboard site. A further link will be provided for the submission of your short video presentation.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.The exam is an on-campus, paper-based exam invigilated by UQ appointed invigilators.The final exam will cover Topics 5 to 11.The final exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.Results will be posted on the MyGrades link via the course Blackboard site.If you are unable to sit your final exam, you must apply for a deferred exam.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Topic 1: Absorption and Variable Costing Capacity AnalysisLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Topic 1: Absorption and Variable Costing Capacity Analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1: Inventory Valuation MethodsInventory Valuation Methods: Absorption, variable and throughput costing. Capacity decisions.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Tutorial 1: Inventory Valuation Methods",
+            "topic_description": "Inventory Valuation Methods: Absorption, variable and throughput costing. Capacity decisions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 2: Inventory management, EOQ and JITInventory management, EOQ and JIT.Readings/Ref: Horngren 17 (Chapter 21);Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Tutorial 2: Inventory management, EOQ and JIT",
+            "topic_description": "Inventory management, EOQ and JIT.\nReadings/Ref: Horngren 17 (Chapter 21);",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3: Pricing Decisions and Cost ManagementLearning outcomes:L02, L03",
+            "topic_title": "Tutorial 3: Pricing Decisions and Cost Management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4: Customer profitability analysis, SVACustomer profitability analysis, revenue allocation, and sales variance analysis.Learning outcomes:L01, L03, L04",
+            "topic_title": "Tutorial 4: Customer profitability analysis, SVA",
+            "topic_description": "Customer profitability analysis, revenue allocation, and sales variance analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "No TutorialsBlackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK",
+            "topic_title": "No Tutorials",
+            "topic_description": "Blackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5: Decentralisation, etcDecentralisation, responsibility centres, transfer pricingLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Tutorial 5: Decentralisation, etc",
+            "topic_description": "Decentralisation, responsibility centres, transfer pricing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 6: Organisation and management systemsOrganisational structures and management control systems.Learning outcomes:L01, L02, L04",
+            "topic_title": "Tutorial 6: Organisation and management systems",
+            "topic_description": "Organisational structures and management control systems.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: SMA, BSC, SPAStrategic management accounting, balanced scorecard and strategic profitability analysis.Learning outcomes:L01, L03, L04",
+            "topic_title": "Tutorial 7: SMA, BSC, SPA",
+            "topic_description": "Strategic management accounting, balanced scorecard and strategic profitability analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 8: BSC quality, time, constraint theoryBalanced scorecard: quality, time, and the theory of constraints.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Tutorial 8: BSC quality, time, constraint theory",
+            "topic_description": "Balanced scorecard: quality, time, and the theory of constraints.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: Financial performance measuresFinancial performance measures and their effects including incentives.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Tutorial 9: Financial performance measures",
+            "topic_description": "Financial performance measures and their effects including incentives.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 10: Incentive systemsPerformance measures and incentive systemsLearning outcomes:L01, L03, L04",
+            "topic_title": "Tutorial 10: Incentive systems",
+            "topic_description": "Performance measures and incentive systems",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Ethics in management accountingLearning outcomes:L01, L04",
+            "topic_title": "Tutorial 11: Ethics in management accounting",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        }
+    ]
+}
