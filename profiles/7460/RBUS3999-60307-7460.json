@@ -1,0 +1,171 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS3999-60307-7460",
+    "full_course_code": "RBUS3999-60307-7460",
+    "course_code": "RBUS3999",
+    "class_code": "60307",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop awareness of your graduate attributes and how they may apply in the workplace and enhance employability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Articulate key aspects of business practices within an organisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Acquire practical skills and knowledge toward enhancing your employability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explore the different means by which organisations engage in business practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop the ability to think strategically from the perspective of a manager."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand the professional rigor expected in corporate practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "7  Have a clear understanding of how graduate attributes contribute to employability skills in a graduate career."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1. Video pitch",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "20/09/2024 5:00 pm",
+            "learning_objectives": "L01, L03, L07",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "In this assessment you need to develop a short speech that conveys who you are, showcases your personal brand, communicates what you can offer to a new employer or business contact, and facilitates engagement with the viewer. The speech needs to be recorded as a video.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2. Professional Development Plan",
+            "special_indicators": [],
+            "weighting": "30%",
+            "due_date": "18/10/2024 5:00 pm",
+            "learning_objectives": "L01, L03, L07",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "In this assessment you need to write a self-critical and comprehensive Professional Development Plan that assesses your employability skills, attributes and knowledge, identifies areas for further development, outlines action steps to achieves your development goals, and considers your long-term career trajectory.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3. Critical Workplace Reflection",
+            "special_indicators": [],
+            "weighting": "50%",
+            "due_date": "25/10/2024 5:00 pm",
+            "learning_objectives": "L02, L04, L05, L06",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "You need to complete a critical reflection on a critical incident that occurred during your work experience. You will use a recognised reflective method to structure your reflection.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Seminar 1: Introduction to the CourseThe seminar will include:ECPExploring the concept of employabilityProfessional performance, communication and expectationsAssessment overviewLearning outcomes:L01, L07",
+            "topic_title": "Seminar 1: Introduction to the Course",
+            "topic_description": "The seminar will include: \n\nECP\nExploring the concept of employability\nProfessional performance, communication and expectations\nAssessment overview",
+            "learning_outcomes": [
+                "L01",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Seminar 2: Workplace review and reflectionDuring this seminar we will:Explore reflective practiceDiscover reflective toolsDevelop reflective writing for professional useLearning outcomes:L02, L05",
+            "topic_title": "Seminar 2: Workplace review and reflection",
+            "topic_description": "During this seminar we will:\n\nExplore reflective practice\nDiscover reflective tools\nDevelop reflective writing for professional use",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Seminar 3: Project ManagementThe seminar will include:- Key PM concepts, processes and tools- Teamwork fundamentals- Industry viewLearning outcomes:L02, L03, L04, L05",
+            "topic_title": "Seminar 3: Project Management",
+            "topic_description": "The seminar will include:\n- Key PM concepts, processes and tools\n- Teamwork fundamentals\n- Industry view",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Seminar 4: Personal brand and NetworkingThis seminar assists students to:- Learn about networking tools- Develop their networking skills- Set up and refine their online profiles like LinkedIn- Consider the implications of their social media activities for employabilityLearning outcomes:L01, L03, L07",
+            "topic_title": "Seminar 4: Personal brand and Networking",
+            "topic_description": "This seminar assists students to:\n- Learn about networking tools\n- Develop their networking skills\n- Set up and refine their online profiles like LinkedIn\n- Consider the implications of their social media activities for employability",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Seminar 5: Professional development planDuring this seminar we will discuss:- Skills and attributes for success- Measuring skills and attributes- Developing a Professional Development PlanLearning outcomes:L01, L03, L06, L07",
+            "topic_title": "Seminar 5: Professional development plan",
+            "topic_description": "During this seminar we will discuss:\n- Skills and attributes for success\n- Measuring skills and attributes\n- Developing a Professional Development Plan",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Seminar 6: Value propositionDuring this seminar we will:- Identify the components of your personal narrative and value proposition- Look at ways to communicate your story- Practice formulating and articulating your storyLearning outcomes:L01, L03, L07",
+            "topic_title": "Seminar 6: Value proposition",
+            "topic_description": "During this seminar we will:\n- Identify the components of your personal narrative and value proposition\n- Look at ways to communicate your story\n- Practice formulating and articulating your story",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Seminar 7: Corporate recruitmentDuring this seminar students will explore:- Skills and attributes in demand- Current recruitment practices- How to present yourself professionallyLearning outcomes:L02, L04, L06",
+            "topic_title": "Seminar 7: Corporate recruitment",
+            "topic_description": "During this seminar students will explore:\n- Skills and attributes in demand\n- Current recruitment practices\n- How to present yourself professionally",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L06"
+            ]
+        }
+    ]
+}
