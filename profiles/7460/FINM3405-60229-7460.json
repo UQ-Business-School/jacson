@@ -1,0 +1,279 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3405-60229-7460",
+    "full_course_code": "FINM3405-60229-7460",
+    "course_code": "FINM3405",
+    "class_code": "60229",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify different derivative products that are available in the financial market."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the operation of derivatives markets (options, futures, forwards and swaps)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Master the fundamental concepts in pricing derivative instruments using various state-of-the-art techniques."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate how a range of derivative products can be used to hedge and speculate market risk."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work collaboratively in a team to collect and analyse financial/derivative data, and price/evaluate different financial derivatives."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30% (Report 25%; Reflection 5%)",
+            "due_date": "Report 4/10/2024 11:00 pmReflective Piece - Individual 8/10/2024 11:00 pmPeer Assessment - Individual 8/10/2024 11:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Reflection",
+            "task_description": "Students are required to work in teams of 4 students for this Team Project.The Team Project has three components: aReport(25%), aReflective Piece(5%) and a compulsoryPeer Assessment Review.The Report is to be submitted tobothBlackboard and Turnitin. One member per group is to submit the Report on behalf of the team.The Reflective Piece is to be submitted to Blackboard. This is an individual submission item.The Peer Assessment Review is an individual submission item.Your team is required to produce aReporton a set of cases using various financial derivatives instruments. The Report should cover computation, theory discussion and hedging suggestions. The Report focuses on examining your critical analytical skills and ability to work with real-life case scenarios. You are expected to undertake a certain amount of research to complete this Report.You are also required to complete aReflective PieceandPeer Assessment Reviewindividually after your team has submitted the Report. The Peer Assessment Review will be used to compute your final grade on the Report (25%). Completing the Peer Assessment Review is mandatory. If you do not submit a Peer Assessment Review form, you will receive a score of zero on the Report. The Peer Assessment Review will be completed on Blackboard and is integrated into the Blackboard teams.Further details about the Team Project will be discussed during the semester.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able toapply for an extension.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "20% Individual",
+            "due_date": "In-semester Saturday31/08/2024 - 14/09/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The In-Semester Exam will be held during the In-Semester Exam period on one of the following Saturdays: August 31, September 7 or September 14.The date will be advised as soon as we are made aware by the university. At this stage, you should keep all these Saturdays free.The topics of coverage depend on the date of the exam, and will include topics covered in the course up to the tutorial prior to the exam.More details about the In-Semester Exam will be posted on Blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "50% Individual",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final exam will be a closed-book, in-person, paper based exam held in the end of semester, centrally managed and invigilated exam period, consisting of problem-solving and short-answer questions.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Introduction to DerivativesReadings:  Hull, Chapter 1 and 2.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Introduction to Derivatives",
+            "topic_description": "Readings:  Hull, Chapter 1 and 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Introduction to DerivativesLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Introduction to Derivatives",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Forward and Futures Contracts 1Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Forward and Futures Contracts 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Forward and Futures Contracts 2Please note that Wednesday 14 August is a public holiday.  Students with a Wednesday tutorial are free to attend any other tutorial time this week.Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Forward and Futures Contracts 2",
+            "topic_description": "Please note that Wednesday 14 August is a public holiday.  Students with a Wednesday tutorial are free to attend any other tutorial time this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Introduction to OptionsLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Introduction to Options",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "The Black-Scholes Model and the GreeksLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "The Black-Scholes Model and the Greeks",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Implied Volatility and Trading StrategiesLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Implied Volatility and Trading Strategies",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Binomial Model and Monte Carlo SimulationLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Binomial Model and Monte Carlo Simulation",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Pricing American and Path-Dependent OptionsLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Pricing American and Path-Dependent Options",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester BreakNo lecture or tutorials during In-Semester break.",
+            "topic_title": "In-Semester Break",
+            "topic_description": "No lecture or tutorials during In-Semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Interest Rate Derivatives: Futures, Options and Swaps 1Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Interest Rate Derivatives: Futures, Options and Swaps 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "Interest Rate Derivatives: Futures, Options and Swaps 2Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Interest Rate Derivatives: Futures, Options and Swaps 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Catch-up tutorialLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Catch-up tutorial",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Value at Risk (VaR) and Expected Shortfall (ES)Learning outcomes:L01, L02, L03, L04",
+            "topic_title": "Value at Risk (VaR) and Expected Shortfall (ES)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
