@@ -1,0 +1,301 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7405-60241-7460",
+    "full_course_code": "FINM7405-60241-7460",
+    "course_code": "FINM7405",
+    "class_code": "60241",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Appreciate how the economic environment influences the financial risks faced by a corporation."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand and measure the impact of interest rate changes on the value of fixed income securities."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand how to use futures and swaps to hedge interest rate risk."
+        },
+        {
+            "number": "LO4.",
+            "description": "In teams, appreciate how to play the role of central treasury in the efficient management of a portfolio of fixed interest securities."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand how a range of financial products can be employed to manage foreign exchange and commodity price risk."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand a variety of derivative products and in what situations they are employed."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand the financial crisis and the role derivatives played in it."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Blackboard Based Online In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "30/08/2024 6:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The In-Semester Exam will be scheduled by the school.The In-Semester Exam covers material from lectures 1-4 inclusive and will be a digital Blackboard exam scheduled outside of normal class hours. More details will be given on the course Blackboard site.This assessment task is to be completed online.AI Statement:The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+            "additional_info": "You may be able to\ndefer this exam\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Trading Game",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "15%",
+            "due_date": "Workshop 1 4/10/2024 4:00 pmWorkshop 2 11/10/2024 4:00 pmWorkshop 3 18/10/2024 4:00 pm",
+            "learning_objectives": "L01, L03, L04, L05, L06",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Role play/ Simulation",
+            "task_description": "This semester we will be doing the QTC trading game. In the game students will work in groups to make hedging decisions given a real world economic scenario.The trading game will run for 3 weeks and students, in groups, will be required to give a report every week discussing the trading decisions they made. Each report is worth 5% for a total of 15% over the 3 weeks. More information will be provided at a later date.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "15%",
+            "due_date": "25/10/2024 3:00 pm",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This piece of assessment involves the content of the lecture on \"The Financial Crisis and other Case Studies\" and involves short answers and calculations. It is done individually. The assessment has two parts:1. Students will be required to do research into specific elements of the financial crisis and answer questions using their own words and appropriate references.2. Students will be given a fictional financial institution that is facing various types of financial risk. They will have to critique the current risk management set up as well as provide improvements. This part of the assessment will require the students doing calculations in excel.More information will be given during the semester.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Via Blackboard",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final exam will be during the University examination period at the end of the semester.The timetabling of this exam is the responsibility of the University of Queensland Examinations Section.This isin-person, invigilated, paper-basedwritten exam comprises short answer and problem solving questions.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "Course Introduction and Important TerminologiesLearning outcomes:L01, L02",
+            "topic_title": "Course Introduction and Important Terminologies",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1 - Important TerminologiesLearning outcomes:L01, L02",
+            "topic_title": "Tutorial 1 - Important Terminologies",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial - Interest Rate Risk 1Learning outcomes:L01, L02",
+            "topic_title": "Tutorial - Interest Rate Risk 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial - Interest Rate Risk 2Learning outcomes:L01, L02",
+            "topic_title": "Tutorial - Interest Rate Risk 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial - FuturesLearning outcomes:L01, L02, L03, L05",
+            "topic_title": "Tutorial - Futures",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial: SwapsLearning outcomes:L01, L02, L03",
+            "topic_title": "Tutorial: Swaps",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial: Derivatives 1Learning outcomes:L01",
+            "topic_title": "Tutorial: Derivatives 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial: Options 1Learning outcomes:L01, L06",
+            "topic_title": "Tutorial: Options 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial: Options 2Learning outcomes:L01, L06",
+            "topic_title": "Tutorial: Options 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "Trading Game 1Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Trading Game 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "Trading Game 2Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Trading Game 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "Trading Game 3Learning outcomes:L01, L02, L03, L04, L05",
+            "topic_title": "Trading Game 3",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "Revision WeekLearning outcomes:L01, L02, L03, L04, L05, L06, L07",
+            "topic_title": "Revision Week",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
