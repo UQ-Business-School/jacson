@@ -1,0 +1,247 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM1416-60226-7460",
+    "full_course_code": "FINM1416-60226-7460",
+    "course_code": "FINM1416",
+    "class_code": "60226",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain different theories on the role of business and finance, and analyse financial decisions in the context of global challenges"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the concept of time-value of money to a wide range of valuation problems and financial instruments (shares, bonds), and describe how financial markets work"
+        },
+        {
+            "number": "LO3.",
+            "description": "Make project investment decisions based on an understanding of capital budgeting techniques and critically evaluate the resulting analysis"
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the risk, return, and cost of capital of an investment based on an understanding of the relationship between risk, return and the Capital Asset Pricing Model (CAPM)"
+        },
+        {
+            "number": "LO5.",
+            "description": "Interact effectively with a team to discuss ideas and work towards a common outcome"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online weekly quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "15% Best 9 of 12",
+            "due_date": "31/07/2024 8:00 am7/08/2024 8:00 amDue Tuesday due to Wednesday public holiday (EKKA public holiday, 14/8) 13/08/2024 8:00 am21/08/2024 8:00 am28/08/2024 8:00 am4/09/2024 8:00 am11/09/2024 8:00 am18/09/2024 8:00 am2/10/2024 8:00 am9/10/2024 8:00 am16/10/2024 8:00 am23/10/2024 8:00 am",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "Preparation and independent study are an essential part of the learning activities in FINM1416. These activities will be assessed through a series of weekly online quizzes. The best 9 out of 12 quizzes with your highest scores will count towards your total score on this assessment item.Quizzes are due onWednesday 8:00amin the week following your independent study of the Module. This will help keep you up with the material and will assist your tutor and lecturer in understanding which topics you are finding most difficult.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submitted online on Blackboard",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "45% Best 3 of 4",
+            "due_date": "The objective of the firm Week 3 - Week 4 MonTime value of money Week 7 - Week 8 MonValuation Week 9 - Week 10 MonCapital Budgeting Week 11 - Week 12 MonIndividual component dueby Monday 8:00AMin theworkshop weekGroup component during scheduled workshop",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Practical/ Demonstration, Product/ Design",
+            "task_description": "There are 4 assignments during the semester. Each assignment will consist of an individual component (counting for 50% of the assignment mark) and a group component (50%).The individual component is to be submitted on Blackboard by Monday 8:00AM in the workshop week. The group component will corroborate and build upon the individual component.The group component consists of 2 parts. The 1st part is to be completed within the 2-hr workshop session and is thus due by the end of your workshop session. The 2nd part is to be submitted at 12:00pm exactly one week following your actual workshop session. The components for submission may include short videos, Excel spreadsheets, or reports, and details of the assignments will be posted at least 2 weeks before the individual component is due.Your best three workshop scores will each be worth 15% of your final grade for this course.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submit via the Assessment folder on Blackboard.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "The final exam will consist of multiple-choice, problem-solving, short-answer, and essay questions.To achieve a grade of 4 or better in FINM1416, you must score at least 40% on the final exam.Students who score less than 40% on the final exam, but more than 50% overall, will be given a grade of 3. In other words, this is ahurdle exam: YOU MUST SCORE AT LEAST 40% ON THE FINAL EXAM TO PASS THIS COURSE.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "You may be able todefer this exam.",
+            "deferral_or_extension": "You may be able todefer this exam.",
+            "late_submission": null,
+            "additional_info": "You may be able to\ndefer this exam\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "Module 1 - What is Financial Management?Learning outcomes:L01",
+            "topic_title": "Module 1 - What is Financial Management?",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 1 - What is financial managementLearning outcomes:L01",
+            "topic_title": "Tutorial 1 - What is financial management",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "Workshop 1Learning outcomes:L01, L05",
+            "topic_title": "Workshop 1",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 3 - Time value of money (Part 1)Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02",
+            "topic_title": "Tutorial 3 - Time value of money (Part 1)",
+            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 4 - Time value of money (Part 2)Learning outcomes:L02",
+            "topic_title": "Tutorial 4 - Time value of money (Part 2)",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 5 - Valuing debtLearning outcomes:L02",
+            "topic_title": "Tutorial 5 - Valuing debt",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "Workshop 2Learning outcomes:L02, L05",
+            "topic_title": "Workshop 2",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 7: Capital budgeting methodsLearning outcomes:L03",
+            "topic_title": "Tutorial 7: Capital budgeting methods",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "Workshop 3Learning outcomes:L05",
+            "topic_title": "Workshop 3",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-Semester Break",
+            "topic_title": "In-Semester Break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 9: NPV - Modelling and analysisLearning outcomes:L03",
+            "topic_title": "Tutorial 9: NPV - Modelling and analysis",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "Workshop 4King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L03, L05",
+            "topic_title": "Workshop 4",
+            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 11: Cost of capitalLearning outcomes:L04",
+            "topic_title": "Tutorial 11: Cost of capital",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "Tutorial 12: Business purpose & sustainabilityLearning outcomes:L01",
+            "topic_title": "Tutorial 12: Business purpose & sustainability",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01"
+            ]
+        }
+    ]
+}
