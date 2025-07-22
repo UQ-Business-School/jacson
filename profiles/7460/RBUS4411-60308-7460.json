@@ -1,0 +1,116 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS4411-60308-7460",
+    "full_course_code": "RBUS4411-60308-7460",
+    "course_code": "RBUS4411",
+    "class_code": "60308",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Obtain and analyse information relevant to an applied research topic."
+        },
+        {
+            "number": "LO2.",
+            "description": "Prepare a comprehensive research report."
+        },
+        {
+            "number": "LO3.",
+            "description": "Assess a range of information and evidence and present a reasoned conclusion."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically evaluate a range of information sources."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Plan",
+            "special_indicators": [],
+            "weighting": "10%",
+            "due_date": "13/08/2024 5:00 pm",
+            "learning_objectives": "L01, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This task involves a short description of the project including the research topic, importance and objectives. More details will be provided on Blackboard and discussed in class.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard and Turnitin",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Literature Review",
+            "special_indicators": [],
+            "weighting": "10%",
+            "due_date": "30/08/2024 5:00 pm",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "This task involves a through literature reviewprepared individually by each student. More details will be provided on Blackboard and discussed in class.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard and Turnitin",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Data collection and process",
+            "special_indicators": [],
+            "weighting": "20%",
+            "due_date": "20/09/2024",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "A detailed description of data sources,  variables construction, and sample summary statistics.   More details will be provided on Blackboard and discussed in class.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard and Turnitin",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Project report",
+            "special_indicators": [],
+            "weighting": "60%",
+            "due_date": "8/11/2024",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The final assessment for this course consists of a research report, prepared individually by each student. More details will be provided on Blackboard and discussed in class.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "To be submitted via Blackboard and Turnitin",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "Introductory seminarLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Introductory seminar",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "General contact hours",
+            "topic": "Meeting with course coordinator/supervisorStudents will be required to meet with the course coordinator and/or supervisor several times over the course of the semesterLearning outcomes:L01, L02, L03, L04",
+            "topic_title": "Meeting with course coordinator/supervisor",
+            "topic_description": "Students will be required to meet with the course coordinator and/or supervisor several times over the course of the semester",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
