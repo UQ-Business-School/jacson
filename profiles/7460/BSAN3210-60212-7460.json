@@ -1,4 +1,8 @@
 {
+    "course_title": "Technology of Business Analytics",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3210-60212-7460",
     "full_course_code": "BSAN3210-60212-7460",
     "course_code": "BSAN3210",
@@ -32,55 +36,55 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Assessment 1 (A1)",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "6/09/2024 5:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 6/09/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "A project plan/proposal outlining the plan for your project in creating a software tool.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A project plan/proposal outlining the plan for your project in creating a software tool.</p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Assessment 2 (A2)",
             "special_indicators": [],
-            "weighting": "50%",
-            "due_date": "25/10/2024 5:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "A project report on the developed software tool.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A project report on the developed software tool.</p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Assessment 3 (A3)",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "7/11/2024 - 14/11/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 7/11/2024 - 14/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Essay/ Critique",
-            "task_description": "You have a seven-day window to complete your assessment. You can access and submit your assessment at any time within the seven-day window.AI Statement:Machine Translation (MT) may support students in completing this assessment task. Students may appropriately use MT in completing this assessment task. Students must clearly reference any use of MT in each instance.Use of generative Artificial Intelligence (AI) in this task is prohibited.A failure to reference MT use and / or the use of generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You have a seven-day window to complete your assessment. You can access and submit your assessment at any time within the seven-day window.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Machine Translation (MT) may support students in completing this assessment task. Students may appropriately use MT in completing this assessment task. Students must clearly reference any use of MT in each instance.</p>\n<p>Use of generative Artificial Intelligence (AI) in this task is prohibited.</p>\n<p>A failure to reference MT use and / or the use of generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Course IntroductionLearning outcomes:L01",
-            "topic_title": "Course Introduction",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Introduction</strong>",
+            "topic_description": "Course Introduction",
             "learning_outcomes": [
                 "L01"
             ]
@@ -88,31 +92,51 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Software for Business AnalyticsLearning outcomes:L01, L02",
-            "topic_title": "Software for Business Analytics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Software for Business Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Software for Business Analytics</strong>",
+            "topic_description": "Software for Business Analytics",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quick start in R</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Quick start in R</strong>",
+            "topic_description": "Quick start in R",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Programming Concepts - Data StructuresLearning outcomes:L02, L03",
-            "topic_title": "Programming Concepts - Data Structures",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Programming Concepts - Data Structures</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Programming Concepts - Data Structures</strong>",
+            "topic_description": "Programming Concepts - Data Structures",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 3",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The R Environment</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>The R Environment</strong>",
+            "topic_description": "The R Environment",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Programming Concepts - Input/OutputLearning outcomes:L02, L03, L04, L05",
-            "topic_title": "Programming Concepts - Input/Output",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Programming Concepts - Input/Output</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Programming Concepts - Input/Output</strong>",
+            "topic_description": "Programming Concepts - Input/Output",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -121,11 +145,43 @@
             ]
         },
         {
+            "learning_period": "Week 4",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Basic expressions and visualisation</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Basic expressions and visualisation</strong>",
+            "topic_description": "Basic expressions and visualisation",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Software Testing - Process and PracticesLearning outcomes:L02, L03, L05",
-            "topic_title": "Software Testing - Process and Practices",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Software Testing - Process and Practices</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Software Testing - Process and Practices</strong>",
+            "topic_description": "Software Testing - Process and Practices",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inside R</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Inside R</strong>",
+            "topic_description": "Inside R",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creating a Graphical User Interface and Website</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Creating a Graphical User Interface and Website</strong>",
+            "topic_description": "Creating a Graphical User Interface and Website",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -134,10 +190,20 @@
         },
         {
             "learning_period": "Week 6",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Shiny package in R</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Shiny package in R</strong>",
+            "topic_description": "Shiny package in R",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Creating a Graphical User Interface and WebsiteLearning outcomes:L02, L03, L05",
-            "topic_title": "Creating a Graphical User Interface and Website",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data management and linkage</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Data management and linkage</strong>",
+            "topic_description": "Data management and linkage",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -146,53 +212,71 @@
         },
         {
             "learning_period": "Week 7",
-            "activity_type": "Seminar",
-            "topic": "Data management and linkageLearning outcomes:L02, L03, L05",
-            "topic_title": "Data management and linkage",
-            "topic_description": "",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Meta-programming in R</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Meta-programming in R</strong>",
+            "topic_description": "Meta-programming in R",
             "learning_outcomes": [
-                "L02",
-                "L03",
-                "L05"
+                "L03"
             ]
         },
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Creating an Information RepositoryLearning outcomes:L01, L02",
-            "topic_title": "Creating an Information Repository",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creating an Information Repository</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Creating an Information Repository</strong>",
+            "topic_description": "Creating an Information Repository",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 8",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Object-Oriented Programming</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Object-Oriented Programming</strong>",
+            "topic_description": "Object-Oriented Programming",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Cyber-Security (Privacy and Confidentiality)Learning outcomes:L02, L03, L05",
-            "topic_title": "Cyber-Security (Privacy and Confidentiality)",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cyber-Security (Privacy and Confidentiality)</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Cyber-Security (Privacy and Confidentiality)</strong>",
+            "topic_description": "Cyber-Security (Privacy and Confidentiality)",
             "learning_outcomes": [
                 "L02",
                 "L03",
                 "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Working with databases</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Working with databases</strong>",
+            "topic_description": "Working with databases",
+            "learning_outcomes": [
+                "L03"
             ]
         },
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Software Documentation-Technical and End UserLearning outcomes:L02, L03, L05",
-            "topic_title": "Software Documentation-Technical and End User",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Software Documentation-Technical and End User</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Software Documentation-Technical and End User</strong>",
+            "topic_description": "Software Documentation-Technical and End User",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -200,11 +284,21 @@
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Manipulation</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Data Manipulation</strong>",
+            "topic_description": "Data Manipulation",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Practical",
-            "topic": "Data Manipulation part 2Learning outcomes:L02, L03, L05",
-            "topic_title": "Data Manipulation part 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Manipulation part 2</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Data Manipulation part 2</strong>",
+            "topic_description": "Data Manipulation part 2",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -214,9 +308,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Project workshop and ConsultLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Project workshop and Consult",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project workshop and Consult</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Project workshop and Consult</strong>",
+            "topic_description": "Project workshop and Consult",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -228,9 +322,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Revision and Take-Home Assessment",
-            "topic_title": "Revision and Take-Home Assessment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision and Take-Home Assessment</strong><br/></p></div></td>",
+            "topic_title": "<strong>Revision and Take-Home Assessment</strong>",
+            "topic_description": "Revision and Take-Home Assessment",
             "learning_outcomes": []
         }
     ]
