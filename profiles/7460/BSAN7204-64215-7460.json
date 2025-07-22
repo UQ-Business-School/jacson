@@ -1,4 +1,8 @@
 {
+    "course_title": "Statistical Methods in Business",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7204-64215-7460",
     "full_course_code": "BSAN7204-64215-7460",
     "course_code": "BSAN7204",
@@ -29,16 +33,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "16/08/2024 3:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 16/08/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -49,40 +53,50 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "4/10/2024 3:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/10/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Complete via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)</p>\n<p>You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Complete via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Technical Report and Stakeholder Presentation",
             "special_indicators": [],
-            "weighting": "50%",
-            "due_date": "25/10/2024 3:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 25/10/2024 3:00 pm</p></dd>",
             "learning_objectives": "L02, L03",
             "mode": "Oral, Written",
             "category": "Paper/ Report/ Annotation, Presentation",
-            "task_description": "The objective of this assessment is for you to work with a complex collection of data files in order to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:Multiple linear regressionLogistic regression and multiple logistic regressionTime seriesYou will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders.Please Note:The presentation will be recorded for marking purposes.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Further details of submission will be provided on Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assessment is for you to work with a complex collection of data files in order to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:</p>\n<ul>\n<li>Multiple linear regression</li>\n<li>Logistic regression and multiple logistic regression</li>\n<li>Time series</li>\n</ul>\n<p>You will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Further details of submission will be provided on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 1.1 - Univariate AnalysisSelf-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?Learning outcomes:L01",
-            "topic_title": "Topic 1.1 - Univariate Analysis",
-            "topic_description": "Self-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.1 - Univariate Analysis</strong><br><p>Self-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.1 - Univariate Analysis</strong>",
+            "topic_description": "Topic 1.1 - Univariate Analysis Self-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.1 - Univariate Analysis</strong><br><p>Live session</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.1 - Univariate Analysis</strong>",
+            "topic_description": "Topic 1.1 - Univariate Analysis Live session",
             "learning_outcomes": [
                 "L01"
             ]
@@ -90,9 +104,19 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 1.2 - Bivariate AnalysisSelf-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?Learning outcomes:L01",
-            "topic_title": "Topic 1.2 - Bivariate Analysis",
-            "topic_description": "Self-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.2 - Bivariate Analysis</strong><br/><p>Self-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.2 - Bivariate Analysis</strong>",
+            "topic_description": "Topic 1.2 - Bivariate Analysis Self-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.2 - Bivariate Analysis</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.2 - Bivariate Analysis</strong>",
+            "topic_description": "Topic 1.2 - Bivariate Analysis Live session",
             "learning_outcomes": [
                 "L01"
             ]
@@ -100,17 +124,27 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Not Timetabled",
-            "topic": "Assessment PreparationAssignment preparation",
-            "topic_title": "Assessment Preparation",
-            "topic_description": "Assignment preparation",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Preparation</strong><br/><p>Assignment preparation</p></p></div></td>",
+            "topic_title": "<strong>Assessment Preparation</strong>",
+            "topic_description": "Assessment Preparation Assignment preparation",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 4",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 2.1 - Hypothesis TestingSelf-Directed Learning: How can we draw conclusions about population comparisons using our sample data?Learning outcomes:L02",
-            "topic_title": "Topic 2.1 - Hypothesis Testing",
-            "topic_description": "Self-Directed Learning: How can we draw conclusions about population comparisons using our sample data?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1 - Hypothesis Testing</strong><br/><p>Self-Directed Learning: How can we draw conclusions about population comparisons using our sample data?</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.1 - Hypothesis Testing</strong>",
+            "topic_description": "Topic 2.1 - Hypothesis Testing Self-Directed Learning: How can we draw conclusions about population comparisons using our sample data?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1 - Hypothesis Testing</strong><br/><p>There will be no activities on the Ekka Show day public holiday. Alternative arrangements will be made and communicated via Blackboard, if required.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.1 - Hypothesis Testing</strong>",
+            "topic_description": "Topic 2.1 - Hypothesis Testing There will be no activities on the Ekka Show day public holiday. Alternative arrangements will be made and communicated via Blackboard, if required.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -118,9 +152,19 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 2.2 - Linear RegressionSelf-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?Learning outcomes:L02",
-            "topic_title": "Topic 2.2 - Linear Regression",
-            "topic_description": "Self-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.2 - Linear Regression</strong><br/><p>Self-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.2 - Linear Regression</strong>",
+            "topic_description": "Topic 2.2 - Linear Regression Self-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.2 - Linear Regression</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.2 - Linear Regression</strong>",
+            "topic_description": "Topic 2.2 - Linear Regression Live session",
             "learning_outcomes": [
                 "L02"
             ]
@@ -128,9 +172,19 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 3.1 - Multiple RegressionSelf-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?Learning outcomes:L02",
-            "topic_title": "Topic 3.1 - Multiple Regression",
-            "topic_description": "Self-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.1 - Multiple Regression</strong><br/><p>Self-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.1 - Multiple Regression</strong>",
+            "topic_description": "Topic 3.1 - Multiple Regression Self-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.1 - Multiple Regression</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.1 - Multiple Regression</strong>",
+            "topic_description": "Topic 3.1 - Multiple Regression Live session",
             "learning_outcomes": [
                 "L02"
             ]
@@ -138,9 +192,19 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 3.2 - Logistic RegressionSelf-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?Learning outcomes:L02",
-            "topic_title": "Topic 3.2 - Logistic Regression",
-            "topic_description": "Self-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.2 - Logistic Regression</strong><br/><p>Self-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.2 - Logistic Regression</strong>",
+            "topic_description": "Topic 3.2 - Logistic Regression Self-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.2 - Logistic Regression</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.2 - Logistic Regression</strong>",
+            "topic_description": "Topic 3.2 - Logistic Regression Live session",
             "learning_outcomes": [
                 "L02"
             ]
@@ -148,9 +212,19 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 3.3 - Time SeriesSelf-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?Learning outcomes:L02",
-            "topic_title": "Topic 3.3 - Time Series",
-            "topic_description": "Self-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.3 - Time Series</strong><br/><p>Self-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.3 - Time Series</strong>",
+            "topic_description": "Topic 3.3 - Time Series Self-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.3 - Time Series</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.3 - Time Series</strong>",
+            "topic_description": "Topic 3.3 - Time Series Live session",
             "learning_outcomes": [
                 "L02"
             ]
@@ -158,25 +232,35 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Not Timetabled",
-            "topic": "Assessment PreparationAssessment Preparation",
-            "topic_title": "Assessment Preparation",
-            "topic_description": "Assessment Preparation",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Preparation</strong><br/><p>Assessment Preparation</p></p></div></td>",
+            "topic_title": "<strong>Assessment Preparation</strong>",
+            "topic_description": "Assessment Preparation Assessment Preparation",
             "learning_outcomes": []
         },
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 4.1 - Model SelectionSelf-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?Learning outcomes:L03",
-            "topic_title": "Topic 4.1 - Model Selection",
-            "topic_description": "Self-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.1 - Model Selection</strong><br/><p>Self-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.1 - Model Selection</strong>",
+            "topic_description": "Topic 4.1 - Model Selection Self-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.1 - Model Selection</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.1 - Model Selection</strong>",
+            "topic_description": "Topic 4.1 - Model Selection Live session",
             "learning_outcomes": [
                 "L03"
             ]
@@ -184,9 +268,19 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 4.2 - Regression Case StudySelf-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?Learning outcomes:L03",
-            "topic_title": "Topic 4.2 - Regression Case Study",
-            "topic_description": "Self-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.2 - Regression Case Study</strong><br/><p>Self-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.2 - Regression Case Study</strong>",
+            "topic_description": "Topic 4.2 - Regression Case Study Self-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.2 - Regression Case Study</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.2 - Regression Case Study</strong>",
+            "topic_description": "Topic 4.2 - Regression Case Study Live session",
             "learning_outcomes": [
                 "L03"
             ]
@@ -194,9 +288,19 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 4.3 - Time Series Case StudySelf-Directed Learning: What issues are important when putting theory into practice in time series analysis?Learning outcomes:L03",
-            "topic_title": "Topic 4.3 - Time Series Case Study",
-            "topic_description": "Self-Directed Learning: What issues are important when putting theory into practice in time series analysis?",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.3 - Time Series Case Study</strong><br/><p>Self-Directed Learning: What issues are important when putting theory into practice in time series analysis?</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.3 - Time Series Case Study</strong>",
+            "topic_description": "Topic 4.3 - Time Series Case Study Self-Directed Learning: What issues are important when putting theory into practice in time series analysis?",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.3 - Time Series Case Study</strong><br/><p>Live session</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.3 - Time Series Case Study</strong>",
+            "topic_description": "Topic 4.3 - Time Series Case Study Live session",
             "learning_outcomes": [
                 "L03"
             ]
@@ -204,9 +308,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Not Timetabled",
-            "topic": "Assessment PreparationAssessment Preparation",
-            "topic_title": "Assessment Preparation",
-            "topic_description": "Assessment Preparation",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Preparation</strong><br/><p>Assessment Preparation</p></p></div></td>",
+            "topic_title": "<strong>Assessment Preparation</strong>",
+            "topic_description": "Assessment Preparation Assessment Preparation",
             "learning_outcomes": []
         }
     ]
