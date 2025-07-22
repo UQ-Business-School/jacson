@@ -1,4 +1,8 @@
 {
+    "course_title": "Machine Learning in Business",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7212-64781-7460",
     "full_course_code": "BSAN7212-64781-7460",
     "course_code": "BSAN7212",
@@ -24,40 +28,62 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Classification Assignment",
             "special_indicators": [],
-            "weighting": "50%",
-            "due_date": "13/09/2024 1:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 13/09/2024 1:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Computer Code, Paper/ Report/ Annotation",
-            "task_description": "This assignment is an individual project report on a topic related to machine learning (ML). A project report is a document that presents a predictive model, its evaluation and its advantage and uses for business decision-making.The aim is to provide experience in the steps involved with creating, evaluating, improving classification models and finally presenting and interpreting the model in a business report. You are strongly encouraged to commence this assignment by the end of the third week of the semester, and you should progress thoughtfully through the steps. Hasty decisions made early in the design process may result in much more work later.You will be provided with a dataset, such as one about the direct marketing campaigns of a bank. You will be asked to perform specific tasks and develop related models for decision-making.Your reports should include the following parts:Executive summaryModel buildingModel evaluationArtificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assignment must be submitted electronically through the Blackboard assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment is an individual project report on a topic related to machine learning (ML). A project report is a document that presents a predictive model, its evaluation and its advantage and uses for business decision-making. </p>\n<p>The aim is to provide experience in the steps involved with creating, evaluating, improving classification models and finally presenting and interpreting the model in a business report. You are strongly encouraged to commence this assignment by the end of the third week of the semester, and you should progress thoughtfully through the steps. Hasty decisions made early in the design process may result in much more work later.</p>\n<p>You will be provided with a dataset, such as one about the direct marketing campaigns of a bank. You will be asked to perform specific tasks and develop related models for decision-making. </p>\n<p>Your reports should include the following parts:</p>\n<ul>\n<li>Executive summary</li>\n<li>Model building</li>\n<li>Model evaluation</li>\n</ul>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically through the Blackboard assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Text Analytics Assignment",
             "special_indicators": [],
-            "weighting": "50%",
-            "due_date": "25/10/2024 1:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 25/10/2024 1:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Computer Code, Project",
-            "task_description": "This assignment is an individual assignment. The aim is to provide experience in the steps involved with creating, evaluating, improving an analytics model and finally, presenting and interpreting the model in a business report.You are strongly encouraged to commence this assignment in week 9, and you should progress thoughtfully through the steps.Hasty decisions made early in the design process may result in much more work later.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assignment must be submitted electronically through the Blackboard assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment is an individual assignment. The aim is to provide experience in the steps involved with creating, evaluating, improving an analytics model and finally, presenting and interpreting the model in a business report.</p>\n<p>You are strongly encouraged to commence this assignment in week 9, and you should progress thoughtfully through the steps.</p>\n<p>Hasty decisions made early in the design process may result in much more work later.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically through the Blackboard assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Topic 1.1 ClusteringSelf-Directed Learning: a) Cluster Analysis in Business, b) Partitioning Methods: K- Means, c) Partitioning Methods: k-Mediods, d) Hierarchical Cluster Analysis, and e) Quality of ClustersLearning outcomes:L01, L02, L03",
-            "topic_title": "Topic 1.1 Clustering",
-            "topic_description": "Self-Directed Learning: a) Cluster Analysis in Business, b) Partitioning Methods: K- Means, c) Partitioning Methods: k-Mediods, d) Hierarchical Cluster Analysis, and e) Quality of Clusters",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.1 Clustering</strong><br/><p>Self-Directed Learning: a) Cluster Analysis in Business, b) Partitioning Methods: K- Means, c) Partitioning Methods: k-Mediods, d) Hierarchical Cluster Analysis, and e) Quality of Clusters</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 1.1 Clustering</strong>",
+            "topic_description": "Topic 1.1 Clustering Self-Directed Learning: a) Cluster Analysis in Business, b) Partitioning Methods: K- Means, c) Partitioning Methods: k-Mediods, d) Hierarchical Cluster Analysis, and e) Quality of Clusters",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 1.1</strong><br/><p>This session provides guidelines on how to use the Jupyter notebook for cluster analysis and its evaluation.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 1.1</strong>",
+            "topic_description": "Coding Bootcamp 1.1 This session provides guidelines on how to use the Jupyter notebook for cluster analysis and its evaluation.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.2 Classification</strong><br/><p>Self-Directed Learning: a) Introduction to Classification, b) Learning &amp; Classification, c) Decision Tree, d) Decision Tree Induction, and e) Random Forests</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 1.2 Classification</strong>",
+            "topic_description": "Topic 1.2 Classification Self-Directed Learning: a) Introduction to Classification, b) Learning & Classification, c) Decision Tree, d) Decision Tree Induction, and e) Random Forests",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -66,10 +92,20 @@
         },
         {
             "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 1.2</strong><br/><p>This session provides guidelines on how to use Jupyter notebook for developing a classifier using Decision Tree and Random Forest</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 1.2</strong>",
+            "topic_description": "Coding Bootcamp 1.2 This session provides guidelines on how to use Jupyter notebook for developing a classifier using Decision Tree and Random Forest",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 1.2 ClassificationSelf-Directed Learning: a) Introduction to Classification, b) Learning & Classification, c) Decision Tree, d) Decision Tree Induction, and e) Random ForestsLearning outcomes:L01, L02, L03",
-            "topic_title": "Topic 1.2 Classification",
-            "topic_description": "Self-Directed Learning: a) Introduction to Classification, b) Learning & Classification, c) Decision Tree, d) Decision Tree Induction, and e) Random Forests",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.2 Evaluation of Classification</strong><br/><p>Self-Directed Learning: a) Introduction to Evaluation, b) Evaluation Methods, c) Confusion Matrix, and d) Model Comparison</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 1.2 Evaluation of Classification</strong>",
+            "topic_description": "Topic 1.2 Evaluation of Classification Self-Directed Learning: a) Introduction to Evaluation, b) Evaluation Methods, c) Confusion Matrix, and d) Model Comparison",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -78,10 +114,28 @@
         },
         {
             "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 1.3</strong><br/><p>This session provides guidelines on how to use Jupyter notebook for developing a confusion matrix and ROC.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 1.3</strong>",
+            "topic_description": "Coding Bootcamp 1.3 This session provides guidelines on how to use Jupyter notebook for developing a confusion matrix and ROC.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 1.2 Evaluation of ClassificationSelf-Directed Learning: a) Introduction to Evaluation, b) Evaluation Methods, c) Confusion Matrix, and d) Model ComparisonLearning outcomes:L01, L02, L03",
-            "topic_title": "Topic 1.2 Evaluation of Classification",
-            "topic_description": "Self-Directed Learning: a) Introduction to Evaluation, b) Evaluation Methods, c) Confusion Matrix, and d) Model Comparison",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 1 working week</strong><br/><p>Self-Directed Learning: Work independently to complete your first assessment.</p></p></div></td>",
+            "topic_title": "<strong>Assignment 1 working week</strong>",
+            "topic_description": "Assignment 1 working week Self-Directed Learning: Work independently to complete your first assessment.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1 Naive Bayes (NB) and KNN</strong><br/><p>Self-Directed Learning: a) Foundations of NB for Classification, and b) Foundations of KNN for Classification</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 2.1 Naive Bayes (NB) and KNN</strong>",
+            "topic_description": "Topic 2.1 Naive Bayes (NB) and KNN Self-Directed Learning: a) Foundations of NB for Classification, and b) Foundations of KNN for Classification",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -89,19 +143,21 @@
             ]
         },
         {
-            "learning_period": "Week 4",
-            "activity_type": "Not Timetabled",
-            "topic": "Assignment 1 working weekSelf-Directed Learning: Work independently to complete your first assessment.",
-            "topic_title": "Assignment 1 working week",
-            "topic_description": "Self-Directed Learning: Work independently to complete your first assessment.",
-            "learning_outcomes": []
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 2.1</strong><br/><p>This session provides guidelines on how to use the Jupyter notebook for developing NB and KNN.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 2.1</strong>",
+            "topic_description": "Coding Bootcamp 2.1 This session provides guidelines on how to use the Jupyter notebook for developing NB and KNN.",
+            "learning_outcomes": [
+                "L01"
+            ]
         },
         {
-            "learning_period": "Week 5",
+            "learning_period": "Week 6",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 2.1 Naive Bayes (NB) and KNNSelf-Directed Learning: a) Foundations of NB for Classification, and b) Foundations of KNN for ClassificationLearning outcomes:L01, L02, L03",
-            "topic_title": "Topic 2.1 Naive Bayes (NB) and KNN",
-            "topic_description": "Self-Directed Learning: a) Foundations of NB for Classification, and b) Foundations of KNN for Classification",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Artificial Neural Network ANN)</strong><br/><p>Self-Directed Learning: a) Introduction to ANN, and b) ANN for Classification</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Artificial Neural Network ANN)</strong>",
+            "topic_description": "Artificial Neural Network ANN) Self-Directed Learning: a) Introduction to ANN, and b) ANN for Classification",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -110,10 +166,20 @@
         },
         {
             "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 2.2</strong><br/><p>This session provides guidelines on how to use the Jupyter notebook for developing ANN.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 2.2</strong>",
+            "topic_description": "Coding Bootcamp 2.2 This session provides guidelines on how to use the Jupyter notebook for developing ANN.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
             "activity_type": "Not Timetabled",
-            "topic": "Artificial Neural Network ANN)Self-Directed Learning: a) Introduction to ANN, and b) ANN for ClassificationLearning outcomes:L01, L02, L03",
-            "topic_title": "Artificial Neural Network ANN)",
-            "topic_description": "Self-Directed Learning: a) Introduction to ANN, and b) ANN for Classification",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Support Vector Machine (SVM)</strong><br/><p>Self-Directed Learning: a) Introduction to SVM, b) SVM for Classification</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Support Vector Machine (SVM)</strong>",
+            "topic_description": "Support Vector Machine (SVM) Self-Directed Learning: a) Introduction to SVM, b) SVM for Classification",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -122,50 +188,58 @@
         },
         {
             "learning_period": "Week 7",
-            "activity_type": "Not Timetabled",
-            "topic": "Support Vector Machine (SVM)Self-Directed Learning: a) Introduction to SVM, b) SVM for ClassificationLearning outcomes:L01, L02, L03",
-            "topic_title": "Support Vector Machine (SVM)",
-            "topic_description": "Self-Directed Learning: a) Introduction to SVM, b) SVM for Classification",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 2.3</strong><br/><p>This session provides guidelines on how to use the Jupyter notebook for developing SVM.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 2.3</strong>",
+            "topic_description": "Coding Bootcamp 2.3 This session provides guidelines on how to use the Jupyter notebook for developing SVM.",
             "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03"
+                "L01"
             ]
         },
         {
             "learning_period": "Week 8",
             "activity_type": "Not Timetabled",
-            "topic": "Assignment 1 working weekSelf-Directed Learning: Continue independent work on your assessment.",
-            "topic_title": "Assignment 1 working week",
-            "topic_description": "Self-Directed Learning: Continue independent work on your assessment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 1 working week</strong><br/><p>Self-Directed Learning: Continue independent work on your assessment.</p></p></div></td>",
+            "topic_title": "<strong>Assignment 1 working week</strong>",
+            "topic_description": "Assignment 1 working week Self-Directed Learning: Continue independent work on your assessment.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
-            "topic": "Topic 3.1 Text preprocessingSelf-Directed Learning: a) BOW & TFIDF, and b) Dimensionality Reduction & SVDLearning outcomes:L01, L02, L03",
-            "topic_title": "Topic 3.1 Text preprocessing",
-            "topic_description": "Self-Directed Learning: a) BOW & TFIDF, and b) Dimensionality Reduction & SVD",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.1 Text preprocessing</strong><br/><p>Self-Directed Learning: a) BOW &amp; TFIDF, and b) Dimensionality Reduction &amp; SVD</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 3.1 Text preprocessing</strong>",
+            "topic_description": "Topic 3.1 Text preprocessing Self-Directed Learning: a) BOW & TFIDF, and b) Dimensionality Reduction & SVD",
             "learning_outcomes": [
                 "L01",
                 "L02",
                 "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 3.1</strong><br/><p>This session provides guidelines on how to use import text data into Jupyter notebook and prepare it for future analysis.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 3.1</strong>",
+            "topic_description": "Coding Bootcamp 3.1 This session provides guidelines on how to use import text data into Jupyter notebook and prepare it for future analysis.",
+            "learning_outcomes": [
+                "L01"
             ]
         },
         {
             "learning_period": "Mid Sem break",
             "activity_type": "Not Timetabled",
-            "topic": "In-semester break",
-            "topic_title": "In-semester break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 3.2 Model building using textSelf-Directed Learning: a) Topic modelling, b) Sentiment classification, c) Document, sentence and feature level for sentiment classification, d) Sentiment classification methods (unsupervised and supervised), e) Word embeddingLearning outcomes:L01, L02, L03",
-            "topic_title": "Topic 3.2 Model building using text",
-            "topic_description": "Self-Directed Learning: a) Topic modelling, b) Sentiment classification, c) Document, sentence and feature level for sentiment classification, d) Sentiment classification methods (unsupervised and supervised), e) Word embedding",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.2 Model building using text</strong><br/><p>Self-Directed Learning: a) Topic modelling, b) Sentiment classification, c) Document, sentence and feature level for sentiment classification, d) Sentiment classification methods (unsupervised and supervised), e) Word embedding</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 3.2 Model building using text</strong>",
+            "topic_description": "Topic 3.2 Model building using text Self-Directed Learning: a) Topic modelling, b) Sentiment classification, c) Document, sentence and feature level for sentiment classification, d) Sentiment classification methods (unsupervised and supervised), e) Word embedding",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -173,21 +247,52 @@
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 3.2</strong><br/><p>This session provides guidelines on how to use the Jupyter notebook for topic modelling and sentiment classification.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 3.2</strong>",
+            "topic_description": "Coding Bootcamp 3.2 This session provides guidelines on how to use the Jupyter notebook for topic modelling and sentiment classification.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Not Timetabled",
-            "topic": "Advanced ML topics 1Self-Directed Learning: a) Deep Learning, and b) Human in the Loop AILearning outcomes:L03",
-            "topic_title": "Advanced ML topics 1",
-            "topic_description": "Self-Directed Learning: a) Deep Learning, and b) Human in the Loop AI",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced ML topics 1</strong><br/><p>Self-Directed Learning: a) Deep Learning, and b) Human in the Loop AI</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Advanced ML topics 1</strong>",
+            "topic_description": "Advanced ML topics 1 Self-Directed Learning: a) Deep Learning, and b) Human in the Loop AI",
             "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion 4.1</strong><br/><p>This session provides opportunities for students to discuss the applications of advanced ML technologies in different business settings.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Discussion 4.1</strong>",
+            "topic_description": "Discussion 4.1 This session provides opportunities for students to discuss the applications of advanced ML technologies in different business settings.",
+            "learning_outcomes": [
+                "L02",
                 "L03"
             ]
         },
         {
             "learning_period": "Week 12",
             "activity_type": "Not Timetabled",
-            "topic": "Advanced ML topics 2Self-Directed Learning: a) Graph Data and Graph NN, b) NLP, and c) Deep FakesLearning outcomes:L03",
-            "topic_title": "Advanced ML topics 2",
-            "topic_description": "Self-Directed Learning: a) Graph Data and Graph NN, b) NLP, and c) Deep Fakes",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced ML topics 2</strong><br/><p>Self-Directed Learning: a) Graph Data and Graph NN, b) NLP, and c) Deep Fakes</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Advanced ML topics 2</strong>",
+            "topic_description": "Advanced ML topics 2 Self-Directed Learning: a) Graph Data and Graph NN, b) NLP, and c) Deep Fakes",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion 4.2</strong><br/><p>This session provides opportunities for students to discuss the applications of Graph Data, NLP, and Deep Fakes in different business settings.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Discussion 4.2</strong>",
+            "topic_description": "Discussion 4.2 This session provides opportunities for students to discuss the applications of Graph Data, NLP, and Deep Fakes in different business settings.",
             "learning_outcomes": [
                 "L03"
             ]
@@ -195,9 +300,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Not Timetabled",
-            "topic": "Assignment 2 working weekSelf-Directed Learning: Independent work on assessment.",
-            "topic_title": "Assignment 2 working week",
-            "topic_description": "Self-Directed Learning: Independent work on assessment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 2 working week</strong><br/><p>Self-Directed Learning: Independent work on assessment.</p></p></div></td>",
+            "topic_title": "<strong>Assignment 2 working week</strong>",
+            "topic_description": "Assignment 2 working week Self-Directed Learning: Independent work on assessment.",
             "learning_outcomes": []
         }
     ]
