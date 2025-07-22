@@ -1,4 +1,8 @@
 {
+    "course_title": "Financial Accounting",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7102-60182-7460",
     "full_course_code": "ACCT7102-60182-7460",
     "course_code": "ACCT7102",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "26/08/2024 2:00 pmPaper based exam held during class.",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 26/08/2024 2:00 pm</p>\n<p>\n</p><p>Paper based exam held during class.</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The in-semester exam will be held during the lecture time (i.e., 2:00 PM - 5:00PM).Coverage: Topics 1, 2, 3 and 4Note: This assessment task is to be completedin person. If you are unable to sit your exam, you must apply for a deferred exam.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam will be held during the lecture time (i.e., 2:00 PM - 5:00PM).</p>\n<p>Coverage: Topics 1, 2, 3 and 4</p>\n<p>Note: This assessment task is to be completed <strong>in person</strong>. If you are unable to sit your exam, you must apply for a deferred exam.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,16 +65,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "9/10/2024 2:00 pm",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 9/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "You are required to independently prepare a case study report.The case will be used to examine your research skills, professional writing skills, general accounting knowledge, and the ability to critically source and evaluate complex case scenarios.Full details of the assignment will be provided via the course Blackboard site.Note: This assessment task evaluates students' abilities, skills and knowledgewithoutthe aid of generative Artificial Intelligence(AI). Students are advised that theuse of AI technologiesto develop responses isstrictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The case study assignment is to be submitted online through Turnitin on the course Blackboard site. The submission instructions are provided with the case study assignment questions. These questions will be available on the course Blackboard site.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to independently prepare a case study report.</p>\n<p>The case will be used to examine your research skills, professional writing skills, general accounting knowledge, and the ability to critically source and evaluate complex case scenarios.</p>\n<p>Full details of the assignment will be provided via the course Blackboard site.</p>\n<p>Note: This assessment task evaluates students' abilities, skills and knowledge <strong>without</strong> <strong>the aid of generative Artificial Intelligence</strong> (AI). Students are advised that the <strong>use of AI technologies</strong> to develop responses is <strong>strictly prohibited</strong> and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The case study assignment is to be submitted online through Turnitin on the course Blackboard site. The submission instructions are provided with the case study assignment questions. These questions will be available on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -85,25 +89,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The final examination will comprise: short answer, practical and problem type questions.More details will be provided in class and on the course Blackboard site.Note: This assessment task is to be completedin person. If you are unable to sit your exam, you must apply for a deferred exam.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination will comprise: short answer, practical and problem type questions.</p>\n<p>More details will be provided in class and on the course Blackboard site. </p>\n<p>Note: This assessment task is to be completed <strong>in person</strong>. If you are unable to sit your exam, you must apply for a deferred exam.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Lecture 1 - Accounting for Non-Current AssetsValuation and impairmentLearning outcomes:L01, L02, L03",
-            "topic_title": "Lecture 1 - Accounting for Non-Current Assets",
-            "topic_description": "Valuation and impairment",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1 - Accounting for Non-Current Assets</strong><br/><p>Valuation and impairment</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 1 - Accounting for Non-Current Assets</strong>",
+            "topic_description": "Lecture 1 - Accounting for Non-Current Assets Valuation and impairment",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -113,9 +117,21 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Workshop",
-            "topic": "Workshop 1 - Accounting for Non-Current AssetsValuation and impairmentLearning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 1 - Accounting for Non-Current Assets",
-            "topic_description": "Valuation and impairment",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 1 - Accounting for Non-Current Assets</strong><br/><p>Valuation and impairment</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 1 - Accounting for Non-Current Assets</strong>",
+            "topic_description": "Workshop 1 - Accounting for Non-Current Assets Valuation and impairment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2 - Accounting for Income Taxes</strong><br/><p>Accounting for income taxes from an accounting perspective</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 2 - Accounting for Income Taxes</strong>",
+            "topic_description": "Lecture 2 - Accounting for Income Taxes Accounting for income taxes from an accounting perspective",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -125,9 +141,21 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Workshop",
-            "topic": "Workshop 2 - Accounting for Income TaxesAccounting for income taxes from an accounting perspectiveLearning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 2 - Accounting for Income Taxes",
-            "topic_description": "Accounting for income taxes from an accounting perspective",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 2 - Accounting for Income Taxes</strong><br/><p>Accounting for income taxes from an accounting perspective</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 2 - Accounting for Income Taxes</strong>",
+            "topic_description": "Workshop 2 - Accounting for Income Taxes Accounting for income taxes from an accounting perspective",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3 - Accounting for Leases (Part 1)</strong><br/><p>Accounting treatment of leases for Lessees</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 3 - Accounting for Leases (Part 1)</strong>",
+            "topic_description": "Lecture 3 - Accounting for Leases (Part 1) Accounting treatment of leases for Lessees",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -137,9 +165,21 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Workshop",
-            "topic": "Workshop 3 - Accounting for Leases (Part 1)Accounting treatment of leases for Lessees(Note: Wednesday 14th August is EKKA public holiday. Students who normally attend the Wednesday workshop can attend alternate workshops in this week).Learning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 3 - Accounting for Leases (Part 1)",
-            "topic_description": "Accounting treatment of leases for Lessees\n(Note: Wednesday 14th August is EKKA public holiday. Students who normally attend the Wednesday workshop can attend alternate workshops in this week).",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 3 - Accounting for Leases (Part 1)</strong><br/><p>Accounting treatment of leases for Lessees</p>\n<p>(Note: Wednesday 14th August is EKKA public holiday. Students who normally attend the Wednesday workshop can attend alternate workshops in this week).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 3 - Accounting for Leases (Part 1)</strong>",
+            "topic_description": "Workshop 3 - Accounting for Leases (Part 1) Accounting treatment of leases for Lessees (Note: Wednesday 14th August is EKKA public holiday. Students who normally attend the Wednesday workshop can attend alternate workshops in this week).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Lecture 4 - Accounting for Leases (Part 2)</strong><br/><p>Accounting treatment of leases for Lessors</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong> Lecture 4 - Accounting for Leases (Part 2)</strong>",
+            "topic_description": "Lecture 4 - Accounting for Leases (Part 2) Accounting treatment of leases for Lessors",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -149,9 +189,21 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Workshop",
-            "topic": "Workshop 4 - Accounting for Leases (Part 2)Accounting treatment of leases for LessorsLearning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 4 - Accounting for Leases (Part 2)",
-            "topic_description": "Accounting treatment of leases for Lessors",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 4 - Accounting for Leases (Part 2)</strong><br/><p>Accounting treatment of leases for Lessors</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 4 - Accounting for Leases (Part 2)</strong>",
+            "topic_description": "Workshop 4 - Accounting for Leases (Part 2) Accounting treatment of leases for Lessors",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5 - Accounting for Intangibles</strong><br/><p>Recognition and subsequent measurement of intangibles</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 5 - Accounting for Intangibles</strong>",
+            "topic_description": "Lecture 5 - Accounting for Intangibles Recognition and subsequent measurement of intangibles",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -161,17 +213,41 @@
         {
             "learning_period": "Week 6",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "No Workshop - In-Semester ExamThere will be no lecture and no workshops in this week to assist with revision for the mid-semester test.",
-            "topic_title": "No Workshop - In-Semester Exam",
-            "topic_description": "There will be no lecture and no workshops in this week to assist with revision for the mid-semester test.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Workshop - In-Semester Exam</strong><br/><p>There will be no lecture and no workshops in this week to assist with revision for the mid-semester test.</p></p></div></td>",
+            "topic_title": "<strong>No Workshop - In-Semester Exam</strong>",
+            "topic_description": "No Workshop - In-Semester Exam There will be no lecture and no workshops in this week to assist with revision for the mid-semester test.",
             "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>Mid-Semester Exam during class time. There will be no lecture and no workshops this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam Mid-Semester Exam during class time. There will be no lecture and no workshops this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Workshop",
-            "topic": "Workshop 5 - Accounting for IntangiblesRecognition and subsequent measurement of intangiblesLearning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 5 - Accounting for Intangibles",
-            "topic_description": "Recognition and subsequent measurement of intangibles",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 5 - Accounting for Intangibles</strong><br/><p>Recognition and subsequent measurement of intangibles</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 5 - Accounting for Intangibles</strong>",
+            "topic_description": "Workshop 5 - Accounting for Intangibles Recognition and subsequent measurement of intangibles",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6 - Revenue Recognition</strong><br/><p>An overview of AASB 15 and its implications &amp; exceptions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 6 - Revenue Recognition</strong>",
+            "topic_description": "Lecture 6 - Revenue Recognition An overview of AASB 15 and its implications & exceptions.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -181,9 +257,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Workshop",
-            "topic": "Workshop 6 - Revenue RecognitionAn overview of AASB 15 and its implications & exceptions.Learning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 6 - Revenue Recognition",
-            "topic_description": "An overview of AASB 15 and its implications & exceptions.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 6 - Revenue Recognition</strong><br/><p>An overview of AASB 15 and its implications &amp; exceptions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 6 - Revenue Recognition</strong>",
+            "topic_description": "Workshop 6 - Revenue Recognition An overview of AASB 15 and its implications & exceptions.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -191,30 +267,65 @@
             ]
         },
         {
-            "learning_period": "Week 9",
-            "activity_type": "Workshop",
-            "topic": "Workshop 7 - Case Study DevelopmentAn introduction to the process of answering a case study, and coverage of material relevant to your case study assignmentLearning outcomes:L04, L05",
-            "topic_title": "Workshop 7 - Case Study Development",
-            "topic_description": "An introduction to the process of answering a case study, and coverage of material relevant to your case study assignment",
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7 - Case Study Development</strong><br/><p>An introduction to the process of answering a case study, and coverage of material relevant to your case study assignment </p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7 - Case Study Development</strong>",
+            "topic_description": "Lecture 7 - Case Study Development An introduction to the process of answering a case study, and coverage of material relevant to your case study assignment",
             "learning_outcomes": [
                 "L04",
                 "L05"
             ]
         },
         {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 7 - Case Study Development</strong><br/><p>An introduction to the process of answering a case study, and coverage of material relevant to your case study assignment </p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 7 - Case Study Development</strong>",
+            "topic_description": "Workshop 7 - Case Study Development An introduction to the process of answering a case study, and coverage of material relevant to your case study assignment",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8 - Accounting for foreign currency</strong><br/><p>Discussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 8 - Accounting for foreign currency</strong>",
+            "topic_description": "Lecture 8 - Accounting for foreign currency Discussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakThere are no lecture or workshops this week",
-            "topic_title": "In-Semester Break",
-            "topic_description": "There are no lecture or workshops this week",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>There are no lecture or workshops this week</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break There are no lecture or workshops this week",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Workshop",
-            "topic": "Workshop 8 - Accounting for foreign currencyDiscussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.Learning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 8 - Accounting for foreign currency",
-            "topic_description": "Discussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 8 - Accounting for foreign currency</strong><br/><p>Discussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 8 - Accounting for foreign currency</strong>",
+            "topic_description": "Workshop 8 - Accounting for foreign currency Discussion of functional vs presentation currency, and accounting treatments for foreign currency transactions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9 - Accounting for Financial Instruments</strong><br/><p>Discussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 9 - Accounting for Financial Instruments</strong>",
+            "topic_description": "Lecture 9 - Accounting for Financial Instruments Discussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -224,9 +335,21 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Workshop",
-            "topic": "Workshop 9 - Accounting for Financial InstrumentsDiscussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.Learning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 9 - Accounting for Financial Instruments",
-            "topic_description": "Discussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 9 - Accounting for Financial Instruments</strong><br/><p>Discussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 9 - Accounting for Financial Instruments</strong>",
+            "topic_description": "Workshop 9 - Accounting for Financial Instruments Discussion of accounting for financial instruments, including financial assets, liabilities and equity instruments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10 - Accounting for Employee Benefits</strong><br/><p>Accounting for various types of employee benefits</p>\n<p>(Note: Monday 7th October is King's birthday public holiday. A pre-recorded lecture will be provided this week.)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 10 - Accounting for Employee Benefits</strong>",
+            "topic_description": "Lecture 10 - Accounting for Employee Benefits Accounting for various types of employee benefits (Note: Monday 7th October is King's birthday public holiday. A pre-recorded lecture will be provided this week.)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -236,9 +359,21 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Workshop",
-            "topic": "Workshop 10 - Accounting for Employee BenefitsAccounting for various types of employee benefitsLearning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 10 - Accounting for Employee Benefits",
-            "topic_description": "Accounting for various types of employee benefits",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 10 - Accounting for Employee Benefits</strong><br/><p>Accounting for various types of employee benefits</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 10 - Accounting for Employee Benefits</strong>",
+            "topic_description": "Workshop 10 - Accounting for Employee Benefits Accounting for various types of employee benefits",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11 - Accounting for Extractive Industries</strong><br/><p>Examination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 11 - Accounting for Extractive Industries</strong>",
+            "topic_description": "Lecture 11 - Accounting for Extractive Industries Examination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -248,9 +383,21 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Workshop",
-            "topic": "Workshop 11 - Accounting for Extractive IndustriesExamination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15Learning outcomes:L01, L02, L03",
-            "topic_title": "Workshop 11 - Accounting for Extractive Industries",
-            "topic_description": "Examination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 11 - Accounting for Extractive Industries</strong><br/><p>Examination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 11 - Accounting for Extractive Industries</strong>",
+            "topic_description": "Workshop 11 - Accounting for Extractive Industries Examination of accounting for extractive industries as an exception to the revenue recognition principles of AASB 15",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12 - Course Revision</strong><br/><p>Revision of materials covered in the course</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 12 - Course Revision</strong>",
+            "topic_description": "Lecture 12 - Course Revision Revision of materials covered in the course",
             "learning_outcomes": [
                 "L01",
                 "L02",
