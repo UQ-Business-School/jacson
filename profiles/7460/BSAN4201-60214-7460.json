@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Analytics Strategy",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN4201-60214-7460",
     "full_course_code": "BSAN4201-60214-7460",
     "course_code": "BSAN4201",
@@ -41,16 +45,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "9/08/2024 4:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 9/08/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Portfolio",
-            "task_description": "The Portfolio Presentation will be based on you presenting yourself with an explanation as to why you are a suitable candidate to solve the Case Study to a manager.The manager has never done a data science or business analytics project before and is likely to be a cynic of its value. It is based on the Case Study.There are three parts to this:A tailored CV. The CV is to be two pages or less in lengthA tailored cover letter. The cover letter is to be be two pages or less in length,A portfolio presentation of relevant capabilities from university projects. The portfolio is to be three pages or less in length including images.Your portfolio will emphasise previous work you have done (e.g. on Github, blogs, Uni projects, etc) and the CV and cover letter will be tailored to the job.Don’t get into the detail of what you would do, how you would do it, etc. You need to convince someone who doesn’t see value in doing the project that it is worthwhile taking you on board and engaging you to do the work – they won’t understand detailed technical explanations.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment items to be uploaded to Blackboard as a PDF",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Portfolio Presentation will be based on you presenting yourself with an explanation as to why you are a suitable candidate to solve the Case Study to a manager.</p>\n<p>The manager has never done a data science or business analytics project before and is likely to be a cynic of its value. It is based on the Case Study.</p>\n<p>There are three parts to this:</p>\n<ol>\n<li>A tailored CV. The CV is to be two pages or less in length</li>\n<li>A tailored cover letter. The cover letter is to be be two pages or less in length,</li>\n<li>A portfolio presentation of relevant capabilities from university projects. The portfolio is to be three pages or less in length including images.</li>\n</ol>\n<p>Your portfolio will emphasise previous work you have done (e.g. on Github, blogs, Uni projects, etc) and the CV and cover letter will be tailored to the job.</p>\n<p>Don’t get into the detail of what you would do, how you would do it, etc. You need to convince someone who doesn’t see value in doing the project that it is worthwhile taking you on board and engaging you to do the work – they won’t understand detailed technical explanations.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment items to be uploaded to Blackboard as a PDF</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -65,40 +69,40 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "30/09/2024 - 14/10/2024Presentation During Class",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/09/2024 - 14/10/2024</p>\n<p>\n</p><p>Presentation During Class</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Practical/ Demonstration, Presentation",
-            "task_description": "You will have to demonstrate the value of business analytics and your understanding of how to approach business analytics challenges successfully to a business problem provided to you.You need to analyse a Case Study and present a suitable approach to solving the problem. After the third lecture you should be in a position to begin working on the presentation. The case study is deliberately vague and doesn’t contain all details required. You will be required to fill in these gaps (explained in lectures).Each group’s presentation will be 15 minutes long and will be presented to the class and should be done via Powerpoint or Keynote or similar and will be done over Zoom to allow the recording of the presentations.Students will be in groups of 3 (or 2 or 4 if a final group of 3 is not possible) and it is expected each student will present for 5 minutes (7.5 minutes per student in case there is a group with 2 students or 4 minutes in case there is a group of 4 students). Students will be presenting to the class.If you are unable to find a group of 3 to join, please let us know and we will connect you with other students. You will be expected to have sorted out your group by week 3.Note that although the presentation is in a group,marks will be individual based on your partof the presentation.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will have to demonstrate the value of business analytics and your understanding of how to approach business analytics challenges successfully to a business problem provided to you.</p>\n<p>You need to analyse a Case Study and present a suitable approach to solving the problem. After the third lecture you should be in a position to begin working on the presentation. The case study is deliberately vague and doesn’t contain all details required. You will be required to fill in these gaps (explained in lectures).</p>\n<p>Each group’s presentation will be 15 minutes long and will be presented to the class and should be done via Powerpoint or Keynote or similar and will be done over Zoom to allow the recording of the presentations.</p>\n<p>Students will be in groups of 3 (or 2 or 4 if a final group of 3 is not possible) and it is expected each student will present for 5 minutes (7.5 minutes per student in case there is a group with 2 students or 4 minutes in case there is a group of 4 students). Students will be presenting to the class.</p>\n<p>If you are unable to find a group of 3 to join, please let us know and we will connect you with other students. You will be expected to have sorted out your group by week 3.</p>\n<p>Note that although the presentation is in a group, <strong>marks will be individual based on your part </strong>of the presentation.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Take Home Case Study",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "4/11/2024 - 8/11/2024The Assessment will be released 9:00 AM on the Monday and is Due 5:00 PM on the Friday.",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 8/11/2024</p>\n<p>\n</p><p>The Assessment will be released 9:00 AM on the Monday and is Due 5:00 PM on the Friday.</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "This will be describing a situation that I will ask you to analyse some aspect of it.It will be related to work we’ve previously done and you will encounter similar types of examples along the journey.It will be provided during exam week.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment items to uploaded to Blackboard as a PDF",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be describing a situation that I will ask you to analyse some aspect of it.</p>\n<p>It will be related to work we’ve previously done and you will encounter similar types of examples along the journey.</p>\n<p>It will be provided during exam week.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment items to uploaded to Blackboard as a PDF</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Welcome to BSAN4201BSAN4201 overview and an introduction to data driven decision makingLearning outcomes:L01, L02",
-            "topic_title": "Welcome to BSAN4201",
-            "topic_description": "BSAN4201 overview and an introduction to data driven decision making",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Welcome to BSAN4201</strong><br/><p>BSAN4201 overview and an introduction to data driven decision making</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Welcome to BSAN4201</strong>",
+            "topic_description": "Welcome to BSAN4201 BSAN4201 overview and an introduction to data driven decision making",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -107,20 +111,44 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Lecture",
-            "topic": "Data Science and Business Analytics StrategyA lecture covering the course materialsLearning outcomes:L01, L02",
-            "topic_title": "Data Science and Business Analytics Strategy",
-            "topic_description": "A lecture covering the course materials",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Science and Business Analytics Strategy</strong><br/><p>A lecture covering the course materials</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Data Science and Business Analytics Strategy</strong>",
+            "topic_description": "Data Science and Business Analytics Strategy A lecture covering the course materials",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 1: Intro to data driven decision making</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tute 1: Intro to data driven decision making</strong>",
+            "topic_description": "Tute 1: Intro to data driven decision making",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tute 2: Data science & Business Analytics StrategyIntroduction to data driven decision making tutorialLearning outcomes:L01, L02, L05",
-            "topic_title": "Tute 2: Data science & Business Analytics Strategy",
-            "topic_description": "Introduction to data driven decision making tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 2: Data science &amp; Business Analytics Strategy</strong><br/><p>Introduction to data driven decision making tutorial</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tute 2: Data science &amp; Business Analytics Strategy</strong>",
+            "topic_description": "Tute 2: Data science & Business Analytics Strategy Introduction to data driven decision making tutorial",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modelling for Insights</strong><br/><p>A lecture covering the course materials</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Modelling for Insights</strong>",
+            "topic_description": "Modelling for Insights A lecture covering the course materials",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -130,9 +158,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tute 3: Modelling for InsightsLearning outcomes:L01, L02, L05",
-            "topic_title": "Tute 3: Modelling for Insights",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 3: Modelling for Insights</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tute 3: Modelling for Insights</strong>",
+            "topic_description": "Tute 3: Modelling for Insights",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -140,22 +168,55 @@
             ]
         },
         {
-            "learning_period": "Week 5",
-            "activity_type": "Tutorial",
-            "topic": "Tute 4: Sense checkingLearning outcomes:L04, L05",
-            "topic_title": "Tute 4: Sense checking",
-            "topic_description": "",
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sense Checking Learning Objectives</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Sense Checking Learning Objectives</strong>",
+            "topic_description": "Sense Checking Learning Objectives",
             "learning_outcomes": [
                 "L04",
                 "L05"
             ]
         },
         {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 4: Sense checking</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Tute 4: Sense checking</strong>",
+            "topic_description": "Tute 4: Sense checking",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Predicting the Future</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Predicting the Future</strong>",
+            "topic_description": "Predicting the Future",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Tute 5: Predicting the FutureLearning outcomes:L03, L04",
-            "topic_title": "Tute 5: Predicting the Future",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 5: Predicting the Future</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 5: Predicting the Future</strong>",
+            "topic_description": "Tute 5: Predicting the Future",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Optimisation and Strategic Decision Making</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Optimisation and Strategic Decision Making</strong>",
+            "topic_description": "Optimisation and Strategic Decision Making",
             "learning_outcomes": [
                 "L03",
                 "L04"
@@ -164,10 +225,23 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Tute 6: Optimisation and Strategic Decision MakingLearning outcomes:L03, L04",
-            "topic_title": "Tute 6: Optimisation and Strategic Decision Making",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 6: Optimisation and Strategic Decision Making</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 6: Optimisation and Strategic Decision Making</strong>",
+            "topic_description": "Tute 6: Optimisation and Strategic Decision Making",
             "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating Your Results</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Communicating Your Results</strong>",
+            "topic_description": "Communicating Your Results",
+            "learning_outcomes": [
+                "L01",
+                "L02",
                 "L03",
                 "L04"
             ]
@@ -175,9 +249,22 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Tute 7: Communicating Your ResultsLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tute 7: Communicating Your Results",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 7: Communicating Your Results</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 7: Communicating Your Results</strong>",
+            "topic_description": "Tute 7: Communicating Your Results",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How Confident Are You of Your Answer?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>How Confident Are You of Your Answer?</strong>",
+            "topic_description": "How Confident Are You of Your Answer?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -188,9 +275,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Tute 8: How Confident Are You of Your Answer?Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tute 8: How Confident Are You of Your Answer?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 8: How Confident Are You of Your Answer?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 8: How Confident Are You of Your Answer?</strong>",
+            "topic_description": "Tute 8: How Confident Are You of Your Answer?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -199,19 +286,11 @@
             ]
         },
         {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 10",
-            "activity_type": "Tutorial",
-            "topic": "Tute 10: Why do analytics projects fail?Learning outcomes:L01, L02, L05",
-            "topic_title": "Tute 10: Why do analytics projects fail?",
-            "topic_description": "",
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Why do analytics projects fail?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Why do analytics projects fail?</strong>",
+            "topic_description": "Why do analytics projects fail?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -219,11 +298,59 @@
             ]
         },
         {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 10: Why do analytics projects fail?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tute 10: Why do analytics projects fail?</strong>",
+            "topic_description": "Tute 10: Why do analytics projects fail?",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Class Presentation</strong><br/><p>Students to present in groups - individual marks</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In Class Presentation</strong>",
+            "topic_description": "In Class Presentation Students to present in groups - individual marks",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "In Class PresentationsDuring TutorialLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "In Class Presentations",
-            "topic_description": "During Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Class Presentations</strong><br/><p>During Tutorial</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In Class Presentations</strong>",
+            "topic_description": "In Class Presentations During Tutorial",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>King's Birthday Public Holiday - No Lecture this week.</strong><br/><p>King's Birthday Public Holiday - No Lecture this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>King's Birthday Public Holiday - No Lecture this week.</strong>",
+            "topic_description": "King's Birthday Public Holiday - No Lecture this week. King's Birthday Public Holiday - No Lecture this week.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -235,9 +362,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "In Class PresentationsLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "In Class Presentations",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Class Presentations</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In Class Presentations</strong>",
+            "topic_description": "In Class Presentations",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -249,9 +376,22 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Final TutorialRevision from Modelling from Insights book preparation for final assessmentLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Final Tutorial",
-            "topic_description": "Revision from Modelling from Insights book preparation for final assessment",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Tutorial</strong><br/><p>Revision from Modelling from Insights book preparation for final assessment</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Final Tutorial</strong>",
+            "topic_description": "Final Tutorial Revision from Modelling from Insights book preparation for final assessment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Concluding Lecture</strong><br/><p>To summarise the course and prepare for final assessment</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Concluding Lecture</strong>",
+            "topic_description": "Concluding Lecture To summarise the course and prepare for final assessment",
             "learning_outcomes": [
                 "L01",
                 "L02",
