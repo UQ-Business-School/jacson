@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Information Security",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BISM3205-60196-7460",
     "full_course_code": "BISM3205-60196-7460",
     "course_code": "BISM3205",
@@ -28,40 +32,40 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Assignment 1 - Security Topic Analysis",
             "special_indicators": [],
-            "weighting": "40% Individual",
-            "due_date": "2/09/2024 3:00 pm",
+            "weighting": "<dd>40% Individual </dd>",
+            "due_date": "<dd><p> 2/09/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "The assignment will comprise a series of analysis questions that focus on the course material covered from lecture 1 to lecture 5.The student response to each question cannot exceed 300 words.The assignment will be individually completed by each student.We shall introduce and discuss this assignment in lecture 1 (and subsequent lectures) it will also be available via the Course Blackboard site.The assignment is to be completed and submitted via both Blackboard link and Turnitin link (marks will be released on blackboard only).This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assignment must be submitted electronically via both the course Blackboard assessment link and Turnitin link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will comprise a series of analysis questions that focus on the course material covered from lecture 1 to lecture 5.</p>\n<p>The student response to each question cannot exceed 300 words.</p>\n<p>The assignment will be individually completed by each student.</p>\n<p>We shall introduce and discuss this assignment in lecture 1 (and subsequent lectures) it will also be available via the Course Blackboard site.</p>\n<p><br/></p>\n<p>The assignment is to be completed and submitted via both Blackboard link and Turnitin link (marks will be released on blackboard only).</p>\n<p><br/></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>    </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically via both the course Blackboard assessment link and Turnitin link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Assignment 2 - Security Topic Analysis",
             "special_indicators": [],
-            "weighting": "60% Individual",
-            "due_date": "4/11/2024 3:00 pm",
+            "weighting": "<dd>60% Individual </dd>",
+            "due_date": "<dd><p> 4/11/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "The assignment will comprise a series of critical analysis questions that focus on the course material covered across the course. The word limit for a student response to each question is 300 words. The assignment will be individually completed by each student.This assignment 2 will be available via the course Blackboard site after all assignment 1 questions have been released. The assignment is to be completed and submitted via both Blackboard link and Turnitin link (marks will be released on blackboard only).We shall introduce and discuss this assignment in the relevant lecture (and subsequent lectures).This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assignment must be submitted electronically both via the course Blackboard assessment link and Turnitin link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will comprise a series of critical analysis questions that focus on the course material covered across the course. The word limit for a student response to each question is 300 words. The assignment will be individually completed by each student.</p>\n<p><br/></p>\n<p>This assignment 2 will be available via the course Blackboard site after all assignment 1 questions have been released. The assignment is to be completed and submitted via both Blackboard link and Turnitin link (marks will be released on blackboard only).</p>\n<p> We shall introduce and discuss this assignment in the relevant lecture (and subsequent lectures).</p>\n<p><br/></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically both via the course Blackboard assessment link and Turnitin link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Introduction to Information SecurityWe introduce the concept of information security and the fundamental view we shall use to analyse this topic.Learning outcomes:L01, L02",
-            "topic_title": "Introduction to Information Security",
-            "topic_description": "We introduce the concept of information security and the fundamental view we shall use to analyse this topic.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Information Security</strong><br><p>We introduce the concept of information security and the fundamental view we shall use to analyse this topic.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Information Security</strong>",
+            "topic_description": "Introduction to Information Security We introduce the concept of information security and the fundamental view we shall use to analyse this topic.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -70,9 +74,20 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1 - An Intro to Information SecurityInformation Security Discussion 1 - An Introduction to Information Security and passwords.Learning outcomes:L01, L02",
-            "topic_title": "Tutorial 1 - An Intro to Information Security",
-            "topic_description": "Information Security Discussion 1 - An Introduction to Information Security and passwords.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - An Intro to Information Security</strong><br><p>Information Security Discussion 1 - An Introduction to Information Security and passwords.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - An Intro to Information Security</strong>",
+            "topic_description": "Tutorial 1 - An Intro to Information Security Information Security Discussion 1 - An Introduction to Information Security and passwords.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Need for Security / Legal and Ethical Issues</strong><br><p>We discuss the need for information security - types of security threats. We introduce a range of Australian IT related laws and the advantages/disadvantages these pose.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>The Need for Security / Legal and Ethical Issues</strong>",
+            "topic_description": "The Need for Security / Legal and Ethical Issues We discuss the need for information security - types of security threats. We introduce a range of Australian IT related laws and the advantages/disadvantages these pose.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -81,9 +96,20 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 2 - The Need for SecurityInformation Security Discussion 2 - Review questions cover The Need for Security and the topic of phishing.Learning outcomes:L01, L02",
-            "topic_title": "Tutorial 2 - The Need for Security",
-            "topic_description": "Information Security Discussion 2 - Review questions cover The Need for Security and the topic of phishing.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2 - The Need for Security</strong><br><p>Information Security Discussion 2 - Review questions cover The Need for Security and the topic of phishing.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2 - The Need for Security</strong>",
+            "topic_description": "Tutorial 2 - The Need for Security Information Security Discussion 2 - Review questions cover The Need for Security and the topic of phishing.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Planning for Security</strong><br/><p>We discuss management's role in the development, maintenance, and enforcement of information security policy and standards. We explain what an information security blueprint is in the context of the ISO 27000 series. We introduce contingency planning.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Planning for Security</strong>",
+            "topic_description": "Planning for Security We discuss management's role in the development, maintenance, and enforcement of information security policy and standards. We explain what an information security blueprint is in the context of the ISO 27000 series. We introduce contingency planning.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -92,20 +118,39 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 3 -  Planning for SecurityInformation Security Discussion 3 - We cover the role of management, ISO 27000, contingency planning and network scanning.Learning outcomes:L01, L02",
-            "topic_title": "Tutorial 3 -  Planning for Security",
-            "topic_description": "Information Security Discussion 3 - We cover the role of management, ISO 27000, contingency planning and network scanning.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 -  Planning for Security </strong><br/><p>Information Security Discussion 3 - We cover the role of management, ISO 27000, contingency planning and network scanning.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 3 -  Planning for Security </strong>",
+            "topic_description": "Tutorial 3 -  Planning for Security Information Security Discussion 3 - We cover the role of management, ISO 27000, contingency planning and network scanning.",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 4",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ekka Day Public Holiday (Content presented next week)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Ekka Day Public Holiday (Content presented next week)</strong>",
+            "topic_description": "Ekka Day Public Holiday (Content presented next week)",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 4 - Risk Management IInformation Security Discussion 4 - Review questions cover Risk Management (Part 1) and key loggers.Learning outcomes:L01, L03",
-            "topic_title": "Tutorial 4 - Risk Management I",
-            "topic_description": "Information Security Discussion 4 - Review questions cover Risk Management (Part 1) and key loggers.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4 - Risk Management I</strong><br/><p>Information Security Discussion 4 - Review questions cover Risk Management (Part 1) and key loggers.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 4 - Risk Management I</strong>",
+            "topic_description": "Tutorial 4 - Risk Management I Information Security Discussion 4 - Review questions cover Risk Management (Part 1) and key loggers.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk Management (Part 1 and Part 2)</strong><br/><p>In the first part, we focus on defining risk management and its role in the organisation. We describe risk management techniques to identify and prioritise risk factors for assets. We explain how risk is assessed.</p>\n<p>In the second part, we discuss strategy options used to treat risk. We formulate a cost-benefit analysis (CBA) using existing conceptual frameworks. We describe popular methodologies used in business to manage risk.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Risk Management (Part 1 and Part 2)</strong>",
+            "topic_description": "Risk Management (Part 1 and Part 2) In the first part, we focus on defining risk management and its role in the organisation. We describe risk management techniques to identify and prioritise risk factors for assets. We explain how risk is assessed. In the second part, we discuss strategy options used to treat risk. We formulate a cost-benefit analysis (CBA) using existing conceptual frameworks. We describe popular methodologies used in business to manage risk.",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -114,31 +159,42 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 5 - Risk Management IIInformation Security Discussion 5 - Review questions cover Risk Management (Part 2) and numerals and numerical systems.Learning outcomes:L01, L03",
-            "topic_title": "Tutorial 5 - Risk Management II",
-            "topic_description": "Information Security Discussion 5 - Review questions cover Risk Management (Part 2) and numerals and numerical systems.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5 - Risk Management II</strong><br/><p>Information Security Discussion 5 - Review questions cover Risk Management (Part 2) and numerals and numerical systems.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 5 - Risk Management II</strong>",
+            "topic_description": "Tutorial 5 - Risk Management II Information Security Discussion 5 - Review questions cover Risk Management (Part 2) and numerals and numerical systems.",
             "learning_outcomes": [
                 "L01",
                 "L03"
             ]
         },
         {
-            "learning_period": "Week 7",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 6 - Cryptography IInformation Security Discussion 6 - Review questions cover Cryptography (Part 1) - symmetric key and public key cryptography and the deep web.Learning outcomes:L01, L04",
-            "topic_title": "Tutorial 6 - Cryptography I",
-            "topic_description": "Information Security Discussion 6 - Review questions cover Cryptography (Part 1) - symmetric key and public key cryptography and the deep web.",
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cryptography (Part 1)</strong><br/><p>We consider two major encryption paradigms - symmetric key and public key cryptography - their operational strengths and challenges.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Cryptography (Part 1)</strong>",
+            "topic_description": "Cryptography (Part 1) We consider two major encryption paradigms - symmetric key and public key cryptography - their operational strengths and challenges.",
             "learning_outcomes": [
                 "L01",
                 "L04"
             ]
         },
         {
-            "learning_period": "Week 8",
+            "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 7 - Cryptography IIInformation Security Discussion 7 - Review questions cover Cryptography (Part 2) - commercial applications of cryptography and SQL Injections, Threat Maps & Honeypots.Learning outcomes:L01, L02, L04",
-            "topic_title": "Tutorial 7 - Cryptography II",
-            "topic_description": "Information Security Discussion 7 - Review questions cover Cryptography (Part 2) - commercial applications of cryptography and SQL Injections, Threat Maps & Honeypots.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6 - Cryptography I</strong><br/><p>Information Security Discussion 6 - Review questions cover Cryptography (Part 1) - symmetric key and public key cryptography and the deep web.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 6 - Cryptography I</strong>",
+            "topic_description": "Tutorial 6 - Cryptography I Information Security Discussion 6 - Review questions cover Cryptography (Part 1) - symmetric key and public key cryptography and the deep web.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cryptography (Part 2)</strong><br/><p>We consider the commercial applications of cryptography - hybrid security applications for the Web and Email. We also consider other important applications such as digital signatures.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Cryptography (Part 2)</strong>",
+            "topic_description": "Cryptography (Part 2) We consider the commercial applications of cryptography - hybrid security applications for the Web and Email. We also consider other important applications such as digital signatures.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -146,11 +202,49 @@
             ]
         },
         {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7 - Cryptography II</strong><br/><p>Information Security Discussion 7 - Review questions cover Cryptography (Part 2) - commercial applications of cryptography and SQL Injections, Threat Maps &amp; Honeypots.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 7 - Cryptography II</strong>",
+            "topic_description": "Tutorial 7 - Cryptography II Information Security Discussion 7 - Review questions cover Cryptography (Part 2) - commercial applications of cryptography and SQL Injections, Threat Maps & Honeypots.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Security Technology (Firewalls, Proxys and the DMZ - Part 1)</strong><br/><p>A business analysis of major types of security controls - operational approaches and positioning within the business network.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Security Technology (Firewalls, Proxys and the DMZ - Part 1)</strong>",
+            "topic_description": "Security Technology (Firewalls, Proxys and the DMZ - Part 1) A business analysis of major types of security controls - operational approaches and positioning within the business network.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 8 - Security Technology IInformation Security Discussion 8 - Review questions cover major types of security controls including firewalls.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 8 - Security Technology I",
-            "topic_description": "Information Security Discussion 8 - Review questions cover major types of security controls including firewalls.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8 - Security Technology I</strong><br/><p>Information Security Discussion 8 - Review questions cover major types of security controls including firewalls.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 8 - Security Technology I</strong>",
+            "topic_description": "Tutorial 8 - Security Technology I Information Security Discussion 8 - Review questions cover major types of security controls including firewalls.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Security Technology (Intrusion Detection - Part 2)</strong><br/><p>Consideration of the role of intrusion detection systems - placement and operational approaches. We analyse how intrusion detection systems (IDS) provide 'defence in depth' for the modern business.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Security Technology (Intrusion Detection - Part 2)</strong>",
+            "topic_description": "Security Technology (Intrusion Detection - Part 2) Consideration of the role of intrusion detection systems - placement and operational approaches. We analyse how intrusion detection systems (IDS) provide 'defence in depth' for the modern business.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -161,17 +255,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "No Lecture/Tutorials (Mid-Semester Break)No Lectures or tutorials during in-semester break.",
-            "topic_title": "No Lecture/Tutorials (Mid-Semester Break)",
-            "topic_description": "No Lectures or tutorials during in-semester break.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Lecture/Tutorials (Mid-Semester Break)</strong><br/><p>No Lectures or tutorials during in-semester break.</p></p></div></td>",
+            "topic_title": "<strong>No Lecture/Tutorials (Mid-Semester Break)</strong>",
+            "topic_description": "No Lecture/Tutorials (Mid-Semester Break) No Lectures or tutorials during in-semester break.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 9 - Security Technology IIInformation Security Discussion 9 - Review questions cover Intrusion detection systems (IDS, Kerberos & Kerberos/TLS contrast).Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 9 - Security Technology II",
-            "topic_description": "Information Security Discussion 9 - Review questions cover Intrusion detection systems (IDS, Kerberos & Kerberos/TLS contrast).",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9 - Security Technology II</strong><br/><p>Information Security Discussion 9 - Review questions cover Intrusion detection systems (IDS, Kerberos &amp; Kerberos/TLS contrast).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9 - Security Technology II</strong>",
+            "topic_description": "Tutorial 9 - Security Technology II Information Security Discussion 9 - Review questions cover Intrusion detection systems (IDS, Kerberos & Kerberos/TLS contrast).",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -180,11 +274,35 @@
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>PCI DSS Discussion &amp; Analysis</strong><br/><p>A 'capstone' analysis of the Payment Card Industry Data Security Standard (PCI DSS). A contractually obligatory standard for any business storing, forwarding or processing in-house credit card data for Visa, Mastercard, and Amex.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>PCI DSS Discussion &amp; Analysis</strong>",
+            "topic_description": "PCI DSS Discussion & Analysis A 'capstone' analysis of the Payment Card Industry Data Security Standard (PCI DSS). A contractually obligatory standard for any business storing, forwarding or processing in-house credit card data for Visa, Mastercard, and Amex.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 10 - PCI DSSInformation Security Discussion 10 - Review questions cover the Payment Card Industry Data Security Standard (PCI DSS).Learning outcomes:L01, L03, L04",
-            "topic_title": "Tutorial 10 - PCI DSS",
-            "topic_description": "Information Security Discussion 10 - Review questions cover the Payment Card Industry Data Security Standard (PCI DSS).",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10 - PCI DSS</strong><br/><p>Information Security Discussion 10 - Review questions cover the Payment Card Industry Data Security Standard (PCI DSS).</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 10 - PCI DSS</strong>",
+            "topic_description": "Tutorial 10 - PCI DSS Information Security Discussion 10 - Review questions cover the Payment Card Industry Data Security Standard (PCI DSS).",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Blockchain - Theory &amp; Practice</strong><br/><p>We analyse the blockchain application. Discussion of the blockchain as it underpins bitcoin (crypto-currency). We focus on its architecture, benefits, challenges, and how it implements hashing and cryptography. A business analysis of the variety of blockchain management paradigms that have emerged in business.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Blockchain - Theory &amp; Practice</strong>",
+            "topic_description": "Blockchain - Theory & Practice We analyse the blockchain application. Discussion of the blockchain as it underpins bitcoin (crypto-currency). We focus on its architecture, benefits, challenges, and how it implements hashing and cryptography. A business analysis of the variety of blockchain management paradigms that have emerged in business.",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -194,9 +312,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 11 - BlockchainInformation Security Discussion 11 - Review questions cover Blockchain and Network Traffic Analysis.Learning outcomes:L01, L03, L04",
-            "topic_title": "Tutorial 11 - Blockchain",
-            "topic_description": "Information Security Discussion 11 - Review questions cover Blockchain and Network Traffic Analysis.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11 - Blockchain</strong><br/><p>Information Security Discussion 11 - Review questions cover Blockchain and Network Traffic Analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 11 - Blockchain</strong>",
+            "topic_description": "Tutorial 11 - Blockchain Information Security Discussion 11 - Review questions cover Blockchain and Network Traffic Analysis.",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -204,11 +322,35 @@
             ]
         },
         {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Security Maintenance</strong><br/><p>We focus on security auditing and security testing as part of managing and operating the ongoing security program.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Security Maintenance</strong>",
+            "topic_description": "Security Maintenance We focus on security auditing and security testing as part of managing and operating the ongoing security program.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 12 -  Q&A sessionInformation Security Discussion 11 - Review questions cover security auditing, security testing and PCI DSS. Q&A session for assignment 2.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 12 -  Q&A session",
-            "topic_description": "Information Security Discussion 11 - Review questions cover security auditing, security testing and PCI DSS. Q&A session for assignment 2.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12 -  Q&amp;A session</strong><br/><p>Information Security Discussion 11 - Review questions cover security auditing, security testing and PCI DSS. Q&amp;A session for assignment 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 12 -  Q&amp;A session</strong>",
+            "topic_description": "Tutorial 12 -  Q&A session Information Security Discussion 11 - Review questions cover security auditing, security testing and PCI DSS. Q&A session for assignment 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recap and Q&amp;A session</strong><br/><p>We review the series of seminars. A good opportunity for students to ensure their assignment 2 submission is of a high standard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Recap and Q&amp;A session</strong>",
+            "topic_description": "Recap and Q&A session We review the series of seminars. A good opportunity for students to ensure their assignment 2 submission is of a high standard.",
             "learning_outcomes": [
                 "L01",
                 "L02",
