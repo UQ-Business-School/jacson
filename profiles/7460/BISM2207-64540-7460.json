@@ -1,4 +1,8 @@
 {
+    "course_title": "Managing Business Data",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BISM2207-64540-7460",
     "full_course_code": "BISM2207-64540-7460",
     "course_code": "BISM2207",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "20% Individual",
-            "due_date": "Week 6During Tutorial Class",
+            "weighting": "<dd>20% Individual </dd>",
+            "due_date": "<dd><p> Week 6</p>\n<p>\n</p><p>During Tutorial Class</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Computer Code, Quiz",
-            "task_description": "The online quiz will take place during the Week 6 lab sessions on campus. The quiz will be 60 minutes long. This assessment task covers learning materials presented in lectures, tutorials and the relevant textbook chapters from week 1 to week 5 inclusive. You may need to perform information retrieval tasks using SQL queries.It is mandatory to attend your allocated tutorial time, and if you cannot attend, you must apply for a deferred quiz. Due to other classes scheduled after your tutorial, it is crucial to arrive and finish on time. If you plan to use your laptop, ensure it is compatible with the required software and has a stable internet connection. Further information about the exam will be presented during lectures.AI Statement:Note: This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The online quiz will take place during the Week 6 lab sessions on campus. The quiz will be 60 minutes long. This assessment task covers learning materials presented in lectures, tutorials and the relevant textbook chapters from week 1 to week 5 inclusive. You may need to perform information retrieval tasks using SQL queries.</p>\n<p>It is mandatory to attend your allocated tutorial time, and if you cannot attend, you must apply for a deferred quiz. Due to other classes scheduled after your tutorial, it is crucial to arrive and finish on time. If you plan to use your laptop, ensure it is compatible with the required software and has a stable internet connection. Further information about the exam will be presented during lectures. </p>\n<p><strong>AI Statement:</strong></p>\n<p>Note: This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,40 +61,40 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "40% Group",
-            "due_date": "18/10/2024 6:00 pmPeer Assessment due 25/10/2024",
+            "weighting": "<dd>40% Group </dd>",
+            "due_date": "<dd><p> 18/10/2024 6:00 pm</p>\n<p>\n</p><p>Peer Assessment due 25/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Paper/ Report/ Annotation, Product/ Design, Project",
-            "task_description": "The main purpose of this assessment is to develop your ability to work in a team and to design, develop, and implement a well-structured relational database that effectively supports the given scenario. Students will be required to demonstrate their knowledge and ability to use SQL. The fundamental knowledge and skills required for this assessment task are expected to be cultivated through lectures and tutorials. However, students will need to conduct additional research to further enhance the skills necessary to successfully complete this assessment.Team formation and teamwork:You will undertake this project as a part of a team of 3 to 5 members.Project team members must be allocated to the same tutorial. You will submit portions of the project at intervals, receive oral comments on your work during the informal presentations from your tutor, and revise earlier submissions.Feedback on draft submissions (iterations 1 and 2)Iteration 1during week 8 tutorials. The submission due date will be announced on BlackBoard.Iteration 2during week 11 tutorials. The submission due date will be announced on  BlackBoard.Peer Assessment:5% of the mark for this assessment will be determined by the members of your group, who will assess your contribution to the project against 4 criteria, for a mark out of 5. A link will be provided on Blackboard for this evaluation.If you mark other group members for any criteria at 3 or below, you must provide a comment to justify your low mark.If you mark low without a comment, the mark you have given will be changed, without consultation.If you do not fill out your peer assessment, you may be given a mark of zero for this part of the assessment or you may be allocated the mark based on the marks given by the rest of your team.Peer Assessment CriteriaProject Management - the extent to which someone participates in setting up processes, such as meeting times and work submission deadlines, which will lead to successful and timely completion of the project.Knowledge - the extent to which someone has contributed knowledge and skills to work completionCommunication - the extent to which someone communicates respectfully, positively, and effectively with others in the group, in order to create group cohesion and get the project done with a minimum of conflict.Responsibility - the extent to which someone meets their obligations, like turning up to all meetings, and fully participating and taking all aspects of the project seriously.Working effectively in a Team:A Practical Guide MOOC explores ways in which to learn how to build effective teams, be a great team player, and manage team conflict. You are encouraged to complete this practical guide if you haven't done a team project before. Refer toTeams101x MOOC.AI Statement:This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. If AI has been used it must be acknowledged.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit through Blackboard Assessment links.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The main purpose of this assessment is to develop your ability to work in a team and to design, develop, and implement a well-structured relational database that effectively supports the given scenario. Students will be required to demonstrate their knowledge and ability to use SQL. The fundamental knowledge and skills required for this assessment task are expected to be cultivated through lectures and tutorials. However, students will need to conduct additional research to further enhance the skills necessary to successfully complete this assessment. </p>\n<p><strong>Team formation and teamwork: </strong>You will undertake this project as a part of a team of 3 to 5 members.<strong> </strong>Project team members must be allocated to the same tutorial. You will submit portions of the project at intervals, receive oral comments on your work during the informal presentations from your tutor, and revise earlier submissions. </p>\n<p><strong>Feedback on draft submissions (iterations 1 and 2)</strong></p>\n<ul>\n<li><strong>Iteration 1</strong> during week 8 tutorials. The submission due date will be announced on BlackBoard.</li>\n<li><strong>Iteration 2</strong> during week 11 tutorials. The submission due date will be announced on  BlackBoard.</li>\n</ul>\n<p><strong> Peer Assessment: </strong>5% of the mark for this assessment will be determined by the members of your group, who will assess your contribution to the project against 4 criteria, for a mark out of 5. A link will be provided on Blackboard for this evaluation. </p>\n<ul>\n<li>If you mark other group members for any criteria at 3 or below, you must provide a comment to justify your low mark.</li>\n<li>If you mark low without a comment, the mark you have given will be changed, without consultation.</li>\n<li>If you do not fill out your peer assessment, you may be given a mark of zero for this part of the assessment or you may be allocated the mark based on the marks given by the rest of your team.</li>\n</ul>\n<p><strong>Peer Assessment Criteria</strong></p>\n<ul>\n<li>Project Management - the extent to which someone participates in setting up processes, such as meeting times and work submission deadlines, which will lead to successful and timely completion of the project.</li>\n<li>Knowledge - the extent to which someone has contributed knowledge and skills to work completion</li>\n<li>Communication - the extent to which someone communicates respectfully, positively, and effectively with others in the group, in order to create group cohesion and get the project done with a minimum of conflict.</li>\n<li>Responsibility - the extent to which someone meets their obligations, like turning up to all meetings, and fully participating and taking all aspects of the project seriously.</li>\n</ul>\n<p><strong>Working effectively in a Team: </strong>A Practical Guide MOOC explores ways in which to learn how to build effective teams, be a great team player, and manage team conflict. You are encouraged to complete this practical guide if you haven't done a team project before. Refer to <a href=\"https://www.edx.org/course/working-teams-practical-guide-uqx-teams101x-2\">Teams101x MOOC</a>.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. If AI has been used it must be acknowledged.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard Assessment links.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Final Exam",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Examination",
-            "task_description": "The Final Examination will consist of multiple choice, short answer and problem solving questions based on learning materials presented in lectures, tutorials and the relevant chapters of the textbook from week 4 to week 13 inclusive. Further details about the exam will be discussed in lectures and posted to the Blackboard course site.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Final Examination will consist of multiple choice, short answer and problem solving questions based on learning materials presented in lectures, tutorials and the relevant chapters of the textbook from week 4 to week 13 inclusive. Further details about the exam will be discussed in lectures and posted to the Blackboard course site.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Course Overview and Intro to DBMSLearning outcomes:L01, L04",
-            "topic_title": "Course Overview and Intro to DBMS",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and Intro to DBMS</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Course Overview and Intro to DBMS</strong>",
+            "topic_description": "Course Overview and Intro to DBMS",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -99,9 +103,19 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "T1: Entity-Relationship ModellingLearning outcomes:L01",
-            "topic_title": "T1: Entity-Relationship Modelling",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T1: Entity-Relationship Modelling</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>T1: Entity-Relationship Modelling</strong>",
+            "topic_description": "T1: Entity-Relationship Modelling",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Entity-Relationship Model</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Entity-Relationship Model</strong>",
+            "topic_description": "Entity-Relationship Model",
             "learning_outcomes": [
                 "L01"
             ]
@@ -109,9 +123,20 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "T2: Relational Model and SQL prepLearning outcomes:L01, L03",
-            "topic_title": "T2: Relational Model and SQL prep",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T2: Relational Model and SQL prep</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>T2: Relational Model and SQL prep</strong>",
+            "topic_description": "T2: Relational Model and SQL prep",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Relational Model</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Relational Model</strong>",
+            "topic_description": "Relational Model",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -120,10 +145,22 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "T3: SQL ExercisesLearning outcomes:L02, L03",
-            "topic_title": "T3: SQL Exercises",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T3: SQL Exercises </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>T3: SQL Exercises </strong>",
+            "topic_description": "T3: SQL Exercises",
             "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Database Design and Structured Query Language (I)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Database Design and Structured Query Language (I)</strong>",
+            "topic_description": "Database Design and Structured Query Language (I)",
+            "learning_outcomes": [
+                "L01",
                 "L02",
                 "L03"
             ]
@@ -131,20 +168,32 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "T4: SQL ExercisesLearning outcomes:L02, L03",
-            "topic_title": "T4: SQL Exercises",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T4: SQL Exercises </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>T4: SQL Exercises </strong>",
+            "topic_description": "T4: SQL Exercises",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Structured Query Language  (II)</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Structured Query Language  (II)</strong>",
+            "topic_description": "Structured Query Language  (II)",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "T5: Practical Lab QuizLab Quiz during your tutorial.Learning outcomes:L01, L02",
-            "topic_title": "T5: Practical Lab Quiz",
-            "topic_description": "Lab Quiz during your tutorial.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T5: Practical Lab Quiz</strong><br/><p>Lab Quiz during your tutorial.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>T5: Practical Lab Quiz</strong>",
+            "topic_description": "T5: Practical Lab Quiz Lab Quiz during your tutorial.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -153,12 +202,24 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "T6: Practical Exercises for NormalisationLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "T6: Practical Exercises for Normalisation",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T6: Practical Exercises for Normalisation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>T6: Practical Exercises for Normalisation</strong>",
+            "topic_description": "T6: Practical Exercises for Normalisation",
             "learning_outcomes": [
                 "L01",
                 "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Normalisation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Normalisation</strong>",
+            "topic_description": "Normalisation",
+            "learning_outcomes": [
+                "L01",
                 "L03",
                 "L04"
             ]
@@ -166,9 +227,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "T7:  Project Iteration 1 presentation and securityLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "T7:  Project Iteration 1 presentation and security",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T7:  Project Iteration 1 presentation and security</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>T7:  Project Iteration 1 presentation and security</strong>",
+            "topic_description": "T7:  Project Iteration 1 presentation and security",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -178,11 +239,23 @@
             ]
         },
         {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Database security and control</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Database security and control</strong>",
+            "topic_description": "Database security and control",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "T8: Practical Exercises for NormalisationLearning outcomes:L01, L02, L03",
-            "topic_title": "T8: Practical Exercises for Normalisation",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T8: Practical Exercises for Normalisation </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>T8: Practical Exercises for Normalisation </strong>",
+            "topic_description": "T8: Practical Exercises for Normalisation",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -190,19 +263,30 @@
             ]
         },
         {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transaction Management: Recovery and Concurrency</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Transaction Management: Recovery and Concurrency</strong>",
+            "topic_description": "Transaction Management: Recovery and Concurrency",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "T9: SQL exercises- Recovery and ConcurrencyLearning outcomes:L01, L02, L04",
-            "topic_title": "T9: SQL exercises- Recovery and Concurrency",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T9: SQL exercises- Recovery and Concurrency</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>T9: SQL exercises- Recovery and Concurrency</strong>",
+            "topic_description": "T9: SQL exercises- Recovery and Concurrency",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -210,11 +294,22 @@
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Missing Information, Data Warehousing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Missing Information, Data Warehousing</strong>",
+            "topic_description": "Missing Information, Data Warehousing",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "T10: Project Iteration 2 Presentation and Data Quality ExercisesLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "T10: Project Iteration 2 Presentation and Data Quality Exercises",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T10: Project Iteration 2 Presentation and Data Quality Exercises</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>T10: Project Iteration 2 Presentation and Data Quality Exercises</strong>",
+            "topic_description": "T10: Project Iteration 2 Presentation and Data Quality Exercises",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -224,11 +319,35 @@
             ]
         },
         {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Quality and Data Cleaning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Data Quality and Data Cleaning</strong>",
+            "topic_description": "Data Quality and Data Cleaning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "T11: Team projectLearning outcomes:L01, L04",
-            "topic_title": "T11: Team project",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T11: Team project</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>T11: Team project</strong>",
+            "topic_description": "T11: Team project",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Distributed DBMS</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Distributed DBMS</strong>",
+            "topic_description": "Distributed DBMS",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -237,11 +356,22 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "T12: Q&A and Exam PracticeLearning outcomes:L01",
-            "topic_title": "T12: Q&A and Exam Practice",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T12: Q&amp;A and Exam Practice</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>T12: Q&amp;A and Exam Practice</strong>",
+            "topic_description": "T12: Q&A and Exam Practice",
             "learning_outcomes": [
                 "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big Data and Intelligence Technologies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Big Data and Intelligence Technologies</strong>",
+            "topic_description": "Big Data and Intelligence Technologies",
+            "learning_outcomes": [
+                "L01",
+                "L04"
             ]
         }
     ]
