@@ -1,4 +1,8 @@
 {
+    "course_title": "Advanced Management Accounting",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3104-60178-7460",
     "full_course_code": "ACCT3104-60178-7460",
     "course_code": "ACCT3104",
@@ -33,16 +37,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "28/08/2024During Lecture Time",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 28/08/2024</p>\n<p>\n</p><p>During Lecture Time</p></dd>",
             "learning_objectives": "L01, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "Exam is online using Blackboard.The exam can only be taken once, with no breaks. The time starts as soon as you click on the link to open the exam.The in-semester exam will cover Topics 1 to 4.The in-semester exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.Results will be posted on the MyGrades link via the course Blackboard site.Please do not start the exam if you are unwell as you will not be eligible for a deferral if you have opened the exam link.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exam is online using Blackboard.</p>\n<p>The exam can only be taken once, with no breaks. The time starts as soon as you click on the link to open the exam. </p>\n<p>The in-semester exam will cover Topics 1 to 4.</p>\n<p>The in-semester exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.</p>\n<p>Results will be posted on the MyGrades link via the course Blackboard site.</p>\n<p>Please do not start the exam if you are unwell as you will not be eligible for a deferral if you have opened the exam link.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,16 +61,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "4/10/2024 1:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/10/2024 1:00 pm</p></dd>",
             "learning_objectives": "L02, L03, L04",
             "mode": "Oral, Written",
             "category": "Paper/ Report/ Annotation, Presentation",
-            "task_description": "The case study along with the required format will be madeavailablevia Blackboard. The case will be based on a business that has an identifiable problem and issues that need to be investigated and analysed so that workable solutions can be proposed.Cases help increase your learning of the topic areas concerned by requiring the application of course material to real business organisations. The purpose of the case study is to have you develop (1) an understanding of the organisation and its environment, (2) an understanding of the problem and issues that face the organisation; (3) an appropriate analysis and discussion of the problem and issues using the concepts and techniques learned in ACCT3104, and (4) sound recommendations for the organisation that will alleviate/address the problem and issues.Students are required to submit a single pdf of their case study and a video recording of a short presentation of their case.Submission is via Turnitin link on the Blackboard site. Further details will accompany the case study when released.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. The use of an avatar for the video presentation is prohibited.Read full task descriptionHide full task description",
-            "submission_guidelines": "The submission will be via Turnitin link on the Blackboard site. A further link will be provided for the submission of your short video presentation.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The case study along with the required format will be made <strong>available</strong> via Blackboard. The case will be based on a business that has an identifiable problem and issues that need to be investigated and analysed so that workable solutions can be proposed.</p>\n<p>Cases help increase your learning of the topic areas concerned by requiring the application of course material to real business organisations. The purpose of the case study is to have you develop (1) an understanding of the organisation and its environment, (2) an understanding of the problem and issues that face the organisation; (3) an appropriate analysis and discussion of the problem and issues using the concepts and techniques learned in ACCT3104, and (4) sound recommendations for the organisation that will alleviate/address the problem and issues.</p>\n<p>Students are required to submit a single pdf of their case study and a video recording of a short presentation of their case<strong>. </strong>Submission is via Turnitin link on the Blackboard site. Further details will accompany the case study when released.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. The use of an avatar for the video presentation is prohibited.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The submission will be via Turnitin link on the Blackboard site. A further link will be provided for the submission of your short video presentation.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -81,25 +85,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.The exam is an on-campus, paper-based exam invigilated by UQ appointed invigilators.The final exam will cover Topics 5 to 11.The final exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.Results will be posted on the MyGrades link via the course Blackboard site.If you are unable to sit your final exam, you must apply for a deferred exam.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This exam is a <strong>closed book, invigilated exam </strong>as required by UQ and Professional Accounting organisations.</p>\n<p>The exam is an on-campus, paper-based exam invigilated by UQ appointed invigilators.</p>\n<p>The final exam will cover Topics 5 to 11.</p>\n<p>The final exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.</p>\n<p>Results will be posted on the MyGrades link via the course Blackboard site.</p>\n<p>If you are unable to sit your final exam, you must apply for a deferred exam.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Topic 1: Absorption and Variable Costing Capacity AnalysisLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Topic 1: Absorption and Variable Costing Capacity Analysis",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1: Absorption and Variable Costing Capacity Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 1: Absorption and Variable Costing Capacity Analysis</strong>",
+            "topic_description": "Topic 1: Absorption and Variable Costing Capacity Analysis",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -110,9 +114,22 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1: Inventory Valuation MethodsInventory Valuation Methods: Absorption, variable and throughput costing. Capacity decisions.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 1: Inventory Valuation Methods",
-            "topic_description": "Inventory Valuation Methods: Absorption, variable and throughput costing. Capacity decisions.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Inventory Valuation Methods</strong><br/><p>Inventory Valuation Methods: Absorption, variable and throughput costing. Capacity decisions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Inventory Valuation Methods</strong>",
+            "topic_description": "Tutorial 1: Inventory Valuation Methods Inventory Valuation Methods: Absorption, variable and throughput costing. Capacity decisions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2: Inventory management, EOQ and JIT.</strong><br/><p>Inventory management, EOQ and JIT.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 2: Inventory management, EOQ and JIT.</strong>",
+            "topic_description": "Topic 2: Inventory management, EOQ and JIT. Inventory management, EOQ and JIT.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -123,9 +140,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 2: Inventory management, EOQ and JITInventory management, EOQ and JIT.Readings/Ref: Horngren 17 (Chapter 21);Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 2: Inventory management, EOQ and JIT",
-            "topic_description": "Inventory management, EOQ and JIT.\nReadings/Ref: Horngren 17 (Chapter 21);",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Inventory management, EOQ and JIT</strong><br/><p>Inventory management, EOQ and JIT.<br/>\nReadings/Ref: Horngren 17 (Chapter 21);</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Inventory management, EOQ and JIT</strong>",
+            "topic_description": "Tutorial 2: Inventory management, EOQ and JIT Inventory management, EOQ and JIT. Readings/Ref: Horngren 17 (Chapter 21);",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -134,24 +151,60 @@
             ]
         },
         {
-            "learning_period": "Week 4",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 3: Pricing Decisions and Cost ManagementLearning outcomes:L02, L03",
-            "topic_title": "Tutorial 3: Pricing Decisions and Cost Management",
-            "topic_description": "",
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3: Pricing Decisions and Cost Management.</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 3: Pricing Decisions and Cost Management.</strong>",
+            "topic_description": "Topic 3: Pricing Decisions and Cost Management.",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
-            "learning_period": "Week 5",
+            "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 4: Customer profitability analysis, SVACustomer profitability analysis, revenue allocation, and sales variance analysis.Learning outcomes:L01, L03, L04",
-            "topic_title": "Tutorial 4: Customer profitability analysis, SVA",
-            "topic_description": "Customer profitability analysis, revenue allocation, and sales variance analysis.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Pricing Decisions and Cost Management</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Pricing Decisions and Cost Management</strong>",
+            "topic_description": "Tutorial 3: Pricing Decisions and Cost Management",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4: CPA , revenue and SVA</strong><br/><p>Customer profitability analysis, revenue allocation, and sales variance analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 4: CPA , revenue and SVA</strong>",
+            "topic_description": "Topic 4: CPA , revenue and SVA Customer profitability analysis, revenue allocation, and sales variance analysis.",
             "learning_outcomes": [
                 "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Customer profitability analysis, SVA</strong><br/><p>Customer profitability analysis, revenue allocation, and sales variance analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Customer profitability analysis, SVA</strong>",
+            "topic_description": "Tutorial 4: Customer profitability analysis, SVA Customer profitability analysis, revenue allocation, and sales variance analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5: Decentralisation, Responsibility Centres and Transfer Pricing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 5: Decentralisation, Responsibility Centres and Transfer Pricing</strong>",
+            "topic_description": "Topic 5: Decentralisation, Responsibility Centres and Transfer Pricing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
                 "L03",
                 "L04"
             ]
@@ -159,17 +212,17 @@
         {
             "learning_period": "Week 6",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "No TutorialsBlackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK",
-            "topic_title": "No Tutorials",
-            "topic_description": "Blackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorials</strong><br/><p>Blackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK</p></p></div></td>",
+            "topic_title": "<strong>No Tutorials</strong>",
+            "topic_description": "No Tutorials Blackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK",
             "learning_outcomes": []
         },
         {
-            "learning_period": "Week 7",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 5: Decentralisation, etcDecentralisation, responsibility centres, transfer pricingLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 5: Decentralisation, etc",
-            "topic_description": "Decentralisation, responsibility centres, transfer pricing",
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>Blackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam Blackboard Exam in Lecture Time - NO LECTURES OR TUTORIALS THIS WEEK",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -178,11 +231,24 @@
             ]
         },
         {
-            "learning_period": "Week 8",
+            "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 6: Organisation and management systemsOrganisational structures and management control systems.Learning outcomes:L01, L02, L04",
-            "topic_title": "Tutorial 6: Organisation and management systems",
-            "topic_description": "Organisational structures and management control systems.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Decentralisation, etc</strong><br/><p>Decentralisation, responsibility centres, transfer pricing</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Decentralisation, etc</strong>",
+            "topic_description": "Tutorial 5: Decentralisation, etc Decentralisation, responsibility centres, transfer pricing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6: Organisational structures and MCS</strong><br/><p>Organisational structures and management control systems.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Topic 6: Organisational structures and MCS</strong>",
+            "topic_description": "Topic 6: Organisational structures and MCS Organisational structures and management control systems.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -190,13 +256,50 @@
             ]
         },
         {
-            "learning_period": "Week 9",
+            "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 7: SMA, BSC, SPAStrategic management accounting, balanced scorecard and strategic profitability analysis.Learning outcomes:L01, L03, L04",
-            "topic_title": "Tutorial 7: SMA, BSC, SPA",
-            "topic_description": "Strategic management accounting, balanced scorecard and strategic profitability analysis.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Organisation and management systems</strong><br/><p>Organisational structures and management control systems.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Organisation and management systems</strong>",
+            "topic_description": "Tutorial 6: Organisation and management systems Organisational structures and management control systems.",
             "learning_outcomes": [
                 "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 7: Performance SMA Balance Scorecard and SPA.</strong><br/><p>Performance evaluation, strategic management accounting, balanced scorecard and strategic profitability analysis</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 7: Performance SMA Balance Scorecard and SPA.</strong>",
+            "topic_description": "Topic 7: Performance SMA Balance Scorecard and SPA. Performance evaluation, strategic management accounting, balanced scorecard and strategic profitability analysis",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: SMA, BSC, SPA</strong><br/><p>Strategic management accounting, balanced scorecard and strategic profitability analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: SMA, BSC, SPA</strong>",
+            "topic_description": "Tutorial 7: SMA, BSC, SPA Strategic management accounting, balanced scorecard and strategic profitability analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Balanced scorecard: quality, time, and TOC</strong><br/><p>Balanced scorecard: quality, time, and the theory of constraints.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 8: Balanced scorecard: quality, time, and TOC</strong>",
+            "topic_description": "Topic 8: Balanced scorecard: quality, time, and TOC Balanced scorecard: quality, time, and the theory of constraints.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
                 "L03",
                 "L04"
             ]
@@ -204,17 +307,30 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 8: BSC quality, time, constraint theoryBalanced scorecard: quality, time, and the theory of constraints.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 8: BSC quality, time, constraint theory",
-            "topic_description": "Balanced scorecard: quality, time, and the theory of constraints.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: BSC quality, time, constraint theory</strong><br/><p>Balanced scorecard: quality, time, and the theory of constraints.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: BSC quality, time, constraint theory</strong>",
+            "topic_description": "Tutorial 8: BSC quality, time, constraint theory Balanced scorecard: quality, time, and the theory of constraints.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Financial Performance Measures and effects</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 9: Financial Performance Measures and effects</strong>",
+            "topic_description": "Topic 9: Financial Performance Measures and effects",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -225,9 +341,22 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 9: Financial performance measuresFinancial performance measures and their effects including incentives.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Tutorial 9: Financial performance measures",
-            "topic_description": "Financial performance measures and their effects including incentives.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Financial performance measures</strong><br/><p>Financial performance measures and their effects including incentives.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Financial performance measures</strong>",
+            "topic_description": "Tutorial 9: Financial performance measures Financial performance measures and their effects including incentives.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10: Incentive Systems</strong><br/><p>Performance measurement and incentive systems.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 10: Incentive Systems</strong>",
+            "topic_description": "Topic 10: Incentive Systems Performance measurement and incentive systems.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -238,9 +367,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 10: Incentive systemsPerformance measures and incentive systemsLearning outcomes:L01, L03, L04",
-            "topic_title": "Tutorial 10: Incentive systems",
-            "topic_description": "Performance measures and incentive systems",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Incentive systems</strong><br/><p>Performance measures and incentive systems</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Incentive systems</strong>",
+            "topic_description": "Tutorial 10: Incentive systems Performance measures and incentive systems",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -248,13 +377,37 @@
             ]
         },
         {
-            "learning_period": "Week 13",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 11: Ethics in management accountingLearning outcomes:L01, L04",
-            "topic_title": "Tutorial 11: Ethics in management accounting",
-            "topic_description": "",
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 11: Ethics in management accounting</strong><br/><p>Ethics in management accounting</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Topic 11: Ethics in management accounting</strong>",
+            "topic_description": "Topic 11: Ethics in management accounting Ethics in management accounting",
             "learning_outcomes": [
                 "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Ethics in management accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Ethics in management accounting</strong>",
+            "topic_description": "Tutorial 11: Ethics in management accounting",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Exam - Course Review</strong><br/><p>Final exam communications and course review</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Final Exam - Course Review</strong>",
+            "topic_description": "Final Exam - Course Review Final exam communications and course review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
                 "L04"
             ]
         }
