@@ -1,0 +1,249 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS6902-60311-7460",
+    "full_course_code": "RBUS6902-60311-7460",
+    "course_code": "RBUS6902",
+    "class_code": "60311",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop knowledge of the fundamental theory (concepts, statistical theory) and application of statistical data analysis."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply data analysis to your area of business research (e.g., management, marketing, strategy)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Conduct data analysis using linear regression and factor analysis."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically evaluate published research that uses multivariate data analysis techniques covered in the course."
+        },
+        {
+            "number": "LO5.",
+            "description": "Report the results of data analysis per discipline standards."
+        },
+        {
+            "number": "LO6.",
+            "description": "Critically discuss the validity of a research study, that uses any of the different types of multivariate data analysis techniques covered in this course, with an academic researcher."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Report",
+            "special_indicators": [],
+            "weighting": "40%",
+            "due_date": "13/09/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The report focuses on the completion of a computer exercise (Application of a Data Analysis technique) using software (e.g., SPSS). The data and topic on which students are to run the exercise will be provided in the class.You will also be required to reflect on the principles/material covered and your learning experience in this course (first 6 weeks).This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assessment will be submitted via Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Report",
+            "special_indicators": [],
+            "weighting": "60%",
+            "due_date": "8/11/2024 2:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "The report focuses on the completion of computer exercises using software (e.g., SPSS).The data and topic on which students are to run the model for the exercise will be provided in the class.You will also be required to reflect on the principles/material covered and your learning experience in this course.This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+            "submission_guidelines": "The assessment will be submitted via Blackboard.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "IntroductionCourse overview, core research design concepts, introduction to multivariate data analysisLearning outcomes:L01, L02, L04, L05",
+            "topic_title": "Introduction",
+            "topic_description": "Course overview, core research design concepts, introduction to multivariate data analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "Measurement, Scaling & Descriptive StatisticsLearning outcomes:L01, L02, L05, L06",
+            "topic_title": "Measurement, Scaling & Descriptive Statistics",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "Sampling & Correlation AnalysisLab 1: Intro to SPSS & Basic Data ManagementLab 2: Descriptive statisticsLearning outcomes:L01, L02, L05, L06",
+            "topic_title": "Sampling & Correlation Analysis",
+            "topic_description": "Lab 1: Intro to SPSS & Basic Data Management \nLab 2: Descriptive statistics",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "Hypothesis testing & CrosstabulationsLab 3: Correlations Assignment 1 briefingLearning outcomes:L01, L02, L05, L06",
+            "topic_title": "Hypothesis testing & Crosstabulations",
+            "topic_description": "Lab 3: Correlations Assignment 1 briefing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "Research design & t-testLab 4: Cross tabsLearning outcomes:L01, L02, L05",
+            "topic_title": "Research design & t-test",
+            "topic_description": "Lab 4: Cross tabs",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "Primary data collection: Experiments & ANOVALab 5: t-testLearning outcomes:L01, L02, L03, L05",
+            "topic_title": "Primary data collection: Experiments & ANOVA",
+            "topic_description": "Lab 5: t-test",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "Primary data collection: Survey methodsLab 6: Analysis of varianceLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Primary data collection: Survey methods",
+            "topic_description": "Lab 6: Analysis of variance",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "Measurement instrument design & Multiple regression analysisMultiple regression analysisLearning outcomes:L02, L03, L04, L05, L06",
+            "topic_title": "Measurement instrument design & Multiple regression analysis",
+            "topic_description": "Multiple regression analysis",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "Mediation analysisLab 7: Multiple regression analysisLearning outcomes:L02, L03, L04, L05, L06",
+            "topic_title": "Mediation analysis",
+            "topic_description": "Lab 7: Multiple regression analysis",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "In-semester break",
+            "topic_title": "In-semester break",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "Moderation analysisAssignment 2 briefingLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Moderation analysis",
+            "topic_description": "Assignment 2 briefing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "No Class this week (Public holiday)",
+            "topic_title": "No Class this week (Public holiday)",
+            "topic_description": "",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "Factor AnalysisLab 8: Factor analysisLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Factor Analysis",
+            "topic_description": "Lab 8: Factor analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "Course ReviewLearning outcomes:L01, L02, L03, L04, L05, L06",
+            "topic_title": "Course Review",
+            "topic_description": "",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
