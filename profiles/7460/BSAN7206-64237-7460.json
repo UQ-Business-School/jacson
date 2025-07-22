@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Data Management",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7206-64237-7460",
     "full_course_code": "BSAN7206-64237-7460",
     "course_code": "BSAN7206",
@@ -11,55 +15,65 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "ER diagrams and the relational Model",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "9/08/2024 4:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 9/08/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Product/ Design",
-            "task_description": "This assignment has two sections. The first part focuses on conceptual modelling and tests students' ability to capture important aspects of multiple systems that need to be stored in a database. The second part focuses on the relational model and tests students' understanding of integrity constraints and mapping ER diagrams to relational schema.AI STATEMENT: \"Students are permitted to use any form of AI to any degree in completing this assignment. However, they must clearly document any use of AI in each instance. Specifically, students are required to include copies of their interactions with the AI tool as an appendix at the end of their submission. Failure to reference AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be submitted within the course's Learn.UQ site.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment has two sections. The first part focuses on conceptual modelling and tests students' ability to capture important aspects of multiple systems that need to be stored in a database. The second part focuses on the relational model and tests students' understanding of integrity constraints and mapping ER diagrams to relational schema.</p>\n<p>AI STATEMENT: \"Students are permitted to use any form of AI to any degree in completing this assignment. However, they must clearly document any use of AI in each instance. Specifically, students are required to include copies of their interactions with the AI tool as an appendix at the end of their submission. Failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted within the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "SQL",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "6/09/2024 4:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 6/09/2024 4:00 pm</p></dd>",
             "learning_objectives": "L02",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Computer Code",
-            "task_description": "The purpose of this assignment is to test students' ability to use and apply SQL concepts to complete tasks in a real-world scenario. Specifically, this assessment will examine their ability to use SQL Data Manipulation Language to return specific subsets of information that exist in a database.For this assignment, students will be presented with the simplified schema of an event management application. The goal of the application is to track both the events attended by users and relationships between users and other users. The system is then able to use this data to effectively market recommended events to users based on the events their friends have attended. You will be required to write 10 SQL queries that answer higher-level questions about the data in this database. (Note: Your queries must compile using a MySQL DBMS). A sample database will be provided to help you test your queries.AI STATEMENT: Students are permitted to use any form of AI to any degree in completing this assignment. However, they must clearly document any use of AI in each instance. Specifically, students are required to include copies of their interactions with the AI tool as an appendix at the end of their submission. Failure to reference AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be submitted on the course's Learn.UQ site.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The purpose of this assignment is to test students' ability to use and apply SQL concepts to complete tasks in a real-world scenario. Specifically, this assessment will examine their ability to use SQL Data Manipulation Language to return specific subsets of information that exist in a database.</p>\n<p>For this assignment, students will be presented with the simplified schema of an event management application. The goal of the application is to track both the events attended by users and relationships between users and other users. The system is then able to use this data to effectively market recommended events to users based on the events their friends have attended. You will be required to write 10 SQL queries that answer higher-level questions about the data in this database. (Note: Your queries must compile using a MySQL DBMS). A sample database will be provided to help you test your queries.</p>\n<p>AI STATEMENT: Students are permitted to use any form of AI to any degree in completing this assignment. However, they must clearly document any use of AI in each instance. Specifically, students are required to include copies of their interactions with the AI tool as an appendix at the end of their submission. Failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted on the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Dimension model and Big data case scenario",
             "special_indicators": [],
-            "weighting": "50% (Dimension model 40%, Big data 10%)",
-            "due_date": "25/10/2024 4:00 pm",
+            "weighting": "<dd>50% (Dimension model 40%, Big data 10%) </dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L03, L04",
             "mode": "Written",
             "category": "Essay/ Critique",
-            "task_description": "This Assignment evaluate learning outcomes 3) Develop skills to generate insights from organisational data, and 4) Solve challenges and leverage opportunities in dealing with Big Data.The assignment has two components:Dimension model:You will be given a case scenario for which you are required to answer the analytical questions. You are required to create dimension model, implement it using Microsoft SSIS, ETL tool, and answer the analytical question.Big data:You will be provided with Big data scenario, and you will answer the questions related to the scenario.Use of AI and generative tools: The assignment aims at developing critical thinking and communication skills. Writing should reflect the student's learning, reasoning, and critical thinking in an articulate way that fits the profile of the business student. We ask students to use an academic style of referencing content from scholarly works. As assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI), use of AI is strictly prohibited. Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be submitted via the course's Learn.UQ site.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Assignment evaluate learning outcomes 3) Develop skills to generate insights from organisational data, and 4) Solve challenges and leverage opportunities in dealing with Big Data.</p>\n<p>The assignment has two components:</p>\n<p><strong>Dimension model:</strong> You will be given a case scenario for which you are required to answer the analytical questions. You are required to create dimension model, implement it using Microsoft SSIS, ETL tool, and answer the analytical question.</p>\n<p><strong>Big data:</strong> You will be provided with Big data scenario, and you will answer the questions related to the scenario.</p>\n<p>Use of AI and generative tools: The assignment aims at developing critical thinking and communication skills. Writing should reflect the student's learning, reasoning, and critical thinking in an articulate way that fits the profile of the business student. We ask students to use an academic style of referencing content from scholarly works. As assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI), use of AI is strictly prohibited. Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 1.1 Relational Databases and ER diagramsSelf-Directed Learning: This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagrams.Learning outcomes:L01",
-            "topic_title": "Topic 1.1 Relational Databases and ER diagrams",
-            "topic_description": "Self-Directed Learning: This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagrams.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.1 Relational Databases and ER diagrams</strong><br/><p>Self-Directed Learning: This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagrams.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.1 Relational Databases and ER diagrams</strong>",
+            "topic_description": "Topic 1.1 Relational Databases and ER diagrams Self-Directed Learning: This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagrams.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and case study analysis</strong><br/><p>We will review the important aspects of the content covered in the first week and discuss a case study related to ER diagrams.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Content review and case study analysis</strong>",
+            "topic_description": "Content review and case study analysis We will review the important aspects of the content covered in the first week and discuss a case study related to ER diagrams.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -67,9 +81,19 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 1.2. The Relational ModelSelf-Directed Learning: This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models.Learning outcomes:L01",
-            "topic_title": "Topic 1.2. The Relational Model",
-            "topic_description": "Self-Directed Learning: This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.2. The Relational Model</strong><br/><p>Self-Directed Learning: This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.2. The Relational Model</strong>",
+            "topic_description": "Topic 1.2. The Relational Model Self-Directed Learning: This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consultation</strong><br/><p>This will be a consultation session where we will discuss questions related to module one and the first assignment.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Consultation</strong>",
+            "topic_description": "Consultation This will be a consultation session where we will discuss questions related to module one and the first assignment.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -77,9 +101,19 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Not Timetabled",
-            "topic": "Module 1: Self-Study WeekSelf-Directed Learning: This is a self-study week for revising the module and completing the Assignment.Learning outcomes:L01",
-            "topic_title": "Module 1: Self-Study Week",
-            "topic_description": "Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Self-Study Week</strong><br/><p>Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1: Self-Study Week</strong>",
+            "topic_description": "Module 1: Self-Study Week Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and case study analysis</strong><br/><p>We will review the important aspects of the content covered in the second week and discuss a case study related to ER diagrams.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Content review and case study analysis</strong>",
+            "topic_description": "Content review and case study analysis We will review the important aspects of the content covered in the second week and discuss a case study related to ER diagrams.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -87,9 +121,19 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 2.1 Introduction to SQLSelf-Directed Learning: This topic presents an introduction to relational query languages and SQL including the Data Definition Language (DDL) and basic retrieval queries based on the Data Manipulation Language (DML).Learning outcomes:L02",
-            "topic_title": "Topic 2.1 Introduction to SQL",
-            "topic_description": "Self-Directed Learning: This topic presents an introduction to relational query languages and SQL including the Data Definition Language (DDL) and basic retrieval queries based on the Data Manipulation Language (DML).",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1 Introduction to SQL</strong><br/><p>Self-Directed Learning: This topic presents an introduction to relational query languages and SQL including the Data Definition Language (DDL) and basic retrieval queries based on the Data Manipulation Language (DML).</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.1 Introduction to SQL</strong>",
+            "topic_description": "Topic 2.1 Introduction to SQL Self-Directed Learning: This topic presents an introduction to relational query languages and SQL including the Data Definition Language (DDL) and basic retrieval queries based on the Data Manipulation Language (DML).",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and case study analysis</strong><br/><p>We will review the important aspects of the content covered in the fourth week and discuss a case study related to SQL Data Definition Language</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Content review and case study analysis</strong>",
+            "topic_description": "Content review and case study analysis We will review the important aspects of the content covered in the fourth week and discuss a case study related to SQL Data Definition Language",
             "learning_outcomes": [
                 "L02"
             ]
@@ -97,9 +141,19 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 2.2 Basic SQL QueriesSelf-Directed Learning: This topic focuses on basic SQL queries that use aggregation functions, GROUP BY and HAVING clauses on one or multiple relations.Learning outcomes:L02",
-            "topic_title": "Topic 2.2 Basic SQL Queries",
-            "topic_description": "Self-Directed Learning: This topic focuses on basic SQL queries that use aggregation functions, GROUP BY and HAVING clauses on one or multiple relations.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.2 Basic SQL Queries</strong><br/><p>Self-Directed Learning: This topic focuses on basic SQL queries that use aggregation functions, GROUP BY and HAVING clauses on one or multiple relations.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.2 Basic SQL Queries</strong>",
+            "topic_description": "Topic 2.2 Basic SQL Queries Self-Directed Learning: This topic focuses on basic SQL queries that use aggregation functions, GROUP BY and HAVING clauses on one or multiple relations.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and live demos</strong><br/><p>We will review the important aspects of the content covered in the fifth week and run live demos of running SQL queries.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Content review and live demos</strong>",
+            "topic_description": "Content review and live demos We will review the important aspects of the content covered in the fifth week and run live demos of running SQL queries.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -107,9 +161,19 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 2.3 Advanced SQL QueriesSelf-Directed Learning: This topic focuses on advanced SQL queries based on subqueries, division and viewsLearning outcomes:L02",
-            "topic_title": "Topic 2.3 Advanced SQL Queries",
-            "topic_description": "Self-Directed Learning: This topic focuses on advanced SQL queries based on subqueries, division and views",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.3 Advanced SQL Queries</strong><br/><p>Self-Directed Learning: This topic focuses on advanced SQL queries based on subqueries, division and views</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.3 Advanced SQL Queries</strong>",
+            "topic_description": "Topic 2.3 Advanced SQL Queries Self-Directed Learning: This topic focuses on advanced SQL queries based on subqueries, division and views",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and case study analysis</strong><br/><p>We will review the important aspects of the content covered in the sixth week and discuss a case study related to SQL Data Manipulation Language</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Content review and case study analysis</strong>",
+            "topic_description": "Content review and case study analysis We will review the important aspects of the content covered in the sixth week and discuss a case study related to SQL Data Manipulation Language",
             "learning_outcomes": [
                 "L02"
             ]
@@ -117,9 +181,19 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Not Timetabled",
-            "topic": "Module 2: Self-Study WeekSelf-Directed Learning: This is a self-study week for revising the module and completing the Assignment.Learning outcomes:L02",
-            "topic_title": "Module 2: Self-Study Week",
-            "topic_description": "Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Self-Study Week</strong><br/><p>Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 2: Self-Study Week</strong>",
+            "topic_description": "Module 2: Self-Study Week Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consultation</strong><br/><p>This will be a consultation session where we will discuss questions content related to module two and the second assignment.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Consultation</strong>",
+            "topic_description": "Consultation This will be a consultation session where we will discuss questions content related to module two and the second assignment.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -127,9 +201,19 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 3.1 Data normalization and Data WarehouseSelf-Directed Learning: This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.Learning outcomes:L03",
-            "topic_title": "Topic 3.1 Data normalization and Data Warehouse",
-            "topic_description": "Self-Directed Learning: This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.1 Data normalization and Data Warehouse</strong><br/><p>Self-Directed Learning: This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 3.1 Data normalization and Data Warehouse</strong>",
+            "topic_description": "Topic 3.1 Data normalization and Data Warehouse Self-Directed Learning: This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and ETL tutorial discussion</strong><br/><p>We will review important aspects of the content covered in the eight week and discuss the tutorial related to ETL implementation using Microsoft SSIS.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Content review and ETL tutorial discussion</strong>",
+            "topic_description": "Content review and ETL tutorial discussion We will review important aspects of the content covered in the eight week and discuss the tutorial related to ETL implementation using Microsoft SSIS.",
             "learning_outcomes": [
                 "L03"
             ]
@@ -137,9 +221,19 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 3.2 Data warehouse architecture and ETLSelf-Directed Learning: This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.Learning outcomes:L03",
-            "topic_title": "Topic 3.2 Data warehouse architecture and ETL",
-            "topic_description": "Self-Directed Learning: This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.2 Data warehouse architecture and ETL</strong><br/><p>Self-Directed Learning: This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 3.2 Data warehouse architecture and ETL</strong>",
+            "topic_description": "Topic 3.2 Data warehouse architecture and ETL Self-Directed Learning: This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and case study analysis</strong><br/><p>Self-Directed Learning: We will review the important aspects of the content covered in the ninth week and discuss a case study related to dimension modelling.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Content review and case study analysis</strong>",
+            "topic_description": "Content review and case study analysis Self-Directed Learning: We will review the important aspects of the content covered in the ninth week and discuss a case study related to dimension modelling.",
             "learning_outcomes": [
                 "L03"
             ]
@@ -147,17 +241,27 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Not Timetabled",
-            "topic": "Module 3: Self-Study WeekSelf-Directed Learning: This is a self-study week for revising the module and completing the Assignment.Learning outcomes:L03",
-            "topic_title": "Module 3: Self-Study Week",
-            "topic_description": "Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3: Self-Study Week</strong><br/><p>Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 3: Self-Study Week</strong>",
+            "topic_description": "Module 3: Self-Study Week Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consultation</strong><br/><p>This will be a consultation session where we will discuss questions related to module three and the part one of the third assignment.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Consultation</strong>",
+            "topic_description": "Consultation This will be a consultation session where we will discuss questions related to module three and the part one of the third assignment.",
             "learning_outcomes": [
                 "L03"
             ]
@@ -165,9 +269,19 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 4.1 Big DataSelf-Directed Learning: This topic presents an introduction to Big Data including scenarios and discusses the CAP (consistency, availability, and partition) Theorem and its implications on the capabilities and limitations of big data systems.Learning outcomes:L04",
-            "topic_title": "Topic 4.1 Big Data",
-            "topic_description": "Self-Directed Learning: This topic presents an introduction to Big Data including scenarios and discusses the CAP (consistency, availability, and partition) Theorem and its implications on the capabilities and limitations of big data systems.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.1 Big Data</strong><br/><p>Self-Directed Learning: This topic presents an introduction to Big Data including scenarios and discusses the CAP (consistency, availability, and partition) Theorem and its implications on the capabilities and limitations of big data systems.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Topic 4.1 Big Data</strong>",
+            "topic_description": "Topic 4.1 Big Data Self-Directed Learning: This topic presents an introduction to Big Data including scenarios and discusses the CAP (consistency, availability, and partition) Theorem and its implications on the capabilities and limitations of big data systems.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review and scenario analysis</strong><br/><p>We will review the important aspects of the content covered in the eleventh week and the case related to big data.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Content review and scenario analysis</strong>",
+            "topic_description": "Content review and scenario analysis We will review the important aspects of the content covered in the eleventh week and the case related to big data.",
             "learning_outcomes": [
                 "L04"
             ]
@@ -175,9 +289,19 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Not Timetabled",
-            "topic": "Topic 4.2 Data Volume, Streams, and Graphs:Self-Directed Learning: This topic presents system architectures to process big data including, for example, Map/Reduce and Apache Spark.Learning outcomes:L04",
-            "topic_title": "Topic 4.2 Data Volume, Streams, and Graphs:",
-            "topic_description": "Self-Directed Learning: This topic presents system architectures to process big data including, for example, Map/Reduce and Apache Spark.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.2 Data Volume, Streams, and Graphs:</strong><br/><p>Self-Directed Learning: This topic presents system architectures to process big data including, for example, Map/Reduce and Apache Spark.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Topic 4.2 Data Volume, Streams, and Graphs:</strong>",
+            "topic_description": "Topic 4.2 Data Volume, Streams, and Graphs: Self-Directed Learning: This topic presents system architectures to process big data including, for example, Map/Reduce and Apache Spark.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Content review</strong><br/><p>We will review the important aspects of the content covered in the twelfth week.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Content review</strong>",
+            "topic_description": "Content review We will review the important aspects of the content covered in the twelfth week.",
             "learning_outcomes": [
                 "L04"
             ]
@@ -185,9 +309,19 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Not Timetabled",
-            "topic": "Module 4: Self-Study WeekSelf-Directed Learning: This is a self-study week for revising the module and completing the Assignment.Learning outcomes:L04",
-            "topic_title": "Module 4: Self-Study Week",
-            "topic_description": "Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4: Self-Study Week</strong><br/><p>Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Module 4: Self-Study Week</strong>",
+            "topic_description": "Module 4: Self-Study Week Self-Directed Learning: This is a self-study week for revising the module and completing the Assignment.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consultation</strong><br/><p>This will be a consultation session where we will discuss questions related to module four and the second part of the third assignment.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Consultation</strong>",
+            "topic_description": "Consultation This will be a consultation session where we will discuss questions related to module four and the second part of the third assignment.",
             "learning_outcomes": [
                 "L04"
             ]
