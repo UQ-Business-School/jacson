@@ -1,4 +1,8 @@
 {
+    "course_title": "Machine Learning for Business",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2205-60211-7460",
     "full_course_code": "BSAN2205-60211-7460",
     "course_code": "BSAN2205",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "2/09/2024 5:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/09/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "This first assessment item is a project proposal outlining the application of a method of predictive analytics to business. The proposal is an individual and written assessment item.Students will write proposals in the range of 1,500 to 2,000. The proposal should contain several key components.1) Background2) Problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan6) Project directionsMore details of criteria and suggestions for approaching each section of the proposal will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in Word format.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit through Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This first assessment item is a project proposal outlining the application of a method of predictive analytics to business. The proposal is an individual and written assessment item.</p>\n<p>Students will write proposals in the range of 1,500 to 2,000. The proposal should contain several key components.</p>\n<p>1) Background</p>\n<p>2) Problem definition</p>\n<p>3) Proposed approach/method of analysis</p>\n<p>4) Data/information requirements</p>\n<p>5) Analysis plan</p>\n<p>6) Project directions</p>\n<p>More details of criteria and suggestions for approaching each section of the proposal will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in Word format.</p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,16 +61,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "21/10/2024 5:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 21/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L04, L05",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
-            "task_description": "This second assessment item is a project report documenting the application of a method of predictive analytics to business. The report is an individual and written assessment item, and should follow-on from the project proposal. Students will write reports in the range of 3,000 to 3,500. The report should contain several key components.1) Background/problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan/modelling approach6) Data screening/testing assumptions7) Results and discussion/interpretations8) Summary of key findings9) Project summaryMore details of criteria and suggestions for approaching each section of the report will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in PowerPoint format and further, record and submit a recording of their presentations.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit through Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This second assessment item is a project report documenting the application of a method of predictive analytics to business. The report is an individual and written assessment item, and should follow-on from the project proposal. Students will write reports in the range of 3,000 to 3,500. The report should contain several key components.</p>\n<p>1) Background/problem definition</p>\n<p>3) Proposed approach/method of analysis</p>\n<p>4) Data/information requirements</p>\n<p>5) Analysis plan/modelling approach</p>\n<p>6) Data screening/testing assumptions</p>\n<p>7) Results and discussion/interpretations</p>\n<p>8) Summary of key findings</p>\n<p>9) Project summary</p>\n<p>More details of criteria and suggestions for approaching each section of the report will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in PowerPoint format and further, record and submit a recording of their presentations.</p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.</em></p>\n<p><em> A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -77,25 +81,25 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "11/11/2024 - 15/11/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 11/11/2024 - 15/11/2024</p></dd>",
             "learning_objectives": "L03, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
-            "task_description": "This third assignment item is a School-based take-home assessment will run during the final exam period. Expectations for the assessment will be discussed in class. Briefly, the assessment will consistent of short-answer style questions focused on the core content of the course and process questions that require students to run analyses in R, and report and interpret the results of their R analysis.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "All assessment is to be submitted through Blackboard , detailed submission instructions will be provided on the course Blackboard Course Site.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This third assignment item is a School-based take-home assessment will run during the final exam period. Expectations for the assessment will be discussed in class. Briefly, the assessment will consistent of short-answer style questions focused on the core content of the course and process questions that require students to run analyses in R, and report and interpret the results of their R analysis.</p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assessment is to be submitted through Blackboard , detailed submission instructions will be provided on the course Blackboard Course Site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "1. Course Introduction and A1 OverviewLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "1. Course Introduction and A1 Overview",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>1. Course Introduction and A1 Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>1. Course Introduction and A1 Overview</strong>",
+            "topic_description": "1. Course Introduction and A1 Overview",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -107,9 +111,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "2. Preparation for Machine LearningLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "2. Preparation for Machine Learning",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>2. Preparation for Machine Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>2. Preparation for Machine Learning</strong>",
+            "topic_description": "2. Preparation for Machine Learning",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -121,9 +125,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "3. Linear RegressionLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "3. Linear Regression",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>3. Linear Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>3. Linear Regression</strong>",
+            "topic_description": "3. Linear Regression",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -135,9 +139,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "4. Logistic RegressionLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "4. Logistic Regression",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>4. Logistic Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>4. Logistic Regression</strong>",
+            "topic_description": "4. Logistic Regression",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -149,9 +153,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "5. Time Series AnalysisLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "5. Time Series Analysis",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>5. Time Series Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>5. Time Series Analysis</strong>",
+            "topic_description": "5. Time Series Analysis",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -163,9 +167,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "6. Tree-Based MethodsLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "6. Tree-Based Methods",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>6. Tree-Based Methods</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>6. Tree-Based Methods</strong>",
+            "topic_description": "6. Tree-Based Methods",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -177,9 +181,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "7. Support Vector Machines and A2 OverviewLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "7. Support Vector Machines and A2 Overview",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>7. Support Vector Machines and A2 Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>7. Support Vector Machines and A2 Overview</strong>",
+            "topic_description": "7. Support Vector Machines and A2 Overview",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -191,9 +195,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "8. Ensemble MethodsLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "8. Ensemble Methods",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>8. Ensemble Methods</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>8. Ensemble Methods</strong>",
+            "topic_description": "8. Ensemble Methods",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -205,9 +209,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "9. ClusteringLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "9. Clustering",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>9. Clustering</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>9. Clustering</strong>",
+            "topic_description": "9. Clustering",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -219,9 +223,9 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -233,9 +237,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "10. Project WorkshopLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "10. Project Workshop",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>10. Project Workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>10. Project Workshop</strong>",
+            "topic_description": "10. Project Workshop",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -247,9 +251,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "11. Association Rule LearningLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "11. Association Rule Learning",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>11. Association Rule Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>11. Association Rule Learning</strong>",
+            "topic_description": "11. Association Rule Learning",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -261,9 +265,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "12. Collaborative FilteringLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "12. Collaborative Filtering",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>12. Collaborative Filtering</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>12. Collaborative Filtering</strong>",
+            "topic_description": "12. Collaborative Filtering",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -275,9 +279,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "13. Course Revision and A3 PreparationLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "13. Course Revision and A3 Preparation",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>13. Course Revision and A3 Preparation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>13. Course Revision and A3 Preparation</strong>",
+            "topic_description": "13. Course Revision and A3 Preparation",
             "learning_outcomes": [
                 "L01",
                 "L02",
