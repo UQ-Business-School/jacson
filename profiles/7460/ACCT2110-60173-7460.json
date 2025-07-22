@@ -1,4 +1,8 @@
 {
+    "course_title": "Intermediate Financial Accounting",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT2110-60173-7460",
     "full_course_code": "ACCT2110-60173-7460",
     "course_code": "ACCT2110",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "3/09/2024 4:00 pmDuring Class Time",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 3/09/2024 4:00 pm</p>\n<p>\n</p><p>During Class Time</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The In-Semester examination in ACCT2110 will cover topics 1, 2, 3, and 4.The format of the midsemester examination will be advised with the relevant information placed on ACCT2110 Blackboard site. You will have 90 minutes to complete the exam.You will be assessed on the adequacy of your answer in relation to your demonstrated knowledge of accounting procedures and statutory requirements.Short answer, practical and problem solving questions containing accounting items are marked according to the accurate recognition, numerical measurement and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors, however marking penalties will apply in journal-related practical questions for the inclusion of additional journals.If students experience interruptions to their examinations, they are required to collect suitable evidence, e.g. screenshots, photos, or emails from AskUs and advise the course coordinator.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester examination in ACCT2110 will cover topics 1, 2, 3, and 4.</p>\n<p>The format of the midsemester examination will be advised with the relevant information placed on ACCT2110 Blackboard site. You will have 90 minutes to complete the exam.</p>\n<ul>\n<li>You will be assessed on the adequacy of your answer in relation to your demonstrated knowledge of accounting procedures and statutory requirements.</li>\n<li>Short answer, practical and problem solving questions containing accounting items are marked according to the accurate recognition, numerical measurement and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors, however marking penalties will apply in journal-related practical questions for the inclusion of additional journals.</li>\n</ul>\n<p>If students experience interruptions to their examinations, they are required to collect suitable evidence, e.g. screenshots, photos, or emails from AskUs and advise the course coordinator.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,16 +65,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "2/10/2024 4:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L03, L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "You are required toindividually preparea report on a financial reporting case.This report will assess your research skills, writing skills, and general accounting knowledge and the ability to critically evaluate case scenarios.Full details of the case will be provided in class and via our ACCT2110 Blackboard site.Your work will be reviewed for plagiarism and independent content.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The case analysis report is to be submitted online using the assessment link provided on the ACCT2110 Blackboard site.Submission details will be provided prior to the due date.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>You are required to <strong>individually prepare</strong> a report on a financial reporting case.</li>\n<li>This report will assess your research skills, writing skills, and general accounting knowledge and the ability to critically evaluate case scenarios.</li>\n<li>Full details of the case will be provided in class and via our ACCT2110 Blackboard site.</li>\n<li>Your work will be reviewed for plagiarism and independent content.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The case analysis report is to be submitted online using the assessment link provided on the ACCT2110 Blackboard site.<br/>\nSubmission details will be provided prior to the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -85,25 +89,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The focus of the final examination in ACCT2110 will be on topics not examined in the midsemester exam or case assignment. However, understanding of other topics during the semester may be required.This exam is aclosed book, on-campus, paper-based invigilated examas required by UQ and Professional Accounting organisations.The final examination will be held at the end of the semester exam period to be advised by UQ central examinations.Once advised of the date and time, you will have two hours to complete the exam.Multiple choice questions marks accrue by selecting the correct multiple choice answer. Short answer, practical and problem solving questions containing accounting items are marked according to the accurate recognition, numerical measurement and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors, however marking penalties will apply in journal-related practical questions for the inclusion of additional journals. Short answer theory and short essay questions are marked according to the correct application of accounting framework, accounting standards and generally accepted accounting principles to source information.Further details of the final assessment and mark allocation will be provided in the course review lecture held at the end of the semester. Details will also be posted on our ACCT2110 Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The focus of the final examination in ACCT2110 will be on topics not examined in the midsemester exam or case assignment. However, understanding of other topics during the semester may be required. </p>\n<ul>\n<li>This exam is a <strong>closed book, on-campus, paper-based invigilated exam </strong>as required by UQ and Professional Accounting organisations.</li>\n<li>The final examination will be held at the end of the semester exam period to be advised by UQ central examinations.</li>\n<li>Once advised of the date and time, you will have two hours to complete the exam.</li>\n<li>Multiple choice questions marks accrue by selecting the correct multiple choice answer. Short answer, practical and problem solving questions containing accounting items are marked according to the accurate recognition, numerical measurement and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors, however marking penalties will apply in journal-related practical questions for the inclusion of additional journals. Short answer theory and short essay questions are marked according to the correct application of accounting framework, accounting standards and generally accepted accounting principles to source information.</li>\n<li>Further details of the final assessment and mark allocation will be provided in the course review lecture held at the end of the semester. Details will also be posted on our ACCT2110 Blackboard site.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "PPE Revaluation and ImpairmentLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "PPE Revaluation and Impairment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>PPE Revaluation and Impairment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>PPE Revaluation and Impairment</strong>",
+            "topic_description": "PPE Revaluation and Impairment",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -114,9 +118,22 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1: PPE Revaluation and ImpairmentLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 1: PPE Revaluation and Impairment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: PPE Revaluation and Impairment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: PPE Revaluation and Impairment</strong>",
+            "topic_description": "Tutorial 1: PPE Revaluation and Impairment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting for Leases (Lessee)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Accounting for Leases (Lessee)</strong>",
+            "topic_description": "Accounting for Leases (Lessee)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -127,9 +144,22 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 2: Accounting for Leases (Lessee)Learning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 2: Accounting for Leases (Lessee)",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Accounting for Leases (Lessee)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Accounting for Leases (Lessee)</strong>",
+            "topic_description": "Tutorial 2: Accounting for Leases (Lessee)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting for Leases (Lessor)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Accounting for Leases (Lessor)</strong>",
+            "topic_description": "Accounting for Leases (Lessor)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -140,9 +170,22 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 3: Accounting for Leases (Lessor)Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 3: Accounting for Leases (Lessor)",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Accounting for Leases (Lessor)</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Accounting for Leases (Lessor)</strong>",
+            "topic_description": "Tutorial 3: Accounting for Leases (Lessor) Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Provisions and Contingencies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Provisions and Contingencies</strong>",
+            "topic_description": "Provisions and Contingencies",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -153,9 +196,22 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 4: Provisions and ContingenciesLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 4: Provisions and Contingencies",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Provisions and Contingencies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Provisions and Contingencies</strong>",
+            "topic_description": "Tutorial 4: Provisions and Contingencies",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revenue Recognition</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Revenue Recognition</strong>",
+            "topic_description": "Revenue Recognition",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -166,11 +222,23 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 5: Revenue RecognitionLearning outcomes:L02, L03, L04, L05",
-            "topic_title": "Tutorial 5: Revenue Recognition",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Revenue Recognition</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Revenue Recognition</strong>",
+            "topic_description": "Tutorial 5: Revenue Recognition",
             "learning_outcomes": [
                 "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Development</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Development</strong>",
+            "topic_description": "Case Study Development",
+            "learning_outcomes": [
                 "L03",
                 "L04",
                 "L05"
@@ -179,9 +247,20 @@
         {
             "learning_period": "Week 7",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "Self-directed LearningThere will be no tutorials this week to assist with revision for the In-Semester exam.Learning outcomes:L02, L03",
-            "topic_title": "Self-directed Learning",
-            "topic_description": "There will be no tutorials this week to assist with revision for the In-Semester exam.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-directed Learning</strong><br/><p>There will be no tutorials this week to assist with revision for the In-Semester exam.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Self-directed Learning</strong>",
+            "topic_description": "Self-directed Learning There will be no tutorials this week to assist with revision for the In-Semester exam.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam During Class Time</strong><br/><p>We will have an online in-class In-Semester exam. There will be no lecture and no tutorials this week to assist with revision for the In-Semester Exam.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam During Class Time</strong>",
+            "topic_description": "In-Semester Exam During Class Time We will have an online in-class In-Semester exam. There will be no lecture and no tutorials this week to assist with revision for the In-Semester Exam.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -190,9 +269,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "Self-directed learningThere will be no tutorials this week because there are no tutorial questions for Case Study Development. This is to allow the opportunity for self-directed preparation for the case assignment.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Self-directed learning",
-            "topic_description": "There will be no tutorials this week because there are no tutorial questions for Case Study Development. This is to allow the opportunity for self-directed preparation for the case assignment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-directed learning</strong><br/><p>There will be no tutorials this week because there are no tutorial questions for Case Study Development. This is to allow the opportunity for self-directed preparation for the case assignment.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Self-directed learning</strong>",
+            "topic_description": "Self-directed learning There will be no tutorials this week because there are no tutorial questions for Case Study Development. This is to allow the opportunity for self-directed preparation for the case assignment.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -201,11 +280,37 @@
             ]
         },
         {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Extractive Industries</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Extractive Industries</strong>",
+            "topic_description": "Extractive Industries",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 6: Extractive IndustriesLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 6: Extractive Industries",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Extractive Industries</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Extractive Industries</strong>",
+            "topic_description": "Tutorial 6: Extractive Industries",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intangible Assets</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Intangible Assets</strong>",
+            "topic_description": "Intangible Assets",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -216,9 +321,9 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -229,9 +334,22 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 7: Intangible AssetsLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 7: Intangible Assets",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Intangible Assets</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Intangible Assets</strong>",
+            "topic_description": "Tutorial 7: Intangible Assets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Employee Benefits</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Employee Benefits</strong>",
+            "topic_description": "Employee Benefits",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -242,9 +360,22 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 8: Employee BenefitsKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 8: Employee Benefits",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Employee Benefits</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Employee Benefits</strong>",
+            "topic_description": "Tutorial 8: Employee Benefits King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Instruments</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Financial Instruments</strong>",
+            "topic_description": "Financial Instruments",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -255,9 +386,22 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 9: Financial InstrumentsLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 9: Financial Instruments",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Financial Instruments</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Financial Instruments</strong>",
+            "topic_description": "Tutorial 9: Financial Instruments",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign Currency Transactions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Foreign Currency Transactions</strong>",
+            "topic_description": "Foreign Currency Transactions",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -268,13 +412,27 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 10: Foreign Currency TransactionsLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 10: Foreign Currency Transactions",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Foreign Currency Transactions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Foreign Currency Transactions</strong>",
+            "topic_description": "Tutorial 10: Foreign Currency Transactions",
             "learning_outcomes": [
                 "L01",
                 "L02",
                 "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/><p>Course Review and Final Exam Information</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review</strong>",
+            "topic_description": "Course Review Course Review and Final Exam Information",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
                 "L05"
             ]
         }
