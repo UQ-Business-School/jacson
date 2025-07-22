@@ -1,4 +1,8 @@
 {
+    "course_title": "Data Analytics for Business",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7233-60203-7460",
     "full_course_code": "BISM7233-60203-7460",
     "course_code": "BISM7233",
@@ -37,55 +41,55 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "2/09/2024During Lecture Time",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 2/09/2024</p>\n<p>\n</p><p>During Lecture Time</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The exam may consist of multiple choice questions, fill in the blanks, short descriptive questions, scenario-based problem solving questions related to mini-cases provided in this examination.The exam may include:Databases and Dimensional modellingETLVisualisationFor MCQ: each question will be marked objectively and can have more than one correct answer.Fill in the Blanks, Short Descriptive Questions, Scenario-Based Problem Solving Questions Related to Mini-Cases, etc.Further details about the In-Semester Exam will be discussed in class and posted to our course BB site if required.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam may consist of multiple choice questions, fill in the blanks, short descriptive questions, scenario-based problem solving questions related to mini-cases provided in this examination.</p>\n<p>The exam may include:</p>\n<ul>\n<li>Databases and Dimensional modelling </li>\n<li>ETL </li>\n<li>Visualisation</li>\n</ul>\n<p>For MCQ: each question will be marked objectively and can have more than one correct answer. </p>\n<p>Fill in the Blanks, Short Descriptive Questions, Scenario-Based Problem Solving Questions Related to Mini-Cases, etc.</p>\n<p>Further details about the In-Semester Exam will be discussed in class and posted to our course BB site if required.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Data Visualisation Using Microsoft PowerBI",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "4/10/2024 4:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L04",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Computer Code, Essay/ Critique, Practical/ Demonstration, Project",
-            "task_description": "Using Microsoft PowerBI Students will be expected to:work with a given data setexplore the given data setclean the data, rearrange it, transform it if requiredcreate multiple visualisations using Microsoft PowerBI to develop interesting insightsdocument their insights generated form the visualisations and report themcritically analyse those insights and recommend related actions or interventionsAI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Using Microsoft PowerBI Students will be expected to:</p>\n<ul>\n<li>work with a given data set</li>\n<li>explore the given data set</li>\n<li>clean the data, rearrange it, transform it if required</li>\n<li>create multiple visualisations using Microsoft PowerBI to develop interesting insights</li>\n<li>document their insights generated form the visualisations and report them</li>\n<li>critically analyse those insights and recommend related actions or interventions</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Business Analytics Case Study",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "25/10/2024 4:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "You will complete an essay that requires you to undertake research in order to prepare a report (minimum 1500 words and strictly no more than 2000 words).You will be presented with a business analytics case with diverse stakeholder requests. You are tasked with developing recommendations for business analytics cases where you will apply your knowledge and skill to develop an analytical model for business decision-making.A detailed rubric for the project will appear on Turnitin accessible via Blackboard.Full details of the requirements for the written report will be provided with the release of the Project assessment document.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Report to be submitted electronically via TurnItIn",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will complete an essay that requires you to undertake research in order to prepare a report (<strong>minimum 1500 words and strictly no more than 2000 words</strong>).</p>\n<ul>\n<li>You will be presented with a business analytics case with diverse stakeholder requests. You are tasked with developing recommendations for business analytics cases where you will apply your knowledge and skill to develop an analytical model for business decision-making.</li>\n<li>A detailed rubric for the project will appear on Turnitin accessible via Blackboard.</li>\n<li>Full details of the requirements for the written report will be provided with the release of the Project assessment document.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Report to be submitted electronically via TurnItIn</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Course Overview and Business Analytics FrameworkThis lecture will introduce an overall Business Analytics Framework including its various components.Learning outcomes:L01, L05",
-            "topic_title": "Course Overview and Business Analytics Framework",
-            "topic_description": "This lecture will introduce an overall Business Analytics Framework including its various components.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and Business Analytics Framework</strong><br/><p>This lecture will introduce an overall Business Analytics Framework including its various components.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Course Overview and Business Analytics Framework</strong>",
+            "topic_description": "Course Overview and Business Analytics Framework This lecture will introduce an overall Business Analytics Framework including its various components.",
             "learning_outcomes": [
                 "L01",
                 "L05"
@@ -94,19 +98,41 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Practical",
-            "topic": "Practical 1: Introduction to Business AnalyticsLearning outcomes:L01",
-            "topic_title": "Practical 1: Introduction to Business Analytics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 1: Introduction to Business Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Practical 1: Introduction to Business Analytics</strong>",
+            "topic_description": "Practical 1: Introduction to Business Analytics",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Relational Databases and Intro to Data Warehousing</strong><br/><p>This lecture is on data modelling. It particularly reviews ER models and shows their limitations for decision making purposes.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Relational Databases and Intro to Data Warehousing</strong>",
+            "topic_description": "Relational Databases and Intro to Data Warehousing This lecture is on data modelling. It particularly reviews ER models and shows their limitations for decision making purposes.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Practical",
-            "topic": "Practical 2: ER Modelling and SQLLearning outcomes:L01, L02",
-            "topic_title": "Practical 2: ER Modelling and SQL",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 2: ER Modelling and SQL</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Practical 2: ER Modelling and SQL</strong>",
+            "topic_description": "Practical 2: ER Modelling and SQL",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dimensional Modelling</strong><br/><p>This lecture introduces dimensional modelling as a fundamental decision making technique for business managers.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Dimensional Modelling</strong>",
+            "topic_description": "Dimensional Modelling This lecture introduces dimensional modelling as a fundamental decision making technique for business managers.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -115,20 +141,41 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Practical",
-            "topic": "Practical 3: Dimensional ModellingRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02",
-            "topic_title": "Practical 3: Dimensional Modelling",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 3: Dimensional Modelling</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Practical 3: Dimensional Modelling</strong>",
+            "topic_description": "Practical 3: Dimensional Modelling Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced Data Warehousing Topics</strong><br/><p>The content of this week deals with deeper dimensional modelling concepts such as slowly changing dimensions, types of facts and fact tables and mini-dimensions.</p>\n<p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Advanced Data Warehousing Topics</strong>",
+            "topic_description": "Advanced Data Warehousing Topics The content of this week deals with deeper dimensional modelling concepts such as slowly changing dimensions, types of facts and fact tables and mini-dimensions. Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 5",
             "activity_type": "Practical",
-            "topic": "Practical 4: Dashboards with Microsoft Power BILearning outcomes:L01, L04",
-            "topic_title": "Practical 4: Dashboards with Microsoft Power BI",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 4: Dashboards with Microsoft Power BI</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Practical 4: Dashboards with Microsoft Power BI</strong>",
+            "topic_description": "Practical 4: Dashboards with Microsoft Power BI",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Dashboards and Information Delivery</strong><br/><p>This lecture introduces digital dashboard operators and shows how information can be catered for various roles. It provides heuristics for effective visual design.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Performance Dashboards and Information Delivery</strong>",
+            "topic_description": "Performance Dashboards and Information Delivery This lecture introduces digital dashboard operators and shows how information can be catered for various roles. It provides heuristics for effective visual design.",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -137,60 +184,104 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Practical",
-            "topic": "Practical 5: Building Report with Power BILearning outcomes:L03, L04",
-            "topic_title": "Practical 5: Building Report with Power BI",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 5: Building Report with Power BI</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical 5: Building Report with Power BI</strong>",
+            "topic_description": "Practical 5: Building Report with Power BI",
             "learning_outcomes": [
                 "L03",
                 "L04"
             ]
         },
         {
-            "learning_period": "Week 7",
-            "activity_type": "Information technology session",
-            "topic": "Doubt Clearing Related to PracticalNo tutorial this week due to Exam",
-            "topic_title": "Doubt Clearing Related to Practical",
-            "topic_description": "No tutorial this week due to Exam",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 8",
-            "activity_type": "Practical",
-            "topic": "Practical 6: ETL with SQL Server Integration ServicesLearning outcomes:L01, L02",
-            "topic_title": "Practical 6: ETL with SQL Server Integration Services",
-            "topic_description": "",
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Integration and Metadata</strong><br/><p>This lecture discusses the Extract, Transform, Load Process and how data transformations can be designed. It also highlights the importance of metadata.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Data Integration and Metadata</strong>",
+            "topic_description": "Data Integration and Metadata This lecture discusses the Extract, Transform, Load Process and how data transformations can be designed. It also highlights the importance of metadata.",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 7",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Doubt Clearing Related to Practical</strong><br/><p>No tutorial this week due to Exam</p></p></div></td>",
+            "topic_title": "<strong>Doubt Clearing Related to Practical</strong>",
+            "topic_description": "Doubt Clearing Related to Practical No tutorial this week due to Exam",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>During Lecture (Online)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam During Lecture (Online)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 6: ETL with SQL Server Integration Services</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Practical 6: ETL with SQL Server Integration Services</strong>",
+            "topic_description": "Practical 6: ETL with SQL Server Integration Services",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Mining Process and Predictive Analytics</strong><br/><p>This lecture shows how data can be prepared and analysed with predictive algorithms to generate insights about future events or outcomes.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Data Mining Process and Predictive Analytics</strong>",
+            "topic_description": "Data Mining Process and Predictive Analytics This lecture shows how data can be prepared and analysed with predictive algorithms to generate insights about future events or outcomes.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
-            "topic": "Data Analytics- Classification and ClusteringThis lecture focuses on classification and clustering algorithms such as logistic regression, decision trees and K-means clustering.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Data Analytics- Classification and Clustering",
-            "topic_description": "This lecture focuses on classification and clustering algorithms such as logistic regression, decision trees and K-means clustering.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analytics- Classification and Clustering</strong><br/><p>This lecture focuses on classification and clustering algorithms such as logistic regression, decision trees and K-means clustering.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Data Analytics- Classification and Clustering</strong>",
+            "topic_description": "Data Analytics- Classification and Clustering This lecture focuses on classification and clustering algorithms such as logistic regression, decision trees and K-means clustering.",
             "learning_outcomes": [
                 "L01",
                 "L02",
                 "L03",
                 "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 7: Slowly Changing Dimensions(SCDs)SSIS</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Practical 7: Slowly Changing Dimensions(SCDs)SSIS</strong>",
+            "topic_description": "Practical 7: Slowly Changing Dimensions(SCDs)SSIS",
+            "learning_outcomes": [
+                "L03"
             ]
         },
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Practical",
-            "topic": "Practical 8: Predicting with Linear RegressionLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Practical 8: Predicting with Linear Regression",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 8: Predicting with Linear Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical 8: Predicting with Linear Regression</strong>",
+            "topic_description": "Practical 8: Predicting with Linear Regression",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -199,11 +290,23 @@
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big Data Management</strong><br/><p>This lecture is about big data including its definitions, its transformational impact and how it could be modelled and managed. NoSQL will be introduced as a frequently used approach to manage big data.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Big Data Management</strong>",
+            "topic_description": "Big Data Management This lecture is about big data including its definitions, its transformational impact and how it could be modelled and managed. NoSQL will be introduced as a frequently used approach to manage big data.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Practical",
-            "topic": "Practical 9: Classification with RapidMinerKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03",
-            "topic_title": "Practical 9: Classification with RapidMiner",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 9: Classification with RapidMiner</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Practical 9: Classification with RapidMiner</strong>",
+            "topic_description": "Practical 9: Classification with RapidMiner King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -211,23 +314,60 @@
             ]
         },
         {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced Analytics  Lecture</strong><br/><p>Can be a Guest Lecture.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Advanced Analytics  Lecture</strong>",
+            "topic_description": "Advanced Analytics  Lecture Can be a Guest Lecture.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 12",
             "activity_type": "Practical",
-            "topic": "Practical 10: Clustering with RapidMinerLearning outcomes:L01, L03",
-            "topic_title": "Practical 10: Clustering with RapidMiner",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 10: Clustering with RapidMiner</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Practical 10: Clustering with RapidMiner</strong>",
+            "topic_description": "Practical 10: Clustering with RapidMiner",
             "learning_outcomes": [
                 "L01",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Privacy, Ethics and Acceptable Data Use</strong><br/><p>This lecture discusses unintended and potentially unethical consequences of big data analytics. Scenarios of unethical data use are showed and debated in the class.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Privacy, Ethics and Acceptable Data Use</strong>",
+            "topic_description": "Privacy, Ethics and Acceptable Data Use This lecture discusses unintended and potentially unethical consequences of big data analytics. Scenarios of unethical data use are showed and debated in the class.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 13",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "No Tutorial",
-            "topic_title": "No Tutorial",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial",
             "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Revision and Q&amp;A Session</strong><br/><p>The lecture content from Week 1-13 will be reviewed and a Q&amp;A session will be held to answer questions on various course-related topics including assessments.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Revision and Q&amp;A Session</strong>",
+            "topic_description": "Course Revision and Q&A Session The lecture content from Week 1-13 will be reviewed and a Q&A session will be held to answer questions on various course-related topics including assessments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
         }
     ]
 }
