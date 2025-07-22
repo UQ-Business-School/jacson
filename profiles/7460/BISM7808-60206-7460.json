@@ -1,4 +1,8 @@
 {
+    "course_title": "Information Technology for Business Value",
+    "study_period": "Sem 2 2024",
+    "location": "Brisbane City",
+    "attendance": "Weekend",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7808-60206-7460",
     "full_course_code": "BISM7808-60206-7460",
     "course_code": "BISM7808",
@@ -41,55 +45,55 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "20/10/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 20/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Presentation, Project",
-            "task_description": "Students are allocated by the lecturer to teams of 3-5 students, and are to present a strategic direction forward for the organisation to the class that addresses challenges and issues apparent in the case. Cases will be identified in class and through Learn.UQ. This assessment has three aspects.First, the team should present and summarise the key challenges and issues identified as arising from the case.Second, the team should present a strategic direction forward for the organisation that makes recommendations regarding IT governance mechanisms and strategy choices to the executive audience indicated by the case. These recommendations are informed by the organisational context of the case as discussed in seminars.Third, after the 15 minute presentation, the team leads a question-and-answer discussion with other students (acting in the role of the Board) for up to 10 minutes.The last scheduled day of classwork is devoted to the Board Presentation.The first and second aspects (summary and strategic direction forward) should be presented in an approximately 15 minute presentation. The structured presentation requires the audience to act and participate as stakeholders of the organisation discussed in the case (that is, class members act as board members or stakeholders as described in the case scenario). All presentation materials are to be submitted by the end of the teaching day.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via TurnItIn on Learn.UQ in the Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are allocated by the lecturer to teams of 3-5 students, and are to present a strategic direction forward for the organisation to the class that addresses challenges and issues apparent in the case. Cases will be identified in class and through Learn.UQ. This assessment has three aspects.</p>\n<p>First, the team should present and summarise the key challenges and issues identified as arising from the case.</p>\n<p>Second, the team should present a strategic direction forward for the organisation that makes recommendations regarding IT governance mechanisms and strategy choices to the executive audience indicated by the case. These recommendations are informed by the organisational context of the case as discussed in seminars.</p>\n<p>Third, after the 15 minute presentation, the team leads a question-and-answer discussion with other students (acting in the role of the Board) for up to 10 minutes.</p>\n<p>The last scheduled day of classwork is devoted to the Board Presentation.</p>\n<p>The first and second aspects (summary and strategic direction forward) should be presented in an approximately 15 minute presentation. The structured presentation requires the audience to act and participate as stakeholders of the organisation discussed in the case (that is, class members act as board members or stakeholders as described in the case scenario). All presentation materials are to be submitted by the end of the teaching day.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Learn.UQ in the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Executive Briefing:  Information Technology Impact",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "4/11/2024 3:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 4/11/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "You are to write an Executive Briefing that assesses the impact and implications for the organisation of one of three innovative information technologies for an organisation of interest to the student. In some circumstances, alternative information technologies may be assessed with permission from the lecturer. The technology to be considered is one of blockchain, artificial intelligence, or business process automation. You are to prepare a short briefing paper appropriate for presentation to the organisation's Board of Directors that make recommendations appropriate to the scenario that make the organisation more 'future ready' than it currently is.The enterprise may be any existing real-world enterprise. In practice, this might be the student's current employer, or perhaps a targeted future employer.The Executive Briefing provides an introduction followed by a short background of the organisation. As a briefing, no Executive Summary is required. The briefing then describes the information technology for a non-IT literate audience. The report then analyses the prospective impact of the technology's adoption upon the relevant industry and its implications for industry participants (including the organisation). These implications are analysed to develop recommendations that improve the future-readiness of the organisation for adoption of the information technology within the industry. The briefing presents specific and focussed recommendations (between 4 and 6 recommendations) that are actionable by the Board.These recommendations are to include priority (top 3) changes to existing IT governance and management practices.The analysis should draw on analytical techniques discussed in seminars.Note that even if the organisation were not to adopt the information technology, its adoption by the wider industry would require the organisation to make changes that make the organisation more 'future ready'.The challenges, analysis, and recommendations are to be supported by current research.Key to success in this assessment is the description of the technological elements, analysis of the value proposition and impacts/risks (or potential impacts/risks) upon the entity, and the development of recommendations from the analysis. In your analysis, consider a specific example of how the information technology is or might be used (going into some detail into a specific example). You should aim to describe and analyse actual events that have either happened or are unfolding now through current real-world examples. Finally, it is important that the Executive Briefing be clear and concise. Key points may be bolded, and/or the briefing may be presented in dot point format (but it must be structured and coherent if this approach is adopted).AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via TurnItIn on Learn.UQ in the Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are to write an Executive Briefing that assesses the impact and implications for the organisation of one of three innovative information technologies for an organisation of interest to the student. In some circumstances, alternative information technologies may be assessed with permission from the lecturer. The technology to be considered is one of blockchain, artificial intelligence, or business process automation. You are to prepare a short briefing paper appropriate for presentation to the organisation's Board of Directors that make recommendations appropriate to the scenario that make the organisation more 'future ready' than it currently is.  </p>\n<p>The enterprise may be any existing real-world enterprise. In practice, this might be the student's current employer, or perhaps a targeted future employer.  </p>\n<p>The Executive Briefing provides an introduction followed by a short background of the organisation. As a briefing, no Executive Summary is required. The briefing then describes the information technology for a non-IT literate audience. The report then analyses the prospective impact of the technology's adoption upon the relevant industry and its implications for industry participants (including the organisation). These implications are analysed to develop recommendations that improve the future-readiness of the organisation for adoption of the information technology within the industry. The briefing presents specific and focussed recommendations (between 4 and 6 recommendations) that are actionable by the Board.</p>\n<p>These recommendations are to include priority (top 3) changes to existing IT governance and management practices.</p>\n<p>The analysis should draw on analytical techniques discussed in seminars. </p>\n<p>Note that even if the organisation were not to adopt the information technology, its adoption by the wider industry would require the organisation to make changes that make the organisation more 'future ready'.</p>\n<p>The challenges, analysis, and recommendations are to be supported by current research.  </p>\n<p>Key to success in this assessment is the description of the technological elements, analysis of the value proposition and impacts/risks (or potential impacts/risks) upon the entity, and the development of recommendations from the analysis. In your analysis, consider a specific example of how the information technology is or might be used (going into some detail into a specific example). You should aim to describe and analyse actual events that have either happened or are unfolding now through current real-world examples. Finally, it is important that the Executive Briefing be clear and concise. Key points may be bolded, and/or the briefing may be presented in dot point format (but it must be structured and coherent if this approach is adopted).</p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Learn.UQ in the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Data Visualisation Evaluation",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "11/11/2024 3:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 11/11/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L04",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "This assessment task is an individual report that evaluates the data visualisations used by two real-world business reports and compares and contrast those reports in their use of data visualisations. The criteria discussed for good data visualisations in seminars provide a basis for the evaluation. Outstanding reports will extend the criteria, or apply other criteria as needed for the context. The evaluation is to conclude which of the reports is more 'trustworthy', and why.Three real-world business reports are provided. From these three reports, two are selected for evaluation. The report is structured, with an introduction that sets out the scope, purpose, and structure of the report. The criteria and approach used for the evaluation are then set out. Each report is to then be evaluated according to the approach set out. Finally, the two reports are to then be compared for 'trustworthiness', with an overall and final conclusion provided at the end of the report as to which - if any - is the more 'trustworthy'. The conclusion is to be supported by argumentation and research.Key to success with this assessment task is succinct and structured analysis and clear application of relevant criteria to the evaluation and comparison of the data visualisations used in the reports. These criteria are informed by the framework(s) discussed in class and, in outstanding cases, extended by the student as relevant to the evaluation.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via TurnItIn on Learn.UQ in the Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is an individual report that evaluates the data visualisations used by two real-world business reports and compares and contrast those reports in their use of data visualisations. The criteria discussed for good data visualisations in seminars provide a basis for the evaluation. Outstanding reports will extend the criteria, or apply other criteria as needed for the context. The evaluation is to conclude which of the reports is more 'trustworthy', and why.  </p>\n<p>Three real-world business reports are provided. From these three reports, two are selected for evaluation. The report is structured, with an introduction that sets out the scope, purpose, and structure of the report. The criteria and approach used for the evaluation are then set out. Each report is to then be evaluated according to the approach set out. Finally, the two reports are to then be compared for 'trustworthiness', with an overall and final conclusion provided at the end of the report as to which - if any - is the more 'trustworthy'. The conclusion is to be supported by argumentation and research.  </p>\n<p>Key to success with this assessment task is succinct and structured analysis and clear application of relevant criteria to the evaluation and comparison of the data visualisations used in the reports. These criteria are informed by the framework(s) discussed in class and, in outstanding cases, extended by the student as relevant to the evaluation.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Learn.UQ in the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Saturday 21/09 - 9:00AM to 11AM: Introduction to the Business Value of ITCourse IntroductionIT's role in Sustainable DevelopmentAssessment OverviewDoes IT matter (*)Class Activity:Anybody got the time?Strategic value of ITIT Governance and IT Management.Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Saturday 21/09 - 9:00AM to 11AM: Introduction to the Business Value of IT",
-            "topic_description": "Course Introduction\nIT's role in Sustainable Development\nAssessment Overview\nDoes IT matter (*)\nClass Activity: Anybody got the time?\nStrategic value of IT\nIT Governance and IT Management.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 21/09 - 9:00AM to 11AM: Introduction to the Business Value of IT</strong><br><ul>\n<li>Course Introduction</li>\n<li>IT's role in Sustainable Development</li>\n<li>Assessment Overview</li>\n<li>Does IT matter (*)</li>\n<li><strong>Class Activity:</strong> Anybody got the time?</li>\n<li>Strategic value of IT</li>\n<li>IT Governance and IT Management.</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 21/09 - 9:00AM to 11AM: Introduction to the Business Value of IT</strong>",
+            "topic_description": "Saturday 21/09 - 9:00AM to 11AM: Introduction to the Business Value of IT Course Introduction IT's role in Sustainable Development Assessment Overview Does IT matter (*) Class Activity: Anybody got the time? Strategic value of IT IT Governance and IT Management.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -99,24 +103,182 @@
             ]
         },
         {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 21/09 - 11:30AM to 1:30PM: IT Governance for the Enterprise</strong><br><ul>\n<li>Foundation for Execution</li>\n<li>Operating Model</li>\n<li><strong>Class Activity:</strong> Which Operating Model is that?</li>\n<li>Enterprise Architecture</li>\n<li>Myths of Enterprise Architecture</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Saturday 21/09 - 11:30AM to 1:30PM: IT Governance for the Enterprise</strong>",
+            "topic_description": "Saturday 21/09 - 11:30AM to 1:30PM: IT Governance for the Enterprise Foundation for Execution Operating Model Class Activity: Which Operating Model is that? Enterprise Architecture Myths of Enterprise Architecture",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 21/09 - 2:30PM to 3:45PM: Business/IT Alignment</strong><br><ul>\n<li>IT Engagement Model</li>\n<li>Structural, Relational, and Process Mechanisms of IT Governance (*)</li>\n<li>Business/IT Alignment (*)</li>\n<li>It takes all sorts</li>\n<li><strong>Case Activity:</strong> TD Bank Case Group Activity</li>\n<li>Debriefing: Governing IT</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Saturday 21/09 - 2:30PM to 3:45PM: Business/IT Alignment</strong>",
+            "topic_description": "Saturday 21/09 - 2:30PM to 3:45PM: Business/IT Alignment IT Engagement Model Structural, Relational, and Process Mechanisms of IT Governance (*) Business/IT Alignment (*) It takes all sorts Case Activity: TD Bank Case Group Activity Debriefing: Governing IT",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 21/09 - 4:00PM to 5:00PM: Case Study</strong><br><p>Class time allocated to assessment activities.</p></br></p></div></td>",
+            "topic_title": "<strong>Saturday 21/09 - 4:00PM to 5:00PM: Case Study</strong>",
+            "topic_description": "Saturday 21/09 - 4:00PM to 5:00PM: Case Study Class time allocated to assessment activities.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sunday 22/09 - 9:00AM to 11AM: Planning and Building IT Value</strong><br><ul>\n<li>Planning and Building IT Management Practices (*)</li>\n<li>The Value of IT</li>\n<li>Strategic Planning (*)</li>\n<li><strong>Class Activity:</strong> Does IT Strategy Exist?</li>\n<li>Business Management of IT</li>\n<li>Project Management.</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Sunday 22/09 - 9:00AM to 11AM: Planning and Building IT Value</strong>",
+            "topic_description": "Sunday 22/09 - 9:00AM to 11AM: Planning and Building IT Value Planning and Building IT Management Practices (*) The Value of IT Strategic Planning (*) Class Activity: Does IT Strategy Exist? Business Management of IT Project Management.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sunday 22/09 - 11:30AM to 1:30PM: Technology Impacts</strong><br><ul>\n<li>Digital Economy</li>\n<li>Digital Disruption</li>\n<li>Blockchain (*)</li>\n<li>Big Data (*)</li>\n<li>Business Process Automation (*)</li>\n<li>AI &amp; Machine Learning (*)</li>\n<li>Generative AI - a Closer Look</li>\n<li>Video Conferencing &amp; Remote Working (*)</li>\n<li><strong>Class Activity:</strong> Technology Impacts</li>\n<li>Important Technologies</li>\n<li>Other technologies.</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Sunday 22/09 - 11:30AM to 1:30PM: Technology Impacts</strong>",
+            "topic_description": "Sunday 22/09 - 11:30AM to 1:30PM: Technology Impacts Digital Economy Digital Disruption Blockchain (*) Big Data (*) Business Process Automation (*) AI & Machine Learning (*) Generative AI - a Closer Look Video Conferencing & Remote Working (*) Class Activity: Technology Impacts Important Technologies Other technologies.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sunday 22/09 - 2:30PM to 3:45PM: Case Study</strong><br><p>Class time allocated to assessment activities.</p></br></p></div></td>",
+            "topic_title": "<strong>Sunday 22/09 - 2:30PM to 3:45PM: Case Study</strong>",
+            "topic_description": "Sunday 22/09 - 2:30PM to 3:45PM: Case Study Class time allocated to assessment activities.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sunday 22/09 - 4:00PM to 5:00PM: Case Study</strong><br><p>Group planning time</p></br></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Sunday 22/09 - 4:00PM to 5:00PM: Case Study</strong>",
+            "topic_description": "Sunday 22/09 - 4:00PM to 5:00PM: Case Study Group planning time",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Saturday 5/10 - 9:00AM to 11:00AM: Innovative IT and the BusinessInnovation - Definition and Context (*)Assessing the impact of IT-based innovations (*)What's your Digital Business Model?Class Activity: What's THEIR digital business model?Future Ready?DebriefingPlanning and Building IT.Learning outcomes:L01, L05",
-            "topic_title": "Saturday 5/10 - 9:00AM to 11:00AM: Innovative IT and the Business",
-            "topic_description": "Innovation - Definition and Context (*)\nAssessing the impact of IT-based innovations (*)\nWhat's your Digital Business Model?\nClass Activity: What's THEIR digital business model?\nFuture Ready?\nDebriefing\nPlanning and Building IT.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 5/10 - 9:00AM to 11:00AM: Innovative IT and the Business</strong><br/><ul>\n<li>Innovation - Definition and Context (*)</li>\n<li>Assessing the impact of IT-based innovations (*)</li>\n<li>What's your Digital Business Model?</li>\n<li><strong>Class Activity</strong>: What's THEIR digital business model?</li>\n<li>Future Ready?</li>\n<li>Debriefing</li>\n<li>Planning and Building IT.</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 5/10 - 9:00AM to 11:00AM: Innovative IT and the Business</strong>",
+            "topic_description": "Saturday 5/10 - 9:00AM to 11:00AM: Innovative IT and the Business Innovation - Definition and Context (*) Assessing the impact of IT-based innovations (*) What's your Digital Business Model? Class Activity : What's THEIR digital business model? Future Ready? Debriefing Planning and Building IT.",
             "learning_outcomes": [
                 "L01",
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 3",
+            "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Saturday 19/10 - 9:00AM to 11:00AM: Leading and Managing for IT ChangeA Recent History of IT Trends (*)Current IT TrendsClarifying the role of the CIO (*)Leading and Managing Cyber ChangeClass Activity:IT Management Simulation - Cyber attack!How CIOs come undoneLearning outcomes:L03, L05",
-            "topic_title": "Saturday 19/10 - 9:00AM to 11:00AM: Leading and Managing for IT Change",
-            "topic_description": "A Recent History of IT Trends (*)\nCurrent IT Trends\nClarifying the role of the CIO (*)\nLeading and Managing Cyber Change\nClass Activity: IT Management Simulation - Cyber attack!\nHow CIOs come undone",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 5/10 - 11:30AM to 1:30PM: IT Service Delivery, Cyber Security, and Monitoring</strong><br/><ul>\n<li>IT Service Delivery &amp; Monitoring Management Practices (*)</li>\n<li>Operations, Service Requests, Problems (*)</li>\n<li>IT Consumerisation; Business Continuity</li>\n<li><strong>Class Activity:</strong> What went right? What went wrong?</li>\n<li>SMEs and Cyber Security</li>\n<li>What is a Cyber Threat?</li>\n<li>Anatomy of a Cyber-Attack</li>\n<li>Cyber Kill Chain and Cyber defence</li>\n</ul></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 5/10 - 11:30AM to 1:30PM: IT Service Delivery, Cyber Security, and Monitoring</strong>",
+            "topic_description": "Saturday 5/10 - 11:30AM to 1:30PM: IT Service Delivery, Cyber Security, and Monitoring IT Service Delivery & Monitoring Management Practices (*) Operations, Service Requests, Problems (*) IT Consumerisation; Business Continuity Class Activity: What went right? What went wrong? SMEs and Cyber Security What is a Cyber Threat? Anatomy of a Cyber-Attack Cyber Kill Chain and Cyber defence",
             "learning_outcomes": [
                 "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 5/10 - 2:30PM to 3:45PM: Case Study</strong><br/><p>Class time allocated to assessment activities.</p></p></div></td>",
+            "topic_title": "<strong>Saturday 5/10 - 2:30PM to 3:45PM: Case Study</strong>",
+            "topic_description": "Saturday 5/10 - 2:30PM to 3:45PM: Case Study Class time allocated to assessment activities.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 5/10 - 4:00PM to 5:00PM: IT Leadership (Presentation)</strong><br/><p>Guest speaker</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Saturday 5/10 - 4:00PM to 5:00PM: IT Leadership (Presentation)</strong>",
+            "topic_description": "Saturday 5/10 - 4:00PM to 5:00PM: IT Leadership (Presentation) Guest speaker",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 19/10 - 9:00AM to 11:00AM: Leading and Managing for IT Change</strong><br/><ul>\n<li>A Recent History of IT Trends (*)</li>\n<li>Current IT Trends</li>\n<li>Clarifying the role of the CIO (*)</li>\n<li>Leading and Managing Cyber Change</li>\n<li><strong>Class Activity:</strong> IT Management Simulation - Cyber attack!</li>\n<li>How CIOs come undone</li>\n</ul></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 19/10 - 9:00AM to 11:00AM: Leading and Managing for IT Change</strong>",
+            "topic_description": "Saturday 19/10 - 9:00AM to 11:00AM: Leading and Managing for IT Change A Recent History of IT Trends (*) Current IT Trends Clarifying the role of the CIO (*) Leading and Managing Cyber Change Class Activity: IT Management Simulation - Cyber attack! How CIOs come undone",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 19/10 - 11:30AM to 1:30PM: Data Governance, Quality, and Privacy</strong><br/><ul>\n<li>Information Governance</li>\n<li>Data Quality</li>\n<li>Data Governance</li>\n<li>Legislative Compliance</li>\n<li>Decision-Making Mechanism</li>\n<li>Data Governance Approaches</li>\n<li><strong>Class Activity:</strong> Navigating data governance challenges in healthcare</li>\n</ul></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 19/10 - 11:30AM to 1:30PM: Data Governance, Quality, and Privacy</strong>",
+            "topic_description": "Saturday 19/10 - 11:30AM to 1:30PM: Data Governance, Quality, and Privacy Information Governance Data Quality Data Governance Legislative Compliance Decision-Making Mechanism Data Governance Approaches Class Activity: Navigating data governance challenges in healthcare",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 19/10 - 2:30PM to 3:45PM: Data Analytics and Visualisation</strong><br/><ul>\n<li>Data driven decision-making (*)</li>\n<li>Powerful Visual Stories (*)</li>\n<li>Principles of Data Visualisation (*)</li>\n<li>Data Visualisation Techniques</li>\n<li>Data-Driven Storytelling</li>\n<li>Best Practice Data Visualisation</li>\n<li>Debriefing: Running and Monitoring IT</li>\n</ul></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 19/10 - 2:30PM to 3:45PM: Data Analytics and Visualisation</strong>",
+            "topic_description": "Saturday 19/10 - 2:30PM to 3:45PM: Data Analytics and Visualisation Data driven decision-making (*) Powerful Visual Stories (*) Principles of Data Visualisation (*) Data Visualisation Techniques Data-Driven Storytelling Best Practice Data Visualisation Debriefing: Running and Monitoring IT",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday 19/10 - 4:00PM to 5:00PM: Data Visualisation and Business (Presentation)</strong><br/><p>Guest speaker</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Saturday 19/10 - 4:00PM to 5:00PM: Data Visualisation and Business (Presentation)</strong>",
+            "topic_description": "Saturday 19/10 - 4:00PM to 5:00PM: Data Visualisation and Business (Presentation) Guest speaker",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sunday 20/10 - 9:00AM to 3:45PM: Board Presentation Day</strong><br/><p>Group Presentations (For Assessment)</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Sunday 20/10 - 9:00AM to 3:45PM: Board Presentation Day</strong>",
+            "topic_description": "Sunday 20/10 - 9:00AM to 3:45PM: Board Presentation Day Group Presentations (For Assessment)",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sunday 20/10 - 4:00PM to 5:00PM: Course Review:  Practical Changes</strong><br/><ul>\n<li><strong>Class Activity:</strong> A short discussion of practical changes arising from the course (More of, Less of, Stop Doing, Start Doing)</li>\n<li>Final Review of Course and Next Steps</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Sunday 20/10 - 4:00PM to 5:00PM: Course Review:  Practical Changes</strong>",
+            "topic_description": "Sunday 20/10 - 4:00PM to 5:00PM: Course Review:  Practical Changes Class Activity: A short discussion of practical changes arising from the course (More of, Less of, Stop Doing, Start Doing) Final Review of Course and Next Steps",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
                 "L05"
             ]
         }
