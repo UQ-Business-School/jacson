@@ -1,4 +1,8 @@
 {
+    "course_title": "Creative Advertising Development",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/ADVT7509-64214-7460",
     "full_course_code": "ADVT7509-64214-7460",
     "course_code": "ADVT7509",
@@ -32,55 +36,55 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Creative Strategy Analysis",
             "special_indicators": [],
-            "weighting": "25%",
-            "due_date": "30/08/2024 5:00 pm",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 30/08/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Essay/ Critique",
-            "task_description": "Creativity is the soul of advertising. Without the creative execution – no one will pay attention to the message and clients will not successfully sell their products or services. A creative strategy defines the important strategic choices required to develop and effectively deliver a targeted message to the desired consumer segment. The creative strategy defines what you will say about your product or service and addresses how you want consumers to think about your brand. Developing an effective advertising campaign involves design of a strong message strategy, with impactful advertising appeals and execution style.In this assessment, you are required to select an existing advertising campaign*for a product/service and critically dissect the elements of the campaign, including the message strategy and execution style. Students will be provided with a structure for their creative strategy analysis.*Note: content in the advertisement must all be in English and the product/brand needs to be familiar to the teaching staff. In addition, the campaign needs to have been in the market from present time to past 2-3 years only.Your critical analysis of the advertising campaign will be supported by insights gained from secondary research and connections to creative strategy theory. You are also required to address whether you felt the campaign was/was not effective (and why) in achieving advertising campaign objectives and present recommendations as to how the creative strategy and execution could have been improved for greater effectiveness.This is an individual assessment and as such, students should not work with/collaborate with other students in the cohort when working on this written report. A step-by-step assessment brief including full details of the individual report will be located in the assessment folder on the unit’s Blackboard site. Please refer to this guide for full details of this individual report. The skills acquired from this creative strategy analysis will be built on in the following two assessment items.The Creative Strategy Analysis report word count is 1,500 words (10% over/under allowable). Reference list and appendices are not included in the word count. All submissions must be written in English.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "This assignment is to be submitted online through the Turnitin submission link on Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Creativity is the soul of advertising. Without the creative execution – no one will pay attention to the message and clients will not successfully sell their products or services. A creative strategy defines the important strategic choices required to develop and effectively deliver a targeted message to the desired consumer segment. The creative strategy defines what you will say about your product or service and addresses how you want consumers to think about your brand. Developing an effective advertising campaign involves design of a strong message strategy, with impactful advertising appeals and execution style.</p>\n<p>In this assessment, you are required to select an existing advertising campaign<strong>*</strong> for a product/service and critically dissect the elements of the campaign, including the message strategy and execution style. Students will be provided with a structure for their creative strategy analysis.</p>\n<p><strong>*</strong> Note: content in the advertisement must all be in English and the product/brand needs to be familiar to the teaching staff. In addition, the campaign needs to have been in the market from present time to past 2-3 years only.</p>\n<p>Your critical analysis of the advertising campaign will be supported by insights gained from secondary research and connections to creative strategy theory. You are also required to address whether you felt the campaign was/was not effective (and why) in achieving advertising campaign objectives and present recommendations as to how the creative strategy and execution could have been improved for greater effectiveness.</p>\n<p>This is an individual assessment and as such, students should not work with/collaborate with other students in the cohort when working on this written report. A step-by-step assessment brief including full details of the individual report will be located in the assessment folder on the unit’s Blackboard site. Please refer to this guide for full details of this individual report. The skills acquired from this creative strategy analysis will be built on in the following two assessment items.</p>\n<p>The Creative Strategy Analysis report word count is 1,500 words (10% over/under allowable). Reference list and appendices are not included in the word count. All submissions must be written in English.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment is to be submitted online through the Turnitin submission link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Creative Strategy Portfolio",
             "special_indicators": [],
-            "weighting": "35%",
-            "due_date": "4/10/2024 5:00 pm",
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 4/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Essay/ Critique, Portfolio",
-            "task_description": "In this assessment, you will be required to build on your acquired strategy analysis skills and develop original and creative advertising strategies (message strategy and executions) in response to specific creative brief/s.Starting with analysis of the creative brief/s students will be required to undertake some research into the desired target audience, in order to utilise ideation skills to arrive at a Big Idea behind the campaign and from this, design the message strategy and the execution of the ad campaign (or advertisement).Students will be required to the creative brief/s, to design their own portfolio of creative work. A creative rationale will be crafted to explain and justify the creative elements of the campaign/s.This is an individual assessment and as such, students should not work with/collaborate with other students in the cohort when working on this Portfolio.A step-by-step assessment brief including full details of the individual report will be located in the assessment folder on the course Blackboard site. Please refer to this guide for full details of this individual Portfolio assessment.The Creative Strategy Analysis report word count is equivalent to 2,500 words (10% over/under allowable). Reference list and appendices are not included in the word count. All submissions must be written in English.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "This assignment is to be submitted online through the Turnitin submission link on Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, you will be required to build on your acquired strategy analysis skills and develop original and creative advertising strategies (message strategy and executions) in response to specific creative brief/s.</p>\n<p>Starting with analysis of the creative brief/s students will be required to undertake some research into the desired target audience, in order to utilise ideation skills to arrive at a Big Idea behind the campaign and from this, design the message strategy and the execution of the ad campaign (or advertisement).</p>\n<p>Students will be required to the creative brief/s, to design their own portfolio of creative work. A creative rationale will be crafted to explain and justify the creative elements of the campaign/s.</p>\n<p>This is an individual assessment and as such, students should not work with/collaborate with other students in the cohort when working on this Portfolio.</p>\n<p>A step-by-step assessment brief including full details of the individual report will be located in the assessment folder on the course Blackboard site. Please refer to this guide for full details of this individual Portfolio assessment.  </p>\n<p>The Creative Strategy Analysis report word count is equivalent to 2,500 words (10% over/under allowable). Reference list and appendices are not included in the word count. All submissions must be written in English.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment is to be submitted online through the Turnitin submission link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Creative Strategy Campaign Development",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "25/10/2024 5:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia",
             "category": "Portfolio, Product/ Design, Project",
-            "task_description": "In this final assessment, you will be tested on your ability to bring all the learned concepts in creative strategy theory together.You will be required to create and sell-in (via a pre-recorded pitch video) your own, original, creative strategy in response to a creative brief. Polished, produced (print/multimedia/social media etc) executions of advertisements will be developed as part of this assessment. In addition to responding to a creative brief for a campaign, students will craft (and sell-in persuasively) their creative rationale to explain and justify the creative elements of the campaign’s creative strategy.This is an individual assessment and as such, students should not work with/collaborate with other students in the cohort when working on this creative strategy campaign.A step-by-step assessment brief including full details of the individual report will be located in the assessment folder on the unit’s Blackboard site. Please refer to this guide for full details of this individual campaign development assessment.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "This assignment is to be submitted online through the Blackboard Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this final assessment, you will be tested on your ability to bring all the learned concepts in creative strategy theory together.</p>\n<p>You will be required to create and sell-in (via a pre-recorded pitch video) your own, original, creative strategy in response to a creative brief. Polished, produced (print/multimedia/social media etc) executions of advertisements will be developed as part of this assessment. In addition to responding to a creative brief for a campaign, students will craft (and sell-in persuasively) their creative rationale to explain and justify the creative elements of the campaign’s creative strategy.</p>\n<p>This is an individual assessment and as such, students should not work with/collaborate with other students in the cohort when working on this creative strategy campaign.</p>\n<p>A step-by-step assessment brief including full details of the individual report will be located in the assessment folder on the unit’s Blackboard site. Please refer to this guide for full details of this individual campaign development assessment. </p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment is to be submitted online through the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Introduction to the CourseIntro & creative strategy overviewLearning outcomes:L01, L03",
-            "topic_title": "Introduction to the Course",
-            "topic_description": "Intro & creative strategy overview",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the Course</strong><br><p>Intro &amp; creative strategy overview</p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Introduction to the Course</strong>",
+            "topic_description": "Introduction to the Course Intro & creative strategy overview",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -89,9 +93,20 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Lecture",
-            "topic": "The Role of the Brief in Creative DevelopmentFrom the client brief, to the creative brief, to the creative rationale.Learning outcomes:L01, L03",
-            "topic_title": "The Role of the Brief in Creative Development",
-            "topic_description": "From the client brief, to the creative brief, to the creative rationale.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Role of the Brief in Creative Development</strong><br/><p>From the client brief, to the creative brief, to the creative rationale.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>The Role of the Brief in Creative Development</strong>",
+            "topic_description": "The Role of the Brief in Creative Development From the client brief, to the creative brief, to the creative rationale.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Week 2 Tutorial</strong>",
+            "topic_description": "Week 2 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -100,9 +115,21 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Lecture",
-            "topic": "Creative StrategyThe role of emotions, appeals, and creative process theoryLearning outcomes:L01, L02, L03",
-            "topic_title": "Creative Strategy",
-            "topic_description": "The role of emotions, appeals, and creative process theory",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creative Strategy</strong><br/><p>The role of emotions, appeals, and creative process theory</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Creative Strategy</strong>",
+            "topic_description": "Creative Strategy The role of emotions, appeals, and creative process theory",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 3 Tutorial</strong>",
+            "topic_description": "Week 3 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -112,9 +139,22 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "Idea ManagementFrom an insight to the Big IdeaRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Idea Management",
-            "topic_description": "From an insight to the Big Idea\nRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Idea Management</strong><br/><p>From an insight to the Big Idea</p>\n<p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Idea Management</strong>",
+            "topic_description": "Idea Management From an insight to the Big Idea Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Tutorial</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 4 Tutorial</strong>",
+            "topic_description": "Week 4 Tutorial Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -125,9 +165,22 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "ActivationHow to connect the right creative message with the right target audienceLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Activation",
-            "topic_description": "How to connect the right creative message with the right target audience",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Activation</strong><br/><p>How to connect the right creative message with the right target audience</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Activation</strong>",
+            "topic_description": "Activation How to connect the right creative message with the right target audience",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 5 Tutorial</strong>",
+            "topic_description": "Week 5 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -138,9 +191,22 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "The Creative Process 1The role of the CopywriterAssessment #1 due, end of week 6 (30th August, 2pm Brisbane time)Learning outcomes:L01, L03, L04, L05",
-            "topic_title": "The Creative Process 1",
-            "topic_description": "The role of the Copywriter\nAssessment #1 due, end of week 6 (30th August, 2pm Brisbane time)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Creative Process 1</strong><br/><p>The role of the Copywriter</p>\n<p>Assessment #1 due, end of week 6 (30th August, 2pm Brisbane time)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>The Creative Process 1</strong>",
+            "topic_description": "The Creative Process 1 The role of the Copywriter Assessment #1 due, end of week 6 (30th August, 2pm Brisbane time)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 6 Tutorial</strong>",
+            "topic_description": "Week 6 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -151,9 +217,22 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "The Creative Process 2The role of the Art DirectorLearning outcomes:L01, L03, L04, L05",
-            "topic_title": "The Creative Process 2",
-            "topic_description": "The role of the Art Director",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Creative Process 2</strong><br/><p>The role of the Art Director</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>The Creative Process 2</strong>",
+            "topic_description": "The Creative Process 2 The role of the Art Director",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 7 Tutorial</strong>",
+            "topic_description": "Week 7 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -164,9 +243,21 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Lecture",
-            "topic": "Stages of Design and ProductionDelving in the creative development processLearning outcomes:L01, L04, L05",
-            "topic_title": "Stages of Design and Production",
-            "topic_description": "Delving in the creative development process",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stages of Design and Production</strong><br/><p>Delving in the creative development process</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Stages of Design and Production</strong>",
+            "topic_description": "Stages of Design and Production Delving in the creative development process",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 8 Tutorial</strong>",
+            "topic_description": "Week 8 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L04",
@@ -176,9 +267,21 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
-            "topic": "Media through the Creative Process 1Designing campaigns for print and outdoorLearning outcomes:L01, L03, L04",
-            "topic_title": "Media through the Creative Process 1",
-            "topic_description": "Designing campaigns for print and outdoor",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media through the Creative Process 1</strong><br/><p>Designing campaigns for print and outdoor</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Media through the Creative Process 1</strong>",
+            "topic_description": "Media through the Creative Process 1 Designing campaigns for print and outdoor",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 9 Tutorial</strong>",
+            "topic_description": "Week 9 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -188,17 +291,29 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "IN-SEMESTER BREAK WEEKSelf-directed learning",
-            "topic_title": "IN-SEMESTER BREAK WEEK",
-            "topic_description": "Self-directed learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IN-SEMESTER BREAK WEEK</strong><br/><p>Self-directed learning</p></p></div></td>",
+            "topic_title": "<strong>IN-SEMESTER BREAK WEEK</strong>",
+            "topic_description": "IN-SEMESTER BREAK WEEK Self-directed learning",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "Media through the Creative Process 2Designing campaigns for broadcast, radio, digital, & experimentalAssessment #2 due, end of week 10 (4th October, 2pm Brisbane time)Learning outcomes:L01, L03, L04",
-            "topic_title": "Media through the Creative Process 2",
-            "topic_description": "Designing campaigns for broadcast, radio, digital, & experimental\nAssessment #2 due, end of week 10 (4th October, 2pm Brisbane time)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media through the Creative Process 2</strong><br/><p>Designing campaigns for broadcast, radio, digital, &amp; experimental</p>\n<p>Assessment #2 due, end of week 10 (4th October, 2pm Brisbane time)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Media through the Creative Process 2</strong>",
+            "topic_description": "Media through the Creative Process 2 Designing campaigns for broadcast, radio, digital, & experimental Assessment #2 due, end of week 10 (4th October, 2pm Brisbane time)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 10 Tutorial</strong>",
+            "topic_description": "Week 10 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -208,9 +323,21 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Lecture",
-            "topic": "Technical Production SkillsAudio and Video productionKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L03, L04, L05",
-            "topic_title": "Technical Production Skills",
-            "topic_description": "Audio and Video production\nKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Technical Production Skills</strong><br/><p>Audio and Video production</p>\n<p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Technical Production Skills</strong>",
+            "topic_description": "Technical Production Skills Audio and Video production King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11 Tutorial</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 11 Tutorial</strong>",
+            "topic_description": "Week 11 Tutorial King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -220,9 +347,20 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Lecture",
-            "topic": "The Future of CreativityAI powered creativeLearning outcomes:L03, L05",
-            "topic_title": "The Future of Creativity",
-            "topic_description": "AI powered creative",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Future of Creativity</strong><br/><p>AI powered creative</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>The Future of Creativity</strong>",
+            "topic_description": "The Future of Creativity AI powered creative",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Week 12 Tutorial</strong>",
+            "topic_description": "Week 12 Tutorial",
             "learning_outcomes": [
                 "L03",
                 "L05"
@@ -231,9 +369,23 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Lecture",
-            "topic": "Course revision and reviewAssessment #3 due, end of week 13 (25th October, 2pm Brisbane time)Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Course revision and review",
-            "topic_description": "Assessment #3 due, end of week 13 (25th October, 2pm Brisbane time)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course revision and review</strong><br/><p>Assessment #3 due, end of week 13 (25th October, 2pm Brisbane time)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course revision and review</strong>",
+            "topic_description": "Course revision and review Assessment #3 due, end of week 13 (25th October, 2pm Brisbane time)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 13 Tutorial</strong>",
+            "topic_description": "Week 13 Tutorial",
             "learning_outcomes": [
                 "L01",
                 "L02",
