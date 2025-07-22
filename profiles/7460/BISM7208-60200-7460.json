@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Information Systems Capstone",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7208-60200-7460",
     "full_course_code": "BISM7208-60200-7460",
     "course_code": "BISM7208",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "10%",
-            "due_date": "Week 3 - Week 7Your presentation will be held during class of your assigned week.",
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> Week 3 - Week 7</p>\n<p>\n</p><p>Your presentation will be held during class of your assigned week.</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "ASSESSMENT 1 – EMERGING TECHNOLOGYType:Introduction and analysis of anemergingtechnologyTask Description:The purpose of the team presentation is to build your understanding of how and why technological innovations emerge, and to explore the possible impactemergingtechnologies (i.e., a radically novel technology whose potential impact is still largely unrealised) can have on businesses and society more broadly. Each team will be assigned to an industry context. Your team’s task is toselect and describe anemergingtechnology,to discuss how it might influence your assigned industry in years to come, andto consider what makes (or could make) this technology successful compared to other innovations.Starting in week 3, part of each seminar session will be devoted to the presentations of emerging transformative technologies by the respective teams.REQUIREMENTS AND FORMAT:Each team is asked to prepare a presentation of 10 minutes, followed by 5 minutes of facilitated in-class discussions/Q&A.All members of the team are asked to participate.The exact timing of your team's presentation depends on the industry assigned in week 1. NOTE: this project cannot be completed individually - it must be completed in a team. The team members must be officially signed on to the same group. You are expected todecide your team membership in week 1 latest,and to submit your list of 5 team members at that time online. Further instructions will be given in the first lecture. Please note: as a courtesy to others, if you decide to withdraw from the course, please inform your team. Teams should start at 5 members so that one member withdrawing will minimise the impact.Further details will be provided in class.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>ASSESSMENT 1 – EMERGING TECHNOLOGY</strong></p>\n<p><strong>Type:</strong> Introduction and analysis of an <em>emerging </em>technology</p>\n<p><strong>Task Description: </strong>The purpose of the team presentation is to build your understanding of how and why technological innovations emerge, and to explore the possible impact <em>emerging</em> technologies (i.e., a radically novel technology whose potential impact is still largely unrealised) can have on businesses and society more broadly. Each team will be assigned to an industry context. Your team’s task is to</p>\n<ol>\n<li>select and describe an <em>emerging</em> technology,</li>\n<li>to discuss how it might influence your assigned industry in years to come, and</li>\n<li>to consider what makes (or could make) this technology successful compared to other innovations. </li>\n</ol>\n<p>Starting in week 3, part of each seminar session will be devoted to the presentations of emerging transformative technologies by the respective teams. </p>\n<p><strong>REQUIREMENTS AND FORMAT:</strong></p>\n<p>Each team is asked to prepare a presentation of 10 minutes, followed by 5 minutes of facilitated in-class discussions/Q&amp;A.<strong> All members of the team are asked to participate.</strong></p>\n<p>The exact timing of your team's presentation depends on the industry assigned in week 1. NOTE: this project cannot be completed individually - it must be completed in a team. The team members must be officially signed on to the same group. You are expected to <strong>decide your team membership in week 1 latest, </strong>and to submit your list of 5 team members at that time online. Further instructions will be given in the first lecture. Please note: as a courtesy to others, if you decide to withdraw from the course, please inform your team. Teams should start at 5 members so that one member withdrawing will minimise the impact.</p>\n<p>Further details will be provided in class.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,16 +61,16 @@
                     "special_indicator_text": "Identity Verified"
                 }
             ],
-            "weighting": "45%",
-            "due_date": "30/08/2024 3:00 pm",
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 30/08/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Paper/ Report/ Annotation, Presentation",
-            "task_description": "ASSESSMENT 2 – ESTABLISHED TECHNOLOGYType:Theoretical analysis of an establishedtechnology that had a transformative impact on the industry context assigned to youAs part of the team-formation process in the course, all students and their teams will be assigned to an industry context (i.e., healthcare, retail, etc). This context will also form the foundation for the individual assignment.Task Description:The purpose of theindividualpresentation is for you to analyse a technology that can be consideredestablishedin your industry, i.e., it has become industry standard or best practice and has been in use for a long time (e.g., 10 years or longer). You will apply one of the theories discussed in weeks 2–4 to explore the impact of your chosen technology on businesses in your industry context. Your task is toa) select and describe anestablished technologythat has had a transformative impact on your industry in the past (‘what’),b) discusshowit influenced the industry, andc) critically analyse, using a (1) theory of your choice, what made (or did not make) this technology successful compared to other technical innovations at the time (‘why’).Once again, this analysis will require you to draw upon and apply one (1) of the theories previously discussed in class (during weeks 2–4), and to justify why the chosen theory is appropriate.REQUIREMENTS AND FORMAT:Each student is asked to prepare a presentation of 10 minutes (including slides), and to record the presentation. In your presentation, you and your slides must be visible throughout.Make sure you share your slides on the screen. We recommend using PowerPoint, but you may also choose to use another presentation software, as long as visual content is provided. A presentation without visible slides will receive zero marks. You are NOT required to submit your slide deck.The target length is 10 min but a variance of 5% (30 seconds) is acceptable: it is okay if your video is within 9:30 and 10:30 minutes. If you go under 9:30 min or over 10:30 min, you will be penalised by deducting 10% of the total possible marks for every minute or part thereof exceeding 10:30 min or falling short of 9:30 min. The presentation time will start once you start speaking.You and your slides must be visible during the entirety of the presentation (make sure your camera is on). If you and/or your slides are not visible, you will receive zero marks.Please note that the quality of the recording will not be assessed, hence no editing of the video file is required.We recommend you to set up a Zoom call with yourselves and use the file of the recording.Instructions on how to submit will be provided on Blackboard under Assessment folder.Plan your submission well ahead in case of any technical issues. Late submissions will be penalised by deducting 10% of the total possible marks for every calendar day or part thereof. Your submission needs to be in the system by the deadline time (i.e., you will be penalised for late submission even if you started the submission process before the deadline but managed to save it only after – do not leave submitting to the last minute!).AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>ASSESSMENT 2 – ESTABLISHED TECHNOLOGY</strong></p>\n<p><strong>Type:</strong> Theoretical analysis of an e<em>stablished</em> technology that had a transformative impact on the industry context assigned to you</p>\n<p>As part of the team-formation process in the course, all students and their teams will be assigned to an industry context (i.e., healthcare, retail, etc). This context will also form the foundation for the individual assignment.</p>\n<p><strong>Task Description: </strong>The purpose of the <strong>individual</strong> presentation is for you to analyse a technology that can be considered <strong>established</strong> in your industry, i.e., it has become industry standard or best practice and has been in use for a long time (e.g., 10 years or longer). You will apply one of the theories discussed in weeks 2–4 to explore the impact of your chosen technology on businesses in your industry context. Your task is to</p>\n<p>a) select and describe an <em>established technology</em> that has had a transformative impact on your industry in the past (‘<em>what’</em>),</p>\n<p>b) discuss <em>how</em> it influenced the industry, and</p>\n<p>c) critically analyse, using a (1) theory of your choice, what made (or did not make) this technology successful compared to other technical innovations at the time (‘why’).</p>\n<p>Once again, this analysis will require you to draw upon and apply one (1) of the theories previously discussed in class (during weeks 2–4), and to justify why the chosen theory is appropriate. </p>\n<p><strong>REQUIREMENTS AND FORMAT:</strong></p>\n<p>Each student is asked to prepare a presentation of 10 minutes (including slides), and to record the presentation. In your presentation, you and your slides must be visible throughout.</p>\n<ul>\n<li>Make sure you share your slides on the screen. We recommend using PowerPoint, but you may also choose to use another presentation software, as long as visual content is provided. A presentation without visible slides will receive zero marks. You are NOT required to submit your slide deck.</li>\n<li>The target length is 10 min but a variance of 5% (30 seconds) is acceptable: it is okay if your video is within 9:30 and 10:30 minutes. If you go under 9:30 min or over 10:30 min, you will be penalised by deducting 10% of the total possible marks for every minute or part thereof exceeding 10:30 min or falling short of 9:30 min. The presentation time will start once you start speaking.</li>\n<li>You and your slides must be visible during the entirety of the presentation (make sure your camera is on). If you and/or your slides are not visible, you will receive zero marks.</li>\n<li>Please note that the quality of the recording will not be assessed, hence no editing of the video file is required.</li>\n<li>We recommend you to set up a Zoom call with yourselves and use the file of the recording.</li>\n<li>Instructions on how to submit will be provided on Blackboard under Assessment folder.</li>\n<li>Plan your submission well ahead in case of any technical issues. Late submissions will be penalised by deducting 10% of the total possible marks for every calendar day or part thereof. Your submission needs to be in the system by the deadline time (i.e., you will be penalised for late submission even if you started the submission process before the deadline but managed to save it only after – do not leave submitting to the last minute!).</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -81,25 +85,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "45%",
-            "due_date": "Presentation During Class Week 12,Written Report Week 13, Fri 3:00 pm",
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>Presentation During Class Week 12,</p>\n<p>Written Report Week 13, Fri 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Oral, Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Presentation, Project",
-            "task_description": "This assessment will be undertaken in teams. NOTE: this project cannot be completed individually - it must be completed in a team. The team members must be officially signed on to the same group.You are expected todecide your team membership in week 1 latest,and to submit your list of 4 or 5 team members (most teams to be 5) at that time online. Further instructions will be given in the first lecture. Please note: as a courtesy to others, if you decide to withdraw from the course, please inform your team. Teams should start at 5 members so that one member withdrawing will minimise the impact.Overview:The second assessment for this course is a group assignment in two parts, both centred around the development of a business model for a transformative digital technology as part of our digital transformation hackathon. The digital transformation hackathon itself will be guided by a theme and overall challenge, to be announced in class in week 8.Assignment 3 consists of two parts:- A 10-minute 'hackathon pitch' presentation, delivered in week 12 (worth 20%)- A 1000-word report demonstrating a synthesis of the 'pitch' presented (25%)Part 1: Hackathon PitchType:Team presentationDue Date:Week 12 in classThe purpose of this assignment is to build your ability to create and deliver a convincing narrative summarising the business model and value proposition for a digital technology to a general audience.Your presentation must demonstrate an in-depth understanding of who the intended customer is, how the value proposition addresses a need, and outline a well-developed solution, including a complete business model. The presentation also needs to cover an explanation of the process with which the team developed the business model, including the results of the data collected and analysed. All teams will present their final ‘pitches’ in week 12.Each team is asked to preparea presentation of 10 minutes, followed by 5 minutes of facilitated in-class discussions/Q&A. All members of the team are asked to participate.Please Note:The presentation will be recorded for marking purposes per UQ Policy.Part 2: Business Model ReportType:An in-depth report outlining the results of the ‘Digital Transformation Hackathon’Due Date:Week 13, Friday at 5:00 pm (AEST)The purpose of this assignment is to build your ability to create and deliver a narrative summarising the business model and value proposition for a new or emerging transformative technology to a managerial audience. You may think of the report as a document a start-up might submit to an investor seeking funding. The report must demonstrate an in-depth understanding of who the intended customer is, how the value proposition addresses a need, and outline a well-developed solution, including a complete business model canvas with all nine components. The report also needs to cover an explanation of the process with which the team developed the business model, including an overview and results of the data collected and analysed. Teams are also asked to include an analysis of potential competitors/competing technologies. You may draw on and use the theoretical lenses included in the course.Format:- Calibri or similar font, 12-point, 1.5 line-spacing, 1-inch margins all around (A4 paper). Minimum1000 words(with 5% upwards flexibility, total world limit 1050 words (not including references or appendices).- Report should be submitted online. One team one report. Information on how to submit the report will be provided in class.PEER EVALUATION:As this is a team project, peer evaluation is required in order to consider the contribution of individuals to all activities completed as this team.Your evaluation must be evidence-based. For example, the record of meetings and attendance is part of this evidence. These, coupled with the signed project plan, will contribute to the evidence.NOTE: any major issues must have been brought to the course coordinator’s attention well in advance of the submission of your peer evaluation, not a few days before or after the project is completed.Further details will be provided in class and on Blackboard.Generative AI Statement - For all parts of this assessment:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Your presentation will be held during class. The written report is due by the due date. Instructions on how to submit the report online will be provided in class and on Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment will be undertaken in teams. NOTE: this project cannot be completed individually - it must be completed in a team. The team members must be officially signed on to the same group.</p>\n<p>You are expected to <strong>decide your team membership in week 1 latest, </strong>and to submit your list of 4 or 5 team members (most teams to be 5) at that time online. Further instructions will be given in the first lecture. Please note: as a courtesy to others, if you decide to withdraw from the course, please inform your team. Teams should start at 5 members so that one member withdrawing will minimise the impact. </p>\n<p><strong>Overview:</strong></p>\n<p>The second assessment for this course is a group assignment in two parts, both centred around the development of a business model for a transformative digital technology as part of our digital transformation hackathon. The digital transformation hackathon itself will be guided by a theme and overall challenge, to be announced in class in week 8.</p>\n<p>Assignment 3 consists of two parts:</p>\n<p>- A 10-minute 'hackathon pitch' presentation, delivered in week 12 (worth 20%)</p>\n<p>- A 1000-word report demonstrating a synthesis of the 'pitch' presented (25%)</p>\n<p>Part 1: Hackathon Pitch</p>\n<p><strong>Type:</strong> Team presentation</p>\n<p><strong>Due Date:</strong> Week 12 in class</p>\n<p>The purpose of this assignment is to build your ability to create and deliver a convincing narrative summarising the business model and value proposition for a digital technology to a general audience. </p>\n<p>Your presentation must demonstrate an in-depth understanding of who the intended customer is, how the value proposition addresses a need, and outline a well-developed solution, including a complete business model. The presentation also needs to cover an explanation of the process with which the team developed the business model, including the results of the data collected and analysed. All teams will present their final ‘pitches’ in week 12. </p>\n<p>Each team is asked to prepare<strong> a presentation of 10 minutes, followed by 5 minutes of facilitated in-class discussions/Q&amp;A</strong>. All members of the team are asked to participate. <strong>Please Note: </strong>The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p>Part 2: Business Model Report</p>\n<p><strong>Type:</strong> An in-depth report outlining the results of the ‘Digital Transformation Hackathon’</p>\n<p><strong>Due Date:</strong> Week 13, Friday at 5:00 pm (AEST)</p>\n<p>The purpose of this assignment is to build your ability to create and deliver a narrative summarising the business model and value proposition for a new or emerging transformative technology to a managerial audience. You may think of the report as a document a start-up might submit to an investor seeking funding. The report must demonstrate an in-depth understanding of who the intended customer is, how the value proposition addresses a need, and outline a well-developed solution, including a complete business model canvas with all nine components. The report also needs to cover an explanation of the process with which the team developed the business model, including an overview and results of the data collected and analysed. Teams are also asked to include an analysis of potential competitors/competing technologies. You may draw on and use the theoretical lenses included in the course.</p>\n<p>Format:</p>\n<p>- Calibri or similar font, 12-point, 1.5 line-spacing, 1-inch margins all around (A4 paper). Minimum <strong>1000 words</strong> (with 5% upwards flexibility, total world limit 1050 words (not including references or appendices). </p>\n<p>- Report should be submitted online. One team one report. Information on how to submit the report will be provided in class.</p>\n<p><strong>PEER EVALUATION:</strong></p>\n<ul>\n<li>As this is a team project, peer evaluation is required in order to consider the contribution of individuals to all activities completed as this team.</li>\n<li>Your evaluation must be evidence-based. For example, the record of meetings and attendance is part of this evidence. These, coupled with the signed project plan, will contribute to the evidence.</li>\n<li>NOTE: any major issues must have been brought to the course coordinator’s attention well in advance of the submission of your peer evaluation, not a few days before or after the project is completed.</li>\n<li>Further details will be provided in class and on Blackboard.</li>\n</ul>\n<p><strong>Generative AI Statement - For all parts of this assessment:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your presentation will be held during class. The written report is due by the due date. Instructions on how to submit the report online will be provided in class and on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Introduction to Course and AssessmentOverview of course, contents and assessmentTeam formationDigital transformation and the second machine ageDelivered by A/Professor Christoph BreidbachLearning outcomes:L01, L02",
-            "topic_title": "Introduction to Course and Assessment",
-            "topic_description": "Overview of course, contents and assessment\nTeam formation\nDigital transformation and the second machine age\nDelivered by A/Professor Christoph Breidbach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Course and Assessment</strong><br/><ul>\n<li>Overview of course, contents and assessment</li>\n<li>Team formation</li>\n<li>Digital transformation and the second machine age</li>\n<li>Delivered by A/Professor Christoph Breidbach</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Course and Assessment</strong>",
+            "topic_description": "Introduction to Course and Assessment Overview of course, contents and assessment Team formation Digital transformation and the second machine age Delivered by A/Professor Christoph Breidbach",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -108,9 +112,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Theories of InnovationThe Nature of InnovationTechnology Life-cycleInnovation ExerciseDelivered by A/Professor Christoph BreidbachLearning outcomes:L01, L03, L05",
-            "topic_title": "Theories of Innovation",
-            "topic_description": "The Nature of Innovation\nTechnology Life-cycle\nInnovation Exercise\nDelivered by A/Professor Christoph Breidbach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Theories of Innovation</strong><br/><ul>\n<li>The Nature of Innovation</li>\n<li>Technology Life-cycle</li>\n<li>Innovation Exercise</li>\n<li>Delivered by A/Professor Christoph Breidbach</li>\n</ul>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Theories of Innovation</strong>",
+            "topic_description": "Theories of Innovation The Nature of Innovation Technology Life-cycle Innovation Exercise Delivered by A/Professor Christoph Breidbach",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -120,9 +124,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Theories of Technological CompetitionOrganisational-ambidexterity theoryDisruptive-Innovation theoryTeam presentations: HealthcareDelivered by Dr Maylis SaigotLearning outcomes:L01, L03, L05",
-            "topic_title": "Theories of Technological Competition",
-            "topic_description": "Organisational-ambidexterity theory\nDisruptive-Innovation theory\nTeam presentations: Healthcare\nDelivered by Dr Maylis Saigot",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Theories of Technological Competition</strong><br><ul>\n<li>Organisational-ambidexterity theory</li>\n<li>Disruptive-Innovation theory</li>\n<li>Team presentations: Healthcare</li>\n<li>Delivered by Dr Maylis Saigot</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Theories of Technological Competition</strong>",
+            "topic_description": "Theories of Technological Competition Organisational-ambidexterity theory Disruptive-Innovation theory Team presentations: Healthcare Delivered by Dr Maylis Saigot",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -132,9 +136,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Theories of AdoptionOrganisational Adoption of TechnologyIndividual Adoption of TechnologyTeam Presentations: Finance and Professional ServicesDelivered by Dr Maylis SaigotRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L05",
-            "topic_title": "Theories of Adoption",
-            "topic_description": "Organisational Adoption of Technology\nIndividual Adoption of Technology\nTeam Presentations: Finance and Professional Services\nDelivered by Dr Maylis Saigot\n\nRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Theories of Adoption</strong><br/><ul>\n<li>Organisational Adoption of Technology</li>\n<li>Individual Adoption of Technology</li>\n<li>Team Presentations: Finance and Professional Services</li>\n<li>Delivered by Dr Maylis Saigot</li>\n</ul>\n<p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Theories of Adoption</strong>",
+            "topic_description": "Theories of Adoption Organisational Adoption of Technology Individual Adoption of Technology Team Presentations: Finance and Professional Services Delivered by Dr Maylis Saigot Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -145,9 +149,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Digital Transformation and EthicsEthics of Data AnalyticsManaging Digital PrivacyTeam Presentations: Government and DefenceDelivered by Dr Maylis SaigotLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Digital Transformation and Ethics",
-            "topic_description": "Ethics of Data Analytics\nManaging Digital Privacy\nTeam Presentations: Government and Defence\nDelivered by Dr Maylis Saigot",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital Transformation and Ethics</strong><br/><ul>\n<li>Ethics of Data Analytics</li>\n<li>Managing Digital Privacy</li>\n<li>Team Presentations: Government and Defence</li>\n<li>Delivered by Dr Maylis Saigot</li>\n</ul>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Digital Transformation and Ethics</strong>",
+            "topic_description": "Digital Transformation and Ethics Ethics of Data Analytics Managing Digital Privacy Team Presentations: Government and Defence Delivered by Dr Maylis Saigot",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -158,9 +162,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "The Innovation EcosystemRole of Governments in InnovationRole of Customers in InnovationRole of Firms in InnovationTeam Presentations: RetailDelivered by Dr Maylis SaigotLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "The Innovation Ecosystem",
-            "topic_description": "Role of Governments in Innovation\nRole of Customers in Innovation\nRole of Firms in Innovation\nTeam Presentations: Retail\nDelivered by Dr Maylis Saigot",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Innovation Ecosystem</strong><br><ul>\n<li>Role of Governments in Innovation</li>\n<li>Role of Customers in Innovation</li>\n<li>Role of Firms in Innovation</li>\n<li>Team Presentations: Retail</li>\n<li>Delivered by Dr Maylis Saigot</li>\n</ul>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>The Innovation Ecosystem</strong>",
+            "topic_description": "The Innovation Ecosystem Role of Governments in Innovation Role of Customers in Innovation Role of Firms in Innovation Team Presentations: Retail Delivered by Dr Maylis Saigot",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -171,9 +175,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Business ModelsThe Lean Start-upUnderstanding Business ModelsTeam Presentations: ManufacturingDelivered by Dr Maylis SaigotLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Business Models",
-            "topic_description": "The Lean Start-up\nUnderstanding Business Models\nTeam Presentations: Manufacturing\nDelivered by Dr Maylis Saigot",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Models</strong><br><ul>\n<li>The Lean Start-up</li>\n<li>Understanding Business Models</li>\n<li>Team Presentations: Manufacturing</li>\n<li>Delivered by Dr Maylis Saigot</li>\n</ul>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Business Models</strong>",
+            "topic_description": "Business Models The Lean Start-up Understanding Business Models Team Presentations: Manufacturing Delivered by Dr Maylis Saigot",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -185,9 +189,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Digital Transformation Hackathon - Pt.1Hackathon 'kickoff' - we will announce this year's hackathon themeDesigning customer experiencesDesign thinking fundamentalsDelivered by A/Professor Christoph BreidbachLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Digital Transformation Hackathon - Pt.1",
-            "topic_description": "Hackathon 'kickoff' - we will announce this year's hackathon theme\nDesigning customer experiences\nDesign thinking fundamentals\nDelivered by A/Professor Christoph Breidbach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital Transformation Hackathon - Pt.1</strong><br><ul>\n<li>Hackathon 'kickoff' - we will announce this year's hackathon theme</li>\n<li>Designing customer experiences</li>\n<li>Design thinking fundamentals</li>\n<li>Delivered by A/Professor Christoph Breidbach</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Digital Transformation Hackathon - Pt.1</strong>",
+            "topic_description": "Digital Transformation Hackathon - Pt.1 Hackathon 'kickoff' - we will announce this year's hackathon theme Designing customer experiences Design thinking fundamentals Delivered by A/Professor Christoph Breidbach",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -199,9 +203,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Digital Transformation Hackathon Pt.2UQ Ventures session on 'design thinking'Mentoring and workshop - the teaching team will work with you to kickstart your hackathon projectDelivered by A/Professor Christoph BreidbachLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Digital Transformation Hackathon Pt.2",
-            "topic_description": "UQ Ventures session on 'design thinking'\nMentoring and workshop - the teaching team will work with you to kickstart your hackathon project\nDelivered by A/Professor Christoph Breidbach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital Transformation Hackathon Pt.2</strong><br/><ul>\n<li>UQ Ventures session on 'design thinking'</li>\n<li>Mentoring and workshop - the teaching team will work with you to kickstart your hackathon project</li>\n<li>Delivered by A/Professor Christoph Breidbach</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Digital Transformation Hackathon Pt.2</strong>",
+            "topic_description": "Digital Transformation Hackathon Pt.2 UQ Ventures session on 'design thinking' Mentoring and workshop - the teaching team will work with you to kickstart your hackathon project Delivered by A/Professor Christoph Breidbach",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -213,17 +217,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Digital Transformation Hackathon - Pt.3Mentoring session. Your team will work with  mentors to refine your solution and business model.Please Note: Because some mentors may be industry-based/overseas/interstate, they may connect to you via Zoom during class timeDelivered by A/Professor Christoph BreidbachLearning outcomes:L02, L04",
-            "topic_title": "Digital Transformation Hackathon - Pt.3",
-            "topic_description": "Mentoring session. Your team will work with  mentors to refine your solution and business model.\nPlease Note: Because some mentors may be industry-based/overseas/interstate, they may connect to you via Zoom during class time\nDelivered by A/Professor Christoph Breidbach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital Transformation Hackathon - Pt.3</strong><br/><ul>\n<li>Mentoring session. Your team will work with  mentors to refine your solution and business model.</li>\n<li>Please Note: Because some mentors may be industry-based/overseas/interstate, they may connect to you via Zoom during class time</li>\n<li>Delivered by A/Professor Christoph Breidbach</li>\n</ul></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Digital Transformation Hackathon - Pt.3</strong>",
+            "topic_description": "Digital Transformation Hackathon - Pt.3 Mentoring session. Your team will work with  mentors to refine your solution and business model. Please Note: Because some mentors may be industry-based/overseas/interstate, they may connect to you via Zoom during class time Delivered by A/Professor Christoph Breidbach",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -232,9 +236,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Digital Transformation Hackathon - Pt.4UQ Ventures session on 'how to pitch'Teams will work with teaching team to finalise their solutions and prepare for their presentationsLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Digital Transformation Hackathon - Pt.4",
-            "topic_description": "UQ Ventures session on 'how to pitch'\nTeams will work with teaching team to finalise their solutions and prepare for their presentations",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital Transformation Hackathon - Pt.4</strong><br/><ul>\n<li>UQ Ventures session on 'how to pitch'</li>\n<li>Teams will work with teaching team to finalise their solutions and prepare for their presentations</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Digital Transformation Hackathon - Pt.4</strong>",
+            "topic_description": "Digital Transformation Hackathon - Pt.4 UQ Ventures session on 'how to pitch' Teams will work with teaching team to finalise their solutions and prepare for their presentations",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -246,9 +250,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Digital Transformation Hackathon Pt. 5Final presentations by all teams.Depending on student numbers, we may create 'streams' across multiple lecture theatresLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Digital Transformation Hackathon Pt. 5",
-            "topic_description": "Final presentations by all teams.\nDepending on student numbers, we may create 'streams' across multiple lecture theatres",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital Transformation Hackathon Pt. 5</strong><br/><ul>\n<li>Final presentations by all teams.</li>\n<li>Depending on student numbers, we may create 'streams' across multiple lecture theatres</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Digital Transformation Hackathon Pt. 5</strong>",
+            "topic_description": "Digital Transformation Hackathon Pt. 5 Final presentations by all teams. Depending on student numbers, we may create 'streams' across multiple lecture theatres",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -260,9 +264,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Course Review, Q&A and FeedbackGrand Final: Finalists will present once more to determine the winner of the hackathonCourse wrap-upDelivered by A/Professor Christoph BreidbachLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Course Review, Q&A and Feedback",
-            "topic_description": "Grand Final: Finalists will present once more to determine the winner of the hackathon\nCourse wrap-up\nDelivered by A/Professor Christoph Breidbach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review, Q&amp;A and Feedback</strong><br/><ul>\n<li>Grand Final: Finalists will present once more to determine the winner of the hackathon</li>\n<li>Course wrap-up</li>\n<li>Delivered by A/Professor Christoph Breidbach</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review, Q&amp;A and Feedback</strong>",
+            "topic_description": "Course Review, Q&A and Feedback Grand Final: Finalists will present once more to determine the winner of the hackathon Course wrap-up Delivered by A/Professor Christoph Breidbach",
             "learning_outcomes": [
                 "L01",
                 "L02",
