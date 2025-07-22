@@ -6,6 +6,15 @@ import os
 import csv
 import time
 from urllib.parse import urljoin, urlparse
+from bs4.element import NavigableString
+
+def markdownify_html(elem):
+    """
+    Convert a BeautifulSoup element to markdown-compatible HTML by preserving inline formatting.
+    """
+    if elem:
+        return str(elem).strip()
+    return None
 
 def extract_course_codes(full_course_code):
     parts = full_course_code.split('-')
@@ -21,6 +30,43 @@ def extract_full_course_code(soup):
         full_course_code = breadcrumb_link['href'].split('/')[-1]
         return full_course_code
     return None
+
+def extract_course_header_info(soup):
+    """
+    Extracts course_title, study_period, location, and attendance from the hero banner.
+    """
+    header = soup.find('div', class_='hero__text')
+    course_title = study_period = location = attendance = None
+
+    if header:
+        h1 = header.find('h1')
+        if h1:
+            full_title = h1.get_text(strip=True)
+            course_title = re.sub(r'\s*\([^)]+\)$', '', full_title)
+
+        dl = header.find('dl', class_='hero__course-offerings')
+        if dl:
+            for div in dl.find_all('div', class_='hero__course-offering'):
+                label = div.find('dt')
+                value = div.find('dd')
+                if not label or not value:
+                    continue
+                label_text = label.get_text(strip=True).lower()
+                value_text = value.get_text(strip=True)
+
+                if label_text == 'study period':
+                    study_period = value_text
+                elif label_text == 'location':
+                    location = value_text
+                elif label_text == 'attendance mode':
+                    attendance = value_text
+
+    return {
+        "course_title": course_title,
+        "study_period": study_period,
+        "location": location,
+        "attendance": attendance
+    }
 
 def extract_special_indicators(detail):
     indicators = []
@@ -57,17 +103,16 @@ def extract_assessment_details(soup):
                 "assessment_detail_section_id": detail.get('id', ""),
                 "assessment_title": detail.get_text(strip=True),
                 "special_indicators": extract_special_indicators(detail),
-                "weighting": detail.find_next('dt', string='Weight').find_next('dd').get_text(strip=True) if detail.find_next('dt', string='Weight') else None,
-                "due_date": detail.find_next('dt', string='Due date').find_next('dd').get_text(strip=True) if detail.find_next('dt', string='Due date') else None,
+                "weighting": markdownify_html(detail.find_next('dt', string='Weight').find_next('dd')) if detail.find_next('dt', string='Weight') else None,
+                "due_date": markdownify_html(detail.find_next('dt', string='Due date').find_next('dd')) if detail.find_next('dt', string='Due date') else None,
                 "learning_objectives": detail.find_next('dt', string='Learning outcomes').find_next('dd').get_text(strip=True) if detail.find_next('dt', string='Learning outcomes') else None,
                 "mode": detail.find_next('dt', string='Mode').find_next('dd').get_text(strip=True) if detail.find_next('dt', string='Mode') else None,
                 "category": detail.find_next('dt', string='Category').find_next('dd').get_text(strip=True) if detail.find_next('dt', string='Category') else None,
-                "task_description": detail.find_next('h4', string='Task description').find_next('div', class_='collapsible').get_text(strip=True) if detail.find_next('h4', string='Task description') else None,
-                "submission_guidelines": detail.find_next('h4', string='Submission guidelines').find_next('p').get_text(strip=True) if detail.find_next('h4', string='Submission guidelines') else None,
-                "deferral_or_extension": detail.find_next('h5', string='Deferral or extension').find_next('p').get_text(strip=True) if detail.find_next('h5', string='Deferral or extension') else None,
-                "late_submission": detail.find_next('h5', string='Late submission').find_next('p').get_text(strip=True) if detail.find_next('h5', string='Late submission') else None,
-                "additional_info": (detail.find_next('h5', string=re.compile('.*')).find_next('p').get_text(separator='\n', strip=True)
-                    if detail.find_next('h5', string=re.compile('.*')) else None)
+                "task_description": markdownify_html(detail.find_next('h4', string='Task description').find_next('div', class_='collapsible')) if detail.find_next('h4', string='Task description') else None,
+                "submission_guidelines": markdownify_html(detail.find_next('h4', string='Submission guidelines').find_next('p')) if detail.find_next('h4', string='Submission guidelines') else None,
+                "deferral_or_extension": markdownify_html(detail.find_next('h5', string='Deferral or extension').find_next('p')) if detail.find_next('h5', string='Deferral or extension') else None,
+                "late_submission": markdownify_html(detail.find_next('h5', string='Late submission').find_next('p')) if detail.find_next('h5', string='Late submission') else None,
+                "additional_info": markdownify_html(detail.find_next('h5', string=re.compile('.*')).find_next('p')) if detail.find_next('h5', string=re.compile('.*')) else None
             }
             details.append(assessment)
     return details
@@ -78,57 +123,62 @@ def extract_learning_activities(soup):
     if table:
         tbody = table.find('tbody')
         if tbody:
+            current_learning_period = None
+            
             for row in tbody.find_all('tr'):
                 cells = row.find_all('td')
-                if len(cells) >= 3:
-                    learning_period = cells[0].get_text(strip=True)
+                
+                # Check if this row has a learning period cell (first cell with course-table__new-group class)
+                if len(cells) >= 3 and cells[0].has_attr('class') and 'course-table__new-group' in cells[0].get('class', []):
+                    # This row starts a new learning period
+                    current_learning_period = cells[0].get_text(strip=True)
                     activity_type = cells[1].get_text(strip=True)
                     topic_cell = cells[2]
-                    topic = topic_cell.get_text(strip=True)
+                elif len(cells) >= 2:
+                    # This row continues the current learning period
+                    # The first cell is activity type, second is topic
+                    activity_type = cells[0].get_text(strip=True)
+                    topic_cell = cells[1]
+                else:
+                    continue
+                
+                # Extract topic information with markdownify_html
+                topic = markdownify_html(topic_cell)
+                topic_title = ""
+                topic_description = ""
+                learning_outcomes = []
 
-                    topic_title = ""
-                    topic_description = ""
-                    learning_outcomes = []
+                div_element = topic_cell.find('div')
+                if div_element:
+                    # Extract the first strong element as title
+                    first_strong = div_element.find('strong')
+                    if first_strong:
+                        topic_title = markdownify_html(first_strong)
+                    
+                    # Get all text content for processing
+                    full_text = div_element.get_text(" ", strip=True)
+                    
+                    # Split by learning outcomes
+                    parts = re.split(r'(?:Learning outcomes?|LO):\s*', full_text, flags=re.IGNORECASE)
+                    if len(parts) > 1:
+                        topic_description = markdownify_html(parts[0].strip())
+                        outcomes_text = parts[1].strip()
+                        # Parse learning outcomes
+                        outcomes_list = re.split(r'[,;]\s*|\s+and\s+', outcomes_text)
+                        learning_outcomes = [outcome.strip() for outcome in outcomes_list if outcome.strip()]
+                    else:
+                        topic_description = markdownify_html(full_text)
 
-                    div_element = topic_cell.find('div')
-                    if div_element:
-                        p_element = div_element.find('p')
-                        if p_element:
-                            strong_element = p_element.find('strong')
-                            if strong_element:
-                                topic_title = strong_element.get_text(strip=True)
-                                remaining_content = ""
-                                for content in p_element.contents:
-                                    if content == strong_element:
-                                        continue
-                                    elif hasattr(content, 'get_text'):
-                                        remaining_content += content.get_text()
-                                    else:
-                                        remaining_content += str(content)
-                                if remaining_content:
-                                    parts = re.split(r'(?:Learning outcomes?|LO):\s*', remaining_content, flags=re.IGNORECASE)
-                                    if len(parts) > 1:
-                                        topic_description = parts[0].strip()
-                                        outcomes_text = parts[1].strip()
-                                        outcomes_list = re.split(r'[,;]\s*|\s+and\s+', outcomes_text)
-                                        learning_outcomes = [outcome.strip() for outcome in outcomes_list if outcome.strip()]
-                                    else:
-                                        topic_description = remaining_content.strip()
-                    if not learning_outcomes:
-                        lo_match = re.search(r'(?:Learning outcomes?|LO):\s*(.+?)(?:\n|$)', topic, re.IGNORECASE | re.DOTALL)
-                        if lo_match:
-                            outcomes_text = lo_match.group(1).strip()
-                            outcomes_list = re.split(r'[,;]\s*|\s+and\s+', outcomes_text)
-                            learning_outcomes = [outcome.strip() for outcome in outcomes_list if outcome.strip()]
-                    if learning_period and activity_type and topic:
-                        activities.append({
-                            "learning_period": learning_period,
-                            "activity_type": activity_type,
-                            "topic": topic,
-                            "topic_title": topic_title,
-                            "topic_description": topic_description,
-                            "learning_outcomes": learning_outcomes
-                        })
+                # Only add if we have valid data
+                if current_learning_period and activity_type and topic:
+                    activities.append({
+                        "learning_period": current_learning_period,
+                        "activity_type": activity_type,
+                        "topic": topic,
+                        "topic_title": topic_title,
+                        "topic_description": topic_description,
+                        "learning_outcomes": learning_outcomes
+                    })
     return activities
 
 def extract_semester_details(soup):
@@ -176,7 +226,10 @@ def process_course_profile(url):
         assessments = extract_assessment_details(soup)
         learning_outcomes = extract_learning_outcomes(soup)
         learning_activities = extract_learning_activities(soup)
+        header_info = extract_course_header_info(soup)
+
         output = {
+            **header_info,
             "url": url,
             "full_course_code": full_course_code,
             **course_codes,
