@@ -1,4 +1,8 @@
 {
+    "course_title": "Accounting for Decision Making",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT1101-60169-7460",
     "full_course_code": "ACCT1101-60169-7460",
     "course_code": "ACCT1101",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "25% Individual",
-            "due_date": "Week 4 Fri - Revision week FriQuiz 1 (Topic 1 &  2): Available from 8am Monday 12 August 2024 and due at 4pm Friday 16 August 2024Quiz 2 (Topic 3 & 4):  Available from 8am Monday 26 August 2024 and due at 4pm Friday 30 August 2024Quiz 3 (Topic 5): Available from 8am Monday 2 September 2024 and due at 4pm Friday 6 September 2024Quiz 4 (Topic 6 & 7): Available from 8am Monday 30 September 2024 and due at 4pm Friday 4 October 2024Quiz 5 (Topic 8 & 9): Available from 8am Monday 14 October 2024 and due at 4pm Friday 18 October 2024Quiz 6 (Topic 10 & 11): Available from 8am Monday 28 October 2024 and due at 4pm Friday 1 November 2024",
+            "weighting": "<dd>25% Individual </dd>",
+            "due_date": "<dd><p> Week 4 Fri - Revision week Fri</p>\n<p>\n</p><p>Quiz 1 (Topic 1 &amp;  2): Available from 8am Monday 12 August 2024 and due at 4pm Friday 16 August 2024</p>\n<p>Quiz 2 (Topic 3 &amp; 4):  Available from 8am Monday 26 August 2024 and due at 4pm Friday 30 August 2024</p>\n<p>Quiz 3 (Topic 5): Available from 8am Monday 2 September 2024 and due at 4pm Friday 6 September 2024</p>\n<p>Quiz 4 (Topic 6 &amp; 7): Available from 8am Monday 30 September 2024 and due at 4pm Friday 4 October 2024</p>\n<p>Quiz 5 (Topic 8 &amp; 9): Available from 8am Monday 14 October 2024 and due at 4pm Friday 18 October 2024</p>\n<p>Quiz 6 (Topic 10 &amp; 11): Available from 8am Monday 28 October 2024 and due at 4pm Friday 1 November 2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "Assessment Details:Topic assessed: Topics 1-11.Administration: Blackboard Test.6 check-in quizzes fortnightly with the best 5 used for final result.Question types: 10 multiple choice questions.Each quiz lasts for 20 minutes, and students have from Monday 8am to Friday 4pm during the week the quiz is open to complete the quiz.Only ONE attempt for each quiz.Deferred or supplementary quiz is NOT available.Students must ensure their access to a laptop or desktop computer as well as stable internet connection for the duration of this assessment. Do not use a mobile device such as a mobile phone for this assessment.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You cannot defer or apply for an extension for this assessment.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assessment Details:</p>\n<ul>\n<li>Topic assessed: Topics 1-11.</li>\n<li>Administration: Blackboard Test.</li>\n<li>6 check-in quizzes fortnightly with the best 5 used for final result.</li>\n<li>Question types: 10 multiple choice questions. </li>\n<li>Each quiz lasts for 20 minutes, and students have from Monday 8am to Friday 4pm during the week the quiz is open to complete the quiz.</li>\n<li>Only ONE attempt for each quiz.</li>\n<li>Deferred or supplementary quiz is NOT available.</li>\n<li>Students must ensure their access to a laptop or desktop computer as well as stable internet connection for the duration of this assessment. Do not use a mobile device such as a mobile phone for this assessment.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,16 +61,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "25% Individual",
-            "due_date": "13/09/2024 3:00 pm",
+            "weighting": "<dd>25% Individual </dd>",
+            "due_date": "<dd><p> 13/09/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "Assessment details:This assessment is based on a case of a retailing business.Assignment materials will be released two weeks before the due date.Topic assessed: Topics 1-5.Question types: calculations, short answers and recording transactions.Supplementary assessment is not available for this assignment.Inspera cloud-based software is used to complete the ACCT1101 assignment. The individual assignment includes a non-invigilated digital assessment and students will access this using their own device. Further details, including an introduction to Inspera functionality, practice opportunities, and where to go for support, will be provided in the Blackboard site for this course in the due course.An optional Excel file will be provided for students to complete some of the calculation questions before entering the data into Inspera for submission and marking.AI StatementThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Students are required to submit their assignments via Inspera on Blackboard. Submissions after the deadline will attract penalties.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assessment details:</p>\n<ul>\n<li>This assessment is based on a case of a retailing business. </li>\n<li>Assignment materials will be released two weeks before the due date.</li>\n<li>Topic assessed: Topics 1-5.</li>\n<li>Question types: calculations, short answers and recording transactions.</li>\n<li>Supplementary assessment is not available for this assignment.</li>\n<li>Inspera cloud-based software is used to complete the ACCT1101 assignment. The individual assignment includes a non-invigilated digital assessment and students will access this using their own device. Further details, including an introduction to Inspera functionality, practice opportunities, and where to go for support, will be provided in the Blackboard site for this course in the due course.</li>\n<li>An optional Excel file will be provided for students to complete some of the calculation questions before entering the data into Inspera for submission and marking.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are required to submit their assignments via Inspera on Blackboard. Submissions after the deadline will attract penalties.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -77,25 +81,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50% Individual",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>50% Individual </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L03, L04, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "Assessment details:Topic assessed: Topics 6-11; prior topics are regarded as assumed knowledge.Assessment duration: 120 minutes (plus 10 minutes reading time).Question types: calculations and short answers.More information regarding this assessment will be released later in the semester.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assessment details:</p>\n<ul>\n<li>Topic assessed: Topics 6-11; prior topics are regarded as assumed knowledge.</li>\n<li>Assessment duration: 120 minutes (plus 10 minutes reading time).</li>\n<li>Question types: calculations and short answers.</li>\n<li>More information regarding this assessment will be released later in the semester.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Topic 1: Introduction to Accounting & Business EnvironmentLearning outcomes:L01",
-            "topic_title": "Topic 1: Introduction to Accounting & Business Environment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1: Introduction to Accounting &amp; Business Environment</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1: Introduction to Accounting &amp; Business Environment</strong>",
+            "topic_description": "Topic 1: Introduction to Accounting & Business Environment",
             "learning_outcomes": [
                 "L01"
             ]
@@ -103,30 +107,65 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1: Intro to Accounting & Business EnvironmentTutorial materials for each topic are available in the topic folder on BlackboardLearning outcomes:L01",
-            "topic_title": "Tutorial 1: Intro to Accounting & Business Environment",
-            "topic_description": "Tutorial materials for each topic are available in the topic folder on Blackboard",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Intro to Accounting &amp; Business Environment</strong><br/><p>Tutorial materials for each topic are available in the topic folder on Blackboard</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Intro to Accounting &amp; Business Environment</strong>",
+            "topic_description": "Tutorial 1: Intro to Accounting & Business Environment Tutorial materials for each topic are available in the topic folder on Blackboard",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
-            "learning_period": "Week 3",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 2: Introduction to Statement of Financial Position and Recording Transactions ILearning outcomes:L01, L02",
-            "topic_title": "Tutorial 2: Introduction to Statement of Financial Position and Recording Transactions I",
-            "topic_description": "",
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2: Introduction to Statement of Financial Position and Recording Transactions I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Topic 2: Introduction to Statement of Financial Position and Recording Transactions I</strong>",
+            "topic_description": "Topic 2: Introduction to Statement of Financial Position and Recording Transactions I",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Introduction to Statement of Financial Position and Recording Transactions I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Introduction to Statement of Financial Position and Recording Transactions I</strong>",
+            "topic_description": "Tutorial 2: Introduction to Statement of Financial Position and Recording Transactions I",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3: Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 3: Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II</strong>",
+            "topic_description": "Topic 3: Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 3:  Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions IIRoyal Queensland Show Public Holiday - No tutorials Wednesday 14 August 2024 - please attend an alternative tutorial this week only.Learning outcomes:L01, L02, L03",
-            "topic_title": "Tutorial 3:  Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II",
-            "topic_description": "Royal Queensland Show Public Holiday - No tutorials Wednesday 14 August 2024 - please attend an alternative tutorial this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3:  Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II</strong><br/><p>Royal Queensland Show Public Holiday - No tutorials Wednesday 14 August 2024 - please attend an alternative tutorial this week only.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 3:  Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II</strong>",
+            "topic_description": "Tutorial 3:  Introduction to Statement of Profit and Loss, Cash Flow Statement and Recording Transactions II Royal Queensland Show Public Holiday - No tutorials Wednesday 14 August 2024 - please attend an alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III</strong>",
+            "topic_description": "Topic 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -136,28 +175,39 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III",
-            "topic_title": "Tutorial 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III</strong><br/></p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III</strong>",
+            "topic_description": "Tutorial 4: Statement of Profit and Loss, Accrual Accounting and Recording Transactions III",
             "learning_outcomes": []
         },
         {
-            "learning_period": "Week 6",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 5: Analysis of Statement of Financial PositionLearning outcomes:L01, L03",
-            "topic_title": "Tutorial 5: Analysis of Statement of Financial Position",
-            "topic_description": "",
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5: Analysis of Statement of Financial Position</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Topic 5: Analysis of Statement of Financial Position</strong>",
+            "topic_description": "Topic 5: Analysis of Statement of Financial Position",
             "learning_outcomes": [
                 "L01",
                 "L03"
             ]
         },
         {
-            "learning_period": "Week 7",
+            "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 6: Statement of Cash Flows and Introduction to Financial Statement AnalysisLearning outcomes:L01, L03, L04",
-            "topic_title": "Tutorial 6: Statement of Cash Flows and Introduction to Financial Statement Analysis",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Analysis of Statement of Financial Position</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Analysis of Statement of Financial Position</strong>",
+            "topic_description": "Tutorial 5: Analysis of Statement of Financial Position",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6: Statement of Cash Flows and Introduction to Financial Statement Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 6: Statement of Cash Flows and Introduction to Financial Statement Analysis</strong>",
+            "topic_description": "Topic 6: Statement of Cash Flows and Introduction to Financial Statement Analysis",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -165,19 +215,59 @@
             ]
         },
         {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Statement of Cash Flows and Introduction to Financial Statement Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Statement of Cash Flows and Introduction to Financial Statement Analysis</strong>",
+            "topic_description": "Tutorial 6: Statement of Cash Flows and Introduction to Financial Statement Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Industry Guest Lecture and Assignment Workshop</strong><br/><p>Assignment workshop held during lecture time.</p></p></div></td>",
+            "topic_title": "<strong>Industry Guest Lecture and Assignment Workshop</strong>",
+            "topic_description": "Industry Guest Lecture and Assignment Workshop Assignment workshop held during lecture time.",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Assignment Q&AAssignment in-person consultations held during tutorial time.",
-            "topic_title": "Assignment Q&A",
-            "topic_description": "Assignment in-person consultations held during tutorial time.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Q&amp;A</strong><br/><p>Assignment in-person consultations held during tutorial time.</p></p></div></td>",
+            "topic_title": "<strong>Assignment Q&amp;A</strong>",
+            "topic_description": "Assignment Q&A Assignment in-person consultations held during tutorial time.",
             "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 7: Financial Statement Analysis I</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Topic 7: Financial Statement Analysis I</strong>",
+            "topic_description": "Topic 7: Financial Statement Analysis I",
+            "learning_outcomes": [
+                "L04"
+            ]
         },
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 7: Financial Statement Analysis ILearning outcomes:L04",
-            "topic_title": "Tutorial 7: Financial Statement Analysis I",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Financial Statement Analysis I</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Financial Statement Analysis I</strong>",
+            "topic_description": "Tutorial 7: Financial Statement Analysis I",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Financial Statement Analysis II</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Topic 8: Financial Statement Analysis II</strong>",
+            "topic_description": "Topic 8: Financial Statement Analysis II",
             "learning_outcomes": [
                 "L04"
             ]
@@ -185,17 +275,27 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 8: Financial Statement Analysis IIKing's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.Learning outcomes:L04",
-            "topic_title": "Tutorial 8: Financial Statement Analysis II",
-            "topic_description": "King's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Financial Statement Analysis II</strong><br/><p>King's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Financial Statement Analysis II</strong>",
+            "topic_description": "Tutorial 8: Financial Statement Analysis II King's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Budgeting</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Topic 9: Budgeting</strong>",
+            "topic_description": "Topic 9: Budgeting",
             "learning_outcomes": [
                 "L04"
             ]
@@ -203,31 +303,64 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 9: BudgetingKing's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.Learning outcomes:L04",
-            "topic_title": "Tutorial 9: Budgeting",
-            "topic_description": "King's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Budgeting</strong><br/><p>King's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Budgeting</strong>",
+            "topic_description": "Tutorial 9: Budgeting King's Birthday Public Holiday - No Tutorials Monday 7 October - please attend an alternative tutorial this week only.",
             "learning_outcomes": [
                 "L04"
             ]
         },
         {
-            "learning_period": "Week 12",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 10: Cost Accounting and PricingLearning outcomes:L01, L05",
-            "topic_title": "Tutorial 10: Cost Accounting and Pricing",
-            "topic_description": "",
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10: Cost Accounting and Pricing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Topic 10: Cost Accounting and Pricing</strong>",
+            "topic_description": "Topic 10: Cost Accounting and Pricing",
             "learning_outcomes": [
                 "L01",
                 "L05"
             ]
         },
         {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Cost Accounting and Pricing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Cost Accounting and Pricing</strong>",
+            "topic_description": "Tutorial 10: Cost Accounting and Pricing",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 11: Performance Measurement and Sustainability</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Topic 11: Performance Measurement and Sustainability</strong>",
+            "topic_description": "Topic 11: Performance Measurement and Sustainability",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 11: Performance Measurement and SustainabilityLearning outcomes:L05",
-            "topic_title": "Tutorial 11: Performance Measurement and Sustainability",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Performance Measurement and Sustainability</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Performance Measurement and Sustainability</strong>",
+            "topic_description": "Tutorial 11: Performance Measurement and Sustainability",
             "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review Lecture</strong><br/><p>Review of topics assessed in the final exam</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Review Lecture</strong>",
+            "topic_description": "Review Lecture Review of topics assessed in the final exam",
+            "learning_outcomes": [
+                "L01",
+                "L04",
                 "L05"
             ]
         }
