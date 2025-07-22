@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Information Systems Analysis and Design",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7255-60204-7460",
     "full_course_code": "BISM7255-60204-7460",
     "course_code": "BISM7255",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "13/09/2024 5:00 pmLate submission causes mark reductions",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 13/09/2024 5:00 pm</p>\n<p>\n</p><p>Late submission causes mark reductions</p></dd>",
             "learning_objectives": "L02, L03, L04, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Portfolio, Project",
-            "task_description": "In this assignment, you will be given a real-world case scenario and it is the student's task to produce the systems analysis and design documentation for the case scenario by creating UML models. The purpose of the assignment is to develop your ability to justify, analyze, and design software applications.The assignment can be done as individuals or in a team of max 2 students. When working in pairs students are required to do a peer assessment which may affect assessment results, details will be provided on Blackboard.Details of the assignment are given on the course's Blackboard site (i.e, the course's Learn.UQ site).This project is to address at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your eportfolio.A request for an extension of the assignment due date will need to be done via the submission of an online application at this link: https://my.uq.edu.au/node/218/0#0Neither course coordinators nor lecturers/ tutors can grant assessment extensions to students.AI Statement:This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submitted via Blackboard assessment link.For details please refer to the assignment specification on the Blackboard site for the course.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will be given a real-world case scenario and it is the student's task to produce the systems analysis and design documentation for the case scenario by creating UML models. The purpose of the assignment is to develop your ability to justify, analyze, and design software applications. </p>\n<p>The assignment can be done as individuals or in a team of max 2 students. When working in pairs students are required to do a peer assessment which may affect assessment results, details will be provided on Blackboard.</p>\n<p>Details of the assignment are given on the course's Blackboard site (i.e, the course's Learn.UQ site). </p>\n<p>This project is to address at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your eportfolio.</p>\n<p>A request for an extension of the assignment due date will need to be done via the submission of an online application at this link: https://my.uq.edu.au/node/218/0#0</p>\n<p>Neither course coordinators nor lecturers/ tutors can grant assessment extensions to students.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted via Blackboard assessment link.<br/>\nFor details please refer to the assignment specification on the Blackboard site for the course.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,40 +61,40 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "35%",
-            "due_date": "11/10/2024 11:00 amThe in-semester exam will run between 9 and 11am, before the exam we will work through the current week's content.",
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 11/10/2024 11:00 am</p>\n<p>\n</p><p>The in-semester exam will run between 9 and 11am, before the exam we will work through the current week's content. </p></dd>",
             "learning_objectives": "L01, L03, L04, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "UQ uses the assessment tool, Inspera Assessment. Inspera Assessment provides additional functionality to complement the existing suite of digital learning tools at UQ with a greater range of question types, accessibility provisions, and non-English languages.The course BISM7255 had successfully used the Inspera eAssessment software in the past. Thus, the Inspera eAssessment software is going to be used again in 2024.  The exam will be a non-invigilated digital exam and students in this course will complete the assessment using their own devices.The assessment will be done during the seminar time on Friday. The exam is going to be supported by the lecturer via Zoom communication.Further details will be provided on the Blackboard site for this course, including an introduction to Inspera functionality, practice opportunities, and where to go for support.AI Statement:This assessment task evaluates student’s abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>UQ uses the assessment tool, Inspera Assessment. Inspera Assessment provides additional functionality to complement the existing suite of digital learning tools at UQ with a greater range of question types, accessibility provisions, and non-English languages.</p>\n<p>The course BISM7255 had successfully used the Inspera eAssessment software in the past. Thus, the Inspera eAssessment software is going to be used again in 2024.  The exam will be a non-invigilated digital exam and students in this course will complete the assessment using their own devices.</p>\n<p>The assessment will be done during the seminar time on Friday. The exam is going to be supported by the lecturer via Zoom communication.</p>\n<p>Further details will be provided on the Blackboard site for this course, including an introduction to Inspera functionality, practice opportunities, and where to go for support.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates student’s abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Software App and Reflection",
             "special_indicators": [],
-            "weighting": "25%",
-            "due_date": "31/10/2024 5:00 pmLate submission causes mark reductions",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 31/10/2024 5:00 pm</p>\n<p>\n</p><p>Late submission causes mark reductions</p></dd>",
             "learning_objectives": "L01, L04, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Computer Code, Product/ Design, Reflection",
-            "task_description": "The students are asked to develop a low-code platform app. Based on the final app, students are asked to write a reflection where they self-reflect on the learning experience of developing a low-code platform app in relation to (1) development activities, (2) use of low-code platform capabilities, and (3) the metacognitive skills (ability to learn).The assessment aims to build meta-cognition (thinking about one's own thinking) to prepare students for their future careers best and enhance the student's employability.Students shall reflect on what they have learned from the collaborative process (app development) with the client for the app; for example how the design and implementation capture the client's wishes and values.Students are expected to submit their reflection and app as part of this assessment.AI Statement:This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "For details please refer to the assignment specification on the Blackboard site for the course.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The students are asked to develop a low-code platform app. Based on the final app, students are asked to write a reflection where they self-reflect on the learning experience of developing a low-code platform app in relation to (1) development activities, (2) use of low-code platform capabilities, and (3) the metacognitive skills (ability to learn). </p>\n<p>The assessment aims to build meta-cognition (thinking about one's own thinking) to prepare students for their future careers best and enhance the student's employability. </p>\n<p>Students shall reflect on what they have learned from the collaborative process (app development) with the client for the app; for example how the design and implementation capture the client's wishes and values.</p>\n<p>Students are expected to submit their reflection and app as part of this assessment.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>For details please refer to the assignment specification on the Blackboard site for the course.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Course Intro and IS Analysis/DesignLearning outcomes:L01, L04",
-            "topic_title": "Course Intro and IS Analysis/Design",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Intro and IS Analysis/Design</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Course Intro and IS Analysis/Design</strong>",
+            "topic_description": "Course Intro and IS Analysis/Design",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -99,20 +103,31 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Capturing the Domain, Identifying RequirementsLearning outcomes:L03, L04",
-            "topic_title": "Capturing the Domain, Identifying Requirements",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capturing the Domain, Identifying Requirements</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Capturing the Domain, Identifying Requirements</strong>",
+            "topic_description": "Capturing the Domain, Identifying Requirements",
             "learning_outcomes": [
                 "L03",
                 "L04"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 1 - UML Modelling of Use Case Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Prac 1 - UML Modelling of Use Case Diagrams</strong>",
+            "topic_description": "Prac 1 - UML Modelling of Use Case Diagrams",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Agile AdvanceLearning outcomes:L02, L03, L04",
-            "topic_title": "Agile Advance",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Agile Advance</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Agile Advance</strong>",
+            "topic_description": "Agile Advance",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -120,12 +135,35 @@
             ]
         },
         {
+            "learning_period": "Week 3",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 2 - UML Modelling of Activity Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Prac 2 - UML Modelling of Activity Diagrams</strong>",
+            "topic_description": "Prac 2 - UML Modelling of Activity Diagrams",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "DevOps - Extending Agile to ImplementationLearning outcomes:L03, L04",
-            "topic_title": "DevOps - Extending Agile to Implementation",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>DevOps - Extending Agile to Implementation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>DevOps - Extending Agile to Implementation</strong>",
+            "topic_description": "DevOps - Extending Agile to Implementation",
             "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 3 - UML Modelling of Sequence Diagrams</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Prac 3 - UML Modelling of Sequence Diagrams</strong>",
+            "topic_description": "Prac 3 - UML Modelling of Sequence Diagrams Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
                 "L03",
                 "L04"
             ]
@@ -133,41 +171,73 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Managing Teams and People - Project Management 1Learning outcomes:L01, L04",
-            "topic_title": "Managing Teams and People - Project Management 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Teams and People - Project Management 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Managing Teams and People - Project Management 1</strong>",
+            "topic_description": "Managing Teams and People - Project Management 1",
             "learning_outcomes": [
                 "L01",
                 "L04"
             ]
         },
         {
-            "learning_period": "Week 6",
-            "activity_type": "Seminar",
-            "topic": "Project Management 2Learning outcomes:L04",
-            "topic_title": "Project Management 2",
-            "topic_description": "",
-            "learning_outcomes": [
-                "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 7",
-            "activity_type": "Seminar",
-            "topic": "Design and Introduction Blended LearningLearning outcomes:L03, L04",
-            "topic_title": "Design and Introduction Blended Learning",
-            "topic_description": "",
+            "learning_period": "Week 5",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 4 - UML Modelling of Class Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Prac 4 - UML Modelling of Class Diagrams</strong>",
+            "topic_description": "Prac 4 - UML Modelling of Class Diagrams",
             "learning_outcomes": [
                 "L03",
                 "L04"
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Management 2</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Project Management 2</strong>",
+            "topic_description": "Project Management 2",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 5 - UML Modelling of State Machine Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Prac 5 - UML Modelling of State Machine Diagrams</strong>",
+            "topic_description": "Prac 5 - UML Modelling of State Machine Diagrams",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design and Introduction Blended Learning </strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Design and Introduction Blended Learning </strong>",
+            "topic_description": "Design and Introduction Blended Learning",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 6 - Comprehensive UML Case Study</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Prac 6 - Comprehensive UML Case Study</strong>",
+            "topic_description": "Prac 6 - Comprehensive UML Case Study",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Blended Learning - App DevelopmentLearning outcomes:L02, L03, L05",
-            "topic_title": "Blended Learning - App Development",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Blended Learning - App Development </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Blended Learning - App Development </strong>",
+            "topic_description": "Blended Learning - App Development",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -177,9 +247,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Blended Learning- App DevelopmentLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Blended Learning- App Development",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Blended Learning- App Development </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Blended Learning- App Development </strong>",
+            "topic_description": "Blended Learning- App Development",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -191,17 +261,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Blended Learning - App DevelopmentLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Blended Learning - App Development",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Blended Learning - App Development</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Blended Learning - App Development</strong>",
+            "topic_description": "Blended Learning - App Development",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -213,9 +283,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "In-Class exam and Testing/Deploying the SystemDuring class time, the in-class exam will take place. Before the exam, we will work through the week's content. This seminar will be held online via Zoom to facilitate the in-class exam.Learning outcomes:L03, L04, L05",
-            "topic_title": "In-Class exam and Testing/Deploying the System",
-            "topic_description": "During class time, the in-class exam will take place. Before the exam, we will work through the week's content. This seminar will be held online via Zoom to facilitate the in-class exam.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Class exam and Testing/Deploying the System</strong><br/><p>During class time, the in-class exam will take place. Before the exam, we will work through the week's content. This seminar will be held online via Zoom to facilitate the in-class exam.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In-Class exam and Testing/Deploying the System</strong>",
+            "topic_description": "In-Class exam and Testing/Deploying the System During class time, the in-class exam will take place. Before the exam, we will work through the week's content. This seminar will be held online via Zoom to facilitate the in-class exam.",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -225,9 +295,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Blended Learning - App DevelopmentLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Blended Learning - App Development",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Blended Learning - App Development </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Blended Learning - App Development </strong>",
+            "topic_description": "Blended Learning - App Development",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -239,9 +309,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Summary/Reflection & Student PresentationThe last lecture reflects on the semester and the WIL blended learning aspect regarding meta-cognitive skills. Students showcase their app to teaching staff if not done in Week 12.Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Summary/Reflection & Student Presentation",
-            "topic_description": "The last lecture reflects on the semester and the WIL blended learning aspect regarding meta-cognitive skills. Students showcase their app to teaching staff if not done in Week 12.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Summary/Reflection &amp; Student Presentation</strong><br/><p>The last lecture reflects on the semester and the WIL blended learning aspect regarding meta-cognitive skills. Students showcase their app to teaching staff if not done in Week 12.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Summary/Reflection &amp; Student Presentation</strong>",
+            "topic_description": "Summary/Reflection & Student Presentation The last lecture reflects on the semester and the WIL blended learning aspect regarding meta-cognitive skills. Students showcase their app to teaching staff if not done in Week 12.",
             "learning_outcomes": [
                 "L01",
                 "L02",
