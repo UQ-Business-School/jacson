@@ -1,4 +1,8 @@
 {
+    "course_title": "Introduction to Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS1301-60260-7460",
     "full_course_code": "MGTS1301-60260-7460",
     "course_code": "MGTS1301",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "15%",
-            "due_date": "26/08/2024 - 30/08/20242/09/2024 - 6/09/20249/09/2024 - 13/09/202430/09/2024 - 4/10/202414/10/2024 - 18/10/2024",
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 26/08/2024 - 30/08/2024</p>\n<p> 2/09/2024 - 6/09/2024</p>\n<p> 9/09/2024 - 13/09/2024</p>\n<p> 30/09/2024 - 4/10/2024</p>\n<p> 14/10/2024 - 18/10/2024</p></dd>",
             "learning_objectives": "L02, L03, L04",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "Working in teams during tutorials, you will discuss different case studies across the semester. You will discuss the case in class and develop an answer as a team.The best three (3) marks out of five (5) will be taken in consideration for your final grade in this assessment.Members of the group will be required to submit a Peer Assessment of the other members of the group. Peer Assessment results may be used to adjust students' individual group assignment results.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be submitted via Blackboard.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Working in teams during tutorials, you will discuss different case studies across the semester. You will discuss the case in class and develop an answer as a team.</p>\n<p>The best three (3) marks out of five (5) will be taken in consideration for your final grade in this assessment. </p>\n<p>Members of the group will be required to submit a Peer Assessment of the other members of the group. Peer Assessment results may be used to adjust students' individual group assignment results.</p>\n<p><strong><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,16 +65,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "30/09/2024 1:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 30/09/2024 1:00 pm</p></dd>",
             "learning_objectives": "L02, L03",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "You will research news articles to identify a management problem.You will then research the scholarly management literature related to your chosen problem.In your written assignment you will apply the insights you found in the scholarly literature and make recommendations about the management problem you identified.This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit the assignment through the Online Submission folder in the Assessment section of the course Blackboard site.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will research news articles to identify a management problem.</p>\n<p>You will then research the scholarly management literature related to your chosen problem.</p>\n<p>In your written assignment you will apply the insights you found in the scholarly literature and make recommendations about the management problem you identified.</p>\n<p><strong><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></strong></p>\n<p><strong><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<p><strong><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit the assignment through the Online Submission folder in the Assessment section of the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -85,135 +89,113 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "45%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The exam will include short answer and case study questions.If you are unable to sit your exam, you must apply for a deferred exam.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will include short answer and case study questions. </p>\n<p>If you are unable to sit your exam, you must apply for a deferred exam.</p>\n<p><strong><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Course OverviewWe will provide an overview of the course and assessments.Learning outcomes:L01",
-            "topic_title": "Course Overview",
-            "topic_description": "We will provide an overview of the course and assessments.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Course Overview</strong><br/><p>We will provide an overview of the course and assessments.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong> Course Overview</strong>",
+            "topic_description": "Course Overview We will provide an overview of the course and assessments.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>NO TUTORIALS THIS WEEK</strong><br/></p></div></td>",
+            "topic_title": "<strong>NO TUTORIALS THIS WEEK</strong>",
+            "topic_description": "NO TUTORIALS THIS WEEK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is Management?</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>What is Management?</strong>",
+            "topic_description": "What is Management? We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
             "learning_period": "Week 2",
-            "activity_type": "Lecture",
-            "topic": "What is Management?We will do activities based on the online module.Learning outcomes:L01",
-            "topic_title": "What is Management?",
-            "topic_description": "We will do activities based on the online module.",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the Team-Based Tutorial Approach</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Introduction to the Team-Based Tutorial Approach</strong>",
+            "topic_description": "Introduction to the Team-Based Tutorial Approach",
             "learning_outcomes": [
-                "L01"
+                "L04"
             ]
         },
         {
             "learning_period": "Week 3",
             "activity_type": "Lecture",
-            "topic": "Ethics and Social InclusionWe will do activities based on the online module.Learning outcomes:L01, L03",
-            "topic_title": "Ethics and Social Inclusion",
-            "topic_description": "We will do activities based on the online module.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Social Inclusion</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Ethics and Social Inclusion</strong>",
+            "topic_description": "Ethics and Social Inclusion We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Expectations and Team Formation</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial Expectations and Team Formation</strong>",
+            "topic_description": "Tutorial Expectations and Team Formation",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "Project ReportWe will discuss the requirements and expectations of the project report assessment.Learning outcomes:L01",
-            "topic_title": "Project Report",
-            "topic_description": "We will discuss the requirements and expectations of the project report assessment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Report</strong><br/><p>We will discuss the requirements and expectations of the project report assessment.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Project Report</strong>",
+            "topic_description": "Project Report We will discuss the requirements and expectations of the project report assessment.",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
+            "learning_period": "Week 4",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/><p>No tutorial this week.</p></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial No tutorial this week.",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "Planning and ControllingWe will discuss the requirements and expectations of the project report assessment.Learning outcomes:L02, L03",
-            "topic_title": "Planning and Controlling",
-            "topic_description": "We will discuss the requirements and expectations of the project report assessment.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Planning and Controlling</strong><br/><p>We will discuss the requirements and expectations of the project report assessment.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Planning and Controlling</strong>",
+            "topic_description": "Planning and Controlling We will discuss the requirements and expectations of the project report assessment.",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
-            "learning_period": "Week 6",
-            "activity_type": "Lecture",
-            "topic": "LeadingWe will do activities based on the online module.Learning outcomes:L01",
-            "topic_title": "Leading",
-            "topic_description": "We will do activities based on the online module.",
-            "learning_outcomes": [
-                "L01"
-            ]
-        },
-        {
-            "learning_period": "Week 7",
-            "activity_type": "Lecture",
-            "topic": "OrganisingWe will do activities based on the online module.Learning outcomes:L01",
-            "topic_title": "Organising",
-            "topic_description": "We will do activities based on the online module.",
-            "learning_outcomes": [
-                "L01"
-            ]
-        },
-        {
-            "learning_period": "Week 8",
-            "activity_type": "Lecture",
-            "topic": "Academic Writing and ResearchWe will have a Guest UQ Librarian to demonstrate and discuss Academic research and writing, plus different tools UQ has available to students.Learning outcomes:L01",
-            "topic_title": "Academic Writing and Research",
-            "topic_description": "We will have a Guest UQ Librarian to demonstrate and discuss Academic research and writing, plus different tools UQ has available to students.",
-            "learning_outcomes": [
-                "L01"
-            ]
-        },
-        {
-            "learning_period": "Week 9",
-            "activity_type": "Lecture",
-            "topic": "SustainabilityWe will do activities based on the online moduleLearning outcomes:L01",
-            "topic_title": "Sustainability",
-            "topic_description": "We will do activities based on the online module",
-            "learning_outcomes": [
-                "L01"
-            ]
-        },
-        {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "IN-SEMESTER BREAKNO CLASSES THIS WEEK",
-            "topic_title": "IN-SEMESTER BREAK",
-            "topic_description": "NO CLASSES THIS WEEK",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 10",
-            "activity_type": "Lecture",
-            "topic": "External and Internal EnvironmentWe will do activities based on the online moduleLearning outcomes:L01",
-            "topic_title": "External and Internal Environment",
-            "topic_description": "We will do activities based on the online module",
-            "learning_outcomes": [
-                "L01"
-            ]
-        },
-        {
-            "learning_period": "Week 11",
-            "activity_type": "Lecture",
-            "topic": "Strategic ManagementWe will do activities based on the online module.Learning outcomes:L02, L03, L04",
-            "topic_title": "Strategic Management",
-            "topic_description": "We will do activities based on the online module.",
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Social Inclusion</strong><br/><p>Team-based tutorial activity.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Ethics and Social Inclusion</strong>",
+            "topic_description": "Ethics and Social Inclusion Team-based tutorial activity.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -221,23 +203,182 @@
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leading</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Leading</strong>",
+            "topic_description": "Leading We will do activities based on the online module.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Planning and Controlling</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Planning and Controlling</strong>",
+            "topic_description": "Planning and Controlling ASSESSMENT OF TUTORIAL ACTIVITY",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organising</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Organising</strong>",
+            "topic_description": "Organising We will do activities based on the online module.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leading</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Leading</strong>",
+            "topic_description": "Leading ASSESSMENT OF TUTORIAL ACTIVITY",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic Writing and Research</strong><br/><p>We will have a Guest UQ Librarian to demonstrate and discuss Academic research and writing, plus different tools UQ has available to students.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Academic Writing and Research</strong>",
+            "topic_description": "Academic Writing and Research We will have a Guest UQ Librarian to demonstrate and discuss Academic research and writing, plus different tools UQ has available to students.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organising</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Organising</strong>",
+            "topic_description": "Organising ASSESSMENT OF TUTORIAL ACTIVITY",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability</strong><br/><p>We will do activities based on the online module</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Sustainability</strong>",
+            "topic_description": "Sustainability We will do activities based on the online module",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Report Requirements Consultation</strong><br/><p>We will discuss the requirements and expectations of the project report assessment. </p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Project Report Requirements Consultation</strong>",
+            "topic_description": "Project Report Requirements Consultation We will discuss the requirements and expectations of the project report assessment.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IN-SEMESTER BREAK</strong><br/><p>NO CLASSES THIS WEEK</p></p></div></td>",
+            "topic_title": "<strong>IN-SEMESTER BREAK</strong>",
+            "topic_description": "IN-SEMESTER BREAK NO CLASSES THIS WEEK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External and Internal Environment</strong><br/><p>We will do activities based on the online module</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>External and Internal Environment</strong>",
+            "topic_description": "External and Internal Environment We will do activities based on the online module",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Sustainability</strong>",
+            "topic_description": "Sustainability ASSESSMENT OF TUTORIAL ACTIVITY",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Management</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Strategic Management</strong>",
+            "topic_description": "Strategic Management We will do activities based on the online module.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorials - Public Holiday</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorials - Public Holiday</strong>",
+            "topic_description": "No Tutorials - Public Holiday",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 12",
             "activity_type": "Lecture",
-            "topic": "Change ManagementA Guest Speaker will join the lecture and discuss this topic.Learning outcomes:L01",
-            "topic_title": "Change Management",
-            "topic_description": "A Guest Speaker will join the lecture and discuss this topic.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Change Management</strong><br/><p>A Guest Speaker will join the lecture and discuss this topic.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Change Management</strong>",
+            "topic_description": "Change Management A Guest Speaker will join the lecture and discuss this topic.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Management</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Strategic Management</strong>",
+            "topic_description": "Strategic Management ASSESSMENT OF TUTORIAL ACTIVITY",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Exam Requirements</strong><br/><p>We will review the course content and also discuss requirements and expectations of the final exam.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Review and Exam Requirements</strong>",
+            "topic_description": "Course Review and Exam Requirements We will review the course content and also discuss requirements and expectations of the final exam.",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
             "learning_period": "Week 13",
-            "activity_type": "Lecture",
-            "topic": "Course Review and Exam RequirementsWe will review the course content and also discuss requirements and expectations of the final exam.Learning outcomes:L01",
-            "topic_title": "Course Review and Exam Requirements",
-            "topic_description": "We will review the course content and also discuss requirements and expectations of the final exam.",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Exam Preparation</strong><br/><p>This tutorial will provide exam guidance.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Course Review and Exam Preparation</strong>",
+            "topic_description": "Course Review and Exam Preparation This tutorial will provide exam guidance.",
             "learning_outcomes": [
-                "L01"
+                "L01",
+                "L02"
             ]
         }
     ]
