@@ -1,4 +1,8 @@
 {
+    "course_title": "Analysis of Financial Statements",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3106-60179-7460",
     "full_course_code": "ACCT3106-60179-7460",
     "course_code": "ACCT3106",
@@ -28,31 +32,31 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Financial analysis and valuation project part 1",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "6/09/2024 2:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 6/09/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "The project requires students to complete a detailed financial statement analysis and valuation of a publicly listed company, applying the concepts from the first eight lectures/tutorials.The project will be completed in two parts. Part 1 will focus on applying concepts taught in the first four lectures/tutorials.Full details will be provided by the end of week one of semester through the Course Information Document which will be posted on Learn.UQ.AI Statement:This project is to be completed individually. The use of generative AI tools, such as ChatGPT, is prohibited. Note that all assignments will be checked by Turnitin for similarity and for evidence of AI-generated text.Note that because this is part 1 of a two-part assignment, extensions may be limited to allow for timely feedback to be distributed to the class in preparation for the second part of the assessment.Read full task descriptionHide full task description",
-            "submission_guidelines": "Please submit your written answers through the Turnitin link on Learn.UQ.Please submit your Excel workings through the Blackboard submission link on Learn.UQ.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project requires students to complete a detailed financial statement analysis and valuation of a publicly listed company, applying the concepts from the first eight lectures/tutorials.</p>\n<p>The project will be completed in two parts. Part 1 will focus on applying concepts taught in the first four lectures/tutorials.</p>\n<p>Full details will be provided by the end of week one of semester through the Course Information Document which will be posted on Learn.UQ.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This project is to be completed individually. The use of generative AI tools, such as ChatGPT, is prohibited. Note that all assignments will be checked by Turnitin for similarity and for evidence of AI-generated text.</p>\n<p><strong>Note that because this is part 1 of a two-part assignment, extensions may be limited to allow for timely feedback to be distributed to the class in preparation for the second part of the assessment.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit your written answers through the Turnitin link on Learn.UQ.<br/>\nPlease submit your Excel workings through the Blackboard submission link on Learn.UQ.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Financial analysis and valuation project part 2",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "25/10/2024 2:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L02, L03",
             "mode": "Written",
             "category": "Project",
-            "task_description": "The project requires students to complete a detailed financial statement analysis and valuation of a publicly listed company, applying the concepts from the first eight lectures/tutorials.The project will be completed in two parts. Part 2 will focus on applying the concepts taught in lectures/tutorials five-eight, although it may also build on content covered in earlier weeks.Because Part 2 of the assignment builds on Part 1 of the assignment, suggested solutions for important components of Part 1 will be provided through Learn.UQ after all students have submitted Part 1. Studentsmustbuild on these solutions in answering Part 2 of the assignment. This is to ensure that all students begin Part 2 of the assignment on the right track.Full details will be provided by the end of week one of semester through the Course Information Document which will be posted on Learn.UQ.AI Statement:This project is to be completed individually. The use of generative AI tools, such as ChatGPT, is prohibited. Note that all assignments will be checked by Turnitin for similarity and for evidence of AI-generated text.Read full task descriptionHide full task description",
-            "submission_guidelines": "Please submit your written answers through the Turnitin link on Learn.UQ.Please submit your Excel workings through the Blackboard submission link on Learn.UQ.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project requires students to complete a detailed financial statement analysis and valuation of a publicly listed company, applying the concepts from the first eight lectures/tutorials.</p>\n<p>The project will be completed in two parts. Part 2 will focus on applying the concepts taught in lectures/tutorials five-eight, although it may also build on content covered in earlier weeks.</p>\n<p>Because Part 2 of the assignment builds on Part 1 of the assignment, suggested solutions for important components of Part 1 will be provided through Learn.UQ after all students have submitted Part 1. Students <strong>must </strong>build on these solutions in answering Part 2 of the assignment. This is to ensure that all students begin Part 2 of the assignment on the right track.</p>\n<p>Full details will be provided by the end of week one of semester through the Course Information Document which will be posted on Learn.UQ.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This project is to be completed individually. The use of generative AI tools, such as ChatGPT, is prohibited. Note that all assignments will be checked by Turnitin for similarity and for evidence of AI-generated text.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit your written answers through the Turnitin link on Learn.UQ.<br/>\nPlease submit your Excel workings through the Blackboard submission link on Learn.UQ.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -67,25 +71,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "60%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "Exam questions will address practical and conceptual issues covered over the full course.This exam is aclosed book, invigilated examas required by UQ and Professional Accounting organisations.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exam questions will address practical and conceptual issues covered over the full course.</p>\n<p>This exam is a <strong>closed book, invigilated exam</strong> as required by UQ and Professional Accounting organisations.</p>\n<p>AI Statement:</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Introduction and OverviewLearning outcomes:L01",
-            "topic_title": "Introduction and Overview",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction and Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction and Overview</strong>",
+            "topic_description": "Introduction and Overview",
             "learning_outcomes": [
                 "L01"
             ]
@@ -93,9 +97,19 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1: Introduction and OverviewLearning outcomes:L01",
-            "topic_title": "Tutorial 1: Introduction and Overview",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Introduction and Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Introduction and Overview</strong>",
+            "topic_description": "Tutorial 1: Introduction and Overview",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statement Reformulation Part 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Financial Statement Reformulation Part 1</strong>",
+            "topic_description": "Financial Statement Reformulation Part 1",
             "learning_outcomes": [
                 "L01"
             ]
@@ -103,9 +117,19 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 2: Financial Statement Reformulation Part 1Learning outcomes:L01",
-            "topic_title": "Tutorial 2: Financial Statement Reformulation Part 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Financial Statement Reformulation Part 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Financial Statement Reformulation Part 1</strong>",
+            "topic_description": "Tutorial 2: Financial Statement Reformulation Part 1",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statement Reformulation Part 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Financial Statement Reformulation Part 2</strong>",
+            "topic_description": "Financial Statement Reformulation Part 2",
             "learning_outcomes": [
                 "L01"
             ]
@@ -113,9 +137,19 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 3: Financial Statement Reformulation Part 2Wednesday 14th Public Holiday. - Affected students please attend an alternate tutorial for this week only.Learning outcomes:L01",
-            "topic_title": "Tutorial 3: Financial Statement Reformulation Part 2",
-            "topic_description": "Wednesday 14th Public Holiday. - Affected students please attend an alternate tutorial for this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Financial Statement Reformulation Part 2</strong><br/><p>Wednesday 14th Public Holiday. - Affected students please attend an alternate tutorial for this week only.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Financial Statement Reformulation Part 2</strong>",
+            "topic_description": "Tutorial 3: Financial Statement Reformulation Part 2 Wednesday 14th Public Holiday. - Affected students please attend an alternate tutorial for this week only.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statement Reformulation Part 3</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Financial Statement Reformulation Part 3</strong>",
+            "topic_description": "Financial Statement Reformulation Part 3",
             "learning_outcomes": [
                 "L01"
             ]
@@ -123,39 +157,81 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 4: Financial Statement Reformulation Part 3Learning outcomes:L01",
-            "topic_title": "Tutorial 4: Financial Statement Reformulation Part 3",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Financial Statement Reformulation Part 3</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Financial Statement Reformulation Part 3</strong>",
+            "topic_description": "Tutorial 4: Financial Statement Reformulation Part 3",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
-            "learning_period": "Week 6",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 5: Unlevered Valuation/Reverse EngineeringLearning outcomes:L02",
-            "topic_title": "Tutorial 5: Unlevered Valuation/Reverse Engineering",
-            "topic_description": "",
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unlevered Valuation/Reverse Engineering</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Unlevered Valuation/Reverse Engineering</strong>",
+            "topic_description": "Unlevered Valuation/Reverse Engineering",
             "learning_outcomes": [
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Unlevered Valuation/Reverse Engineering</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Unlevered Valuation/Reverse Engineering</strong>",
+            "topic_description": "Tutorial 5: Unlevered Valuation/Reverse Engineering",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Ratio Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Financial Ratio Analysis</strong>",
+            "topic_description": "Financial Ratio Analysis",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 6: Financial Ratio AnalysisLearning outcomes:L03",
-            "topic_title": "Tutorial 6: Financial Ratio Analysis",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Financial Ratio Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Financial Ratio Analysis</strong>",
+            "topic_description": "Tutorial 6: Financial Ratio Analysis",
             "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Forecasting</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Financial Forecasting</strong>",
+            "topic_description": "Financial Forecasting",
+            "learning_outcomes": [
+                "L02",
                 "L03"
             ]
         },
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 7: Financial ForecastingLearning outcomes:L02, L03",
-            "topic_title": "Tutorial 7: Financial Forecasting",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Financial Forecasting</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Financial Forecasting</strong>",
+            "topic_description": "Tutorial 7: Financial Forecasting",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting Properties and Multiples Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Accounting Properties and Multiples Valuation</strong>",
+            "topic_description": "Accounting Properties and Multiples Valuation",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -164,28 +240,48 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 8: Accounting Properties and Multiples ValuationLearning outcomes:L02, L03",
-            "topic_title": "Tutorial 8: Accounting Properties and Multiples Valuation",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Accounting Properties and Multiples Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Accounting Properties and Multiples Valuation</strong>",
+            "topic_description": "Tutorial 8: Accounting Properties and Multiples Valuation",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting Quality Analysis Part 1</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Accounting Quality Analysis Part 1</strong>",
+            "topic_description": "Accounting Quality Analysis Part 1",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakNo classes this week due to mid-semester break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "No classes this week due to mid-semester break",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No classes this week due to mid-semester break</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No classes this week due to mid-semester break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 9: Accounting Quality Analysis Part 1Learning outcomes:L04",
-            "topic_title": "Tutorial 9: Accounting Quality Analysis Part 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Accounting Quality Analysis Part 1</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Accounting Quality Analysis Part 1</strong>",
+            "topic_description": "Tutorial 9: Accounting Quality Analysis Part 1",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting Quality Analysis Part 2</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Accounting Quality Analysis Part 2</strong>",
+            "topic_description": "Accounting Quality Analysis Part 2",
             "learning_outcomes": [
                 "L04"
             ]
@@ -193,9 +289,19 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 10: Accounting Quality Analysis Part 2King's Birthday public holiday - No tutorial held Monday 07 October 2024. Please attend an alternative tutorial this week only.Learning outcomes:L04",
-            "topic_title": "Tutorial 10: Accounting Quality Analysis Part 2",
-            "topic_description": "King's Birthday public holiday - No tutorial held Monday 07 October 2024. Please attend an alternative tutorial this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Accounting Quality Analysis Part 2</strong><br/><p>King's Birthday public holiday - No tutorial held Monday 07 October 2024. Please attend an alternative tutorial this week only.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Accounting Quality Analysis Part 2</strong>",
+            "topic_description": "Tutorial 10: Accounting Quality Analysis Part 2 King's Birthday public holiday - No tutorial held Monday 07 October 2024. Please attend an alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting Quality Analysis Part 3</strong><br/><p>This lecture clashes with a public holiday. A recording of this lecture will be uploaded to Learn.UQ to replace the live lecture</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Accounting Quality Analysis Part 3</strong>",
+            "topic_description": "Accounting Quality Analysis Part 3 This lecture clashes with a public holiday. A recording of this lecture will be uploaded to Learn.UQ to replace the live lecture",
             "learning_outcomes": [
                 "L04"
             ]
@@ -203,9 +309,19 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 11: Accounting Quality Analysis Part 3Learning outcomes:L04",
-            "topic_title": "Tutorial 11: Accounting Quality Analysis Part 3",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Accounting Quality Analysis Part 3</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Accounting Quality Analysis Part 3</strong>",
+            "topic_description": "Tutorial 11: Accounting Quality Analysis Part 3",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Accounting Quality Analysis Part 4</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Accounting Quality Analysis Part 4</strong>",
+            "topic_description": "Accounting Quality Analysis Part 4",
             "learning_outcomes": [
                 "L04"
             ]
@@ -213,10 +329,23 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 12: Accounting Quality Analysis Part 4Learning outcomes:L04",
-            "topic_title": "Tutorial 12: Accounting Quality Analysis Part 4",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12: Accounting Quality Analysis Part 4</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 12: Accounting Quality Analysis Part 4</strong>",
+            "topic_description": "Tutorial 12: Accounting Quality Analysis Part 4",
             "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Course Review</strong>",
+            "topic_description": "Course Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
                 "L04"
             ]
         }
