@@ -1,4 +1,8 @@
 {
+    "course_title": "Cyber Security Governance, Policy, Ethics and Law",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/CYBR7003-60112-7460",
     "full_course_code": "CYBR7003-60112-7460",
     "course_code": "CYBR7003",
@@ -49,16 +53,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "2/09/2024 2:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 2/09/2024 2:00 pm</p></dd>",
             "learning_objectives": "L05, L06, L07, L08",
             "mode": "Written",
             "category": "Essay/ Critique",
-            "task_description": "Students will be required to prepare an essay individually in relation to a legal issue that arises in a business context in relation to cybersecurity.The paper should identify the issue, set out the law in relation to the issue, identify any gaps or problems with the current law, and if appropriate propose possible changes to the current law.Five example essay topics will be published during the semester. Students can select one of these five topics. Alternatively, students can propose a topic, which must be approved by teaching staff.The word limit for the essay is a maximum of 2,500 words.By way of clarification, this word count:includes headings and subheadings;does not include text in the header;does not include footnotes or Appendices - however footnotes should be used for citation purposes only.  Substantive text should not be included in footnotes.This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.Usage of AI is allowed in this assessment piece, but must be done within the indications and constraints indicated on Blackboard at the beginning of the course. These include including (typically in the assessment appendix) the prompts utilised to query AI, the responses provided by the AI, and evidence of critical analysis of text-generated AI, before usage in the assessment. Moreover, usage of AI needs to be adequately referenced in the assessment. These guidelines are provided because, to pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.A failure to use AI according to the guidelines above (and detailed on Blackboard at the beginning of the course) may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submission will be via Turnitin",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to prepare an essay individually in relation to a legal issue that arises in a business context in relation to cybersecurity.</p>\n<p>The paper should identify the issue, set out the law in relation to the issue, identify any gaps or problems with the current law, and if appropriate propose possible changes to the current law.</p>\n<p>Five example essay topics will be published during the semester. Students can select one of these five topics. Alternatively, students can propose a topic, which must be approved by teaching staff.</p>\n<p>The word limit for the essay is a maximum of 2,500 words.</p>\n<p>By way of clarification, this word count:</p>\n<ul>\n<li>includes headings and subheadings;</li>\n<li>does not include text in the header;</li>\n<li>does not include footnotes or Appendices - however footnotes should be used for citation purposes only.  Substantive text should not be included in footnotes.</li>\n</ul>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Usage of AI is allowed in this assessment piece, but must be done within the indications and constraints indicated on Blackboard at the beginning of the course. These include including (typically in the assessment appendix) the prompts utilised to query AI, the responses provided by the AI, and evidence of critical analysis of text-generated AI, before usage in the assessment. Moreover, usage of AI needs to be adequately referenced in the assessment. These guidelines are provided because, to pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>A failure to use AI according to the guidelines above (and detailed on Blackboard at the beginning of the course) may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -69,16 +73,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "14/10/2024 2:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 14/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "This individual assessment item covers Organisational Perspectives in Cyber Security (governance, policies, procedures, compliance, risk management, culture - including awareness, training and education - and ethics (Weeks 7 - 12 content).For this assessment, you will take on the role of an information security consultant and assess an organisational cyber security scenario.You will provide recommendations for areas to improve and on how to capture further meaningful information for your analysis.This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.Usage of AI is allowed in this assessment piece, but must be done within the indications and constraints indicated on Blackboard at the beginning of the course. These include including (typically in the assessment appendix) the prompts utilised to query AI, the responses provided by the AI, and evidence of critical analysis of text-generated AI, before usage in the assessment. Moreover, usage of AI needs to be adequately referenced in the assessment. These guidelines are provided because, to pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.A failure to use AI according to the guidelines above (and detailed on Blackboard at the beginning of the course) may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submission will be via Turnitin",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This individual assessment item covers Organisational Perspectives in Cyber Security (governance, policies, procedures, compliance, risk management, culture - including awareness, training and education - and ethics (Weeks 7 - 12 content).</p>\n<p>For this assessment, you will take on the role of an information security consultant and assess an organisational cyber security scenario.</p>\n<p>You will provide recommendations for areas to improve and on how to capture further meaningful information for your analysis.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Usage of AI is allowed in this assessment piece, but must be done within the indications and constraints indicated on Blackboard at the beginning of the course. These include including (typically in the assessment appendix) the prompts utilised to query AI, the responses provided by the AI, and evidence of critical analysis of text-generated AI, before usage in the assessment. Moreover, usage of AI needs to be adequately referenced in the assessment. These guidelines are provided because, to pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>A failure to use AI according to the guidelines above (and detailed on Blackboard at the beginning of the course) may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -89,25 +93,25 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "4/11/2024",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 4/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Presentation",
-            "task_description": "In this task you will work in small groups to develop and submit a video presentation (15-20 minutes) supported with slides and/or other appropriate audiovisual aids on a cyber security topic, relating that topic to the learning objectives of the whole course.The precise scenarios and topics will be guided by teaching staff, and you will be given a clear assignment specification outlining the required components.As a group assignment, this piece of assessment will incorporate a peer assessment component. The results of this peer assessment may impact your final marks.This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.Please Note:The presentation will be recorded for marking purposes per UQ Policy.Usage of AI is allowed in this assessment piece, but must be done within the indications and constraints indicated on Blackboard at the beginning of the course. These include including (typically in the assessment appendix) the prompts utilised to query AI, the responses provided by the AI, and evidence of critical analysis of text-generated AI, before usage in the assessment. Moreover, usage of AI needs to be adequately referenced in the assessment. These guidelines are provided because, to pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.A failure to use AI according to the guidelines above (and detailed on Blackboard at the beginning of the course) may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Video presentation to be uploaded on Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this task you will work in small groups to develop and submit a video presentation (15-20 minutes) supported with slides and/or other appropriate audiovisual aids on a cyber security topic, relating that topic to the learning objectives of the whole course.</p>\n<p>The precise scenarios and topics will be guided by teaching staff, and you will be given a clear assignment specification outlining the required components. </p>\n<p>As a group assignment, this piece of assessment will incorporate a peer assessment component. The results of this peer assessment may impact your final marks.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><em>Usage of AI is allowed in this assessment piece, but must be done within the indications and constraints indicated on Blackboard at the beginning of the course. These include including (typically in the assessment appendix) the prompts utilised to query AI, the responses provided by the AI, and evidence of critical analysis of text-generated AI, before usage in the assessment. Moreover, usage of AI needs to be adequately referenced in the assessment. These guidelines are provided because, to pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<p><em>A failure to use AI according to the guidelines above (and detailed on Blackboard at the beginning of the course) may constitute student misconduct under the Student Code of Conduct. </em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Video presentation to be uploaded on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Introduction to CYBR7003: The Legal FrameworkLaw and lawlessnessCivil v. Criminal Causes of actionReasonable Care or Absolute Responsibility?DefencesCompensationOwnershipProofThe international contextLearning outcomes:L05, L06",
-            "topic_title": "Introduction to CYBR7003: The Legal Framework",
-            "topic_description": "Law and lawlessness \nCivil v. Criminal Causes of action \nReasonable Care or Absolute Responsibility? \nDefences \nCompensation \nOwnership \nProof \nThe international context",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to CYBR7003: The Legal Framework</strong><br/><ul>\n<li>Law and lawlessness </li>\n<li>Civil v. Criminal Causes of action </li>\n<li>Reasonable Care or Absolute Responsibility? </li>\n<li>Defences </li>\n<li>Compensation </li>\n<li>Ownership </li>\n<li>Proof </li>\n<li>The international context</li>\n</ul></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Introduction to CYBR7003: The Legal Framework</strong>",
+            "topic_description": "Introduction to CYBR7003: The Legal Framework Law and lawlessness Civil v. Criminal Causes of action Reasonable Care or Absolute Responsibility? Defences Compensation Ownership Proof The international context",
             "learning_outcomes": [
                 "L05",
                 "L06"
@@ -116,9 +120,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Privacy, Security and ConfidentialityObligations of confidenceObligations of integrityRelevant privacy law principlesNotifiable data breachesLearning outcomes:L05, L07, L08",
-            "topic_title": "Privacy, Security and Confidentiality",
-            "topic_description": "Obligations of confidence \nObligations of integrity \nRelevant privacy law principles \nNotifiable data breaches",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Privacy, Security and Confidentiality</strong><br/><ul>\n<li>Obligations of confidence </li>\n<li>Obligations of integrity </li>\n<li>Relevant privacy law principles </li>\n<li>Notifiable data breaches</li>\n</ul></p><p><strong>Learning outcomes:</strong> L05, L07, L08</p></div></td>",
+            "topic_title": "<strong>Privacy, Security and Confidentiality</strong>",
+            "topic_description": "Privacy, Security and Confidentiality Obligations of confidence Obligations of integrity Relevant privacy law principles Notifiable data breaches",
             "learning_outcomes": [
                 "L05",
                 "L07",
@@ -128,9 +132,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Platforms and CloudData Ownership and Control of DataSupply chain legal risksWho owns data in the cloud?Where is data when in the cloud?Who is responsible for data in the cloud?Social Media legal issuesLearning outcomes:L05, L06, L07, L08",
-            "topic_title": "Platforms and Cloud",
-            "topic_description": "Data Ownership and Control of Data \nSupply chain legal risks \nWho owns data in the cloud? \nWhere is data when in the cloud? \nWho is responsible for data in the cloud? \nSocial Media legal issues",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Platforms and Cloud</strong><br/><ul>\n<li>Data Ownership and Control of Data </li>\n<li>Supply chain legal risks </li>\n<li>Who owns data in the cloud? </li>\n<li>Where is data when in the cloud? </li>\n<li>Who is responsible for data in the cloud? </li>\n<li>Social Media legal issues</li>\n</ul></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Platforms and Cloud</strong>",
+            "topic_description": "Platforms and Cloud Data Ownership and Control of Data Supply chain legal risks Who owns data in the cloud? Where is data when in the cloud? Who is responsible for data in the cloud? Social Media legal issues",
             "learning_outcomes": [
                 "L05",
                 "L06",
@@ -141,9 +145,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "The international contextInternational issuesChoice of lawCross Border data transfersCross Border breachesJurisdictionProtecting Critical InfrastructureLearning outcomes:L05, L06, L07, L08",
-            "topic_title": "The international context",
-            "topic_description": "International issues\nChoice of law \nCross Border data transfers \nCross Border breaches \nJurisdiction \nProtecting Critical Infrastructure",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The international context</strong><br/><ul>\n<li>International issues</li>\n<li>Choice of law </li>\n<li>Cross Border data transfers </li>\n<li>Cross Border breaches </li>\n<li>Jurisdiction </li>\n<li>Protecting Critical Infrastructure</li>\n</ul></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>The international context</strong>",
+            "topic_description": "The international context International issues Choice of law Cross Border data transfers Cross Border breaches Jurisdiction Protecting Critical Infrastructure",
             "learning_outcomes": [
                 "L05",
                 "L06",
@@ -154,9 +158,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Responding to cybersec incidents & wrap-upStopping the harmDetermining who is legally responsiblePotential legal causes of action and liability risksReducing legal exposure Insurance issuesEvidence: collecting evidence, maintaining integrity, identifying the bad actorCASE STUDIES: Optus and Medibank Private ransomware incidents in 2022 Practical stepsLearning outcomes:L05, L06, L07, L08",
-            "topic_title": "Responding to cybersec incidents & wrap-up",
-            "topic_description": "Stopping the harm\nDetermining who is legally responsible \nPotential legal causes of action and liability risks \nReducing legal exposure Insurance issues \nEvidence: collecting evidence, maintaining integrity, identifying the bad actor \nCASE STUDIES: Optus and Medibank Private ransomware incidents in 2022 Practical steps",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responding to cybersec incidents &amp; wrap-up</strong><br/><ul>\n<li>Stopping the harm</li>\n<li>Determining who is legally responsible </li>\n<li>Potential legal causes of action and liability risks </li>\n<li>Reducing legal exposure Insurance issues </li>\n<li>Evidence: collecting evidence, maintaining integrity, identifying the bad actor </li>\n<li>CASE STUDIES: Optus and Medibank Private ransomware incidents in 2022 Practical steps</li>\n</ul></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Responding to cybersec incidents &amp; wrap-up</strong>",
+            "topic_description": "Responding to cybersec incidents & wrap-up Stopping the harm Determining who is legally responsible Potential legal causes of action and liability risks Reducing legal exposure Insurance issues Evidence: collecting evidence, maintaining integrity, identifying the bad actor CASE STUDIES: Optus and Medibank Private ransomware incidents in 2022 Practical steps",
             "learning_outcomes": [
                 "L05",
                 "L06",
@@ -167,9 +171,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Between Management and Law: Ethics in CSDefinitions and key-conceptsGuiding managerial behaviours and operational practices in organisationsA cybersecurity deontology?From the legal domain to organisational policiesLearning outcomes:L01, L06, L07, L08",
-            "topic_title": "Between Management and Law: Ethics in CS",
-            "topic_description": "Definitions and key-concepts \nGuiding managerial behaviours and operational practices in organisations \nA cybersecurity deontology? \nFrom the legal domain to organisational policies",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Between Management and Law: Ethics in CS</strong><br/><ul>\n<li>Definitions and key-concepts </li>\n<li>Guiding managerial behaviours and operational practices in organisations </li>\n<li>A cybersecurity deontology? </li>\n<li>From the legal domain to organisational policies</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Between Management and Law: Ethics in CS</strong>",
+            "topic_description": "Between Management and Law: Ethics in CS Definitions and key-concepts Guiding managerial behaviours and operational practices in organisations A cybersecurity deontology? From the legal domain to organisational policies",
             "learning_outcomes": [
                 "L01",
                 "L06",
@@ -180,9 +184,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Industry PanelMeet several cyber-professionals and talk about all things cyber with them!Learning outcomes:L02, L04",
-            "topic_title": "Industry Panel",
-            "topic_description": "Meet several cyber-professionals and talk about all things cyber with them!",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Industry Panel</strong><br/><p>Meet several cyber-professionals and talk about all things cyber with them!</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Industry Panel</strong>",
+            "topic_description": "Industry Panel Meet several cyber-professionals and talk about all things cyber with them!",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -191,9 +195,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Organisational cybersecurity: An introBasic definitionsIT governance: historical perspective and definitionsCorporate governance, IT governance, infosec governanceCorporate governance theories in action: Agency Theory. How does it apply to infosec?CASE STUDY: The TJX data breachLearning outcomes:L01, L02, L03",
-            "topic_title": "Organisational cybersecurity: An intro",
-            "topic_description": "Basic definitions\nIT governance: historical perspective and definitions\nCorporate governance, IT governance, infosec governance\nCorporate governance theories in action: Agency Theory. How does it apply to infosec?\nCASE STUDY: The TJX data breach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organisational cybersecurity: An intro</strong><br/><ul>\n<li>Basic definitions</li>\n<li>IT governance: historical perspective and definitions</li>\n<li>Corporate governance, IT governance, infosec governance</li>\n<li>Corporate governance theories in action: Agency Theory. How does it apply to infosec?</li>\n<li>CASE STUDY: The TJX data breach</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Organisational cybersecurity: An intro</strong>",
+            "topic_description": "Organisational cybersecurity: An intro Basic definitions IT governance: historical perspective and definitions Corporate governance, IT governance, infosec governance Corporate governance theories in action: Agency Theory. How does it apply to infosec? CASE STUDY: The TJX data breach",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -203,9 +207,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Governance in CS: Standards and FrameworksISO27001-002; NIST; and Essential EightsStandards in action in public and private organisationsCase Study: TargetLearning outcomes:L01, L03",
-            "topic_title": "Governance in CS: Standards and Frameworks",
-            "topic_description": "ISO27001-002; NIST; and Essential Eights\nStandards in action in public and private organisations\nCase Study: Target",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Governance in CS: Standards and Frameworks</strong><br/><ul>\n<li>ISO27001-002; NIST; and Essential Eights</li>\n<li>Standards in action in public and private organisations</li>\n<li>Case Study: Target</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Governance in CS: Standards and Frameworks</strong>",
+            "topic_description": "Governance in CS: Standards and Frameworks ISO27001-002; NIST; and Essential Eights Standards in action in public and private organisations Case Study: Target",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -214,17 +218,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Org Cybersec Policies and ProcInfosec policies: unpacking themCompliance vs non-compliance: root causes and the role of human factorsCompliance issues to information security policies: why don't employees comply?Antecedents of complianceCASE STUDY: ANU breachLearning outcomes:L01, L02, L04",
-            "topic_title": "Org Cybersec Policies and Proc",
-            "topic_description": "Infosec policies: unpacking them\nCompliance vs non-compliance: root causes and the role of human factors\nCompliance issues to information security policies: why don't employees comply?\nAntecedents of compliance\nCASE STUDY: ANU breach",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Org Cybersec Policies and Proc</strong><br/><ul>\n<li>Infosec policies: unpacking them</li>\n<li>Compliance vs non-compliance: root causes and the role of human factors</li>\n<li>Compliance issues to information security policies: why don't employees comply?</li>\n<li>Antecedents of compliance</li>\n<li>CASE STUDY: ANU breach</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Org Cybersec Policies and Proc</strong>",
+            "topic_description": "Org Cybersec Policies and Proc Infosec policies: unpacking them Compliance vs non-compliance: root causes and the role of human factors Compliance issues to information security policies: why don't employees comply? Antecedents of compliance CASE STUDY: ANU breach",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -234,9 +238,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "CS Risk Management + Intro: Culture & TrainingCyber-risk management: a complete overviewAwareness Culture and Training: an IntroCyber-risk assessment in practiceKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02, L03, L04",
-            "topic_title": "CS Risk Management + Intro: Culture & Training",
-            "topic_description": "Cyber-risk management: a complete overview\nAwareness Culture and Training: an Intro\nCyber-risk assessment in practice\n\nKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>CS Risk Management + Intro: Culture &amp; Training</strong><br/><ul>\n<li>Cyber-risk management: a complete overview</li>\n<li>Awareness Culture and Training: an Intro</li>\n<li>Cyber-risk assessment in practice</li>\n</ul>\n<p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>CS Risk Management + Intro: Culture &amp; Training</strong>",
+            "topic_description": "CS Risk Management + Intro: Culture & Training Cyber-risk management: a complete overview Awareness Culture and Training: an Intro Cyber-risk assessment in practice King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -246,9 +250,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "CS Awareness, Training and EducationCS Risk Management - wrap-upOrganisational awareness campaignsCS training and EducationCASE STUDY: Anthem Data BreachCASE STUDY: US Economic Development AdministrationLearning outcomes:L02, L03, L04",
-            "topic_title": "CS Awareness, Training and Education",
-            "topic_description": "CS Risk Management - wrap-up\nOrganisational awareness campaigns\nCS training and Education\nCASE STUDY: Anthem Data Breach\nCASE STUDY: US Economic Development Administration",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>CS Awareness, Training and Education</strong><br/><ul>\n<li>CS Risk Management - wrap-up</li>\n<li>Organisational awareness campaigns</li>\n<li>CS training and Education</li>\n<li>CASE STUDY: Anthem Data Breach</li>\n<li>CASE STUDY: US Economic Development Administration</li>\n</ul></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>CS Awareness, Training and Education</strong>",
+            "topic_description": "CS Awareness, Training and Education CS Risk Management - wrap-up Organisational awareness campaigns CS training and Education CASE STUDY: Anthem Data Breach CASE STUDY: US Economic Development Administration",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -258,9 +262,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Wrap-up and Assessment labThis session will wrap-up the course contents, answer questions students may have on their assessment, and give them time to work on assessment 3, if requiredLearning outcomes:L01",
-            "topic_title": "Wrap-up and Assessment lab",
-            "topic_description": "This session will wrap-up the course contents, answer questions students may have on their assessment, and give them time to work on assessment 3, if required",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wrap-up and Assessment lab</strong><br/><p>This session will wrap-up the course contents, answer questions students may have on their assessment, and give them time to work on assessment 3, if required</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Wrap-up and Assessment lab</strong>",
+            "topic_description": "Wrap-up and Assessment lab This session will wrap-up the course contents, answer questions students may have on their assessment, and give them time to work on assessment 3, if required",
             "learning_outcomes": [
                 "L01"
             ]
