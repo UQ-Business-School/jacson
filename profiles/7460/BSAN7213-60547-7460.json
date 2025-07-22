@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Analytics Applications",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
     "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7213-60547-7460",
     "full_course_code": "BSAN7213-60547-7460",
     "course_code": "BSAN7213",
@@ -24,70 +28,70 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "A1: Design a Continuous Auditing Model",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "23/08/2024 5:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 23/08/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Project",
-            "task_description": "The task in this assessment is to design, describe and apply a continuous auditing model, based on your reading and understanding of the details presented in the DBS Bank case study “Innovation in Assurance: Doing More, and More Effectively, with Less”.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The task in this assessment is to design, describe and apply a continuous auditing model, based on your reading and understanding of the details presented in the DBS Bank case study “Innovation in Assurance: Doing More, and More Effectively, with Less”.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "A2: Design a Machine Learning Model",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "13/09/2024 5:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 13/09/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Product/ Design",
-            "task_description": "In this assignment, students have the option to design and develop a new machine learning model or utilise and adapt the model that was previously recommended in module 2.2.The key task is to choose and endorse just one model, providing justification for why it is the recommended model with respect to three critical areas of healthcare analytics: operational management, cost management, and care management.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, students have the option to design and develop a new machine learning model or utilise and adapt the model that was previously recommended in module 2.2.</p>\n<p>The key task is to choose and endorse just one model, providing justification for why it is the recommended model with respect to three critical areas of healthcare analytics: operational management, cost management, and care management.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "A3: HR Data Analysis and Report",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "18/10/2024 5:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 18/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The key task in this assessment is to provide insights into the features that explains or may be associated with turnover patterns of +10,000 strong group of employees using the data set provided.You will need to identify an interesting finding within your analytics and develop a 1000-word (maximum) report on findings.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The key task in this assessment is to provide insights into the features that explains or may be associated with turnover patterns of +10,000 strong group of employees using the data set provided.</p>\n<p>You will need to identify an interesting finding within your analytics and develop a 1000-word (maximum) report on findings. </p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "A4: Reflective Essay",
             "special_indicators": [],
-            "weighting": "10%",
-            "due_date": "8/11/2024 5:00 pm",
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 8/11/2024 5:00 pm</p></dd>",
             "learning_objectives": "L02",
             "mode": "Written",
             "category": "Essay/ Critique, Reflection",
-            "task_description": "For this assessment, you will need to write an essay reflecting on your learning experience across this course, applying the four components of reflective thinking, adapted from The Integrated Reflective Cycle (Bassot, 2013).Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assessment, you will need to write an essay reflecting on your learning experience across this course, applying the four components of reflective thinking, adapted from The Integrated Reflective Cycle (Bassot, 2013).</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task; however, students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Not Timetabled",
-            "topic": "Module 1: Audit Analytics | Sub-Module 1.1Self-Directed Learning: Foundations of Audit Analytics. This topic identifies and explains the key principles of audit and assurance, explores the purposes of data analytics in the field of audit, and introduces the audit decision-making framework.Learning outcomes:L01, L02",
-            "topic_title": "Module 1: Audit Analytics | Sub-Module 1.1",
-            "topic_description": "Self-Directed Learning: Foundations of Audit Analytics. This topic identifies and explains the key principles of audit and assurance, explores the purposes of data analytics in the field of audit, and introduces the audit decision-making framework.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Audit Analytics | Sub-Module 1.1</strong><br/><p>Self-Directed Learning: Foundations of Audit Analytics. This topic identifies and explains the key principles of audit and assurance, explores the purposes of data analytics in the field of audit, and introduces the audit decision-making framework.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 1: Audit Analytics | Sub-Module 1.1</strong>",
+            "topic_description": "Module 1: Audit Analytics | Sub-Module 1.1 Self-Directed Learning: Foundations of Audit Analytics. This topic identifies and explains the key principles of audit and assurance, explores the purposes of data analytics in the field of audit, and introduces the audit decision-making framework.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -96,9 +100,21 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Not Timetabled",
-            "topic": "Module 1: Audit Analytics | Sub-Module 1.2Self-Directed Learning: Audit Analytic Techniques. This topic focuses on the alignment between analytic tools and techniques, and the audit engagement.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 1: Audit Analytics | Sub-Module 1.2",
-            "topic_description": "Self-Directed Learning: Audit Analytic Techniques. This topic focuses on the alignment between analytic tools and techniques, and the audit engagement.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Audit Analytics | Sub-Module 1.2</strong><br/><p>Self-Directed Learning: Audit Analytic Techniques. This topic focuses on the alignment between analytic tools and techniques, and the audit engagement.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 1: Audit Analytics | Sub-Module 1.2</strong>",
+            "topic_description": "Module 1: Audit Analytics | Sub-Module 1.2 Self-Directed Learning: Audit Analytic Techniques. This topic focuses on the alignment between analytic tools and techniques, and the audit engagement.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Audit Analytics | Sub-Module 1.3 </strong><br/><p>Self-Directed Learning: Machine Learning and AI in the Audit Domain. This topic explores Machine Learning (ML) and Artificial Intelligence (AI) in the field of audit analytics, placing specific focus on the Continuous Auditing model.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 1: Audit Analytics | Sub-Module 1.3 </strong>",
+            "topic_description": "Module 1: Audit Analytics | Sub-Module 1.3 Self-Directed Learning: Machine Learning and AI in the Audit Domain. This topic explores Machine Learning (ML) and Artificial Intelligence (AI) in the field of audit analytics, placing specific focus on the Continuous Auditing model.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -108,9 +124,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Live Session | Audit AnalyticsLearning outcomes:L01, L02",
-            "topic_title": "Live Session | Audit Analytics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session | Audit Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Live Session | Audit Analytics</strong>",
+            "topic_description": "Live Session | Audit Analytics",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -119,9 +135,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Not Timetabled",
-            "topic": "Module 1: ReflectionReflect on course materials for Module 1 and finalise Assessment 1.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 1: Reflection",
-            "topic_description": "Reflect on course materials for Module 1 and finalise Assessment 1.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Reflection</strong><br/><p>Reflect on course materials for Module 1 and finalise Assessment 1.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 1: Reflection</strong>",
+            "topic_description": "Module 1: Reflection Reflect on course materials for Module 1 and finalise Assessment 1.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -131,9 +147,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Not Timetabled",
-            "topic": "Module 2: Healthcare Analytics | Sub-Module 2.1Self-Directed Learning: Transformation in the Healthcare Domain. This topic focuses on the application of data analysis techniques in healthcare. You will explore the Healthcare Analytics Framework and review a variety of case studies featuring the application of bespoke analytics to solve healthcare related challenges.Learning outcomes:L01, L02",
-            "topic_title": "Module 2: Healthcare Analytics | Sub-Module 2.1",
-            "topic_description": "Self-Directed Learning: Transformation in the Healthcare Domain. This topic focuses on the application of data analysis techniques in healthcare. You will explore the Healthcare Analytics Framework and review a variety of case studies featuring the application of bespoke analytics to solve healthcare related challenges.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Healthcare Analytics | Sub-Module 2.1</strong><br/><p>Self-Directed Learning: Transformation in the Healthcare Domain. This topic focuses on the application of data analysis techniques in healthcare. You will explore the Healthcare Analytics Framework and review a variety of case studies featuring the application of bespoke analytics to solve healthcare related challenges.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 2: Healthcare Analytics | Sub-Module 2.1</strong>",
+            "topic_description": "Module 2: Healthcare Analytics | Sub-Module 2.1 Self-Directed Learning: Transformation in the Healthcare Domain. This topic focuses on the application of data analysis techniques in healthcare. You will explore the Healthcare Analytics Framework and review a variety of case studies featuring the application of bespoke analytics to solve healthcare related challenges.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -142,9 +158,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Not Timetabled",
-            "topic": "Module 2: Healthcare Analytics | Sub-Module 2.2Self-Directed Learning: Advanced Analytics in Healthcare. This topic introduces both basic and advanced sources of data and analysis techniques commonly used in healthcare.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 2: Healthcare Analytics | Sub-Module 2.2",
-            "topic_description": "Self-Directed Learning: Advanced Analytics in Healthcare. This topic introduces both basic and advanced sources of data and analysis techniques commonly used in healthcare.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Healthcare Analytics | Sub-Module 2.2</strong><br/><p>Self-Directed Learning: Advanced Analytics in Healthcare. This topic introduces both basic and advanced sources of data and analysis techniques commonly used in healthcare.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2: Healthcare Analytics | Sub-Module 2.2</strong>",
+            "topic_description": "Module 2: Healthcare Analytics | Sub-Module 2.2 Self-Directed Learning: Advanced Analytics in Healthcare. This topic introduces both basic and advanced sources of data and analysis techniques commonly used in healthcare.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -152,11 +168,22 @@
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session | Healthcare Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Live Session | Healthcare Analytics</strong>",
+            "topic_description": "Live Session | Healthcare Analytics",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 7",
             "activity_type": "Not Timetabled",
-            "topic": "Module 2: Healthcare Analytics | Sub-Module 2.3Self-Directed Learning: Implementing Healthcare Analytics. This topic focuses on challenges and crucial decisions that a healthcare data analyst may face while developing and implementing a real-world healthcare analytics project.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 2: Healthcare Analytics | Sub-Module 2.3",
-            "topic_description": "Self-Directed Learning: Implementing Healthcare Analytics. This topic focuses on challenges and crucial decisions that a healthcare data analyst may face while developing and implementing a real-world healthcare analytics project.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Healthcare Analytics | Sub-Module 2.3</strong><br/><p>Self-Directed Learning: Implementing Healthcare Analytics. This topic focuses on challenges and crucial decisions that a healthcare data analyst may face while developing and implementing a real-world healthcare analytics project.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2: Healthcare Analytics | Sub-Module 2.3</strong>",
+            "topic_description": "Module 2: Healthcare Analytics | Sub-Module 2.3 Self-Directed Learning: Implementing Healthcare Analytics. This topic focuses on challenges and crucial decisions that a healthcare data analyst may face while developing and implementing a real-world healthcare analytics project.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -166,9 +193,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Module 2: ReflectionReflect on course materials for Module 2 and finalise Assessment 2.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 2: Reflection",
-            "topic_description": "Reflect on course materials for Module 2 and finalise Assessment 2.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Reflection</strong><br/><p>Reflect on course materials for Module 2 and finalise Assessment 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2: Reflection</strong>",
+            "topic_description": "Module 2: Reflection Reflect on course materials for Module 2 and finalise Assessment 2.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -178,9 +205,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Not Timetabled",
-            "topic": "Module 3: HR Analytics | Sub-Module 3.1Self-Directed Learning: The Three Core Pillars of HR Analytics. This topic introduces the concepts of the Human Resources (HR) function, Human Resource Management (HRM) and the three pillars of HR Analytics. The first pillar of HR Analytics, Engagement, is explored in detail.Learning outcomes:L01, L02",
-            "topic_title": "Module 3: HR Analytics | Sub-Module 3.1",
-            "topic_description": "Self-Directed Learning: The Three Core Pillars of HR Analytics. This topic introduces the concepts of the Human Resources (HR) function, Human Resource Management (HRM) and the three pillars of HR Analytics. The first pillar of HR Analytics, Engagement, is explored in detail.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3: HR Analytics | Sub-Module 3.1</strong><br/><p>Self-Directed Learning: The Three Core Pillars of HR Analytics. This topic introduces the concepts of the Human Resources (HR) function, Human Resource Management (HRM) and the three pillars of HR Analytics. The first pillar of HR Analytics, Engagement, is explored in detail.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 3: HR Analytics | Sub-Module 3.1</strong>",
+            "topic_description": "Module 3: HR Analytics | Sub-Module 3.1 Self-Directed Learning: The Three Core Pillars of HR Analytics. This topic introduces the concepts of the Human Resources (HR) function, Human Resource Management (HRM) and the three pillars of HR Analytics. The first pillar of HR Analytics, Engagement, is explored in detail.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -189,17 +216,29 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Not Timetabled",
-            "topic": "Module 3: HR Analytics | Sub-Module 3.2Self-Directed Learning: Employee Performance. This topic explores the second core pillar of HR analytics, employee performance. An industry case snapshot is also provided, which will play a central role in your third assessment task.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 3: HR Analytics | Sub-Module 3.2",
-            "topic_description": "Self-Directed Learning: Employee Performance. This topic explores the second core pillar of HR analytics, employee performance. An industry case snapshot is also provided, which will play a central role in your third assessment task.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3: HR Analytics | Sub-Module 3.2</strong><br/><p>Self-Directed Learning: Employee Performance. This topic explores the second core pillar of HR analytics, employee performance. An industry case snapshot is also provided, which will play a central role in your third assessment task.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 3: HR Analytics | Sub-Module 3.2</strong>",
+            "topic_description": "Module 3: HR Analytics | Sub-Module 3.2 Self-Directed Learning: Employee Performance. This topic explores the second core pillar of HR analytics, employee performance. An industry case snapshot is also provided, which will play a central role in your third assessment task.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session | HR Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session | HR Analytics</strong>",
+            "topic_description": "Live Session | HR Analytics",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -209,9 +248,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Not Timetabled",
-            "topic": "Module 3: HR Analytics | Sub-Module 3.3Self-Directed Learning: Employee Turnover. This topic focuses on the third pillar of HR Analytics, employee turnover.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 3: HR Analytics | Sub-Module 3.3",
-            "topic_description": "Self-Directed Learning: Employee Turnover. This topic focuses on the third pillar of HR Analytics, employee turnover.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3: HR Analytics | Sub-Module 3.3</strong><br/><p>Self-Directed Learning: Employee Turnover. This topic focuses on the third pillar of HR Analytics, employee turnover.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 3: HR Analytics | Sub-Module 3.3</strong>",
+            "topic_description": "Module 3: HR Analytics | Sub-Module 3.3 Self-Directed Learning: Employee Turnover. This topic focuses on the third pillar of HR Analytics, employee turnover.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -221,9 +260,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Not Timetabled",
-            "topic": "Module 4: ReflectionSelf-Directed Learning: Fostering Action Through Integration. In this concluding module, we will bring together the knowledge you have gained from the three domains.Learning outcomes:L01, L02, L03",
-            "topic_title": "Module 4: Reflection",
-            "topic_description": "Self-Directed Learning: Fostering Action Through Integration. In this concluding module, we will bring together the knowledge you have gained from the three domains.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4: Reflection</strong><br/><p>Self-Directed Learning: Fostering Action Through Integration. In this concluding module, we will bring together the knowledge you have gained from the three domains.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 4: Reflection</strong>",
+            "topic_description": "Module 4: Reflection Self-Directed Learning: Fostering Action Through Integration. In this concluding module, we will bring together the knowledge you have gained from the three domains.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -231,11 +270,19 @@
             ]
         },
         {
+            "learning_period": "Week 12",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Drop in consultations available</strong><br/></p></div></td>",
+            "topic_title": "<strong>Drop in consultations available</strong>",
+            "topic_description": "Drop in consultations available",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Modules 3 and 4: ReflectionReflect on course materials and finalise Assessment 3, progress Assessment 4.Learning outcomes:L01, L02, L03",
-            "topic_title": "Modules 3 and 4: Reflection",
-            "topic_description": "Reflect on course materials and finalise Assessment 3, progress Assessment 4.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modules 3 and 4: Reflection</strong><br/><p>Reflect on course materials and finalise Assessment 3, progress Assessment 4.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Modules 3 and 4: Reflection</strong>",
+            "topic_description": "Modules 3 and 4: Reflection Reflect on course materials and finalise Assessment 3, progress Assessment 4.",
             "learning_outcomes": [
                 "L01",
                 "L02",
