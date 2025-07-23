@@ -1,0 +1,375 @@
+{
+    "course_title": "Machine Learning in Business",
+    "study_period": "Sem 2 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7212-60201-7560",
+    "full_course_code": "BSAN7212-60201-7560",
+    "course_code": "BSAN7212",
+    "class_code": "60201",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop machine learning solutions for a specific business"
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically evaluate the applicability of machine learning solutions"
+        },
+        {
+            "number": "LO3.",
+            "description": "Communicate and justify machine learning projects to business and technical audiences"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "ML Mastery Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> Week 2 - Week 10</p>\n<p>\n</p><p>Quizzes must be completed online within the designated timeframe during the relevant week. More details will be available on Ultra as the semester begins.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Computer Code, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Eight quizzes will be delivered during Weeks 2 to 10 of the semester. Each quiz will be available during the relevant week and is designed to assess your understanding of the weekly content and practical tasks.</p>\n<p>Quizzes must be completed within the designated timeframe. A missed quiz will result in a score of zero.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online quizzes will be delivered during Weeks 2 to 10 of the semester. Each quiz is based on the weekly bootcamp activity and is designed to assess your understanding of the practical tasks and concepts covered that week.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Oral Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> Week 11 - Week 12</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During Weeks 11 and 12, students will deliver an individual oral presentation outlining the progress of their ML project. This assessment is designed to evaluate your understanding of the project, your approach to data preparation and modelling, and your ability to communicate key insights.</p>\n<p>You will receive constructive feedback during this session, which can be used to enhance your final project submission. The oral presentation contributes 30% to your overall project grade.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Jupyter Lifecycle Mastery in ML Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 31/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This individual assignment provides a comprehensive opportunity for hands-on engagement with the entire lifecycle of an ML project. The primary objective is to gain practical experience in the sequential processes of conceptualizing, constructing, evaluating, refining, and ultimately presenting an ML model. The assignment is designed to enhance your proficiency in utilizing Jupyter Notebook as the exclusive platform for model development.</p>\n<p>Throughout this project, you will delve into the intricacies of data pre-processing, model selection, and hyperparameter tuning to craft robust and effective ML models. Emphasis will be placed on understanding the iterative nature of model refinement, as you work to enhance the model's performance based on evaluation metrics.</p>\n<p>The deliverable for this assignment is the Jupyter Notebook containing your entire workflow. This serves as a testament to your skills in model development and showcases your understanding of the practical applications of ML in a business context. This assignment aims to equip you with practical insights and skills that can be directly applied in real-world scenarios, fostering a holistic understanding of the ML project lifecycle.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically through the Blackboard assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1: Introduction to ML and Python</strong><br/><p>An introduction to Machine Learning concepts and Python as a tool for ML.</p>\n<p><strong>Live session:</strong> Staff and student introductions, course objectives, assessments overview, and discussion of ML fundamentals.</p>\n<p><strong>Self-directed learning:</strong> Complete introductory materials before the session.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Module 1.1: Introduction to ML and Python</strong>",
+            "topic_description": "Module 1.1: Introduction to ML and Python An introduction to Machine Learning concepts and Python as a tool for ML. Live session: Staff and student introductions, course objectives, assessments overview, and discussion of ML fundamentals. Self-directed learning: Complete introductory materials before the session.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1  Coding Bootcamp</strong><br/><p>Introduction to Python programming and Jupyter Notebook setup.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.1  Coding Bootcamp</strong>",
+            "topic_description": "Module 1.1  Coding Bootcamp Introduction to Python programming and Jupyter Notebook setup.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.2:  Python coding for ML</strong><br/><p>Hands-on session covering Python data structures, libraries (pandas, numpy), and basics of coding for ML.</p>\n<p><strong>Live session:</strong> Guided coding demonstrations and exercises.</p>\n<p><strong>Self-directed learning:</strong> Review Python examples and practice exercises.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.2:  Python coding for ML</strong>",
+            "topic_description": "Module 1.2:  Python coding for ML Hands-on session covering Python data structures, libraries (pandas, numpy), and basics of coding for ML. Live session: Guided coding demonstrations and exercises. Self-directed learning: Review Python examples and practice exercises.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.2: Coding Bootcamp</strong><br/><p>Practicing Data Types, Loops, and Conditionals in Python</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.2: Coding Bootcamp</strong>",
+            "topic_description": "Module 1.2: Coding Bootcamp Practicing Data Types, Loops, and Conditionals in Python",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1: Cluster Analysis</strong><br/><p>Exploration of unsupervised learning through clustering methods.</p>\n<p><strong>Live session:</strong> Theory and examples of k-means, hierarchical clustering, and evaluation metrics.</p>\n<p><strong>Self-directed learning:</strong> Study clustering case studies.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.1: Cluster Analysis</strong>",
+            "topic_description": "Module 2.1: Cluster Analysis Exploration of unsupervised learning through clustering methods. Live session: Theory and examples of k-means, hierarchical clustering, and evaluation metrics. Self-directed learning: Study clustering case studies.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1: Coding Bootcamp</strong><br/><p>Clustering datasets and visualizing results.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.1: Coding Bootcamp</strong>",
+            "topic_description": "Module 2.1: Coding Bootcamp Clustering datasets and visualizing results.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.2: Classification</strong><br/><p>Introduction to supervised classification methods (e.g., decision trees and Random Forest).</p>\n<p><strong>Live session:</strong> Classification theory, use cases, and demonstrations.</p>\n<p><strong>Self-directed learning:</strong> Readings and exercises on classification.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.2: Classification</strong>",
+            "topic_description": "Module 2.2: Classification Introduction to supervised classification methods (e.g., decision trees and Random Forest). Live session: Classification theory, use cases, and demonstrations. Self-directed learning: Readings and exercises on classification.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.2: Coding Bootcamp</strong><br/><p>Building Decision Tree classifiers in Python.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.2: Coding Bootcamp</strong>",
+            "topic_description": "Module 2.2: Coding Bootcamp Building Decision Tree classifiers in Python.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.3: Classification Evaluation</strong><br/><p>Focus on evaluating classification models.</p>\n<p><strong>Live session:</strong> Confusion matrix, accuracy, precision, recall, ROC, and AUC.</p>\n<p><strong>Self-directed learning:</strong> Review examples of evaluation techniques.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.3: Classification Evaluation</strong>",
+            "topic_description": "Module 2.3: Classification Evaluation Focus on evaluating classification models. Live session: Confusion matrix, accuracy, precision, recall, ROC, and AUC. Self-directed learning: Review examples of evaluation techniques.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.3: Coding Bootcamp</strong><br/><p>Calculating and interpreting evaluation metrics.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.3: Coding Bootcamp</strong>",
+            "topic_description": "Module 2.3: Coding Bootcamp Calculating and interpreting evaluation metrics.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.4: Other Classification Techniques</strong><br/><p>Exploring additional classifiers like SVM, k-NN, and Naive Bayes.</p>\n<p><strong>Live session:</strong> Discussion of alternative approaches and their pros &amp; cons.</p>\n<p><strong>Self-directed learning:</strong> Study supplementary materials on advanced classifiers.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.4: Other Classification Techniques</strong>",
+            "topic_description": "Module 2.4: Other Classification Techniques Exploring additional classifiers like SVM, k-NN, and Naive Bayes. Live session: Discussion of alternative approaches and their pros & cons. Self-directed learning: Study supplementary materials on advanced classifiers.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.4: Coding Bootcamp</strong><br/><p>Implementing and comparing advanced classification methods.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.4: Coding Bootcamp</strong>",
+            "topic_description": "Module 2.4: Coding Bootcamp Implementing and comparing advanced classification methods.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1: Text Preparation for ML</strong><br/><p>Working with unstructured text data for ML.</p>\n<p><strong>Live session:</strong> Text cleaning, tokenization, and feature extraction techniques.</p>\n<p><strong>Self-directed learning:</strong> Readings and exercises on text preprocessing.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 3.1: Text Preparation for ML</strong>",
+            "topic_description": "Module 3.1: Text Preparation for ML Working with unstructured text data for ML. Live session: Text cleaning, tokenization, and feature extraction techniques. Self-directed learning: Readings and exercises on text preprocessing.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1: Coding Bootcamp</strong><br/><p>Text preprocessing in Python.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 3.1: Coding Bootcamp</strong>",
+            "topic_description": "Module 3.1: Coding Bootcamp Text preprocessing in Python.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2: Text-Driven ML</strong><br/><p>Applying ML techniques to text data.</p>\n<p><strong>Live session:</strong> Sentiment analysis, text classification, and business use cases.</p>\n<p><strong>Self-directed learning:</strong> Review case studies in Text-Driven ML.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 3.2: Text-Driven ML</strong>",
+            "topic_description": "Module 3.2: Text-Driven ML Applying ML techniques to text data. Live session: Sentiment analysis, text classification, and business use cases. Self-directed learning: Review case studies in Text-Driven ML.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2: Coding Bootcamp</strong><br/><p>Building models for sentiment and text classification.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 3.2: Coding Bootcamp</strong>",
+            "topic_description": "Module 3.2: Coding Bootcamp Building models for sentiment and text classification.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3: Recommender Systems</strong><br/><p>Designing and implementing recommendation algorithms.</p>\n<p><strong>Live session:</strong> Collaborative and content-based filtering, hybrid approaches.</p>\n<p><strong>Self-directed learning:</strong> Study examples of recommender systems in practice.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 3.3: Recommender Systems</strong>",
+            "topic_description": "Module 3.3: Recommender Systems Designing and implementing recommendation algorithms. Live session: Collaborative and content-based filtering, hybrid approaches. Self-directed learning: Study examples of recommender systems in practice.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3: Coding Bootcamp</strong><br/><p>Students work on their ML project and may seek support during this session.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 3.3: Coding Bootcamp</strong>",
+            "topic_description": "Module 3.3: Coding Bootcamp Students work on their ML project and may seek support during this session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.1: Artificial Neural Networks (ANN)</strong><br/><p>Understanding the fundamentals of ANNs and their components.</p>\n<p><strong>Live session:</strong> Neurons, layers, activation functions, and backpropagation.</p>\n<p><strong>Self-directed learning:</strong> Readings on ANN theory and applications.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 4.1: Artificial Neural Networks (ANN)</strong>",
+            "topic_description": "Module 4.1: Artificial Neural Networks (ANN) Understanding the fundamentals of ANNs and their components. Live session: Neurons, layers, activation functions, and backpropagation. Self-directed learning: Readings on ANN theory and applications.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.1: Coding Bootcamp</strong><br/><p>Implementing simple neural networks with Python.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 4.1: Coding Bootcamp</strong>",
+            "topic_description": "Module 4.1: Coding Bootcamp Implementing simple neural networks with Python.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.2: Deep Learning (DL)</strong><br/><p>Understanding advanced deep learning architectures, including CNNs and RNNs, and their applications to image and sequence data.</p>\n<p><strong>Live session:</strong> Oral presentations + Introduction to CNNs and RNNs in DL.</p>\n<p><strong>Self-directed learning:</strong> Incorporate feedback and explore DL architectures.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 4.2: Deep Learning (DL)</strong>",
+            "topic_description": "Module 4.2: Deep Learning (DL) Understanding advanced deep learning architectures, including CNNs and RNNs, and their applications to image and sequence data. Live session: Oral presentations + Introduction to CNNs and RNNs in DL. Self-directed learning: Incorporate feedback and explore DL architectures.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.2: Oral Examination</strong><br/><p>Students present progress on their final ML projects and receive feedback.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 4.2: Oral Examination</strong>",
+            "topic_description": "Module 4.2: Oral Examination Students present progress on their final ML projects and receive feedback.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.3: Introduction to LLMs</strong><br/><p>Exploring Large Language Models and their foundations.</p>\n<p><strong>Live session:</strong> Transformers, pre-training/fine-tuning, attention mechanisms.</p>\n<p><strong>Self-directed learning:</strong> Review LLM resources and examples.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.3: Introduction to LLMs</strong>",
+            "topic_description": "Module 4.3: Introduction to LLMs Exploring Large Language Models and their foundations. Live session: Transformers, pre-training/fine-tuning, attention mechanisms. Self-directed learning: Review LLM resources and examples.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.3: Assignment support</strong><br/><p>Students receive help finalizing their ML projects.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 4.3: Assignment support</strong>",
+            "topic_description": "Module 4.3: Assignment support Students receive help finalizing their ML projects.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Module 4.4: LLMs’ Applications &amp; Course Wrap-Up</strong><br/><p>Examining real-world applications of LLMs and reflecting on course learning.</p>\n<p><strong>Live session:</strong> Student Q&amp;A, final thoughts, and feedback session.</p>\n<p><strong>Self-directed learning:</strong> Submit final project and review key learnings.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong> Module 4.4: LLMs’ Applications &amp; Course Wrap-Up</strong>",
+            "topic_description": "Module 4.4: LLMs’ Applications & Course Wrap-Up Examining real-world applications of LLMs and reflecting on course learning. Live session: Student Q&A, final thoughts, and feedback session. Self-directed learning: Submit final project and review key learnings.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.4: Assignment support</strong><br/><p>Final drop-in session to assist with project submission.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 4.4: Assignment support</strong>",
+            "topic_description": "Module 4.4: Assignment support Final drop-in session to assist with project submission.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
