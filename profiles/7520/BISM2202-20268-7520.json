@@ -1,0 +1,397 @@
+{
+    "course_title": "Data Analytics and Information Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM2202-20268-7520",
+    "full_course_code": "BISM2202-20268-7520",
+    "course_code": "BISM2202",
+    "class_code": "20268",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate knowledge of Data Analytics for decision-making"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the principles of data management to model and integrate organisational data"
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply data analytics techniques as an individual to solve business problems"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply data visualisation principles and techniques to represent insights from data"
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate knowledge of managerial and societal issues related to data"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Data Integration Using SSIS",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 29/04/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Essay/ Critique, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be asked to design a Dimensional model and create a Data warehouse for the case company. You will also run a few analytical queries to generate business insights. You will write a short report (1000 words explaining, the rationale, process, and results of your analysis).</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Business Analytics Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 26/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>You will complete a report that requires you to undertake research in order to prepare a 1400-1500 word report.</li>\n<li>You will be presented with a business analytics case with diverse stakeholder requests. You are tasked with developing recommendations for multiple business analytics stages. Full details of the requirements for the written report will be provided with the release of the Project assessment document.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of Generative Artificial Intelligence (AI). Students are advised that the</em></p>\n<p><em>use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Report and other outputs are to be submitted electronically via TurnItIn and BlackBoard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Course Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>End of Course exam with a mix of multiple choice questions, conceptual short questions, and/or scenario-based analysis questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1: Course Overview and Business Analytics Framework.</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Lecture 1: Course Overview and Business Analytics Framework.</strong>",
+            "topic_description": "Lecture 1: Course Overview and Business Analytics Framework.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 1: Introduction to Business Analytics.</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tute 1: Introduction to Business Analytics.</strong>",
+            "topic_description": "Tute 1: Introduction to Business Analytics.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2: Relational Databases and Intro to Data Warehousing.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Lecture 2: Relational Databases and Intro to Data Warehousing.</strong>",
+            "topic_description": "Lecture 2: Relational Databases and Intro to Data Warehousing.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 2: ER Modelling and SQL.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tute 2: ER Modelling and SQL.</strong>",
+            "topic_description": "Tute 2: ER Modelling and SQL.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3: Dimensional Modelling.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Lecture 3: Dimensional Modelling.</strong>",
+            "topic_description": "Lecture 3: Dimensional Modelling.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 3: Dimensional Modelling and ETL Introduction.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tute 3: Dimensional Modelling and ETL Introduction.</strong>",
+            "topic_description": "Tute 3: Dimensional Modelling and ETL Introduction.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4: Advanced Data Warehousing Topics.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Lecture 4: Advanced Data Warehousing Topics.</strong>",
+            "topic_description": "Lecture 4: Advanced Data Warehousing Topics.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 4: ETL: Data Integration I.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tute 4: ETL: Data Integration I.</strong>",
+            "topic_description": "Tute 4: ETL: Data Integration I.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: Data Integration and Metadata.</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 5: Data Integration and Metadata.</strong>",
+            "topic_description": "Lecture 5: Data Integration and Metadata.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 5: ETL Data Integration II.</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 5: ETL Data Integration II.</strong>",
+            "topic_description": "Tute 5: ETL Data Integration II.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Performance Dashboards and Information Delivery.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Lecture 6: Performance Dashboards and Information Delivery.</strong>",
+            "topic_description": "Lecture 6: Performance Dashboards and Information Delivery.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 6: Microsoft Power BI: I.</strong><br/><p>No Tutorials</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 6: Microsoft Power BI: I.</strong>",
+            "topic_description": "Tute 6: Microsoft Power BI: I. No Tutorials",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: Data Analytics - Data Exploration and Fundamental Concepts.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7: Data Analytics - Data Exploration and Fundamental Concepts.</strong>",
+            "topic_description": "Lecture 7: Data Analytics - Data Exploration and Fundamental Concepts.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 7: Microsoft Power BI: II.</strong><br/><p>Friday 18th April - Public Holiday - Classes falling on a public holiday may be rescheduled or the recording of the lecture will be provided.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tute 7: Microsoft Power BI: II.</strong>",
+            "topic_description": "Tute 7: Microsoft Power BI: II. Friday 18th April - Public Holiday - Classes falling on a public holiday may be rescheduled or the recording of the lecture will be provided.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Data Analytics - Model Building and Algorithms.</strong><br/><p>Friday 18th April - Public Holiday - Classes falling on a public holiday may be rescheduled or the recording of the lecture will be provided.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Lecture 8: Data Analytics - Model Building and Algorithms.</strong>",
+            "topic_description": "Lecture 8: Data Analytics - Model Building and Algorithms. Friday 18th April - Public Holiday - Classes falling on a public holiday may be rescheduled or the recording of the lecture will be provided.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break.</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break.</strong>",
+            "topic_description": "In-Semester Break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 8: Rapid Minner: Supervised Models.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tute 8: Rapid Minner: Supervised Models.</strong>",
+            "topic_description": "Tute 8: Rapid Minner: Supervised Models.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Data Analytics - Model Building and Best Practices.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 9: Data Analytics - Model Building and Best Practices.</strong>",
+            "topic_description": "Lecture 9: Data Analytics - Model Building and Best Practices.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 9: Rapid Minder: Supervised and Unsupervised Models.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 9: Rapid Minder: Supervised and Unsupervised Models.</strong>",
+            "topic_description": "Tute 9: Rapid Minder: Supervised and Unsupervised Models.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10: Big Data Management and Advanced Analytics.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Lecture 10: Big Data Management and Advanced Analytics.</strong>",
+            "topic_description": "Lecture 10: Big Data Management and Advanced Analytics.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 10: Unsupervised Models and Intro to Data Challenge.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tute 10: Unsupervised Models and Intro to Data Challenge.</strong>",
+            "topic_description": "Tute 10: Unsupervised Models and Intro to Data Challenge.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11: Privacy, Ethics, and Acceptable Data Use.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 11: Privacy, Ethics, and Acceptable Data Use.</strong>",
+            "topic_description": "Lecture 11: Privacy, Ethics, and Acceptable Data Use.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Data Challenge (Bring Your Data).</strong><br/><p>This is for practice and preparing for the job market. More information followed!</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Data Challenge (Bring Your Data).</strong>",
+            "topic_description": "Tutorial 11: Data Challenge (Bring Your Data). This is for practice and preparing for the job market. More information followed!",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12: Advanced Topics, Discussions, and Debates in Data Analytics.</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Lecture 12: Advanced Topics, Discussions, and Debates in Data Analytics.</strong>",
+            "topic_description": "Lecture 12: Advanced Topics, Discussions, and Debates in Data Analytics.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial.</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorial.</strong>",
+            "topic_description": "No Tutorial.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 13: Course Revision and Q&amp;A Session.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 13: Course Revision and Q&amp;A Session.</strong>",
+            "topic_description": "Lecture 13: Course Revision and Q&A Session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
