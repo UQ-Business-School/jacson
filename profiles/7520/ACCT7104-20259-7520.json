@@ -1,0 +1,368 @@
+{
+    "course_title": "Corporate Accounting",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7104-20259-7520",
+    "full_course_code": "ACCT7104-20259-7520",
+    "course_code": "ACCT7104",
+    "class_code": "20259",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 21/03/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>ACCT7104 Corporate Accounting is concerned with advanced financial reporting topics including accounting for investments in subsidiaries, associates, jointly controlled entities and interests in jointly controlled operations and assets. The purpose of the Individual Case Study is to enhance skills in reading, interpreting and applying Australian Accounting Standards within this context. The case study provides students with an opportunity to consider the case data, research relevant accounting standards and provide a well justified report, including recommendations, on the main issues identified. The case study should be 2,000 words in length.</p>\n<p>The case study will be released in week 1 of the semester. More detailed information on this assessment (including an indicative marking rubric) will be provided and full details of the case study will be provided on the Blackboard site for ACCT7104.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment will be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 16/04/2025 8:00 am</p>\n<p>\n</p><p>During Class</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam is an online examination administered through Blackboard. </p>\n<p>The exam questions will cover four topics (teaching weeks 1 to 4 inclusive) as follows:</p>\n<p>Topic 1: Business Combinations</p>\n<p>Topic 2: Consolidation: Basic Principle</p>\n<p>Topic 3: Consolidation: FVA and Tax Effects</p>\n<p>Topic 4: Consolidation: Intra-group Transaction</p>\n<p><strong>Important:</strong></p>\n<ul>\n<li>Students can sit for the exam from anywhere. Please ensure you sit the exam from a location that has internet with GOOD bandwidth. Where possible, you should sit your exam in the computer labs on UQ campus. </li>\n<li>Ensure you only open the exam on ONE device. Opening the exam on multiple devices will cause your attempt to close down and you will be awarded ZERO marks.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed online. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will cover <strong>all topics with the main focus on Topics 5 to 11</strong>.  It will take place during the examination weeks.</p>\n<p>The final exam may consist of multiple choice questions, short answer and practical problems. You should review all seminar and workshop materials in preparing for the final exam. Information regarding more details of the exam will be provided in the revision lecture.</p>\n<p>This exam is a restricted <strong>closed book, invigilated exam </strong>as required by UQ and Professional Accounting organisations.</p>\n<p>The exam is an on-campus, paper-based exam invigilated by UQ appointed invigilators.</p>\n<p>Note: Sample exams are available on the university library website. Please note however that these are provided for revision purposes only, and solutions may be unavailable. Different textbooks and updates/revisions of course materials may result in some differences.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S1. Introduction to consolidation</strong><br/><p>Overview of course learning objectives and assessment.<br/>\nAccounting for the interests in other entities; the concept of control; basic introduction to group accounts including goodwill.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>S1. Introduction to consolidation</strong>",
+            "topic_description": "S1. Introduction to consolidation Overview of course learning objectives and assessment. Accounting for the interests in other entities; the concept of control; basic introduction to group accounts including goodwill.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S2. Consolidation - Basic Principles</strong><br><p>Consolidation process; pre-acquisition and post-acquisition equity; concepts of unrealised profit; simple intercompany transactions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S2. Consolidation - Basic Principles</strong>",
+            "topic_description": "S2. Consolidation - Basic Principles Consolidation process; pre-acquisition and post-acquisition equity; concepts of unrealised profit; simple intercompany transactions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W1. Introduction to consolidation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>W1. Introduction to consolidation</strong>",
+            "topic_description": "W1. Introduction to consolidation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S3. Consolidation: FVA and Tax Effects</strong><br/><p>Fair Value Adjustments on consolidation and subsequent reporting periods; Effect of income taxes on consolidation journals.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S3. Consolidation: FVA and Tax Effects</strong>",
+            "topic_description": "S3. Consolidation: FVA and Tax Effects Fair Value Adjustments on consolidation and subsequent reporting periods; Effect of income taxes on consolidation journals.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W2. Consolidation - Basic Principles</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>W2. Consolidation - Basic Principles</strong>",
+            "topic_description": "W2. Consolidation - Basic Principles",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S4. Consolidation: Intra-Group Transactions</strong><br/><p>The need to adjust for intra-group transactions. Adjusting entries for the intragroup sale of inventory and non-current assets.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S4. Consolidation: Intra-Group Transactions</strong>",
+            "topic_description": "S4. Consolidation: Intra-Group Transactions The need to adjust for intra-group transactions. Adjusting entries for the intragroup sale of inventory and non-current assets.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W3.Consolidation: FVA and Tax Effects</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>W3.Consolidation: FVA and Tax Effects</strong>",
+            "topic_description": "W3.Consolidation: FVA and Tax Effects",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S5. Consolidation: Partly Owned Subsidiaries (DNCI)</strong><br/><p>Direct non-controlling interests. Disclosure and measurement of direct non-controlling interests; consolidation of partly owned subsidiaries.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S5. Consolidation: Partly Owned Subsidiaries (DNCI)</strong>",
+            "topic_description": "S5. Consolidation: Partly Owned Subsidiaries (DNCI) Direct non-controlling interests. Disclosure and measurement of direct non-controlling interests; consolidation of partly owned subsidiaries.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W4. Consolidation: Intra-Group Transactions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>W4. Consolidation: Intra-Group Transactions</strong>",
+            "topic_description": "W4. Consolidation: Intra-Group Transactions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S6. Consolidation: Partly Owned Subsidiaries (INCI)</strong><br/><p>Indirect non-controlling interests; identification of direct/indirect non-controlling interests; consolidation of multiple subsidiaries.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S6. Consolidation: Partly Owned Subsidiaries (INCI)</strong>",
+            "topic_description": "S6. Consolidation: Partly Owned Subsidiaries (INCI) Indirect non-controlling interests; identification of direct/indirect non-controlling interests; consolidation of multiple subsidiaries.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W5. Consolidation: Partly Owned Subsidiaries (DNCI)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>W5. Consolidation: Partly Owned Subsidiaries (DNCI)</strong>",
+            "topic_description": "W5. Consolidation: Partly Owned Subsidiaries (DNCI)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Preparation for in-semester examination</strong><br/><p>There will be no seminar or workshop this week. Consultation sessions will be provided this week.</p></p></div></td>",
+            "topic_title": "<strong>Preparation for in-semester examination</strong>",
+            "topic_description": "Preparation for in-semester examination There will be no seminar or workshop this week. Consultation sessions will be provided this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exam - In-Semester During Class</strong><br/><p>There will be no lecture or workshop this week. We will have an in-semester exam during the seminar time on Wednesday, 16 April.</p></p></div></td>",
+            "topic_title": "<strong>Exam - In-Semester During Class</strong>",
+            "topic_description": "Exam - In-Semester During Class There will be no lecture or workshop this week. We will have an in-semester exam during the seminar time on Wednesday, 16 April.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Workshop</strong><br/><p>No workshop due to In-Semester Exam.</p>\n<p><strong>Good Friday Public Holiday - Friday 18 April 2025</strong> - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>No Workshop</strong>",
+            "topic_description": "No Workshop No workshop due to In-Semester Exam. Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>There will be no seminars / workshops or consultations this week (21-25 April).</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break There will be no seminars / workshops or consultations this week (21-25 April).",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S7. Accounting for Joint Arrangements</strong><br/><p>Joint control; nature of joint arrangements/joint ventures; accounting for joint arrangements.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S7. Accounting for Joint Arrangements</strong>",
+            "topic_description": "S7. Accounting for Joint Arrangements Joint control; nature of joint arrangements/joint ventures; accounting for joint arrangements.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W6. Consolidation: Partly Owned Subsidiaries (INCI)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>W6. Consolidation: Partly Owned Subsidiaries (INCI)</strong>",
+            "topic_description": "W6. Consolidation: Partly Owned Subsidiaries (INCI)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S8. The Equity Method</strong><br/><p>Accounting for associates and joint ventures. Identification of associates and joint ventures; reporting and disclosure under the equity method</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>S8. The Equity Method</strong>",
+            "topic_description": "S8. The Equity Method Accounting for associates and joint ventures. Identification of associates and joint ventures; reporting and disclosure under the equity method",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W7. Accounting for Joint Arrangements</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>W7. Accounting for Joint Arrangements</strong>",
+            "topic_description": "W7. Accounting for Joint Arrangements",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S9. Foreign operation</strong><br/><p>The need for translation. Functional and presentation currency; translation methods.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S9. Foreign operation</strong>",
+            "topic_description": "S9. Foreign operation The need for translation. Functional and presentation currency; translation methods.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W8. The Equity Method</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>W8. The Equity Method</strong>",
+            "topic_description": "W8. The Equity Method",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S10. External Administration &amp; Liquidation</strong><br/><p>External administration including liquidation and winding up.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>S10. External Administration &amp; Liquidation</strong>",
+            "topic_description": "S10. External Administration & Liquidation External administration including liquidation and winding up.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W9. Foreign operation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>W9. Foreign operation</strong>",
+            "topic_description": "W9. Foreign operation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S11. Review and revision</strong><br/><p>Semester review; final exam information</p></p></div></td>",
+            "topic_title": "<strong>S11. Review and revision</strong>",
+            "topic_description": "S11. Review and revision Semester review; final exam information",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>W10. External Administration &amp; Liquidation</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>W10. External Administration &amp; Liquidation</strong>",
+            "topic_description": "W10. External Administration & Liquidation",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
