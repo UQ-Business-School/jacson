@@ -1,0 +1,421 @@
+{
+    "course_title": "Leading and Managing People",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS2603-20320-7520",
+    "full_course_code": "MGTS2603-20320-7520",
+    "course_code": "MGTS2603",
+    "class_code": "20320",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply relevant theories, concepts and principles in leading and managing people in contemporary organisations"
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify and describe core leadership and management skills needed in the contemporary workplace"
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply various leadership and management skills in a variety of situations"
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop and activate a plan to build upon your strengths and weaknesses in leading and managing people"
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically analyse the challenges of leading and managing people in the workplace"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Leadership Impact Reflection Journal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>25% Group; 2.5% per week </dd>",
+            "due_date": "<dd><p> Week 3 - Week 13</p></dd>",
+            "learning_objectives": "L02, L03, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Self-reflection and ongoing leadership development are crucial for leaders to be effective, responsive, and successful in their roles. In this task you will complete a group reflection based on your insights, observations and experiences from engaging in the following course components:</p>\n<ol>\n<li><strong>Online Module Content</strong>: Consider the material covered in the online modules. Reflect on key concepts, theories, and practical knowledge shared through these resources.</li>\n<li><strong>Self-Assessment Tools</strong>: Utilise any self-assessment tools provided within the modules. These tools may help you evaluate your understanding, skills, and progress.</li>\n<li><strong>Critical Thinking Questions: </strong>Each week’s resources include critical thinking questions relevant to the weekly topic. Discuss as a group and reflect on your responses.</li>\n<li><strong>Experiences in Class</strong>: Reflect on your experiences during class sessions. Think about discussions, activities, and interactions that contributed to your learning.</li>\n</ol>\n<p>By combining insights from these four sources, your group can create a meaningful reflection that captures your collective learning journey. Remember, the purpose of this assessment is not just to earn marks, but to develop your leadership skills and self-awareness. </p>\n<p>This assessment item is designed to assist you in preparing your response to Assessment 3 – Leadership Development Plan (Individual).</p>\n<p><strong>Key Requirements</strong></p>\n<p>Students will work in<strong> small groups to create weekly reflections </strong>that include:</p>\n<ul>\n<li>A <strong>workload contribution statement</strong> for each group member.</li>\n<li>An <strong>integrated group reflective response</strong> to weekly learnings.</li>\n<li><strong>Insights for each student’s leadership self-development</strong>, along with <strong>constructive feedback and suggested recommendations</strong> from another group member. This ensures everyone receives feedback from a different member each week.</li>\n</ul>\n<p>Reflections will be submitted by the <strong>weekly due dates</strong> throughout the semester from weeks 3 – 12 (2.5 marks per week).</p>\n<p>See the Assessment section of the MGTS2603 course Blackboard (https://learn.uq.edu.au) for task guidelines and marking rubric.</p>\n<p><strong>Self and Peer Review Process</strong></p>\n<ul>\n<li>Group members are expected to contribute equally, fulfilling the tasks agreed on early in the semester. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of the Course Coordinator/Tutor as early as possible.</li>\n<li>Students will be required to complete a Self and Peer Review Evaluation, reflecting on their own and their member's contributions during the development of the group assessment items. A student's final grade for this assessment item could be altered based on feedback from the Peer evaluations.</li>\n<li>Team members that work in good faith will not experience grade adjustments, while individuals that perform below expectations or fail to pull their weight will experience a negative grade adjustment. The Course Coordinator reserves the right to adjust peer evaluations to ensure fairness.</li>\n<li>Students are advised to be proactive and make expectations of one another clear from the start. Poor communication is often the source of discrepancies.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p><em>This assessment is based on your individual and collective learnings, critical reflections, and insights gained from engaging with course material and in-class learning. Therefore, the use of generative Artificial Intelligence (AI) is inappropriate. Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All submissions must be made via the MGTS2603 course Blackboard site. Only one group member should submit the weekly reflection on behalf of the group. However, it is the responsibility of everyone in the group to ensure it has been submitted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Leadership in the 21st Century",
+            "special_indicators": [],
+            "weighting": "<dd>35% Individual; 1,700 words (-/+ 10%) </dd>",
+            "due_date": "<dd><p> 9/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The aim of this assessment is to examine the relationship between leadership theory and practice. This assessment takes the form of a leadership case study to allow students to analyse a practical example of leadership through the lens of one or more theoretical perspectives.</p>\n<p><strong>Key Requirements</strong></p>\n<ol>\n<li>Select a leader (great, good, average, bad, or toxic - it is up to you!) to focus your case study on:</li>\n<li>Choose a current leader who is a <strong>widely recognised (well-known) public figure, </strong>currently occupying a high-profile leadership position.</li>\n<li>The leader <strong>must be currently active </strong>in their leadership role (i.e., not deceased, retired or incarcerated).</li>\n<li>Ensure sufficient information about this leader is available online and can be referenced to support your case study.</li>\n<li>Select<strong> 2-3 leadership theories, concepts, models or frameworks</strong> <strong>covered in this course</strong> to frame your case study. For example, a student might select ‘transformational leadership’ and examine how a political leader uses this to manage ‘organisational change’ within their party. Another case study might examine ‘ethical leadership’ against the backdrop of a corporate scandal and the use of ‘positional power’ and the 'dark side of leadership' by a CEO.</li>\n<li>The case study must clearly draw from these selected theories, concepts, models and frameworks and related research, to <strong>critically analyse</strong> the chosen leader in terms of their leadership style(s) <strong>and the impact this has on others</strong>. An overview of the leadership context must also be provided, for example, is the company experiencing a crisis, or is it operating in a stable and predictable business environment?</li>\n<li><strong>Apply insights and learnings to your own leadership development</strong>: Reflect on the insights and learnings gained from analysing the chosen leader. Discuss how these insights can be applied to your own leadership development and practice. Consider how understanding different leadership styles and their impacts can enhance your effectiveness as a leader in various contexts.</li>\n<li>Students are expected to <strong>read beyond the textbook</strong> by making reference to relevant academic journal articles, which should be formatted in an appropriate referencing style (APA 7th is the preferred style).</li>\n</ol>\n<p>See the Assessment section of the MGTS2603 course Blackboard (https://learn.uq.edu.au) for more information and the marking rubric.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use generative Artificial Intelligence (AI) technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which generative AI will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission must be made through Turnitin on the MGTS2603 course Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Leadership Development Plan",
+            "special_indicators": [],
+            "weighting": "<dd>40% Individual; 1,500 words (-/+ 10%) </dd>",
+            "due_date": "<dd><p> 30/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Portfolio, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The aim of this assessment is to create an individual leadership development plan based on self-reflection, observations, and discussions during workshops. Students are encouraged to draw on insights gained from:</p>\n<ul>\n<li>reflecting on course materials</li>\n<li>responses to self-assessment tools</li>\n<li>engagement in workshop activities</li>\n<li>individual contributions to Assessment 1 Leadership Impact Reflective Journal</li>\n</ul>\n<p><strong>Key Requirements</strong></p>\n<p>This assessment should be presented in a report format including a cover page. It should explore your leadership strengths and development gaps, as well as an action plan focused on developing and applying relevant course concepts in the workplace. The report should be <strong>1500 words (+/- 10%)</strong>, excluding references and appendices, and consist of the following four sections:</p>\n<p><strong>Part 1 - Introduction</strong>: Provide a brief personal background (e.g., study, work, and informal/formal leadership experience) and outline your future leadership aspirations or goals (e.g., when and where you aspire to become a leader). The introduction should also include a brief overview of the report structure and key outcomes (e.g., insights, conclusions, actions).</p>\n<p><strong>Part 2 - Leadership Self-Appraisal</strong>:</p>\n<p><strong>a)</strong> Provide a snapshot of your leadership strengths and opportunities for improvement. These should be drawn from your weekly insights throughout the course. Importantly, this self-appraisal must be linked and referenced to relevant theories and frameworks presented throughout the course (e.g., various leadership styles, motivation, managing conflict). Identify the major themes that emerge from this self-appraisal and, where possible, include examples from the course or your own work experience as supporting evidence. Consider the implications of these themes, particularly in terms of work experience and career aspirations, that may reinforce your leadership goals.</p>\n<p><strong>b)</strong> Provide a summary of your weekly insights from the semester in Table 1 (to be included in the appendix).</p>\n<p><strong>Part 3 - Leadership Development Plan</strong>:</p>\n<p><strong>a)</strong> Identify your key areas that need to be emphasised or leveraged (i.e., strengths), and those requiring further development or practice (i.e., weaknesses). Draw on your insights gained throughout the course.</p>\n<p><strong>b)</strong> This section must also contain an action plan in table format (to be included as Table 2 in the appendix). At a minimum, this table must contain:</p>\n<p><strong>Column A</strong>: Key leadership development <strong>goals</strong> (minimum of 3 goals). For example, “Learn to effectively manage stress by improving my emotional intelligence within the next six months.”</p>\n<p><strong>Column B</strong>: Related <strong>actions</strong> that will lead to achieving each goal. For example, “Attend a workshop on developing emotional intelligence by the end of May.”</p>\n<p><strong>Column C</strong>: <strong>Obstacles</strong> to achieving each goal. For example, “Lack of funds to pay for a public workshop by the end of May.”</p>\n<p><strong>Column D</strong>: Sources of <strong>support</strong> for achieving each goal. For example, “The university is offering a subsidised workshop on developing emotional intelligence in April.”</p>\n<p><strong>Column E</strong>: <strong>Strategies</strong> to overcome obstacles. For example, “Delay my planned holiday during the Easter break and use the funds to attend the April workshop.”</p>\n<p><strong>Part 4 - Conclusion</strong>: Provide a summary of your overall leadership development goal, key insights, major strengths/gaps, and key actions.</p>\n<p>Students are expected to read beyond the course materials by referencing relevant academic journal articles, which should be correctly cited and formatted using an appropriate referencing style<strong> (APA 7th is the preferred referencing style)</strong>.</p>\n<p>See the Assessment section of the MGTS2603 course Blackboard (https://learn.uq.edu.au) for further information and marking rubric.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>This assessment is based on your individual learnings, critical reflections, and insights gained from engaging with course material and in-class learning. Therefore, the use of generative Artificial Intelligence (AI) is inappropriate. Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All submissions must be made through Turnitin on the MGTS2603 course Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intro to Leading and Managing People</strong><br/><p>Introductory seminar for all enrolled students</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Intro to Leading and Managing People</strong>",
+            "topic_description": "Intro to Leading and Managing People Introductory seminar for all enrolled students",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Individuals as leaders</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Individuals as leaders</strong>",
+            "topic_description": "Individuals as leaders Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Individuals as leaders</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Individuals as leaders</strong>",
+            "topic_description": "Individuals as leaders",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Leadership</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Team Leadership</strong>",
+            "topic_description": "Team Leadership Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Leadership</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Team Leadership</strong>",
+            "topic_description": "Team Leadership",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leadership Behaviour and Motivation</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Leadership Behaviour and Motivation</strong>",
+            "topic_description": "Leadership Behaviour and Motivation Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leadership Behaviour and Motivation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Leadership Behaviour and Motivation</strong>",
+            "topic_description": "Leadership Behaviour and Motivation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contingency Leadership Theories</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Contingency Leadership Theories</strong>",
+            "topic_description": "Contingency Leadership Theories Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contingency Leadership Theories</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Contingency Leadership Theories</strong>",
+            "topic_description": "Contingency Leadership Theories",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>LMX and Constructive Leadership</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>LMX and Constructive Leadership</strong>",
+            "topic_description": "LMX and Constructive Leadership Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>LMX and Constructive Leadership</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>LMX and Constructive Leadership</strong>",
+            "topic_description": "LMX and Constructive Leadership",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Passive and Destructive Leadership</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Passive and Destructive Leadership</strong>",
+            "topic_description": "Passive and Destructive Leadership Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Passive and Destructive Leadership</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Passive and Destructive Leadership</strong>",
+            "topic_description": "Passive and Destructive Leadership",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Power, Politics and Ethical Leadership</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p>\n<p><strong>Good Friday Public Holiday - Friday 18 April 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Power, Politics and Ethical Leadership</strong>",
+            "topic_description": "Power, Politics and Ethical Leadership Online module - Self-directed learning - See the course Blackboard for details. Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Power, Politics and Ethical Leadership</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Power, Politics and Ethical Leadership</strong>",
+            "topic_description": "Power, Politics and Ethical Leadership",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leadership and Culture</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Leadership and Culture</strong>",
+            "topic_description": "Leadership and Culture Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leadership and Culture</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Leadership and Culture</strong>",
+            "topic_description": "Leadership and Culture",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communication, Coaching, Conflict Skills</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Communication, Coaching, Conflict Skills</strong>",
+            "topic_description": "Communication, Coaching, Conflict Skills Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communication, Coaching, Conflict Skills</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Communication, Coaching, Conflict Skills</strong>",
+            "topic_description": "Communication, Coaching, Conflict Skills",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Leadership &amp; Change Management</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Strategic Leadership &amp; Change Management</strong>",
+            "topic_description": "Strategic Leadership & Change Management Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Leadership &amp; Change Management</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategic Leadership &amp; Change Management</strong>",
+            "topic_description": "Strategic Leadership & Change Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crisis Leadership</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Crisis Leadership</strong>",
+            "topic_description": "Crisis Leadership Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crisis Leadership</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Crisis Leadership</strong>",
+            "topic_description": "Crisis Leadership",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Course Integration</strong><br/><p>Online module - Self-directed learning - See the course Blackboard for details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong> Course Integration</strong>",
+            "topic_description": "Course Integration Online module - Self-directed learning - See the course Blackboard for details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Integration</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Integration</strong>",
+            "topic_description": "Course Integration",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
