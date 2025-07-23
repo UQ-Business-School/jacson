@@ -1,4 +1,8 @@
 {
+    "course_title": "Consumer Behaviour",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG2501-60295-7460",
     "full_course_code": "MKTG2501-60295-7460",
     "course_code": "MKTG2501",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "13/08/2024 - 25/10/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 13/08/2024 - 25/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "Student will complete TWO Online Quizzes during the semester. Each quiz will test student knowledge of key consumer behaviour concepts and theories and will be completed during the scheduled lecture time.Each Quiz will be available through the Inspera platform:Practice (Formative) Quiz will be completed in Week 4 and is NOT FOR MARKS. The purpose of the Formative Quiz is to introduce students to the Inspera exam platform, and provide students with a self-test function to review their understanding of core concept covered in Module 1.Online Quizzes will be completed in Weeks 6 and 13. The Quiz will include 30 multiple choice questions covering LearnX content, required readings and in-class activities content. Each quiz question is worth ½ a mark each. Once started you will have a maximum of 60 minutes to complete all questions.This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.NB: Reminders will be posted to the discussion forum on Blackboard and during lectures/workshop.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Student will complete TWO Online Quizzes during the semester. Each quiz will test student knowledge of key consumer behaviour concepts and theories and will be completed during the scheduled lecture time.</p>\n<p>Each Quiz will be available through the Inspera platform:</p>\n<ul>\n<li>Practice (Formative) Quiz will be completed in Week 4 and is NOT FOR MARKS. The purpose of the Formative Quiz is to introduce students to the Inspera exam platform, and provide students with a self-test function to review their understanding of core concept covered in Module 1. </li>\n<li>Online Quizzes will be completed in Weeks 6 and 13. The Quiz will include 30 multiple choice questions covering LearnX content, required readings and in-class activities content. Each quiz question is worth ½ a mark each. Once started you will have a maximum of 60 minutes to complete all questions.</li>\n</ul>\n<p>This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>NB: Reminders will be posted to the discussion forum on Blackboard and during lectures/workshop.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,16 +61,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "18/09/2024 9:00 am",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 18/09/2024 9:00 am</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Activity/ Performance, Written",
             "category": "Examination",
-            "task_description": "The In-Semester exam in this course will cover content presented in lectures, workshops and required readings up to and including content covered in Week 8. The online exam will feature mixed-questioning styles (e.g., MCQs and short answer drag & drop solutions) to test consumer behaviour concept understanding and application of theoretical concepts and marketing solutions. The exam is theory based, requiring application of knowledge to real world consumer examples and/or problems.This exam will be invigilated and use the Inspera Assessment Platform. You will need access to a webcam and audio since this will be a camera-invigilated examination. Inspera Assessment provides additional functionality to complement the existing suite of digital learning tools at UQ with a greater range of question types, accessibility provisions, and non-English languages.Preparation for the online exam will be discussed in lectures and during applied activities in workshop.This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester exam in this course will cover content presented in lectures, workshops and required readings up to and including content covered in Week 8. The online exam will feature mixed-questioning styles (e.g., MCQs and short answer drag &amp; drop solutions) to test consumer behaviour concept understanding and application of theoretical concepts and marketing solutions. The exam is theory based, requiring application of knowledge to real world consumer examples and/or problems.</p>\n<p>This exam will be invigilated and use the Inspera Assessment Platform. You will need access to a webcam and audio since this will be a camera-invigilated examination. Inspera Assessment provides additional functionality to complement the existing suite of digital learning tools at UQ with a greater range of question types, accessibility provisions, and non-English languages.</p>\n<p>Preparation for the online exam will be discussed in lectures and during applied activities in workshop.</p>\n<p>This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -77,25 +81,25 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "27/10/2024 12:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 27/10/2024 12:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "Task description:The consumer behaviour case study requires students to identify a marketing problem, and then write a problem-based case to explain how consumers’ perceptions, attitudes, motivations, or cultures and behaviours influence purchasing, social actions and/or decision-making. The written case study will include primary research evidence such as quotes from interviewed consumers, as well as secondary evidence from marketing and consumer journals, and industry reports to support analysis of the problem.The case study assessment has TWO components:Case study topic and research plan (10%) Due Week 7: Friday 6 September @ 10amThe purpose of the planning document is to demonstrate how information and data will be gathered to inform the written consumer behaviour case study. The planning document will include: details of the secondary data search strategy and preliminary summary of important academic and industry/news references, a research mind map, primary research data collection details including sampling information and a draft interview guide. Students will be expected to complete 3 consumer interviews to inform their case study analysis.Consumer behaviour case study (30%) Due Monday 28 October @ 12pmThe problem-based case study will follow an essay format including key content headings: problem background and statement, presentation of research (primary consumer research and secondary background research), analysis of the problem applying appropriate consumer behaviour theory and concepts, and consumer marketing recommendations providing a solution to the problem.Word limit: 3000 wordsResearch:Students are expected to use academic and industry/news references. At a minimum, students need to include key theory and models discussed in workshops and learning resources and synthesise academic and industry secondary research to obtain a passing grade.Teamwork:Teams will be formed during Week 2 tutorials and must be finalised in Week 3. Students can only form teams with members of their own tutorial group. Students who enrol late or do not engage with their team early in the course may be required to complete the task as an individual, or in a smaller team that may formed of remaining students.Teamwork is a valuable and important component of this university program. Students should be aware that in normal circumstances, all members of the team will receive the same mark for the case study, unless individual group issues are proactively identified prior to deadlines to enable resolutions.A team contract will be submitted during Week 5. Further, peer evaluation will be undertaken by all teams and will be considered in conjunction with the team contract and group records. Group contributions should be monitored weekly and proactive issues management should be implemented. Often issues are managed through clear communications and can be resolved for positive team outcomes and as such, all group issues should be flagged immediately with your tutor. It is essential that teams attempt to resolve issues during the case study project. However, individuals who are shown to not perform to the group standard, will be penalized, having marks deducted to a standard which reflects the evidence, which may include receiving zero marks where warranted. In such situations, all individuals are responsible for keeping evidence of their contributions to the group.Ensuring academic integrity:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will proviRead full task descriptionHide full task description",
-            "submission_guidelines": "Follow assessment links from blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Task description: </strong>The consumer behaviour case study requires students to identify a marketing problem, and then write a problem-based case to explain how consumers’ perceptions, attitudes, motivations, or cultures and behaviours influence purchasing, social actions and/or decision-making. The written case study will include primary research evidence such as quotes from interviewed consumers, as well as secondary evidence from marketing and consumer journals, and industry reports to support analysis of the problem.</p>\n<p>The case study assessment has TWO components:</p>\n<ol>\n<li>Case study topic and research plan (10%) Due Week 7: Friday 6 September @ 10am</li>\n</ol>\n<p>The purpose of the planning document is to demonstrate how information and data will be gathered to inform the written consumer behaviour case study. The planning document will include: details of the secondary data search strategy and preliminary summary of important academic and industry/news references, a research mind map, primary research data collection details including sampling information and a draft interview guide. Students will be expected to complete 3 consumer interviews to inform their case study analysis.</p>\n<ol>\n<li>Consumer behaviour case study (30%) Due Monday 28 October @ 12pm</li>\n</ol>\n<p>The problem-based case study will follow an essay format including key content headings: problem background and statement, presentation of research (primary consumer research and secondary background research), analysis of the problem applying appropriate consumer behaviour theory and concepts, and consumer marketing recommendations providing a solution to the problem.</p>\n<p>Word limit: 3000 words</p>\n<p><strong>Research:</strong> Students are expected to use academic and industry/news references. At a minimum, students need to include key theory and models discussed in workshops and learning resources and synthesise academic and industry secondary research to obtain a passing grade.</p>\n<p><strong>Teamwork: </strong>Teams will be formed during Week 2 tutorials and must be finalised in Week 3. Students can only form teams with members of their own tutorial group. Students who enrol late or do not engage with their team early in the course may be required to complete the task as an individual, or in a smaller team that may formed of remaining students.</p>\n<p>Teamwork is a valuable and important component of this university program. Students should be aware that in normal circumstances, all members of the team will receive the same mark for the case study, unless individual group issues are proactively identified prior to deadlines to enable resolutions. <strong>A team contract will be submitted during Week 5</strong>. Further, peer evaluation will be undertaken by all teams and will be considered in conjunction with the team contract and group records. Group contributions should be monitored weekly and proactive issues management should be implemented. Often issues are managed through clear communications and can be resolved for positive team outcomes and as such, all group issues should be flagged immediately with your tutor. It is essential that teams attempt to resolve issues during the case study project. However, individuals who are shown to not perform to the group standard, will be penalized, having marks deducted to a standard which reflects the evidence, which may include receiving zero marks where warranted. In such situations, all individuals are responsible for keeping evidence of their contributions to the group.</p>\n<p><strong>Ensuring academic integrity:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provi</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Follow assessment links from blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Introduction to MKTG2501Week 1:Introduction to Consumer BehaviourWeek 1 Lecture: Consumer Behaviour Overview and assessment discussionNo Tutorials this weekSelf-paced Learning activities onLearnX.UQ(Week 1: How to study consumer behaviour)Learning outcomes:L01, L03, L05",
-            "topic_title": "Introduction to MKTG2501",
-            "topic_description": "Week 1: Introduction to Consumer Behaviour \nWeek 1 Lecture: Consumer Behaviour Overview and assessment discussion\nNo Tutorials this week \nSelf-paced Learning activities on LearnX.UQ (Week 1: How to study consumer behaviour)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to MKTG2501</strong><br><p>Week 1: <strong>Introduction to Consumer Behaviour </strong></p>\n<p><strong>Week 1 Lecture</strong>: Consumer Behaviour Overview and assessment discussion</p>\n<p><strong>No Tutorials this week </strong></p>\n<p>Self-paced Learning activities on <strong>LearnX.UQ</strong> (Week 1: How to study consumer behaviour)</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to MKTG2501</strong>",
+            "topic_description": "Introduction to MKTG2501 Week 1: Introduction to Consumer Behaviour Week 1 Lecture : Consumer Behaviour Overview and assessment discussion No Tutorials this week Self-paced Learning activities on LearnX.UQ (Week 1: How to study consumer behaviour)",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -105,20 +109,44 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Lecture",
-            "topic": "Customer Experience & PerceptionWeek 2:No LectureSelf-paced Learning activitiesLearnX.UQ(Week 2: Consumer Experiences & Perceptions)Learning outcomes:L01, L03",
-            "topic_title": "Customer Experience & Perception",
-            "topic_description": "Week 2: No Lecture\nSelf-paced Learning activities LearnX.UQ (Week 2: Consumer Experiences & Perceptions)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Customer Experience &amp; Perception</strong><br><p>Week 2: <strong>No Lecture</strong></p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> (Week 2: Consumer Experiences &amp; Perceptions)</p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Customer Experience &amp; Perception</strong>",
+            "topic_description": "Customer Experience & Perception Week 2: No Lecture Self-paced Learning activities LearnX.UQ (Week 2: Consumer Experiences & Perceptions)",
             "learning_outcomes": [
                 "L01",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is Consumer Behaviour? (complete self-paced learning activities from UQ Extend)</strong><br/><p>What is consumer behaviour?; Workshop activities</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 2: <strong>Consumer Experiences</strong> and perceptions</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>What is Consumer Behaviour? (complete self-paced learning activities from UQ Extend)</strong>",
+            "topic_description": "What is Consumer Behaviour? (complete self-paced learning activities from UQ Extend) What is consumer behaviour?; Workshop activities Self-paced Learning activities LearnX.UQ Week 2: Consumer Experiences and perceptions",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Lecture",
-            "topic": "Module 1 ReviewNudging and decision making stagesModule 1 ReviewSelf-paced Learning activitiesLearnX.UQWeek 3 reading:Consumer Decision MakingLearning outcomes:L01, L02, L05",
-            "topic_title": "Module 1 Review",
-            "topic_description": "Nudging and decision making stages\nModule 1 Review\nSelf-paced Learning activities LearnX.UQ Week 3 reading: Consumer Decision Making",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1 Review</strong><br/><p>Nudging and decision making stages</p>\n<p>Module 1 Review</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 3 reading:<strong> Consumer Decision Making</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Module 1 Review</strong>",
+            "topic_description": "Module 1 Review Nudging and decision making stages Module 1 Review Self-paced Learning activities LearnX.UQ Week 3 reading: Consumer Decision Making",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Decision-Making &amp; Nudging</strong><br/><p><strong>Nudging &amp; Consumer Decision-Making </strong> Week 3 Workshop activities</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 3 reading:<strong> Consumer Decision Making</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Consumer Decision-Making &amp; Nudging</strong>",
+            "topic_description": "Consumer Decision-Making & Nudging Nudging & Consumer Decision-Making Week 3 Workshop activities Self-paced Learning activities LearnX.UQ Week 3 reading: Consumer Decision Making",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -128,9 +156,21 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "No Lecture (14th August Public holiday)Self-paced Learning activitiesLearnX.UQWeek 4 reading:Consumer Decision JourneyLearning outcomes:L01, L02, L05",
-            "topic_title": "No Lecture (14th August Public holiday)",
-            "topic_description": "Self-paced Learning activities LearnX.UQ Week 4 reading: Consumer Decision Journey",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Lecture (14th August Public holiday)</strong><br/><p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 4 reading: <strong>Consumer Decision Journey </strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>No Lecture (14th August Public holiday)</strong>",
+            "topic_description": "No Lecture (14th August Public holiday) Self-paced Learning activities LearnX.UQ Week 4 reading: Consumer Decision Journey",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Decision-Making &amp; Customer Journey</strong><br/><p><strong>PRACTICE QUIZ DUE</strong> this week</p>\n<p>Week 4 Workshop activities: <strong>Consumer Decision-Making</strong> <strong>&amp; Customer Journey</strong> </p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 4 reading: <strong>Consumer Decision Journey </strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Consumer Decision-Making &amp; Customer Journey</strong>",
+            "topic_description": "Consumer Decision-Making & Customer Journey PRACTICE QUIZ DUE this week Week 4 Workshop activities: Consumer Decision-Making & Customer Journey Self-paced Learning activities LearnX.UQ Week 4 reading: Consumer Decision Journey",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -140,31 +180,56 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "Module 2 OverviewModule 2 Introduction & OverviewBrief on Inspera Exam platform & Quiz Q/ALearning outcomes:L01, L02",
-            "topic_title": "Module 2 Overview",
-            "topic_description": "Module 2 Introduction & Overview\nBrief on Inspera Exam platform & Quiz Q/A",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2 Overview</strong><br/><p>Module 2 Introduction &amp; Overview</p>\n<p>Brief on Inspera Exam platform &amp; Quiz Q/A</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 2 Overview</strong>",
+            "topic_description": "Module 2 Overview Module 2 Introduction & Overview Brief on Inspera Exam platform & Quiz Q/A",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Researching &amp; writing a marketing case study</strong><br/><p>Week 5 Workshop activities:  Consumer research approaches</p>\n<p><strong>UQ Extend Consumer research methods</strong> (Online Discussion)</p>\n<p>Week 5 self-paced learning activities</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Researching &amp; writing a marketing case study</strong>",
+            "topic_description": "Researching & writing a marketing case study Week 5 Workshop activities:  Consumer research approaches UQ Extend Consumer research methods (Online Discussion) Week 5 self-paced learning activities",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "NO LECTURE (Online Quiz during scheduled Lecture time)Week 6 NO Lecture: One hour Online quiz during scheduled Lecture timeSelf-paced Learning activitiesLearnX.UQWeek 6 reading:Consumer Research ApplicationLearning outcomes:L02, L03",
-            "topic_title": "NO LECTURE (Online Quiz during scheduled Lecture time)",
-            "topic_description": "Week 6 NO Lecture: One hour Online quiz during scheduled Lecture time\nSelf-paced Learning activities LearnX.UQ Week 6 reading: Consumer Research Application",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>NO LECTURE (Online Quiz during scheduled Lecture time)</strong><br/><p><strong>Week 6 NO Lecture</strong>: One hour Online quiz during scheduled Lecture time</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 6 reading: <strong>Consumer Research Application</strong></p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>NO LECTURE (Online Quiz during scheduled Lecture time)</strong>",
+            "topic_description": "NO LECTURE (Online Quiz during scheduled Lecture time) Week 6 NO Lecture : One hour Online quiz during scheduled Lecture time Self-paced Learning activities LearnX.UQ Week 6 reading: Consumer Research Application",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interdisciplinary research approaches</strong><br/><p><strong>Tutorial</strong></p>\n<p><strong>Interdisciplinary Research Approaches</strong> Week 6 Workshop activities; Designing interview questions</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 6 reading: <strong>Consumer Research Application </strong>Case study assessment Q&amp;A</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Interdisciplinary research approaches</strong>",
+            "topic_description": "Interdisciplinary research approaches Tutorial Interdisciplinary Research Approaches Week 6 Workshop activities; Designing interview questions Self-paced Learning activities LearnX.UQ Week 6 reading: Consumer Research Application Case study assessment Q&A",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "Lecture: Introduction to Module 3Week 7 Lecture: Research planning & data collection techniques; Psychology of consumersNO Tutorials this weekCase study Planning document DUEFriday 6 September @ 10amSelf-paced Learning activitiesLearnX.UQWeek 7 reading:Consumer LearningLearning outcomes:L01, L02, L05",
-            "topic_title": "Lecture: Introduction to Module 3",
-            "topic_description": "Week 7 Lecture: Research planning & data collection techniques; Psychology of consumers\nNO Tutorials this week \nCase study Planning document DUE Friday 6 September @ 10am\nSelf-paced Learning activities LearnX.UQ Week 7 reading: Consumer Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture: Introduction to Module 3</strong><br/><p><strong>Week 7 Lecture</strong>: Research planning &amp; data collection techniques; Psychology of consumers</p>\n<p><strong>NO Tutorials this week </strong></p>\n<p><strong>Case study Planning document DUE </strong>Friday 6 September @ 10am</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 7 reading: <strong>Consumer Learning</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Lecture: Introduction to Module 3</strong>",
+            "topic_description": "Lecture: Introduction to Module 3 Week 7 Lecture : Research planning & data collection techniques; Psychology of consumers NO Tutorials this week Case study Planning document DUE Friday 6 September @ 10am Self-paced Learning activities LearnX.UQ Week 7 reading: Consumer Learning",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -172,12 +237,37 @@
             ]
         },
         {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorials this week (Case study Planning document DUE Friday 6 September @ 10am)</strong><br/><p><strong>NO Tutorials this week </strong></p>\n<p><strong>Case study Planning document DUE </strong>Friday 6 September @ 10am</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 7 reading: <strong>Consumer Learning</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>No Tutorials this week (Case study Planning document DUE Friday 6 September @ 10am)</strong>",
+            "topic_description": "No Tutorials this week (Case study Planning document DUE Friday 6 September @ 10am) NO Tutorials this week Case study Planning document DUE Friday 6 September @ 10am Self-paced Learning activities LearnX.UQ Week 7 reading: Consumer Learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 8",
             "activity_type": "Lecture",
-            "topic": "Lecture: Mid-Semester Exam DiscussionWeek 8 Lecture: Q&A Preparing for online examsSelf-paced Learning activitiesLearnX.UQWeek 8 reading:Attitudes & Behaviour ChangeLearning outcomes:L02, L03, L05",
-            "topic_title": "Lecture: Mid-Semester Exam Discussion",
-            "topic_description": "Week 8 Lecture: Q&A Preparing for online exams\nSelf-paced Learning activities LearnX.UQ Week 8 reading: Attitudes & Behaviour Change",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture: Mid-Semester Exam Discussion</strong><br/><p><strong>Week 8 Lecture</strong>: Q&amp;A Preparing for online exams</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 8 reading: <strong>Attitudes &amp; Behaviour Change </strong></p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture: Mid-Semester Exam Discussion</strong>",
+            "topic_description": "Lecture: Mid-Semester Exam Discussion Week 8 Lecture : Q&A Preparing for online exams Self-paced Learning activities LearnX.UQ Week 8 reading: Attitudes & Behaviour Change",
             "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Attitude &amp; Behaviour Change</strong><br/><p><strong>Tutorial: Interdisciplinary Research Approaches</strong> Week 8 Workshop activities</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 8 reading: <strong>Attitudes &amp; Behaviour Change </strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Attitude &amp; Behaviour Change</strong>",
+            "topic_description": "Attitude & Behaviour Change Tutorial: Interdisciplinary Research Approaches Week 8 Workshop activities Self-paced Learning activities LearnX.UQ Week 8 reading: Attitudes & Behaviour Change",
+            "learning_outcomes": [
+                "L01",
                 "L02",
                 "L03",
                 "L05"
@@ -186,9 +276,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
-            "topic": "Mid-Semester Exam on InsperaNO Lecture and Tutorials this weekScheduled exam on Wednesday, 18th September 9-10:30am (Brisbane time, AEST)Self-paced Learning activitiesLearnX.UQWeek 9 reading: Personality, Self-Concept & GenderLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Mid-Semester Exam on Inspera",
-            "topic_description": "NO Lecture and Tutorials this week \nScheduled exam on Wednesday, 18th September 9-10:30am (Brisbane time, AEST)\nSelf-paced Learning activities LearnX.UQ Week 9 reading: Personality, Self-Concept & Gender",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Exam on Inspera</strong><br/><p><strong>NO Lecture and Tutorials this week </strong></p>\n<p><strong>Scheduled exam on Wednesday, 18th September 9-10:30am (Brisbane time, AEST)</strong></p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 9 reading: Personality, Self-Concept &amp; Gender</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Mid-Semester Exam on Inspera</strong>",
+            "topic_description": "Mid-Semester Exam on Inspera NO Lecture and Tutorials this week Scheduled exam on Wednesday, 18th September 9-10:30am (Brisbane time, AEST) Self-paced Learning activities LearnX.UQ Week 9 reading: Personality, Self-Concept & Gender",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -199,9 +289,9 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "Mid-semester BreakSelf-directed learningLearning outcomes:L01, L04, L05",
-            "topic_title": "Mid-semester Break",
-            "topic_description": "Self-directed learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-semester Break</strong><br/><p>Self-directed learning</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Mid-semester Break</strong>",
+            "topic_description": "Mid-semester Break Self-directed learning",
             "learning_outcomes": [
                 "L01",
                 "L04",
@@ -211,9 +301,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "No Lecture (complete self-paced learning activities on UQ Extend)Week 10: NO LectureSelf-paced Learning activitiesLearnX.UQWeek 10 reading:Motivation & InvolvementLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "No Lecture (complete self-paced learning activities on UQ Extend)",
-            "topic_description": "Week 10: NO Lecture\nSelf-paced Learning activities LearnX.UQ Week 10 reading: Motivation & Involvement",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Lecture (complete self-paced learning activities on UQ Extend) </strong><br><p><strong>Week 10: NO Lecture</strong></p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 10 reading: <strong>Motivation &amp; Involvement </strong></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>No Lecture (complete self-paced learning activities on UQ Extend) </strong>",
+            "topic_description": "No Lecture (complete self-paced learning activities on UQ Extend) Week 10: NO Lecture Self-paced Learning activities LearnX.UQ Week 10 reading: Motivation & Involvement",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -222,11 +312,47 @@
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Personality, Self-Concept, &amp; Gender</strong><br/><p><strong>Tutorial </strong></p>\n<p><strong>Personality, Self-concept &amp; Gender</strong> Week 10 Workshop activities</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 10 reading: <strong>Motivation &amp; Involvement </strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Personality, Self-Concept, &amp; Gender</strong>",
+            "topic_description": "Personality, Self-Concept, & Gender Tutorial Personality, Self-concept & Gender Week 10 Workshop activities Self-paced Learning activities LearnX.UQ Week 10 reading: Motivation & Involvement",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Lecture",
-            "topic": "Lecture: Module 3 ReviewWeek 11 Lecture: Module 3 Review: The role of social psychology in studying consumersSelf-paced Learning activitiesLearnX.UQWeek 11 reading:Groups & Social InfluenceLearning outcomes:L02, L03, L05",
-            "topic_title": "Lecture: Module 3 Review",
-            "topic_description": "Week 11 Lecture: Module 3 Review: The role of social psychology in studying consumers\nSelf-paced Learning activities LearnX.UQ Week 11 reading: Groups & Social Influence",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture: Module 3 Review</strong><br/><p><strong>Week 11 Lecture: Module 3 Review: The role of social psychology in studying consumers</strong></p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 11 reading: <strong>Groups &amp; Social Influence </strong></p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture: Module 3 Review</strong>",
+            "topic_description": "Lecture: Module 3 Review Week 11 Lecture: Module 3 Review: The role of social psychology in studying consumers Self-paced Learning activities LearnX.UQ Week 11 reading: Groups & Social Influence",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Motivation &amp; Involvement</strong><br/><p><strong>Tutorial</strong></p>\n<p><strong>Motivation &amp; Involvement </strong>Week 11 Workshop activities</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 11 reading: <strong>Groups &amp; Social Influence </strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Motivation &amp; Involvement</strong>",
+            "topic_description": "Motivation & Involvement Tutorial Motivation & Involvement Week 11 Workshop activities Self-paced Learning activities LearnX.UQ Week 11 reading: Groups & Social Influence",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12 Lecture: Module 4 Review</strong><br/><p><strong>Week 12 Lecture: Module 4 Review &amp; Quiz details briefing</strong></p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 12 reading: <strong>Consumer Culture </strong></p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Week 12 Lecture: Module 4 Review</strong>",
+            "topic_description": "Week 12 Lecture: Module 4 Review Week 12 Lecture: Module 4 Review & Quiz details briefing Self-paced Learning activities LearnX.UQ Week 12 reading: Consumer Culture",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -235,26 +361,51 @@
         },
         {
             "learning_period": "Week 12",
-            "activity_type": "Lecture",
-            "topic": "Week 12 Lecture: Module 4 ReviewWeek 12 Lecture: Module 4 Review & Quiz details briefingSelf-paced Learning activitiesLearnX.UQWeek 12 reading:Consumer CultureLearning outcomes:L02, L03, L05",
-            "topic_title": "Week 12 Lecture: Module 4 Review",
-            "topic_description": "Week 12 Lecture: Module 4 Review & Quiz details briefing\nSelf-paced Learning activities LearnX.UQ Week 12 reading: Consumer Culture",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12: Groups, Social Influence &amp; Culture</strong><br/><p><strong>Tutorial </strong></p>\n<p><strong>Motivation &amp; Involvement </strong>Week 12 Workshop activities</p>\n<p>Self-paced Learning activities <strong>LearnX.UQ</strong> Week 12 reading: <strong>Consumer Culture </strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 12: Groups, Social Influence &amp; Culture</strong>",
+            "topic_description": "Week 12: Groups, Social Influence & Culture Tutorial Motivation & Involvement Week 12 Workshop activities Self-paced Learning activities LearnX.UQ Week 12 reading: Consumer Culture",
             "learning_outcomes": [
+                "L01",
                 "L02",
-                "L03",
-                "L05"
+                "L03"
             ]
         },
         {
             "learning_period": "Week 13",
             "activity_type": "Lecture",
-            "topic": "Week 13: Online Quiz during scheduled Lecture timeWeek 13 NO Lecture: One hour Online quiz during scheduled Lecture timeTutorialThe Consumer Perspective & Case Study Submission Questions: Checklist for Case Study SubmissionLearning Objectives: 1, 2, 3, 4Learning outcomes:L01, L03, L04",
-            "topic_title": "Week 13: Online Quiz during scheduled Lecture time",
-            "topic_description": "Week 13 NO Lecture: One hour Online quiz during scheduled Lecture time\nTutorial \nThe Consumer Perspective & Case Study Submission Questions : Checklist for Case Study Submission \nLearning Objectives: 1, 2, 3, 4",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13: Online Quiz during scheduled Lecture time</strong><br/><p><strong>Week 13 NO Lecture</strong>: One hour Online quiz during scheduled Lecture time</p>\n<p><strong>Tutorial </strong></p>\n<p><strong>The Consumer Perspective &amp; Case Study Submission Questions</strong> : Checklist for Case Study Submission </p>\n<p>Learning Objectives: 1, 2, 3, 4</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 13: Online Quiz during scheduled Lecture time</strong>",
+            "topic_description": "Week 13: Online Quiz during scheduled Lecture time Week 13 NO Lecture : One hour Online quiz during scheduled Lecture time Tutorial The Consumer Perspective & Case Study Submission Questions : Checklist for Case Study Submission Learning Objectives: 1, 2, 3, 4",
             "learning_outcomes": [
                 "L01",
                 "L03",
                 "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13: Case study submission questions</strong><br><p>Checklist for Case Study Submission</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 13: Case study submission questions</strong>",
+            "topic_description": "Week 13: Case study submission questions Checklist for Case Study Submission",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Project Submission DUE (27th October, 12pm)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Case Study Project Submission DUE (27th October, 12pm)</strong>",
+            "topic_description": "Case Study Project Submission DUE (27th October, 12pm)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
             ]
         }
     ]
