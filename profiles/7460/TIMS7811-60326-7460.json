@@ -1,0 +1,246 @@
+{
+    "course_title": "Innovation Leadership",
+    "study_period": "Sem 2 2024",
+    "location": "Brisbane City",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7811-60326-7460",
+    "full_course_code": "TIMS7811-60326-7460",
+    "course_code": "TIMS7811",
+    "class_code": "60326",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the critical strategic importance of innovation for all organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically evaluate the nature and context of the innovation process and how it is changing."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate competence in adapting and applying the strategic and operational managerial frameworks and tools necessary for innovation leadership."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop an innovation strategy for an organisation, illustrating insight in the application of innovation themes and theories."
+        },
+        {
+            "number": "LO5.",
+            "description": "Be an effective innovation team member by providing quality impact in a timely, collaborative and collegial manner through exhibiting leadership and innovative characteristics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Photo Essay Team Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 16/09/2024 5:00 pm</p>\n<p>\n</p><p>One team member per group has to upload the slides to Blackboard BEFORE the presentation.</p>\n<p>All team members should complete the Peer Assessment on Blackboard at least two days after the presentation. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Oral, Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a team assignment. You will be assigned into teams of 3-5 people. The task for this assignment is to create a photo essay describing an innovation. It will consist of photos to be presented to the class on the due date. It is a 10-minute presentation with 5 minutes Q&amp;A. You must upload your presentation slides to Blackboard before the commencement of class. The photo essay should be structured as follows:</p>\n<p>Part 1: Take a picture of an innovation that is not a product or a service (see the notes from Lecture 1 for examples of other forms of innovation). In the presentation, briefly describe the innovation, what is innovative about it, and its importance.</p>\n<p>Part 2: Take 3-5 pictures of other parts of the economy or enabling technology that had to be in place to support this innovation. These are meant to be things without which the innovation you are looking at could not exist. In the presentation describe the roles these things play in supporting your focal innovation.</p>\n<p>Part 3: Take 2-4 pictures that show who or what benefits from this innovation. The presentation describes the benefits (pain relievers and gain creators) they derive from the innovation.</p>\n<p>Part 4: Take 2-4 pictures of other parts of the economy that are potentially disrupted or threatened by this innovation. In the presentation describe the threat that your focal innovation poses to these things.</p>\n<p>Ideally, I would like you to take as many of the photos as possible yourself. One of the points of this assignment is to make some of these ideas about innovations more tangible, and figuring out how to take a good picture of something that is not a product is a good way to do this. However, if you do not have access to a camera or a camera phone, you can grab pictures from the internet. You can also do this for things that are just impossible to photograph. I’m not too worried about the quality of the photos, as long as I can tell what they are and how they fit into your story.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>One team member per group has to upload the slides to Blackboard BEFORE the presentation.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Critical Reflection Essay",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 14/10/2024 5:30 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment is to write a 1500-word reflective essay, based on your experience with an online innovation strategy simulation, to be electronically submitted via Blackboard. The Back Bay battery simulation is about transitioning to a new business from an old business. Even though this is a product example, it applies equally well to any business bringing Horizon 2 innovations into the core. In the essay, please address the following sections:</p>\n<ol>\n<li>Describe your experience with the simulation. What was difficult about it?</li>\n<li>How did the simulation reflect innovation themes that we have discussed in class? (e.g. Referring to the Christensen article on disruptive innovations, what does this simulation tell you about managing a disruptive innovation? What can we learn about avoiding the traps of moving a Horizon 2 business into Horizon 1 (See: Moore, Geoffrey A. \"To succeed in the long-term, focus on the middle-term.” <em>Harvard Business Review</em> 85.7-8 (2006): 84-90.))</li>\n<li>Considering your comments in parts one and two, what did the simulation teach you about managing changing technologies of production and delivery in your current or former employer’s market?</li>\n<li>Please make any suggestions on how the lecturer can improve the simulation experience. What did you value most in this course and please also make three suggestions on how the course could be improved.</li>\n</ol>\n<p>The essay must be written in proper academic format, using APA referencing style. You are to reflect on your personal business experience and make reference to the current literature on your chosen innovation themes. You will be assessed for your ability to analyse, synthesise and evaluate your experiences against the literature and the simulation. A descriptive approach will not be acceptable. The name of this simulation is Back Bay Battery. The process is as follows:</p>\n<ol>\n<li>You will be able to play an introductory and advanced scenario of the simulation as part of your assessment. Use both rounds wisely to ensure you understand the outcomes of your decisions and that you can use this learning in your reflective essay.</li>\n<li>You will be allowed to play the simulation after class. I will adjust the settings of the simulation at the advanced scenario stage, so the idea is to understand the principles, rather than memorising anything.</li>\n<li>Afterwards, you will be required to complete the reflective essay on the simulation (as set out above).</li>\n</ol>\n<p>Access to your Harvard Business account for the simulation will be provided to you on Blackboard in when the simulation opens.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit individually through Turnitin and the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Consulting Report - Innovation strategy",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 8/11/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Report (2500 words for Option 1 / 3500 words for Options 2 and 3)</p>\n<p>See Blackboard for a detailed task description.</p>\n<p><strong>OPTION 1 – Innovation Strategy or Process Report</strong></p>\n<p>You will <strong>evaluate the innovation strategy of a self-selected business or organisation</strong> (preferably your current or previous employer) using the innovation value chain framework and other analytical tools that have been discussed in class.</p>\n<p><strong>OPTION 2 – Innovation Commercialisation or Startup – Innovative Business Model Validation </strong></p>\n<p>You will build evidence for an innovation, testing and iterating as you progress towards commercialisation. This innovation (new idea, product, service and so on), while self-selected, solves a business challenge and creates value for your current or past employer (feasibility). It also needs to create new user value – for internal and/or external users (desirability) and include the design of a sustainable business model (viability). This <strong>may also be an entrepreneurial startup venture</strong>.</p>\n<p><strong>OPTION 3 – Innovation Team Project Report for an Industry Partner</strong></p>\n<p> At our third class, an Industry Partner will pitch their innovation project proposals in a 15-minute session (10 minutes for the innovation project pitch and 5 minutes for student questions). The industry partner will provide students with among others;</p>\n<ul>\n<li>background information regarding their business operations,</li>\n<li>the nature and development stage of the current innovation (if applicable), and</li>\n<li>proposed objectives for the innovation strategy or project.</li>\n</ul>\n<p>To ensure the confidentiality of any proprietary information shared by industry partners during these sessions, all students would be required to sign confidentiality and non-disclosure agreements for the project at the commencement of class.</p>\n<p>Students who opt to do OPTION 3 should submit a one-pager on Blackboard (submitted before session 4), providing a brief description of their intention to work on the industry partner’s project and a motivation for why they should be selected to work on the project.</p>\n<p>Selected students will then be introduced to the industry partners and<strong> will arrange to meet with the industry partner and formulate a project-scoping agreements. The draft agreements must be forwarded to the lecturer via email or during class in WEEK FIVE</strong>. </p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All individual submissions (Options 1 and 2) are made to blackboard on the appropriate submission link. For the team project (Option 3) only one submission of the project report per team on Blackboard but each student should complete the Peer Assessment evaluations on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is innovation and why is it important?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>What is innovation and why is it important?</strong>",
+            "topic_description": "What is innovation and why is it important?",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creativity, Ideation and the Innovation Process</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Creativity, Ideation and the Innovation Process</strong>",
+            "topic_description": "Creativity, Ideation and the Innovation Process",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy under uncertainty</strong><br/><p>Industry Partner Presentation TBC</p>\n<p>Back Bay Battery - First introductory scenario with 20 simulation runs</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Strategy under uncertainty</strong>",
+            "topic_description": "Strategy under uncertainty Industry Partner Presentation TBC Back Bay Battery - First introductory scenario with 20 simulation runs",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Effectuation</strong><br/><p>Also submit your Major Assessment Option Selection via Blackboard: OPTION 1: Target organisation selection and innovation strategy report objectives. OPTION 2: Innovation commercialisation or startup – innovative business model. OPTION 3: Industry Partner Project Participation Motivation.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Effectuation</strong>",
+            "topic_description": "Effectuation Also submit your Major Assessment Option Selection via Blackboard: OPTION 1: Target organisation selection and innovation strategy report objectives. OPTION 2: Innovation commercialisation or startup – innovative business model. OPTION 3: Industry Partner Project Participation Motivation.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business models and Lean Startup</strong><br/><p>OPTION 3 - project scoping agreements due - email lecturer</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Business models and Lean Startup</strong>",
+            "topic_description": "Business models and Lean Startup OPTION 3 - project scoping agreements due - email lecturer",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design Thinking</strong><br/><p>Back Bay Battery - Intermediate scenario with 20 simulation runs</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Design Thinking</strong>",
+            "topic_description": "Design Thinking Back Bay Battery - Intermediate scenario with 20 simulation runs",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Disruptive Innovation and Business Model Inn</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Disruptive Innovation and Business Model Inn</strong>",
+            "topic_description": "Disruptive Innovation and Business Model Inn",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Model Innovation in Practice</strong><br/><p>Back Bay Battery - Advanced scenario with 20 simulation runs</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Business Model Innovation in Practice</strong>",
+            "topic_description": "Business Model Innovation in Practice Back Bay Battery - Advanced scenario with 20 simulation runs",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Photo essay presentations</strong><br/><p>Submit peer reviews within two days of presentations</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Photo essay presentations</strong>",
+            "topic_description": "Photo essay presentations Submit peer reviews within two days of presentations",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Innovation Strategy Implementation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Innovation Strategy Implementation</strong>",
+            "topic_description": "Innovation Strategy Implementation",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Kings Birthday – Public holiday – no class</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Kings Birthday – Public holiday – no class</strong>",
+            "topic_description": "Kings Birthday – Public holiday – no class",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Networking, Open Innovation and Collaboration</strong><br/><p>Reflective essay on simulation exercise submitted via Blackboard</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Networking, Open Innovation and Collaboration</strong>",
+            "topic_description": "Networking, Open Innovation and Collaboration Reflective essay on simulation exercise submitted via Blackboard",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Profiting from (IPR), Financing and Measuring Innovation</strong><br/><p>OPTION 3 - Industry Partner Project Presentation</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Profiting from (IPR), Financing and Measuring Innovation</strong>",
+            "topic_description": "Profiting from (IPR), Financing and Measuring Innovation OPTION 3 - Industry Partner Project Presentation",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
