@@ -1,4 +1,8 @@
 {
+    "course_title": "Global Human Resource Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS3606-60269-7460",
     "full_course_code": "MGTS3606-60269-7460",
     "course_code": "MGTS3606",
@@ -33,16 +37,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "50% Team",
-            "due_date": "12/08/2024 - 11/10/2024",
+            "weighting": "<dd>50% Team </dd>",
+            "due_date": "<dd><p> 12/08/2024 - 11/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Presentation, Reflection",
-            "task_description": "TheGlobal Mobility Handbookis a team projectand consists of a written report, a recorded presentation, and 2 peer assessments. Please see Blackboard for further description and expectations.The project expects students to describe, evaluate, and analyse a global recruitment and selection challenge in an emerging market context.The written report is approximately 2,000 words or 8 pages, whichever comes first.The team presentation must not be longer than 4 minutes in duration, and ideally no less than 3.Peer assessments are conducted following the written and presentation components.The project covers Themes 1, 2, and 3 put forward in the course.Written project submission deadline (W8; September 13, 12:00pm AEST).Team presentation deadline (W11; October 11, 12:00pm AEST).This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Team written report submission completed through Turnitin in the Blackboard Assessments link.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The <em>Global Mobility Handbook </em>is a team project<strong> </strong>and consists of a written report, a recorded presentation, and 2 peer assessments. Please see Blackboard for further description and expectations. </li>\n<li>The project expects students to describe, evaluate, and analyse a global recruitment and selection challenge in an emerging market context.</li>\n<li>The written report is approximately 2,000 words or 8 pages, whichever comes first.</li>\n<li>The team presentation must not be longer than 4 minutes in duration, and ideally no less than 3. </li>\n<li>Peer assessments are conducted following the written and presentation components. </li>\n<li>The project covers Themes 1, 2, and 3 put forward in the course.</li>\n<li>Written project submission deadline (W8; September 13, 12:00pm AEST).</li>\n<li>Team presentation deadline (W11; October 11, 12:00pm AEST).</li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Team written report submission completed through Turnitin in the Blackboard Assessments link.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -53,40 +57,40 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "12/08/2024 - 11/10/2024",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 12/08/2024 - 11/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "Form: 5 open-book quizzes to be completed individually.Questions: 5 multiple choice questions per quiz.Medium: Exclusively online via Blackboard.Timing:Chapter 2 content covered in Week 3&4 will be assess in Week 5 (Quiz 1).Chapter 5 content covered in Week 5&6 will be assessed in Week 7 (Quiz 2).Chapter 6 content covered in Week 7 will be assessed in Week 8 (Quiz 3).Chapter 7 content covered in Week 8&9 will be assessed in Week 10 (Quiz 4).Chapter 8 content covered in Week 10 will be assessed in Week 11 (Quiz 5).This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You cannot defer or apply for an extension for this assessment.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li><strong>Form</strong>: 5 open-book quizzes to be completed individually. </li>\n<li><strong>Questions</strong>: 5 multiple choice questions per quiz.</li>\n<li><strong>Medium</strong>: Exclusively online via Blackboard.</li>\n<li><strong>Timing</strong>:</li>\n<li>Chapter 2 content covered in Week 3&amp;4 will be assess in Week 5 (Quiz 1).</li>\n<li>Chapter 5 content covered in Week 5&amp;6 will be assessed in Week 7 (Quiz 2).</li>\n<li>Chapter 6 content covered in Week 7 will be assessed in Week 8 (Quiz 3).</li>\n<li>Chapter 7 content covered in Week 8&amp;9 will be assessed in Week 10 (Quiz 4).</li>\n<li>Chapter 8 content covered in Week 10 will be assessed in Week 11 (Quiz 5).</li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Individual Global Mobility Handbook",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "8/10/2024 - 22/10/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/10/2024 - 22/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "ThisGlobal Mobility Handbookcomponent is anindividual projectand consists of awritten report only.Please see Blackboard for further description and expectations.Each student is expected to describe, evaluate, and analyseeithera global performance and career management, global training and development,ora global compensation challenge in an emerging market context.The written report is approximately 2,000 words or 8 pages, whichever comes first.The content of the project can be general or be written with an industry, occupation, or company context in mind.The project covers Themes 1, 2, and 3 put forward in the course.Submission deadline (W13; October 22, 17:00 AEST).This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submission of written report through Turnitin in the Blackboard Assessments link.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>This <em>Global Mobility Handbook </em>component is an <strong>individual project </strong>and consists of a <strong>written report only. </strong>Please see Blackboard for further description and expectations. </li>\n<li>Each student is expected to describe, evaluate, and analyse <strong>either</strong> a global performance and career management, global training and development, <strong>or </strong>a global compensation challenge in an emerging market context.</li>\n<li>The written report is approximately 2,000 words or 8 pages, whichever comes first.</li>\n<li>The content of the project can be general or be written with an industry, occupation, or company context in mind.</li>\n<li>The project covers Themes 1, 2, and 3 put forward in the course.</li>\n<li>Submission deadline (W13; October 22, 17:00 AEST).</li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission of written report through Turnitin in the Blackboard Assessments link.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Course IntroductionCourse Introduction & Chapter 1Learning outcomes:L01",
-            "topic_title": "Course Introduction",
-            "topic_description": "Course Introduction & Chapter 1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br><p>Course Introduction &amp; Chapter 1</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Introduction</strong>",
+            "topic_description": "Course Introduction Course Introduction & Chapter 1",
             "learning_outcomes": [
                 "L01"
             ]
@@ -94,9 +98,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Introduction to Global HRChapter 1 cont.Learning outcomes:L01",
-            "topic_title": "Introduction to Global HR",
-            "topic_description": "Chapter 1 cont.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Global HR</strong><br/><p>Chapter 1 cont.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Global HR</strong>",
+            "topic_description": "Introduction to Global HR Chapter 1 cont.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -104,9 +108,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Global HR and Diversity & Inclusion, Part 1Chapter 2Learning outcomes:L01, L02, L03",
-            "topic_title": "Global HR and Diversity & Inclusion, Part 1",
-            "topic_description": "Chapter 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global HR and Diversity &amp; Inclusion, Part 1</strong><br/><p>Chapter 2</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Global HR and Diversity &amp; Inclusion, Part 1</strong>",
+            "topic_description": "Global HR and Diversity & Inclusion, Part 1 Chapter 2",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -116,9 +120,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Global HR and Diversity & Inclusion, Part 2Chapter 2Learning outcomes:L01, L02",
-            "topic_title": "Global HR and Diversity & Inclusion, Part 2",
-            "topic_description": "Chapter 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global HR and Diversity &amp; Inclusion, Part 2</strong><br/><p>Chapter 2</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Global HR and Diversity &amp; Inclusion, Part 2</strong>",
+            "topic_description": "Global HR and Diversity & Inclusion, Part 2 Chapter 2",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -127,9 +131,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Sourcing Global Talent, Part 1Chapter 5Quiz #1Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Sourcing Global Talent, Part 1",
-            "topic_description": "Chapter 5\nQuiz #1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sourcing Global Talent, Part 1</strong><br/><p>Chapter 5<br/>\nQuiz #1</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Sourcing Global Talent, Part 1</strong>",
+            "topic_description": "Sourcing Global Talent, Part 1 Chapter 5 Quiz #1",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -140,9 +144,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Sourcing Global Talent, Part 2Chapter 5Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Sourcing Global Talent, Part 2",
-            "topic_description": "Chapter 5",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sourcing Global Talent, Part 2</strong><br><p>Chapter 5</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Sourcing Global Talent, Part 2</strong>",
+            "topic_description": "Sourcing Global Talent, Part 2 Chapter 5",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -153,9 +157,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Global Performance ManagementChapter 6Quiz #2Learning outcomes:L01, L03",
-            "topic_title": "Global Performance Management",
-            "topic_description": "Chapter 6\nQuiz #2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Performance Management</strong><br/><p>Chapter 6<br/>\nQuiz #2</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Global Performance Management</strong>",
+            "topic_description": "Global Performance Management Chapter 6 Quiz #2",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -164,9 +168,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Global Training and Development, Part 1Chapter 7Quiz #3Learning outcomes:L01, L03",
-            "topic_title": "Global Training and Development, Part 1",
-            "topic_description": "Chapter 7\nQuiz #3",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Training and Development, Part 1</strong><br><p>Chapter 7<br/>\nQuiz #3</p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Global Training and Development, Part 1</strong>",
+            "topic_description": "Global Training and Development, Part 1 Chapter 7 Quiz #3",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -175,9 +179,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Global Training and Development, Part 2Chapter 7Learning outcomes:L01, L03",
-            "topic_title": "Global Training and Development, Part 2",
-            "topic_description": "Chapter 7",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Training and Development, Part 2</strong><br><p>Chapter 7</p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Global Training and Development, Part 2</strong>",
+            "topic_description": "Global Training and Development, Part 2 Chapter 7",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -186,17 +190,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakIndependent Study",
-            "topic_title": "In-Semester Break",
-            "topic_description": "Independent Study",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>Independent Study</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break Independent Study",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Global Compensation, Part 1Chapter 8Quiz #4Learning outcomes:L01, L03",
-            "topic_title": "Global Compensation, Part 1",
-            "topic_description": "Chapter 8\nQuiz #4",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Compensation, Part 1</strong><br/><p>Chapter 8<br/>\nQuiz #4</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Global Compensation, Part 1</strong>",
+            "topic_description": "Global Compensation, Part 1 Chapter 8 Quiz #4",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -205,9 +209,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Global Compensation, Part 2Chapter 8Quiz #5Learning outcomes:L01, L02, L03",
-            "topic_title": "Global Compensation, Part 2",
-            "topic_description": "Chapter 8\nQuiz #5",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Compensation, Part 2</strong><br><p>Chapter 8<br/>\nQuiz #5</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Global Compensation, Part 2</strong>",
+            "topic_description": "Global Compensation, Part 2 Chapter 8 Quiz #5",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -217,9 +221,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Future Global HR Trends and ReviewChapter 10Learning outcomes:L01, L02, L03",
-            "topic_title": "Future Global HR Trends and Review",
-            "topic_description": "Chapter 10",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Future Global HR Trends and Review</strong><br><p>Chapter 10</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Future Global HR Trends and Review</strong>",
+            "topic_description": "Future Global HR Trends and Review Chapter 10",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -229,9 +233,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Course SummaryCourse Summary",
-            "topic_title": "Course Summary",
-            "topic_description": "Course Summary",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Summary</strong><br/><p>Course Summary</p></p></div></td>",
+            "topic_title": "<strong>Course Summary</strong>",
+            "topic_description": "Course Summary Course Summary",
             "learning_outcomes": []
         }
     ]
