@@ -1,4 +1,8 @@
 {
+    "course_title": "Financial Risk Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7405-60241-7460",
     "full_course_code": "FINM7405-60241-7460",
     "course_code": "FINM7405",
@@ -45,16 +49,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "30/08/2024 6:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/08/2024 6:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The In-Semester Exam will be scheduled by the school.The In-Semester Exam covers material from lectures 1-4 inclusive and will be a digital Blackboard exam scheduled outside of normal class hours. More details will be given on the course Blackboard site.This assessment task is to be completed online.AI Statement:The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam will be scheduled by the school.</p>\n<p>The In-Semester Exam covers material from lectures 1-4 inclusive and will be a digital Blackboard exam scheduled outside of normal class hours. More details will be given on the course Blackboard site.</p>\n<p>This assessment task is to be completed online.</p>\n<p><strong>AI Statement:</strong></p>\n<p>The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -69,16 +73,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "15%",
-            "due_date": "Workshop 1 4/10/2024 4:00 pmWorkshop 2 11/10/2024 4:00 pmWorkshop 3 18/10/2024 4:00 pm",
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Workshop 1 4/10/2024 4:00 pm</p>\n<p>Workshop 2 11/10/2024 4:00 pm</p>\n<p>Workshop 3 18/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L03, L04, L05, L06",
             "mode": "Activity/ Performance, Written",
             "category": "Paper/ Report/ Annotation, Role play/ Simulation",
-            "task_description": "This semester we will be doing the QTC trading game. In the game students will work in groups to make hedging decisions given a real world economic scenario.The trading game will run for 3 weeks and students, in groups, will be required to give a report every week discussing the trading decisions they made. Each report is worth 5% for a total of 15% over the 3 weeks. More information will be provided at a later date.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This semester we will be doing the QTC trading game. In the game students will work in groups to make hedging decisions given a real world economic scenario.</p>\n<p>The trading game will run for 3 weeks and students, in groups, will be required to give a report every week discussing the trading decisions they made. Each report is worth 5% for a total of 15% over the 3 weeks. More information will be provided at a later date.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -93,16 +97,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "15%",
-            "due_date": "25/10/2024 3:00 pm",
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 25/10/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L05, L06, L07",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "This piece of assessment involves the content of the lecture on \"The Financial Crisis and other Case Studies\" and involves short answers and calculations. It is done individually. The assessment has two parts:1. Students will be required to do research into specific elements of the financial crisis and answer questions using their own words and appropriate references.2. Students will be given a fictional financial institution that is facing various types of financial risk. They will have to critique the current risk management set up as well as provide improvements. This part of the assessment will require the students doing calculations in excel.More information will be given during the semester.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This piece of assessment involves the content of the lecture on \"The Financial Crisis and other Case Studies\" and involves short answers and calculations. It is done individually. The assessment has two parts:</p>\n<p>1. Students will be required to do research into specific elements of the financial crisis and answer questions using their own words and appropriate references. </p>\n<p>2. Students will be given a fictional financial institution that is facing various types of financial risk. They will have to critique the current risk management set up as well as provide improvements. This part of the assessment will require the students doing calculations in excel.</p>\n<p>More information will be given during the semester.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-3",
@@ -117,25 +121,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L05, L06, L07",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The final exam will be during the University examination period at the end of the semester.The timetabling of this exam is the responsibility of the University of Queensland Examinations Section.This isin-person, invigilated, paper-basedwritten exam comprises short answer and problem solving questions.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be during the University examination period at the end of the semester.</p>\n<p>The timetabling of this exam is the responsibility of the University of Queensland Examinations Section.</p>\n<p>This is <strong>in-person, invigilated, paper-based</strong> written exam comprises short answer and problem solving questions.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Course Introduction and Important TerminologiesLearning outcomes:L01, L02",
-            "topic_title": "Course Introduction and Important Terminologies",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction and Important Terminologies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Course Introduction and Important Terminologies</strong>",
+            "topic_description": "Course Introduction and Important Terminologies",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -144,9 +148,20 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1 - Important TerminologiesLearning outcomes:L01, L02",
-            "topic_title": "Tutorial 1 - Important Terminologies",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - Important Terminologies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - Important Terminologies</strong>",
+            "topic_description": "Tutorial 1 - Important Terminologies",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Risk 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Interest Rate Risk 1</strong>",
+            "topic_description": "Interest Rate Risk 1",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -155,9 +170,20 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tutorial - Interest Rate Risk 1Learning outcomes:L01, L02",
-            "topic_title": "Tutorial - Interest Rate Risk 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial - Interest Rate Risk 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial - Interest Rate Risk 1</strong>",
+            "topic_description": "Tutorial - Interest Rate Risk 1",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Risk 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Interest Rate Risk 2</strong>",
+            "topic_description": "Interest Rate Risk 2",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -166,20 +192,20 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Tutorial - Interest Rate Risk 2Learning outcomes:L01, L02",
-            "topic_title": "Tutorial - Interest Rate Risk 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial - Interest Rate Risk 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial - Interest Rate Risk 2</strong>",
+            "topic_description": "Tutorial - Interest Rate Risk 2",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
-            "learning_period": "Week 5",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial - FuturesLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial - Futures",
-            "topic_description": "",
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Futures</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Futures</strong>",
+            "topic_description": "Futures",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -188,11 +214,24 @@
             ]
         },
         {
-            "learning_period": "Week 6",
+            "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Tutorial: SwapsLearning outcomes:L01, L02, L03",
-            "topic_title": "Tutorial: Swaps",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial - Futures</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial - Futures</strong>",
+            "topic_description": "Tutorial - Futures",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Swaps</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Swaps</strong>",
+            "topic_description": "Swaps",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -200,21 +239,65 @@
             ]
         },
         {
-            "learning_period": "Week 7",
+            "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Tutorial: Derivatives 1Learning outcomes:L01",
-            "topic_title": "Tutorial: Derivatives 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Swaps</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial: Swaps</strong>",
+            "topic_description": "Tutorial: Swaps",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Derivatives 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Derivatives 1</strong>",
+            "topic_description": "Derivatives 1",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Derivatives 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial: Derivatives 1</strong>",
+            "topic_description": "Tutorial: Derivatives 1",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Options 1</strong>",
+            "topic_description": "Options 1",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Tutorial: Options 1Learning outcomes:L01, L06",
-            "topic_title": "Tutorial: Options 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Options 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Tutorial: Options 1</strong>",
+            "topic_description": "Tutorial: Options 1",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Options 2</strong>",
+            "topic_description": "Options 2",
             "learning_outcomes": [
                 "L01",
                 "L06"
@@ -223,28 +306,40 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Tutorial: Options 2Learning outcomes:L01, L06",
-            "topic_title": "Tutorial: Options 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Options 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Tutorial: Options 2</strong>",
+            "topic_description": "Tutorial: Options 2",
             "learning_outcomes": [
                 "L01",
                 "L06"
             ]
         },
         {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Financial Crisis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07</p></div></td>",
+            "topic_title": "<strong>The Financial Crisis</strong>",
+            "topic_description": "The Financial Crisis",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07"
+            ]
+        },
+        {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Workshop",
-            "topic": "Trading Game 1Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Trading Game 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Trading Game 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Trading Game 1</strong>",
+            "topic_description": "Trading Game 1",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -256,9 +351,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Workshop",
-            "topic": "Trading Game 2Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Trading Game 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Trading Game 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Trading Game 2</strong>",
+            "topic_description": "Trading Game 2",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -270,9 +365,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Workshop",
-            "topic": "Trading Game 3Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Trading Game 3",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Trading Game 3</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Trading Game 3</strong>",
+            "topic_description": "Trading Game 3",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -284,15 +379,27 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Lecture",
-            "topic": "Revision WeekLearning outcomes:L01, L02, L03, L04, L05, L06, L07",
-            "topic_title": "Revision Week",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Week</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Revision Week</strong>",
+            "topic_description": "Revision Week",
             "learning_outcomes": [
                 "L01",
                 "L02",
                 "L03",
                 "L04",
                 "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: The Financial Crisis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial: The Financial Crisis</strong>",
+            "topic_description": "Tutorial: The Financial Crisis",
+            "learning_outcomes": [
+                "L01",
                 "L06",
                 "L07"
             ]
