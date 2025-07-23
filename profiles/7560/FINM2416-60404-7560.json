@@ -1,0 +1,394 @@
+{
+    "course_title": "Asset Pricing",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM2416-60404-7560",
+    "full_course_code": "FINM2416-60404-7560",
+    "course_code": "FINM2416",
+    "class_code": "60404",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand factors that impact financial markets."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse financial data in order to assess a particular investment or investment strategy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Perform and evaluate different techniques to value equity, debt, and alternative investments."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain and evaluate the risks associated with investing, including understanding ethical and professional standards in an investment management context."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse techniques for portfolio creation and to measure portfolio performance."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Activity/ Performance",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>More details about the exam will be posted to our course BB site.</li>\n<li>The in-semester exam date will be advised as soon as we are made aware by the university.  </li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Free Cash Flow Valuation of a Company",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 24/09/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be required to produce a report based on valuation of a company from the standpoint of a financial analyst. Overall you will provide an evaluation of the investment potential of the company's shares. In answering this</p>\n<ul>\n<li>An introduction and conclusion (with investment suggestions) is necessary.</li>\n<li>Your report is to be no more than 1200 words and typed in 12pt Times New Roman with 1.5 line spacing and normal margin.</li>\n<li>Your report should include assumptions, valuation, sensitivity analysis and investment suggestions.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted to both Turnitin AND Blackboard submission links. For more details, refers to the \"Assessment Guidelines\" on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The course is integrative and thus all components of the course are subject to examination and should be understood to perform well.</li>\n<li>The final exam will consist of problem-solving and short-answer questions.</li>\n<li>If you are unable to sit your final exam, you must apply for a deferred exam.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Behavioral Finance</strong><br/><p>Efficient Market Hypothesis, Behavioral Biases, and Technical Analysis</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Behavioral Finance</strong>",
+            "topic_description": "Behavioral Finance Efficient Market Hypothesis, Behavioral Biases, and Technical Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Behavioral Finance</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Behavioral Finance</strong>",
+            "topic_description": "Tutorial 1: Behavioral Finance",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statement Analysis</strong><br/><p>Financial statement and ratio analysis</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Financial Statement Analysis</strong>",
+            "topic_description": "Financial Statement Analysis Financial statement and ratio analysis",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Financial Statement Analysis</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 13 Aug 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Financial Statement Analysis</strong>",
+            "topic_description": "Tutorial 2: Financial Statement Analysis Royal Queensland Show Public Holiday - Wednesday 13 Aug 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stock Valuation 1</strong><br/><p>Review and extension on dividend discount models, growth assumptions, and present value of growth opportunities (PVGO)</p>\n<p>Royal Queensland Show Public Holiday - Wednesday 13 Aug 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Stock Valuation 1</strong>",
+            "topic_description": "Stock Valuation 1 Review and extension on dividend discount models, growth assumptions, and present value of growth opportunities (PVGO) Royal Queensland Show Public Holiday - Wednesday 13 Aug 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Stock Valuation 1</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Stock Valuation 1</strong>",
+            "topic_description": "Tutorial 3: Stock Valuation 1",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stock Valuation 2</strong><br/><p>Free cash flow, residual income, and Multiples-based valuation models</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Stock Valuation 2</strong>",
+            "topic_description": "Stock Valuation 2 Free cash flow, residual income, and Multiples-based valuation models",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Stock Valuation 2</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Stock Valuation 2</strong>",
+            "topic_description": "Tutorial 4: Stock Valuation 2",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Macro and Industry analysis</strong><br/><p>Other forms of fundamental analysis, including the global economy, the domestic macroeconomy, demand and supply shocks, federal government policy, business cycles, and industry analysis. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Macro and Industry analysis</strong>",
+            "topic_description": "Macro and Industry analysis Other forms of fundamental analysis, including the global economy, the domestic macroeconomy, demand and supply shocks, federal government policy, business cycles, and industry analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Macro and Industry analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Macro and Industry analysis</strong>",
+            "topic_description": "Tutorial 5: Macro and Industry analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fixed Income Securities</strong><br/><p>Bond prices and term structure, ESG considerations in fixed income</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Fixed Income Securities</strong>",
+            "topic_description": "Fixed Income Securities Bond prices and term structure, ESG considerations in fixed income",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Fixed Income Securities</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Fixed Income Securities</strong>",
+            "topic_description": "Tutorial 6: Fixed Income Securities",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bond Portfolios</strong><br/><p>Interest rate risk - duration and convexity, credit risk, asset and liability management, ESG investing</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Bond Portfolios</strong>",
+            "topic_description": "Bond Portfolios Interest rate risk - duration and convexity, credit risk, asset and liability management, ESG investing",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Bond Portfolios</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Bond Portfolios</strong>",
+            "topic_description": "Tutorial 7: Bond Portfolios",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Theory 1</strong><br/><p>Risk, return, and the historical record; capital allocation to risky assets; and optimal risky portfolios</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Portfolio Theory 1</strong>",
+            "topic_description": "Portfolio Theory 1 Risk, return, and the historical record; capital allocation to risky assets; and optimal risky portfolios",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Portfolio Theory 1</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Portfolio Theory 1</strong>",
+            "topic_description": "Tutorial 8: Portfolio Theory 1",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Theory 2</strong><br/><p>Various types of pricing models, including the Capital Asset Pricing Model (CAPM), Arbirage Pricing Theory (APT), and multifactor models of risks and returns.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Portfolio Theory 2</strong>",
+            "topic_description": "Portfolio Theory 2 Various types of pricing models, including the Capital Asset Pricing Model (CAPM), Arbirage Pricing Theory (APT), and multifactor models of risks and returns.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Portfolio Theory 2</strong><br/><p>King's Birthday Public Holiday - Monday 6 Oct 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Portfolio Theory 2</strong>",
+            "topic_description": "Tutorial 9: Portfolio Theory 2 King's Birthday Public Holiday - Monday 6 Oct 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Theory 3</strong><br/><p>Portfolio performance evaluation, including the conventional theory of performance evaluation, style analysis, and performance attribution procedures. </p>\n<p>King's Birthday Public Holiday - Monday 6 Oct 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Portfolio Theory 3</strong>",
+            "topic_description": "Portfolio Theory 3 Portfolio performance evaluation, including the conventional theory of performance evaluation, style analysis, and performance attribution procedures. King's Birthday Public Holiday - Monday 6 Oct 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Portfolio Theory 3</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Portfolio Theory 3</strong>",
+            "topic_description": "Tutorial 10: Portfolio Theory 3",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Alternative Investments 1</strong><br/><p>Introducing derivative securities and their pricing</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Alternative Investments 1</strong>",
+            "topic_description": "Alternative Investments 1 Introducing derivative securities and their pricing",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Alternative Investments 1</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Alternative Investments 1</strong>",
+            "topic_description": "Tutorial 11: Alternative Investments 1",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Alternative Investments 2</strong><br/><p>Trading strategies involving options and pricing forwards and futures</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Alternative Investments 2</strong>",
+            "topic_description": "Alternative Investments 2 Trading strategies involving options and pricing forwards and futures",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12: Alternative Investments 2</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 12: Alternative Investments 2</strong>",
+            "topic_description": "Tutorial 12: Alternative Investments 2",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Professional Standards in the Investment Industry and Review Materials</strong><br/><p>Code of ethics, standards of professional conduct, ethical framework, guidance and application of the code and standards, presentation of performance results for the Global Investment Performance Standards and review of all materials.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Ethics and Professional Standards in the Investment Industry and Review Materials</strong>",
+            "topic_description": "Ethics and Professional Standards in the Investment Industry and Review Materials Code of ethics, standards of professional conduct, ethical framework, guidance and application of the code and standards, presentation of performance results for the Global Investment Performance Standards and review of all materials.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
