@@ -1,0 +1,144 @@
+{
+    "course_title": "Contemporary Financial Modelling and Analytics",
+    "study_period": "Sem 1 2025",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7101-22185-7520",
+    "full_course_code": "FINM7101-22185-7520",
+    "course_code": "FINM7101",
+    "class_code": "22185",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (28/01/2025 - 03/03/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse data utilising widely used analytics methods and tools."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design robust financial models using various programming languages."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement a process to validate and audit financial models while being able to interpret the meaning and robustness of model outputs."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate core collaborative competencies needed to work effectively in a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Data Analytics Task",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 14/02/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This individual assessment is designed to develop and evaluate students' ability to apply financial modelling and portfolio management principles in the context of real-world investment decisions. Students will perform a portfolio optimization task using Python and historical market data.</p>\n<p>The deliverable includes a detailed report that explains the methodology, findings, and implications of the analysis, as well as a technical appendix containing Python code used in the computations. This task emphasizes critical thinking, fostering a practical understanding of investment portfolio management under real-world conditions.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Financial valuation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 7/03/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This individual assessment focuses on applying methods developed in class to valuing assets. Students will work independently to value assets using real-world date.</p>\n<p>The deliverable is a concise report that outlines the methodology, assumptions, and results for each task. Supporting computations should be included as an appendix.</p>\n<p>This assessment emphasizes individual analytical skills and the application of financial concepts to solve practical challenges, aligning with the course's learning outcomes.</p>\n<p>Details to be provided via Blackboard.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Team financial modelling exercise",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 7/03/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This team-based assessment challenges students to evaluate and analyse the valuation and performance of a project. Students will apply financial modelling, sensitivity analysis, and market data to make an informed investment recommendation.</p>\n<p>The deliverable is a concise team report summarizing the methodology, findings, and investment recommendations, supported by Excel or Python computations provided as an appendix.</p>\n<p>This assessment develops teamwork, critical thinking, and advanced financial modelling skills, preparing students to navigate and analyse complex investment products in a dynamic market environment.</p>\n<p>Full details and relevant data will be made available on Blackboard.</p>\n<p>Students will be given an opportunity for Peer Assessment of their group members. The results of this assessment may impact an individuals overall score for this assessment.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Learning - 27/01/2025 - 11/02/2025</strong><br/><p>Topics: Introduction, PV Mechanics, Bonds, Equity Valuation, Options</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Online Learning - 27/01/2025 - 11/02/2025</strong>",
+            "topic_description": "Online Learning - 27/01/2025 - 11/02/2025 Topics: Introduction, PV Mechanics, Bonds, Equity Valuation, Options",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 1 - Wednesday 12/02</strong><br/><p>Topics: Stock return analytics, diversification, recap of NPV and WACC, dividend imputation.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Day 1 - Wednesday 12/02</strong>",
+            "topic_description": "Day 1 - Wednesday 12/02 Topics: Stock return analytics, diversification, recap of NPV and WACC, dividend imputation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 2 - Thursday 13/02</strong><br/><p>Topics: Arbitrage, yield curves, structured products, efficient frontier.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Day 2 - Thursday 13/02</strong>",
+            "topic_description": "Day 2 - Thursday 13/02 Topics: Arbitrage, yield curves, structured products, efficient frontier.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 3 - Friday 14/02</strong><br/><p>Topics: Option valuation, Black-Scholes, Monte Carlo valuation techniques. Assessment task.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Day 3 - Friday 14/02</strong>",
+            "topic_description": "Day 3 - Friday 14/02 Topics: Option valuation, Black-Scholes, Monte Carlo valuation techniques. Assessment task.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
