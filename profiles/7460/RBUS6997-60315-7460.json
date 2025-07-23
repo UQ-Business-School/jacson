@@ -1,4 +1,8 @@
 {
+    "course_title": "Honours Thesis B",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS6997-60315-7460",
     "full_course_code": "RBUS6997-60315-7460",
     "course_code": "RBUS6997",
@@ -36,40 +40,40 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Research Proposal Presentation",
             "special_indicators": [],
-            "weighting": "10%",
-            "due_date": "30/10/2024The proposal presentation will most likely take place on Wednesday or Thursday of the revision week in your enrolling semester. The exact date and time will be communicated by the Honours Admin team. Please also refer to the important dates listed on the Honours Community Site on Blackboard.",
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 30/10/2024</p>\n<p>\n</p><p>The proposal presentation will most likely take place on Wednesday or Thursday of the revision week in your enrolling semester. The exact date and time will be communicated by the Honours Admin team. Please also refer to the important dates listed on the Honours Community Site on Blackboard.</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Activity/ Performance",
             "category": "Presentation",
-            "task_description": "This research presentation allows you to present your research question, literature review, and proposed methodology within a small supportive forum comprising academic members of staff and your fellow students. You will be given 15 minutes to present your progress to date and this will take place at a small in-house event at the end of semester one. Further details regarding the precise date will be provided.An assessor will be assigned and detailed feedback will be provided to both you and your supervisor to assist with the progression of your thesis.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This research presentation allows you to present your research question, literature review, and proposed methodology within a small supportive forum comprising academic members of staff and your fellow students. You will be given 15 minutes to present your progress to date and this will take place at a small in-house event at the end of semester one. Further details regarding the precise date will be provided.</p>\n<p>An assessor will be assigned and detailed feedback will be provided to both you and your supervisor to assist with the progression of your thesis.</p>\n<p><strong><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Honours Thesis",
             "special_indicators": [],
-            "weighting": "90%",
-            "due_date": "30/05/2025",
+            "weighting": "<dd>90%</dd>",
+            "due_date": "<dd><p> 30/05/2025</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06",
             "mode": "Written",
             "category": "Thesis",
-            "task_description": "The empirical honours thesis follows the same basic format as an empirical masters thesis or PhD thesis. To that end, unless otherwise instructed by the supervisor, the empirical honours thesis will have a minimum chapter content likely to include:IntroductionLiterature reviewModel and hypothesesMethodology of data collectionAnalysis, results and discussionConclusion.The above structure is an example for an empirical thesis. In cases where a theoretical thesis is undertaken, a different structure would be required. Students are advised to seek direction of their supervisor on the appropriate structure in such cases.Additional information related to the format, word count, ethics requirements and submission details can be found on the course Blackboard site.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The thesis is to be submitted electronically through Turnitin located in the Blackboard Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The empirical honours thesis follows the same basic format as an empirical masters thesis or PhD thesis. To that end, unless otherwise instructed by the supervisor, the empirical honours thesis will have a minimum chapter content likely to include:</p>\n<ol>\n<li>Introduction</li>\n<li>Literature review</li>\n<li>Model and hypotheses</li>\n<li>Methodology of data collection</li>\n<li>Analysis, results and discussion</li>\n<li>Conclusion.</li>\n</ol>\n<p>The above structure is an example for an empirical thesis. In cases where a theoretical thesis is undertaken, a different structure would be required. Students are advised to seek direction of their supervisor on the appropriate structure in such cases.</p>\n<p>Additional information related to the format, word count, ethics requirements and submission details can be found on the course Blackboard site.</p>\n<p><strong><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The thesis is to be submitted electronically through Turnitin located in the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Multiple weeksFrom Week 1 To Week 26",
             "activity_type": "Not Timetabled",
-            "topic": "Independent Research ActivityLearning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Independent Research Activity",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent Research Activity</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Independent Research Activity</strong>",
+            "topic_description": "Independent Research Activity",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -82,9 +86,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Not Timetabled",
-            "topic": "Honours Thesis Topic/Supervisor DetailsStudents are required to submit a copy of their thesis topic and supervisor details.Learning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Honours Thesis Topic/Supervisor Details",
-            "topic_description": "Students are required to submit a copy of their thesis topic and supervisor details.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Honours Thesis Topic/Supervisor Details</strong><br/><p>Students are required to submit a copy of their thesis topic and supervisor details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Honours Thesis Topic/Supervisor Details</strong>",
+            "topic_description": "Honours Thesis Topic/Supervisor Details Students are required to submit a copy of their thesis topic and supervisor details.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -97,9 +101,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Not Timetabled",
-            "topic": "Honours Thesis Topic/Supervisor AgreementStudents are required to submit their signed supervisor agreement for their honours thesis.Learning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Honours Thesis Topic/Supervisor Agreement",
-            "topic_description": "Students are required to submit their signed supervisor agreement for their honours thesis.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Honours Thesis Topic/Supervisor Agreement</strong><br/><p>Students are required to submit their signed supervisor agreement for their honours thesis.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Honours Thesis Topic/Supervisor Agreement</strong>",
+            "topic_description": "Honours Thesis Topic/Supervisor Agreement Students are required to submit their signed supervisor agreement for their honours thesis.",
             "learning_outcomes": [
                 "L01",
                 "L02",
