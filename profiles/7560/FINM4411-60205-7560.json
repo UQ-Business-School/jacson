@@ -1,0 +1,214 @@
+{
+    "course_title": "Team Project",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM4411-60205-7560",
+    "full_course_code": "FINM4411-60205-7560",
+    "course_code": "FINM4411",
+    "class_code": "60205",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "One Page Report on Industry Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>5% Group </dd>",
+            "due_date": "<dd><p> 11/08/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment is a one page submission containing information on the project. It should contain the title of the project, composition of the team, information on the industry partner (i.e., name and contact details) and an overview of the question to be studied of no more than 200 words. Teams should also upload the email correspondence with industry partner about their willingness to be involved.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Plan by Group",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% (Written Report 10%; Presentation 10%) </dd>",
+            "due_date": "<dd><p>Written Report 28/08/2025 3:00 pm</p>\n<p>Presentation, During Class 1/09/2025</p>\n<p>\n</p><p>Presentation points are awarded for the group. However, each team member must present to earn these points.</p></dd>",
+            "learning_objectives": "L01, L04, L05",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to form a <strong>team of 3 or 4 students</strong> to address a live industry problem. The first task you must complete is a project plan for how your team will address the issue. The purpose of a project plan is to scope the project, allocate individual tasks, and plan timelines for project completion.</p>\n<p>To guide you in the completion of this task, your team is required to create a project plan that addresses the following details:</p>\n<ol>\n<li>The issue, and relevant background information.</li>\n<li>The proposed approach for researching and analysing the issue.</li>\n<li>How the work will be allocated amongst group members (this should include equally allocating various aspects of compiling the industry report such as writing the initial draft, editing subsequent drafts, formatting the document).</li>\n<li>Any anticipated difficulties in completing the project.</li>\n<li>A timeline.</li>\n</ol>\n<p>There are two components to this assessment task:</p>\n<p><strong>(A) </strong>Written - which <strong><em>must</em></strong> include all elements mentioned above, with total word limit of up to a maximum of 2,000 words.</p>\n<p><strong>(B) </strong>Oral presentation by group to determine progress. The presentation will be held during scheduled lecture time (though we might have to start earlier to accommodate all teams).</p>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit Part A electronically via Blackboard. Part B is an in-person presentation.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Report",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 27/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Individual Report will consist of the research and analysis that you individually undertook as evidence of your contribution towards the final Report. How this research is allocated amongst your team members (i.e., who researches what aspect/s of the issue) will have been decided as part of the project planning stage (Assessment Task 1).</p>\n<p>You will clearly and concisely communicate your findings in a written report, addressing the following elements:</p>\n<ul>\n<li>Identify and explain one (max 2) aspect of the industry issue for detailed analysis</li>\n<li>Review relevant secondary sources related to this aspect. These secondary sources may include academic research, industry reports, etc.</li>\n<li>Analyse findings and discuss how these apply to the industry issue.</li>\n</ul>\n<p><strong>Please note:</strong></p>\n<ol>\n<li>This task requires you to include a much more in-depth analysis of the aspect/s of the issue you are researching. Given this level of analysis, you will not be able to include all of this detail in the final team report.</li>\n<li>Regurgitating the same information provided in the industry report will earn a low score.</li>\n<li>This is NOT a student's reflection on the work they did for the project.</li>\n<li>This 30% is NOT for writing drafts (or editing, formatting, proof-reading) of the industry report. Each team member is assumed to contribute roughly equally towards composing the report that is submitted to the industry partner.</li>\n</ol>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The individual reports are to be submitted <strong>at the same time</strong> as the final (industry) report. The submitted PDF file should include each team member's individual research report as appendices.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "The Final Report by Group",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>3:00PM - 27/10/2025</p>\n<p> 28/10/2025 - 29/10/2025</p>\n<p>\n</p><p>The final (or industry) report is due on <strong>27th October, 2025 by 3 pm</strong>. The presentations of the report to the industry partner will be on 28th and 29th<strong> October, 2025</strong>. Time and Location of the presentations is to be determined.</p>\n<p>Presentation points are awarded for the group. However, each team member must present to earn these points.</p></dd>",
+            "learning_objectives": "L04, L05",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Working again with your original team members, you are required to synthesise the findings from your individual reports to prepare one cohesive final report. Once you have completed this task, your team will present the results of your final analysis and recommendations.</p>\n<p>All submissions (slides in pdf format, the industry report and individual research reports) are due the day before presentations commence. The documents should be submitted in PDF.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit the Final Report electronically via Blackboard. The individual reports are to be submitted at the same time as the final (industry) report. The PDF file submitted should include the individual reports as appendices.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Meeting With Faculty Supervisor</strong><br/><p>It is recommended that weekly meetings be arranged at a time that suits team and academic supervisor. Students also have the option of meeting with the course co-ordinator during the weekly \"check-in\" session.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Weekly Meeting With Faculty Supervisor</strong>",
+            "topic_description": "Weekly Meeting With Faculty Supervisor It is recommended that weekly meetings be arranged at a time that suits team and academic supervisor. Students also have the option of meeting with the course co-ordinator during the weekly \"check-in\" session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Setting out the main elements of the Team Project including:</p>\n<ul>\n<li>project topics</li>\n<li>industry partners</li>\n<li>academic mentors</li>\n<li>team composition</li>\n<li>meeting advice/strategy</li>\n<li>team dynamics advice</li>\n<li>to clarify course expectations</li>\n</ul>\n<p>Students are expected to attend this session in-person.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Setting out the main elements of the Team Project including: project topics industry partners academic mentors team composition meeting advice/strategy team dynamics advice to clarify course expectations Students are expected to attend this session in-person.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>\"Check-in\" session</strong><br/><p>Students have the option of doing a Check-in session with the course coordinator to talk about aspects of their project. Teams can schedule trial presentations around the project plan/final report presentations.</p>\n<p>The aim is to answer any residual questions that you might have. Participation is entirely voluntary.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>\"Check-in\" session</strong>",
+            "topic_description": "\"Check-in\" session Students have the option of doing a Check-in session with the course coordinator to talk about aspects of their project. Teams can schedule trial presentations around the project plan/final report presentations. The aim is to answer any residual questions that you might have. Participation is entirely voluntary.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-class Presentation of Project Plan</strong><br/><p>Each Team will present in-class what they have achieved and lay out their strategy for the completion of project (15 minutes). Subject to available time, 5 minutes of Q&amp;A for each team.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In-class Presentation of Project Plan</strong>",
+            "topic_description": "In-class Presentation of Project Plan Each Team will present in-class what they have achieved and lay out their strategy for the completion of project (15 minutes). Subject to available time, 5 minutes of Q&A for each team.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>\"Check-In\" Sessions</strong><br/><p>Students have the option of doing a Check-in session with the course coordinator either to talk about aspects of their project or to do trial presentations.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>\"Check-In\" Sessions</strong>",
+            "topic_description": "\"Check-In\" Sessions Students have the option of doing a Check-in session with the course coordinator either to talk about aspects of their project or to do trial presentations.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>\"Check-in\" session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>\"Check-in\" session</strong>",
+            "topic_description": "\"Check-in\" session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No lectures or tutorials scheduled</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No lectures or tutorials scheduled",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>\"Check-in\" sessions</strong><br/><p><strong>Kings Birthday Public Holiday - Monday 6 October 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>\"Check-in\" sessions</strong>",
+            "topic_description": "\"Check-in\" sessions Kings Birthday Public Holiday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Presentations of Industry Report</strong><br/><p>Teams will be given 20 minutes to present their team's reports. In addition, teams will field up to 10 minutes of Q&amp;A. The presentation will take place on 25th October, 2024; the time and location is to be determined.</p>\n<p>The <strong> start time </strong> for the project presentations  will depend on the number of groups and<strong> will be confirmed closer to the date.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Team Presentations of Industry Report</strong>",
+            "topic_description": "Team Presentations of Industry Report Teams will be given 20 minutes to present their team's reports. In addition, teams will field up to 10 minutes of Q&A. The presentation will take place on 25th October, 2024; the time and location is to be determined. The start time for the project presentations  will depend on the number of groups and will be confirmed closer to the date.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
