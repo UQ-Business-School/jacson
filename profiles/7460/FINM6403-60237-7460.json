@@ -1,4 +1,8 @@
 {
+    "course_title": "Critical Issues in Finance",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM6403-60237-7460",
     "full_course_code": "FINM6403-60237-7460",
     "course_code": "FINM6403",
@@ -24,55 +28,55 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Class Presentation",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "Week 5 - Week 13",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> Week 5 - Week 13</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Presentation",
-            "task_description": "Students are expected to deliver in-class presentations of their chosen papers. Below are the guidelines.The time allocated for a presentation is 15 to 25 minutes, depending on the complexity of the paper.Provide a summary of the paper’s contributions to the literature and general line of reasoning.Provide an in-depth review of the paper's empirical analysis, e.g., data collection, empirical design, econometric models, and identification strategies.Is the empirical analysis of the paper convincing?Provide suggestions for improvement or extension.Please Note:The presentation will be recorded for marking purposes per UQ Policy.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are expected to deliver in-class presentations of their chosen papers. Below are the guidelines.</p>\n<p>The time allocated for a presentation is 15 to 25 minutes, depending on the complexity of the paper. </p>\n<p>Provide a summary of the paper’s contributions to the literature and general line of reasoning.</p>\n<p>Provide an in-depth review of the paper's empirical analysis, e.g., data collection, empirical design, econometric models, and identification strategies. </p>\n<p>Is the empirical analysis of the paper convincing?</p>\n<p>Provide suggestions for improvement or extension.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Article review",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "9/10/2024 2:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 9/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Essay/ Critique",
-            "task_description": "Peer review is fundamental to the efficacy of the scientific process. This assessment task requires each student to prepare one review report based on recently published papers in top finance/accounting journals. Below are the guidelines.Select papers published in the top 5 finance/accounting journals since 2015 (Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Review of Finance, and Journal of Accounting and Economics).Length: 2 to 3 pages (1-inch margin; double space; 12-font size).Provide a summary of the paper’s claimed results, contributions, and general line of reasoning.Is the empirical analysis convincing?Provide suggestions for improvement or extension.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submission via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Peer review is fundamental to the efficacy of the scientific process. This assessment task requires each student to prepare one review report based on recently published papers in top finance/accounting journals. Below are the guidelines.</p>\n<ul>\n<li>Select papers published in the top 5 finance/accounting journals since 2015 (Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Review of Finance, and Journal of Accounting and Economics). </li>\n<li>Length: 2 to 3 pages (1-inch margin; double space; 12-font size).  </li>\n<li>Provide a summary of the paper’s claimed results, contributions, and general line of reasoning.</li>\n<li>Is the empirical analysis convincing?</li>\n<li>Provide suggestions for improvement or extension. </li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Research Proposal",
             "special_indicators": [],
-            "weighting": "50%",
-            "due_date": "25/10/2024 2:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 25/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Thesis",
-            "task_description": "Prepare a proposal that clearly summarises your proposed research project. Below are the guidelines to help you prepare your research proposal:Length: 4 to 8 pages (1-inch margin; double spaced; 12-point font)Project title: Working title for the projectAims and Objectives: What are the overall aims of the work? What objectives are necessary to meet the aims?Synopsis: Briefly describe the key aspects of what you will be investigating.Background: Review of literature in the area of interest. Describe what research lays the groundwork for your topic.Expected research contribution: Why is the topic/creative work important? Describe how the research may be novel.Data and proposed methodology: Discuss the type of data and data source for your research. Empirical approach or methodology to be used in the research. List out existing methodology in the current literature.  Detailed discussion about the pros and cons of the existing empirical methods and how are you going to proceed.References: A short bibliography of the cited literature.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Prepare a proposal that clearly summarises your proposed research project. Below are the guidelines to help you prepare your research proposal:</p>\n<ul>\n<li>Length: 4 to 8 pages (1-inch margin; double spaced; 12-point font)</li>\n<li>Project title: Working title for the project</li>\n<li>Aims and Objectives: What are the overall aims of the work? What objectives are necessary to meet the aims?</li>\n<li>Synopsis: Briefly describe the key aspects of what you will be investigating.</li>\n<li>Background: Review of literature in the area of interest. Describe what research lays the groundwork for your topic.</li>\n<li>Expected research contribution: Why is the topic/creative work important? Describe how the research may be novel.</li>\n<li>Data and proposed methodology: Discuss the type of data and data source for your research. Empirical approach or methodology to be used in the research. List out existing methodology in the current literature.  Detailed discussion about the pros and cons of the existing empirical methods and how are you going to proceed.      </li>\n<li>References: A short bibliography of the cited literature.</li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Statistical foundation: Coding and dataLearning outcomes:L01, L02, L03",
-            "topic_title": "Statistical foundation: Coding and data",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical foundation: Coding and data</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Statistical foundation: Coding and data</strong>",
+            "topic_description": "Statistical foundation: Coding and data",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -82,9 +86,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Statistical foundation: Linear regressionLearning outcomes:L01, L02, L03",
-            "topic_title": "Statistical foundation: Linear regression",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical foundation: Linear regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Statistical foundation: Linear regression</strong>",
+            "topic_description": "Statistical foundation: Linear regression",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -94,9 +98,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Statistical foundation: CausalityLearning outcomes:L01, L02, L03",
-            "topic_title": "Statistical foundation: Causality",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical foundation: Causality</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Statistical foundation: Causality</strong>",
+            "topic_description": "Statistical foundation: Causality",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -106,9 +110,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Asset pricing theoryLearning outcomes:L01, L02, L03",
-            "topic_title": "Asset pricing theory",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Asset pricing theory</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Asset pricing theory</strong>",
+            "topic_description": "Asset pricing theory",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -118,9 +122,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Asset pricing empiricsLearning outcomes:L01, L02, L03",
-            "topic_title": "Asset pricing empirics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Asset pricing empirics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Asset pricing empirics</strong>",
+            "topic_description": "Asset pricing empirics",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -130,9 +134,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Banking theoryLearning outcomes:L01, L02, L03",
-            "topic_title": "Banking theory",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Banking theory</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Banking theory</strong>",
+            "topic_description": "Banking theory",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -142,9 +146,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Banking empiricsLearning outcomes:L01, L02, L03",
-            "topic_title": "Banking empirics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Banking empirics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Banking empirics</strong>",
+            "topic_description": "Banking empirics",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -154,9 +158,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Information and trading theoryLearning outcomes:L01, L02, L03",
-            "topic_title": "Information and trading theory",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Information and trading theory</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Information and trading theory</strong>",
+            "topic_description": "Information and trading theory",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -166,9 +170,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Information and trading empiricsLearning outcomes:L01, L02, L03",
-            "topic_title": "Information and trading empirics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Information and trading empirics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Information and trading empirics</strong>",
+            "topic_description": "Information and trading empirics",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -178,17 +182,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakNo seminar during the mid-semester break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "No seminar during the mid-semester break",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No seminar during the mid-semester break</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No seminar during the mid-semester break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "FinTech and big data in financeLearning outcomes:L01, L02, L03",
-            "topic_title": "FinTech and big data in finance",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>FinTech and big data in finance</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>FinTech and big data in finance</strong>",
+            "topic_description": "FinTech and big data in finance",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -198,9 +202,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Social media and financeKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03",
-            "topic_title": "Social media and finance",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Social media and finance</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Social media and finance</strong>",
+            "topic_description": "Social media and finance King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -210,9 +214,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Emerging trends in financeLearning outcomes:L01, L02, L03",
-            "topic_title": "Emerging trends in finance",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Emerging trends in finance</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Emerging trends in finance</strong>",
+            "topic_description": "Emerging trends in finance",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -222,9 +226,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Wrap-upLearning outcomes:L01, L02, L03",
-            "topic_title": "Wrap-up",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wrap-up</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Wrap-up</strong>",
+            "topic_description": "Wrap-up",
             "learning_outcomes": [
                 "L01",
                 "L02",
