@@ -1,4 +1,8 @@
 {
+    "course_title": "Quantitative Business Research Methods I",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS6902-60311-7460",
     "full_course_code": "RBUS6902-60311-7460",
     "course_code": "RBUS6902",
@@ -36,40 +40,40 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Report",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "13/09/2024 2:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 13/09/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L05, L06",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The report focuses on the completion of a computer exercise (Application of a Data Analysis technique) using software (e.g., SPSS). The data and topic on which students are to run the exercise will be provided in the class.You will also be required to reflect on the principles/material covered and your learning experience in this course (first 6 weeks).This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assessment will be submitted via Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The report focuses on the completion of a computer exercise (Application of a Data Analysis technique) using software (e.g., SPSS). The data and topic on which students are to run the exercise will be provided in the class.</p>\n<p>You will also be required to reflect on the principles/material covered and your learning experience in this course (first 6 weeks).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Report",
             "special_indicators": [],
-            "weighting": "60%",
-            "due_date": "8/11/2024 2:00 pm",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 8/11/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The report focuses on the completion of computer exercises using software (e.g., SPSS).The data and topic on which students are to run the model for the exercise will be provided in the class.You will also be required to reflect on the principles/material covered and your learning experience in this course.This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assessment will be submitted via Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The report focuses on the completion of computer exercises using software (e.g., SPSS).</p>\n<p>The data and topic on which students are to run the model for the exercise will be provided in the class.</p>\n<p>You will also be required to reflect on the principles/material covered and your learning experience in this course.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "IntroductionCourse overview, core research design concepts, introduction to multivariate data analysisLearning outcomes:L01, L02, L04, L05",
-            "topic_title": "Introduction",
-            "topic_description": "Course overview, core research design concepts, introduction to multivariate data analysis",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Course overview, core research design concepts, introduction to multivariate data analysis</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Course overview, core research design concepts, introduction to multivariate data analysis",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -80,9 +84,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Measurement, Scaling & Descriptive StatisticsLearning outcomes:L01, L02, L05, L06",
-            "topic_title": "Measurement, Scaling & Descriptive Statistics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measurement, Scaling &amp; Descriptive Statistics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Measurement, Scaling &amp; Descriptive Statistics</strong>",
+            "topic_description": "Measurement, Scaling & Descriptive Statistics",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -93,9 +97,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Sampling & Correlation AnalysisLab 1: Intro to SPSS & Basic Data ManagementLab 2: Descriptive statisticsLearning outcomes:L01, L02, L05, L06",
-            "topic_title": "Sampling & Correlation Analysis",
-            "topic_description": "Lab 1: Intro to SPSS & Basic Data Management \nLab 2: Descriptive statistics",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sampling &amp; Correlation Analysis</strong><br/><p>Lab 1: Intro to SPSS &amp; Basic Data Management </p>\n<p>Lab 2: Descriptive statistics</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Sampling &amp; Correlation Analysis</strong>",
+            "topic_description": "Sampling & Correlation Analysis Lab 1: Intro to SPSS & Basic Data Management Lab 2: Descriptive statistics",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -106,9 +110,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Hypothesis testing & CrosstabulationsLab 3: Correlations Assignment 1 briefingLearning outcomes:L01, L02, L05, L06",
-            "topic_title": "Hypothesis testing & Crosstabulations",
-            "topic_description": "Lab 3: Correlations Assignment 1 briefing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis testing &amp; Crosstabulations</strong><br/><p>Lab 3: Correlations Assignment 1 briefing</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Hypothesis testing &amp; Crosstabulations</strong>",
+            "topic_description": "Hypothesis testing & Crosstabulations Lab 3: Correlations Assignment 1 briefing",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -119,9 +123,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Research design & t-testLab 4: Cross tabsLearning outcomes:L01, L02, L05",
-            "topic_title": "Research design & t-test",
-            "topic_description": "Lab 4: Cross tabs",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research design &amp; t-test</strong><br/><p>Lab 4: Cross tabs</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Research design &amp; t-test</strong>",
+            "topic_description": "Research design & t-test Lab 4: Cross tabs",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -131,9 +135,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Primary data collection: Experiments & ANOVALab 5: t-testLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Primary data collection: Experiments & ANOVA",
-            "topic_description": "Lab 5: t-test",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Primary data collection: Experiments &amp; ANOVA</strong><br/><p>Lab 5: t-test</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Primary data collection: Experiments &amp; ANOVA</strong>",
+            "topic_description": "Primary data collection: Experiments & ANOVA Lab 5: t-test",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -144,9 +148,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Primary data collection: Survey methodsLab 6: Analysis of varianceLearning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Primary data collection: Survey methods",
-            "topic_description": "Lab 6: Analysis of variance",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Primary data collection: Survey methods</strong><br/><p>Lab 6: Analysis of variance</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Primary data collection: Survey methods</strong>",
+            "topic_description": "Primary data collection: Survey methods Lab 6: Analysis of variance",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -159,9 +163,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Measurement instrument design & Multiple regression analysisMultiple regression analysisLearning outcomes:L02, L03, L04, L05, L06",
-            "topic_title": "Measurement instrument design & Multiple regression analysis",
-            "topic_description": "Multiple regression analysis",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measurement instrument design &amp; Multiple regression analysis</strong><br/><p>Multiple regression analysis</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Measurement instrument design &amp; Multiple regression analysis</strong>",
+            "topic_description": "Measurement instrument design & Multiple regression analysis Multiple regression analysis",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -173,9 +177,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Mediation analysisLab 7: Multiple regression analysisLearning outcomes:L02, L03, L04, L05, L06",
-            "topic_title": "Mediation analysis",
-            "topic_description": "Lab 7: Multiple regression analysis",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mediation analysis</strong><br/><p>Lab 7: Multiple regression analysis</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Mediation analysis</strong>",
+            "topic_description": "Mediation analysis Lab 7: Multiple regression analysis",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -187,17 +191,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-semester break",
-            "topic_title": "In-semester break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Moderation analysisAssignment 2 briefingLearning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Moderation analysis",
-            "topic_description": "Assignment 2 briefing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Moderation analysis</strong><br/><p>Assignment 2 briefing</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Moderation analysis</strong>",
+            "topic_description": "Moderation analysis Assignment 2 briefing",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -210,17 +214,17 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "No Class this week (Public holiday)",
-            "topic_title": "No Class this week (Public holiday)",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Class this week (Public holiday)</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Class this week (Public holiday)</strong>",
+            "topic_description": "No Class this week (Public holiday)",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Factor AnalysisLab 8: Factor analysisLearning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Factor Analysis",
-            "topic_description": "Lab 8: Factor analysis",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Factor Analysis</strong><br/><p>Lab 8: Factor analysis</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Factor Analysis</strong>",
+            "topic_description": "Factor Analysis Lab 8: Factor analysis",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -233,9 +237,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Course ReviewLearning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Course Review",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Course Review</strong>",
+            "topic_description": "Course Review",
             "learning_outcomes": [
                 "L01",
                 "L02",
