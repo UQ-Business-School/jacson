@@ -1,4 +1,8 @@
 {
+    "course_title": "Portfolio Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7403-60240-7460",
     "full_course_code": "FINM7403-60240-7460",
     "course_code": "FINM7403",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "17/09/2024 6:50 pmDuring Lecture.",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 17/09/2024 6:50 pm</p>\n<p>\n</p><p>During Lecture. </p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The In-Semester exam is an open-book and online exam during class.The exam consists of multiple choice and short answer questions. Solving some of these problems will involve calculation.More details will be provided on the course Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester exam is an open-book and online exam during class.</p>\n<p>The exam consists of multiple choice and short answer questions. Solving some of these problems will involve calculation.</p>\n<p>More details will be provided on the course Blackboard site.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,16 +61,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "14/10/2024 5:00 pm",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 14/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L03, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "The assignment consists of:1. group project tasks that you are required to work in a team to complete all the project tasks in the assignment sheet (20 marks). The assignment task sheet will be available on Learn.UQ (Blackboard) from Teaching Week 2.2. a peer assessment of each assignment group member's contributions (5 marks). A peer assessment is to be completed individually, for which you must rate the contribution of each member of your project team using the Peer Assessment tool on Blackboard.NOTE:Artificial Intelligence (AI) or Machine Translation (MT) uses:You may use AI in completing a specified part of this assignment. The use of AI must be acknowledged and referenced. Not referencing or acknowledging AI use may constitute student misconduct under the (PPL 3.60.01)Student Code of Conduct. While for other parts of the assignment, the use of AI is prohibited. Machine Translation is prohibited in all parts of the assignment.Detailed guidelines for this assignment are provided on our course BB site. You should aim to complete this assignment progressively throughout the semester, and you will be guided each week as to what parts of your analysis you are adequately equipped to undertake. Leaving this assignment until the final week before it's due won't provide you with enough time to communicate effectively between your team members to complete this task.WORD LIMIT:2,500 words.Read full task descriptionHide full task description",
-            "submission_guidelines": "The project must be submitted for grading via the Blackboard Assignment submission link. It is also required that students submit the project to Turnitin for an integrity check.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment consists of:</p>\n<p>1. group project tasks that you are required to work in a team to complete all the project tasks in the assignment sheet (20 marks). The assignment task sheet will be available on Learn.UQ (Blackboard) from Teaching Week 2.</p>\n<p>2. a peer assessment of each assignment group member's contributions (5 marks). A peer assessment is to be completed individually, for which you must rate the contribution of each member of your project team using the Peer Assessment tool on Blackboard. </p>\n<p><strong>NOTE:</strong> </p>\n<p><strong>Artificial Intelligence (AI) or Machine Translation (MT) uses:</strong> You may use AI in completing a specified part of this assignment. The use of AI must be acknowledged and referenced. Not referencing or acknowledging AI use may constitute student misconduct under the (PPL 3.60.01) <a href=\"https://ppl.app.uq.edu.au/content/3.60.01-student-code-conduct\">Student Code of Conduct</a>. While for other parts of the assignment, the use of AI is prohibited. Machine Translation is prohibited in all parts of the assignment.</p>\n<p>Detailed guidelines for this assignment are provided on our course BB site. You should aim to complete this assignment progressively throughout the semester, and you will be guided each week as to what parts of your analysis you are adequately equipped to undertake. Leaving this assignment until the final week before it's due won't provide you with enough time to communicate effectively between your team members to complete this task.</p>\n<p><strong>WORD LIMIT:</strong> 2,500 words.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project must be submitted for grading via the Blackboard Assignment submission link. It is also required that students submit the project to Turnitin for an integrity check.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -81,25 +85,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "45%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The final assessment consists ofShort-answer questions,Essay questions.Further details will be discussed in class.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final assessment consists of</p>\n<ul>\n<li>Short-answer questions,</li>\n<li>Essay questions.</li>\n</ul>\n<p>Further details will be discussed in class.  </p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Lecture 1: The Investment EnvironmentThis topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets.Learning outcomes:L02, L05",
-            "topic_title": "Lecture 1: The Investment Environment",
-            "topic_description": "This topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1: The Investment Environment</strong><br/><p>This topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 1: The Investment Environment</strong>",
+            "topic_description": "Lecture 1: The Investment Environment This topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets.",
             "learning_outcomes": [
                 "L02",
                 "L05"
@@ -108,20 +112,20 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 1: The Investment EnvironmentLearning outcomes:L02, L05",
-            "topic_title": "Tutorial 1: The Investment Environment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: The Investment Environment</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: The Investment Environment</strong>",
+            "topic_description": "Tutorial 1: The Investment Environment",
             "learning_outcomes": [
                 "L02",
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 3",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 2: Equity Valuation ILearning outcomes:L01, L02, L05",
-            "topic_title": "Tutorial 2: Equity Valuation I",
-            "topic_description": "",
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2: Equity Valuation I</strong><br/><p>This topic develops the well-known Capital Asset Pricing Model and discuss its empirical challenges in explaining asset returns.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 2: Equity Valuation I</strong>",
+            "topic_description": "Lecture 2: Equity Valuation I This topic develops the well-known Capital Asset Pricing Model and discuss its empirical challenges in explaining asset returns.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -129,11 +133,23 @@
             ]
         },
         {
-            "learning_period": "Week 4",
+            "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 3: Equity Valuation IIRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 3: Equity Valuation II",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Equity Valuation I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Equity Valuation I</strong>",
+            "topic_description": "Tutorial 2: Equity Valuation I",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3: Equity Valuation II</strong><br/><p>This topic discusses macroeconomic and industry analysis which is particularly useful in timing factor investments. It introduces a wide range of multi-factor asset pricing models to address the empirical challenges of the CAPM.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 3: Equity Valuation II</strong>",
+            "topic_description": "Lecture 3: Equity Valuation II This topic discusses macroeconomic and industry analysis which is particularly useful in timing factor investments. It introduces a wide range of multi-factor asset pricing models to address the empirical challenges of the CAPM.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -142,11 +158,48 @@
             ]
         },
         {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Equity Valuation II</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Equity Valuation II</strong>",
+            "topic_description": "Tutorial 3: Equity Valuation II Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4: Equity Valuation III</strong><br/><p>This topic covers the basics of bond valuation.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 4: Equity Valuation III</strong>",
+            "topic_description": "Lecture 4: Equity Valuation III This topic covers the basics of bond valuation.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 4: Equity Valuation IIILearning outcomes:L01, L03, L05",
-            "topic_title": "Tutorial 4: Equity Valuation III",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Equity Valuation III</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Equity Valuation III</strong>",
+            "topic_description": "Tutorial 4: Equity Valuation III",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: Bond Valuation I</strong><br/><p>This topic focuses on term structure of interest rates, management of bond portfolios, and bond risk factors.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 5: Bond Valuation I</strong>",
+            "topic_description": "Lecture 5: Bond Valuation I This topic focuses on term structure of interest rates, management of bond portfolios, and bond risk factors.",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -156,9 +209,21 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 5: Bond Valuation ILearning outcomes:L01, L03, L05",
-            "topic_title": "Tutorial 5: Bond Valuation I",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Bond Valuation I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Bond Valuation I</strong>",
+            "topic_description": "Tutorial 5: Bond Valuation I",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Bond Valuation II</strong><br/><p>This topic focuses on ratio analysis and equity valuation models</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 6: Bond Valuation II</strong>",
+            "topic_description": "Lecture 6: Bond Valuation II This topic focuses on ratio analysis and equity valuation models",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -168,9 +233,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 6: Bond Valuation IINo Tutorial due to In-Semester ExamLearning outcomes:L01, L03, L05",
-            "topic_title": "Tutorial 6: Bond Valuation II",
-            "topic_description": "No Tutorial due to In-Semester Exam",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Bond Valuation II</strong><br/><p>No Tutorial due to In-Semester Exam</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Bond Valuation II</strong>",
+            "topic_description": "Tutorial 6: Bond Valuation II No Tutorial due to In-Semester Exam",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -178,39 +243,56 @@
             ]
         },
         {
-            "learning_period": "Week 8",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 7: Portfolio Theory ILearning outcomes:L01, L02, L05",
-            "topic_title": "Tutorial 7: Portfolio Theory I",
-            "topic_description": "",
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: Portfolio Theory I</strong><br/><p><strong>In-Semester Exam During Lecture</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 7: Portfolio Theory I</strong>",
+            "topic_description": "Lecture 7: Portfolio Theory I In-Semester Exam During Lecture",
             "learning_outcomes": [
                 "L01",
                 "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Portfolio Theory I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Portfolio Theory I</strong>",
+            "topic_description": "Tutorial 7: Portfolio Theory I",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Portfolio Theory II</strong><br/><p>The lecture discusses the discounted cash flow models and the multiples method in valuing equity securities.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8: Portfolio Theory II</strong>",
+            "topic_description": "Lecture 8: Portfolio Theory II The lecture discusses the discounted cash flow models and the multiples method in valuing equity securities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
                 "L05"
             ]
         },
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "No tutorial this week",
-            "topic_title": "No tutorial this week",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial this week</strong><br/></p></div></td>",
+            "topic_title": "<strong>No tutorial this week</strong>",
+            "topic_description": "No tutorial this week",
             "learning_outcomes": []
         },
         {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 10",
-            "activity_type": "Tutorial",
-            "topic": "Tutorial 8: Portfolio Theory IILearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 8: Portfolio Theory II",
-            "topic_description": "",
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>This topic discusses various methods to evaluate and understand investment fund performance/styles.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam This topic discusses various methods to evaluate and understand investment fund performance/styles.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -219,11 +301,32 @@
             ]
         },
         {
-            "learning_period": "Week 11",
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 9: Portfolio Performance EvaluationLearning outcomes:L03, L04, L05",
-            "topic_title": "Tutorial 9: Portfolio Performance Evaluation",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Portfolio Theory II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Portfolio Theory II</strong>",
+            "topic_description": "Tutorial 8: Portfolio Theory II",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Portfolio Performance Evaluation</strong><br/><p>This topic discusses the notion of market efficiency and behavioural finance with applications on security returns.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9: Portfolio Performance Evaluation</strong>",
+            "topic_description": "Lecture 9: Portfolio Performance Evaluation This topic discusses the notion of market efficiency and behavioural finance with applications on security returns.",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -231,11 +334,23 @@
             ]
         },
         {
-            "learning_period": "Week 12",
+            "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 10: Options MarketsLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Tutorial 10: Options Markets",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Portfolio Performance Evaluation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Portfolio Performance Evaluation</strong>",
+            "topic_description": "Tutorial 9: Portfolio Performance Evaluation",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10: Options Markets</strong><br/><p>This lecture discusses basics of options contracts and risk management strategies for portfolio investments.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 10: Options Markets</strong>",
+            "topic_description": "Lecture 10: Options Markets This lecture discusses basics of options contracts and risk management strategies for portfolio investments.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -244,11 +359,48 @@
             ]
         },
         {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Options Markets</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Options Markets</strong>",
+            "topic_description": "Tutorial 10: Options Markets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11: EMH &amp; Behavioural Finance</strong><br/><p>This lecture demonstrates the investment process in practice with CFA framework</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 11: EMH &amp; Behavioural Finance</strong>",
+            "topic_description": "Lecture 11: EMH & Behavioural Finance This lecture demonstrates the investment process in practice with CFA framework",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Tutorial 11: EMH & Behavioural FinanceLearning outcomes:L03, L04, L05",
-            "topic_title": "Tutorial 11: EMH & Behavioural Finance",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: EMH &amp; Behavioural Finance</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: EMH &amp; Behavioural Finance</strong>",
+            "topic_description": "Tutorial 11: EMH & Behavioural Finance",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12: Investment Process and Ethics</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 12: Investment Process and Ethics</strong>",
+            "topic_description": "Lecture 12: Investment Process and Ethics",
             "learning_outcomes": [
                 "L03",
                 "L04",
