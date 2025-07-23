@@ -1,0 +1,413 @@
+{
+    "course_title": "People Analytics: Theory, Strategy and Practical Application",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS3609-22606-7520",
+    "full_course_code": "MGTS3609-22606-7520",
+    "course_code": "MGTS3609",
+    "class_code": "22606",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate an understanding of People/HR analytics as a field and the scope of projects that can be undertaken in an HR Analytics team."
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate an understanding of current theoretical and methodological approaches employed in HR analytics and understand the challenges in how these affect the way the knowledge base is interpreted."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate an ability to interpret statistical analyses on HR related data, understand and report the importance of the findings (individually and as a team)."
+        },
+        {
+            "number": "LO4.",
+            "description": "Show an understanding of the critical ethical dimension to people analytics as applied in practice, and demonstrate insight into managing the implications of ethical dilemmas."
+        },
+        {
+            "number": "LO5.",
+            "description": "Be able to critically evaluate the appropriate use of HR analytics projects."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Series of 4 Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Quiz 1 Week 4 Mon - Week 4 Fri</p>\n<p>Quiz 2 Week 6 Mon - Week 6 Fri</p>\n<p>Quiz 3 Week 8 Tue - Week 8 Fri</p>\n<p>Quiz 4 Week 10 Mon - Week 10 Thu</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be given a series of four quizzes (5% each) that test students' ongoing understanding of material from the course.</p>\n<p>Students will be quizzed on various features of the course, including tutorial activities, lecture material and video material (presented in the lecture and/or posted on blackboard).</p>\n<p>The quizzes will drawing questions randomly from a pool of questions and be open for 24 hours.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Quizzes will be deployed on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> Week 10 - Week 11</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be assigned to groups and given an HR analytics case study with some analyses output (along with the associated dataset for information).</p>\n<p>The case study will be provided on blackboard.</p>\n<p>The groups will need to consider the case study, interpret the analyses, and present the importance of the findings to a hypothetical board of directors.</p>\n<p>The presentation will need to outline the findings, what implications the analyses has for the organisation and set out recommendations in terms of what the organisation should be considering (regarding investments in HR) going forward.</p>\n<p>The presentations will be recorded and all group members will need to take part in the presentation. </p>\n<p>The presentations will be presented during tutorials in weeks 11 and 12.</p>\n<p><em>Please note that you MUST be a member of a group in order to complete this group presentation task. Preliminary allocation to groups will take place in Week 5 and groups will be finalised by Week 6. Students who do not attend tutorials in Week 5 and do not notify course staff by the end of Week 6 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and may receive zero for this assessment task.</em></p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via BB.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Invigilated exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50% Individual </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This exam will present a case description of an analytics project with some analytics output. The students will be expected to interpret the output, report and summarise the findings along with an explanation of the implications that the findings have for HR decision making going forward. The students will also need to reflect on any ethical challenges that may arise from the project.</p>\n<p>Students will be given 120 minutes for the exam, under timed conditions.</p>\n<p>A mock exam will be provided to students before the revision session in the last week of semester.</p>\n<p>More details will be provided on Blackboard.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This is an in-person exam. Exam papers will be collected at the end of the exam.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Self Study</strong><br><p>Self-directed study - No Tutorial this week.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Online Self Study</strong>",
+            "topic_description": "Online Self Study Self-directed study - No Tutorial this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intro To People Analytics: HR in context</strong><br><p>How does HR Analytics as an offering fit into the broader sweep of HR activities and what does it bring to the field?</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Intro To People Analytics: HR in context</strong>",
+            "topic_description": "Intro To People Analytics: HR in context How does HR Analytics as an offering fit into the broader sweep of HR activities and what does it bring to the field?",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>HR Analytics Teams: Getting to know each other</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>HR Analytics Teams: Getting to know each other</strong>",
+            "topic_description": "HR Analytics Teams: Getting to know each other",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>HR Function, Analytics Teams &amp; Analytics Competency</strong><br><p>How do organisations arrange their HR Analytics teams and what kind of projects do they undertake?</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>HR Function, Analytics Teams &amp; Analytics Competency</strong>",
+            "topic_description": "HR Function, Analytics Teams & Analytics Competency How do organisations arrange their HR Analytics teams and what kind of projects do they undertake?",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>HR Analytics Teams: Working in groups</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>HR Analytics Teams: Working in groups</strong>",
+            "topic_description": "HR Analytics Teams: Working in groups",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Analytics HR and Technology</strong><br/><p>What are the technological developments that we are seeing in HR that enable the full utilisation of HR Analytics?</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Analytics HR and Technology</strong>",
+            "topic_description": "Analytics HR and Technology What are the technological developments that we are seeing in HR that enable the full utilisation of HR Analytics?",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Analytic Activity Intro</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Analytic Activity Intro</strong>",
+            "topic_description": "Analytic Activity Intro",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practitioner Talk</strong><br/><p>Talk from an HR analytics expert about different projects HR data can be used for. This will give you real insight into the role of HR Analytics in organisations.</p>\n<p><strong>It is essential that you attend.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practitioner Talk</strong>",
+            "topic_description": "Practitioner Talk Talk from an HR analytics expert about different projects HR data can be used for. This will give you real insight into the role of HR Analytics in organisations. It is essential that you attend.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Employee Engagement Analyses - Descriptives</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Employee Engagement Analyses - Descriptives</strong>",
+            "topic_description": "Employee Engagement Analyses - Descriptives",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Engagement HR Analytics</strong><br/><p>Why is employee engagement such an important focus of HR analytics teams? What is it? What analytic opportunities does engagement data enable?</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Engagement HR Analytics</strong>",
+            "topic_description": "Engagement HR Analytics Why is employee engagement such an important focus of HR analytics teams? What is it? What analytic opportunities does engagement data enable?",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Employee Engagement Analyses - Correlations</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Employee Engagement Analyses - Correlations</strong>",
+            "topic_description": "Employee Engagement Analyses - Correlations",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Turnover HR Analytics</strong><br/><p>Why is turnover such an important part if HR analytics activities? Can we predict turnover and cost it? What opportunities does this provide for HR?</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Turnover HR Analytics</strong>",
+            "topic_description": "Turnover HR Analytics Why is turnover such an important part if HR analytics activities? Can we predict turnover and cost it? What opportunities does this provide for HR?",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Analyses</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Performance Analyses</strong>",
+            "topic_description": "Performance Analyses",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance HR Analytics</strong><br/><p>What do we mean by employee performance and what data might be useful as measures of performance? What are the limits to performance data and analytics?</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Performance HR Analytics</strong>",
+            "topic_description": "Performance HR Analytics What do we mean by employee performance and what data might be useful as measures of performance? What are the limits to performance data and analytics?",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Diversity Analyses</strong><br/><p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Diversity Analyses</strong>",
+            "topic_description": "Diversity Analyses Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Diversity HR Analytics</strong><br/><p>Why is HR analytics so important for the management of Diversity and inclusion in organisations? What kind of analytics might an organisation utilise with Diversity and Inclusion?</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Diversity HR Analytics</strong>",
+            "topic_description": "Diversity HR Analytics Why is HR analytics so important for the management of Diversity and inclusion in organisations? What kind of analytics might an organisation utilise with Diversity and Inclusion?",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rubric Jam for A2 presentations</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Rubric Jam for A2 presentations</strong>",
+            "topic_description": "Rubric Jam for A2 presentations",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>People Analytics - Stakeholder reporting</strong><br/><p>It is one thing to be able to analyse and interpret HR data - but \"so what\"? What does it tell an organisation and how can you communicate the importance of the analyses? Reporting and convincing stakeholders of the importance of analytics is key.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>People Analytics - Stakeholder reporting</strong>",
+            "topic_description": "People Analytics - Stakeholder reporting It is one thing to be able to analyse and interpret HR data - but \"so what\"? What does it tell an organisation and how can you communicate the importance of the analyses? Reporting and convincing stakeholders of the importance of analytics is key.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>A2 Presentations</strong><br/><p>A2 presentations will occur live in your tutorials this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>A2 Presentations</strong>",
+            "topic_description": "A2 Presentations A2 presentations will occur live in your tutorials this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethical Considerations and Debates</strong><br/><p>Just because you can analyse people data in the work place doesn't mean you should. What are some of the ethical challenges and opportunities of HR analytics?</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Ethical Considerations and Debates</strong>",
+            "topic_description": "Ethical Considerations and Debates Just because you can analyse people data in the work place doesn't mean you should. What are some of the ethical challenges and opportunities of HR analytics?",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>A2 Presentations</strong><br/><p>A2 Presentations will occur live in your tutorials this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>A2 Presentations</strong>",
+            "topic_description": "A2 Presentations A2 Presentations will occur live in your tutorials this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practitioner Talk</strong><br/><p>Talk from an HR analytics expert in a multinational organisation about the value add of HR analytics and a discussion of the use of machine learning in analytics.</p>\n<p>This will give you real insight into how HR Analytics is being used in this organisation.</p>\n<p><strong>It is essential that you attend.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practitioner Talk</strong>",
+            "topic_description": "Practitioner Talk Talk from an HR analytics expert in a multinational organisation about the value add of HR analytics and a discussion of the use of machine learning in analytics. This will give you real insight into how HR Analytics is being used in this organisation. It is essential that you attend.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Automated Hiring</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Automated Hiring</strong>",
+            "topic_description": "Automated Hiring",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workforce Planning</strong><br/><p> What is workforce planning and how does HR analytics help?</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Workforce Planning</strong>",
+            "topic_description": "Workforce Planning What is workforce planning and how does HR analytics help?",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exam Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Exam Revision</strong>",
+            "topic_description": "Exam Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>HR People Analytics - Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>HR People Analytics - Revision</strong>",
+            "topic_description": "HR People Analytics - Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
