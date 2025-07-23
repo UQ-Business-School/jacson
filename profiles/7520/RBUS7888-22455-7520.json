@@ -1,0 +1,245 @@
+{
+    "course_title": "Business Industry Consultancy Project",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS7888-22455-7520",
+    "full_course_code": "RBUS7888-22455-7520",
+    "course_code": "RBUS7888",
+    "class_code": "22455",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply interdisciplinary knowledge to critically analyse and solve complex real-world industry problems in an innovative manner."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop professional practice, project management, consultancy, and research skills through collaborative problem solving, including key employability skills such as teamwork and communication."
+        },
+        {
+            "number": "LO3.",
+            "description": "Be an effective team member while managing professional relationships and expectations of industry partners."
+        },
+        {
+            "number": "LO4.",
+            "description": "Persuasively pitch and defend business solutions and recommendations in relation to the industry partner's problem."
+        },
+        {
+            "number": "LO5.",
+            "description": "Present a business report that reflects continuous feedback and delivers a viable solution to the industry problem."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Critical Reflection",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 2/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, students will reflect on the execution of the project, their individual contributions, and the skills and attributes they demonstrated. They will also consider the feedback they received and provided, key takeaways from the experience, and areas for personal development. Throughout the project, students are required to maintain a personal diary, documenting their learnings and significant incidents, which will serve as a foundation for this reflection.</p>\n<p>A full task description will be available on the course's learn.uq site.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 23/05/2025 5:00 pm</p>\n<p>\n</p><p>The exact day and time of the presentation will be determined in negotiation with the industry partner.</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>By the end of the semester (Week 12), students will present the findings of their project to the industry partner. The presentation will be delivered via PowerPoint, either in-person at the client’s site or through video conferencing, depending on the circumstances. Students are expected to clearly communicate their project methodology, present supporting evidence in a coherent manner, and propose a compelling, actionable solution with well-founded recommendations.</p>\n<p>ALL students are expected to present orally during the formal presentation of the team's findings. Students will also engage in the discussion and Q&amp;A as required.</p>\n<p>A full task description will be available on the course's learn.uq site.</p>\n<p>A peer assessment factor will be applied to this assessment. Project team members will assess each other's performance based on the following criteria:</p>\n<ul>\n<li>Effort and willingness</li>\n<li>Communication</li>\n<li>Reliability</li>\n</ul>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Written materials, including the slide deck, <strong>should NOT </strong>be handed to the industry partner unless reviewed and approved by the tutor.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions are not accepted for the presentations. Failure to present to the industry partner on the agreed date and time will result in a mark of zero.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Project Execution and Final Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 30/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project culminates in the delivery of a final report to the industry partner containing the team's research, data, analysis and findings/recommendations. This assessment evaluates the quality of the final written report, as well as the quality of the processes that went into its creation, e.g. project setup and management, internal collaboration and communication, and client interactions. A full task description will be available on the course's learn.uq site.</p>\n<p>A peer assessment factor will be applied to this assessment. Project team members will assess each other's performance based on the following criteria:</p>\n<ul>\n<li>Effort and willingness</li>\n<li>Communication</li>\n<li>Reliability</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Written materials, including the slide deck, <strong>should NOT </strong>be handed to the industry partner unless reviewed and approved by the tutor.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Meet your team</strong><br/><p>Students meet the Course Coordinator, WIL staff, facilitators/tutors and are assembled in their respective teams. This is an important coordination session as teams need to negotiate communication protocols and meeting times for the rest of the semester.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Meet your team</strong>",
+            "topic_description": "Meet your team Students meet the Course Coordinator, WIL staff, facilitators/tutors and are assembled in their respective teams. This is an important coordination session as teams need to negotiate communication protocols and meeting times for the rest of the semester.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials</strong><br/><p>Students will attend tutorials once a week during the course of the semester. The tutorials are meant to help students plan and manage their project, track progress, address issues/problems, and receive general guidance from their tutor.</p>\n<p>The meeting times and locations for the tutorials are negotiated between the students and their tutors at the 'Meet your team' lecture in Week 1.</p></p></div></td>",
+            "topic_title": "<strong>Tutorials</strong>",
+            "topic_description": "Tutorials Students will attend tutorials once a week during the course of the semester. The tutorials are meant to help students plan and manage their project, track progress, address issues/problems, and receive general guidance from their tutor. The meeting times and locations for the tutorials are negotiated between the students and their tutors at the 'Meet your team' lecture in Week 1.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction and project consultancy essentials</strong><br/><p>The seminar will include: </p>\n<ul>\n<li>Course Profile</li>\n<li>Assessment requirements</li>\n<li>Project setup and management tools</li>\n<li>Professional performance, communication and expectations</li>\n<li>Consultancy project case study</li>\n</ul></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Course introduction and project consultancy essentials</strong>",
+            "topic_description": "Course introduction and project consultancy essentials The seminar will include: Course Profile Assessment requirements Project setup and management tools Professional performance, communication and expectations Consultancy project case study",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing the client relationship</strong><br/><p>In this seminar we will explore:</p>\n<ul>\n<li>How to interpret the project brief and client needs</li>\n<li>Project scoping and feasibility</li>\n<li>Defining project objectives and deliverables</li>\n<li>Expectation management</li>\n<li>Types and frequency of communication</li>\n</ul></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Managing the client relationship</strong>",
+            "topic_description": "Managing the client relationship In this seminar we will explore: How to interpret the project brief and client needs Project scoping and feasibility Defining project objectives and deliverables Expectation management Types and frequency of communication",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project management</strong><br/><p>The seminar will include:</p>\n<ul>\n<li>Importance of PM</li>\n<li>Key PM concepts and tools</li>\n<li>Project life cycle</li>\n<li>PM tools</li>\n<li>PM case studies</li>\n</ul>\n<p><em>Note: Some of the criteria of assessment A3: Project execution and report will be graded during this seminar.</em></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Project management</strong>",
+            "topic_description": "Project management The seminar will include: Importance of PM Key PM concepts and tools Project life cycle PM tools PM case studies Note: Some of the criteria of assessment A3: Project execution and report will be graded during this seminar.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Collaborating and communicating in a team</strong><br/><p>The seminar will include:</p>\n<ul>\n<li>Types of teams</li>\n<li>Characteristics of effective teams</li>\n<li>Stages of team development</li>\n<li>Roles in a team</li>\n<li>Effective communication in a team</li>\n<li>Conflict resolution strategies</li>\n<li>Giving and receiving feedback</li>\n<li>Collaboration tools and techniques</li>\n<li>Your communication, collaboration and conflict resolution styles</li>\n</ul>\n<p><em>Note: Some of the criteria of assessment A3: Project execution and report will be graded during this seminar.</em></p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Collaborating and communicating in a team</strong>",
+            "topic_description": "Collaborating and communicating in a team The seminar will include: Types of teams Characteristics of effective teams Stages of team development Roles in a team Effective communication in a team Conflict resolution strategies Giving and receiving feedback Collaboration tools and techniques Your communication, collaboration and conflict resolution styles Note: Some of the criteria of assessment A3: Project execution and report will be graded during this seminar.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project documentation and reporting</strong><br/><p>The seminar will include:</p>\n<ul>\n<li>Importance of documentation in consultancy</li>\n<li>Types of project documents and their purposes</li>\n<li>Document management systems</li>\n<li>Common challenges/pitfalls</li>\n<li>Assistive technologies</li>\n</ul>\n<p><em>Note: Some of the criteria of assessment A3: Project execution and report will be graded during this seminar.</em></p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Project documentation and reporting</strong>",
+            "topic_description": "Project documentation and reporting The seminar will include: Importance of documentation in consultancy Types of project documents and their purposes Document management systems Common challenges/pitfalls Assistive technologies Note: Some of the criteria of assessment A3: Project execution and report will be graded during this seminar.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentation skills</strong><br/><p>The seminar will include:</p>\n<ul>\n<li>Understanding the purpose and audience</li>\n<li>Structure of a presentation</li>\n<li>Time management</li>\n<li>Visual aids</li>\n<li>Oral delivery</li>\n<li>Engagement techniques</li>\n<li>Discussion/Q&amp;A</li>\n</ul></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Presentation skills</strong>",
+            "topic_description": "Presentation skills The seminar will include: Understanding the purpose and audience Structure of a presentation Time management Visual aids Oral delivery Engagement techniques Discussion/Q&A",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project progress feedback</strong><br/><p>Each team will orally report on their progress to the lecturer.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Project progress feedback</strong>",
+            "topic_description": "Project progress feedback Each team will orally report on their progress to the lecturer.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workplace reflection</strong><br/><p>Discussion about reflective practice, reflective tools and reflective writing for professional use.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Workplace reflection</strong>",
+            "topic_description": "Workplace reflection Discussion about reflective practice, reflective tools and reflective writing for professional use.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project deliverables evaluation</strong><br/><p>Teams discuss and evaluate their accomplishment of project deliverables.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Project deliverables evaluation</strong>",
+            "topic_description": "Project deliverables evaluation Teams discuss and evaluate their accomplishment of project deliverables.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rehearsals</strong><br/><p>Teams present their findings to teaching staff for feedback.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Rehearsals</strong>",
+            "topic_description": "Rehearsals Teams present their findings to teaching staff for feedback.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Client presentations</strong><br/><p>Teams present their solution to their business partner.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Client presentations</strong>",
+            "topic_description": "Client presentations Teams present their solution to their business partner.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final learnings</strong><br/><p>Discussion of learnings from the client presentations.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Final learnings</strong>",
+            "topic_description": "Final learnings Discussion of learnings from the client presentations.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
