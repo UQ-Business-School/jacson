@@ -1,0 +1,490 @@
+{
+    "course_title": "Business Industry Placement",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS7999-60318-7460",
+    "full_course_code": "RBUS7999-60318-7460",
+    "course_code": "RBUS7999",
+    "class_code": "60318",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop awareness of your graduate attributes and how they may apply in the workplace and enhance employability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Articulate key business practices  within an organisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Acquire practical skills and knowledge toward enhancing your employability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explore the different means by which organisations engage in business practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop the ability to think strategically from the perspective of a manager."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand the professional rigor expected in corporate practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "Have a clear understanding of how graduate attributes contribute to employability skills in a graduate career."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1. Video pitch (ALL students)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 20/09/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment you need to develop a short speech that conveys who you are, showcases your personal brand, communicates what you can offer to a new employer or business contact, and facilitates contact with the viewer. The speech needs to be recorded as a video.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2. Professional Development Plan (ALL students)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 18/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L06, L07",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment you need to write a self-critical and comprehensive Professional Development Plan that assesses your employability skills, attributes and knowledge, identifies areas for further development, outlines action steps to achieves your development goals, and considers your long-term career trajectory.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3. Critical workplace reflection (INTERNSHIP students)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L04, L05, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You need to complete a reflection on a critical incident that occurred during your work experience. You will use a recognised reflective method to structure your reflection.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "A3. Critical workplace reflection (PROJECT students)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L04, L05, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You need to complete a reflection on a critical incident that occurred during your work experience. You will use a recognised reflective method to structure your reflection.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "A3: Project presentation and report (PROJECT students)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will participate in a team project that will deliver a solution to an industry client. The team will compile a report with its analysis and findings/recommendations, as well as orally present it to the client.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "A3: Peer assessment (PROJECT students)",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L06",
+            "mode": "Activity/ Performance",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your project team members will assess your participation in the project based on the following criteria:</p>\n<p>- Effort and willingness</p>\n<p>- Communication</p>\n<p>- Reliability</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Employ101x - MOOC Unlocking your employability</strong><br><p>In this self-paced, seven module course, you will hear from:</p>\n<ul>\n<li>Employers discussing what they value when hiring new graduates</li>\n<li>Current students who have maximised their university experience</li>\n<li>Graduates who have transitioned successfully into the workplace</li>\n<li>Academics in the field of employability with insights into key topics in the course</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L07</p></div></td>",
+            "topic_title": "<strong>Employ101x - MOOC Unlocking your employability</strong>",
+            "topic_description": "Employ101x - MOOC Unlocking your employability In this self-paced, seven module course, you will hear from: Employers discussing what they value when hiring new graduates Current students who have maximised their university experience Graduates who have transitioned successfully into the workplace Academics in the field of employability with insights into key topics in the course",
+            "learning_outcomes": [
+                "L01",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Placement",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Industry placement OR Team project</strong><br><p>80-120 hours placement with an industry host OR allocation to a Project team. The placement/project will give you the opportunity to gain valuable work experience and to connect this experience to the development of a workplace ready skill-set.</p></br></p><p><strong>Learning outcomes:</strong> L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Industry placement OR Team project</strong>",
+            "topic_description": "Industry placement OR Team project 80-120 hours placement with an industry host OR allocation to a Project team. The placement/project will give you the opportunity to gain valuable work experience and to connect this experience to the development of a workplace ready skill-set.",
+            "learning_outcomes": [
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project teams orientation</strong><br/><p>In this seminar you will:</p>\n<p>- Meet the projects coordinator, your tutor and your fellow team members.</p>\n<p>- You will receive vital information about the way the projects are run.</p>\n<p>- You will also be able to negotiate a suitable meeting time for the tutorials.</p></p><p><strong>Learning outcomes:</strong> L06, L07</p></div></td>",
+            "topic_title": "<strong>Project teams orientation</strong>",
+            "topic_description": "Project teams orientation In this seminar you will: - Meet the projects coordinator, your tutor and your fellow team members. - You will receive vital information about the way the projects are run. - You will also be able to negotiate a suitable meeting time for the tutorials.",
+            "learning_outcomes": [
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 1</strong>",
+            "topic_description": "Tutorial 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 1: Introduction to the Course</strong><br/><p>The seminar will include: </p>\n<p>- ECP </p>\n<p>- Exploring the concept of employability </p>\n<p>- Professional performance, communication and expectations </p>\n<p>- Assessment overview</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Seminar 1: Introduction to the Course</strong>",
+            "topic_description": "Seminar 1: Introduction to the Course The seminar will include: - ECP - Exploring the concept of employability - Professional performance, communication and expectations - Assessment overview",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 2: Workplace review and reflection</strong><br/><p>During this seminar we will:</p>\n<p>- Explore reflective practice</p>\n<p>- Discover reflective tools</p>\n<p>- Develop reflective writing for professional use</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Seminar 2: Workplace review and reflection</strong>",
+            "topic_description": "Seminar 2: Workplace review and reflection During this seminar we will: - Explore reflective practice - Discover reflective tools - Develop reflective writing for professional use",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 3: Project management</strong><br/><p>The seminar will include:</p>\n<p>- Key PM concepts, processes and tools</p>\n<p>- Teamwork fundamentals</p>\n<p>- Industry view</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Seminar 3: Project management</strong>",
+            "topic_description": "Seminar 3: Project management The seminar will include: - Key PM concepts, processes and tools - Teamwork fundamentals - Industry view",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 4: Personal brand and Networking</strong><br/><p>This seminar assists students to:</p>\n<p>- Learn about networking tools</p>\n<p>- Develop their networking skills</p>\n<p>- Set up and refine their online profiles like LinkedIn</p>\n<p>- Consider the implications of their social media activities for employability</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Seminar 4: Personal brand and Networking</strong>",
+            "topic_description": "Seminar 4: Personal brand and Networking This seminar assists students to: - Learn about networking tools - Develop their networking skills - Set up and refine their online profiles like LinkedIn - Consider the implications of their social media activities for employability",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 5: Professional development plan</strong><br/><p>During this seminar we will discuss:</p>\n<p>- Skills and attributes for success</p>\n<p>- Measuring skills and attributes</p>\n<p>- Developing a Professional Development Plan</p></p><p><strong>Learning outcomes:</strong> L01, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 5: Professional development plan</strong>",
+            "topic_description": "Seminar 5: Professional development plan During this seminar we will discuss: - Skills and attributes for success - Measuring skills and attributes - Developing a Professional Development Plan",
+            "learning_outcomes": [
+                "L01",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 6: Value proposition &amp; video pitch guidance</strong><br/><p>During this seminar we will:</p>\n<p>- Identify the components of your personal narrative and value proposition</p>\n<p>- Look at ways to communicate your story</p>\n<p>- Practice formulating and articulating your story</p></p><p><strong>Learning outcomes:</strong> L01, L03, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 6: Value proposition &amp; video pitch guidance</strong>",
+            "topic_description": "Seminar 6: Value proposition & video pitch guidance During this seminar we will: - Identify the components of your personal narrative and value proposition - Look at ways to communicate your story - Practice formulating and articulating your story",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 7: Current recruitment practice</strong><br/><p>During this seminar students will explore:</p>\n<p>- Skills and attributes in demand</p>\n<p>- Current recruitment practices</p>\n<p>- How to present yourself professionally</p></p><p><strong>Learning outcomes:</strong> L01, L04, L06</p></div></td>",
+            "topic_title": "<strong>Seminar 7: Current recruitment practice</strong>",
+            "topic_description": "Seminar 7: Current recruitment practice During this seminar students will explore: - Skills and attributes in demand - Current recruitment practices - How to present yourself professionally",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 12</strong>",
+            "topic_description": "Tutorial 12",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 13</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial 13</strong>",
+            "topic_description": "Tutorial 13",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
