@@ -1,4 +1,8 @@
 {
+    "course_title": "International Event Issues and Strategies",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/EVNT7050-60223-7460",
     "full_course_code": "EVNT7050-60223-7460",
     "course_code": "EVNT7050",
@@ -41,16 +45,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "28/08/2024 2:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 28/08/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L03, L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "Leveraging international events for social benefitsInternational events are often leveraged for economic, tourism, or social benefits. Brisbane has been awarded the 2032 Olympic Games. Stakeholders within the city of Brisbane will seek to leverage the Olympic Games.Your task is to develop a strategy for how a stakeholder in your region can leverage the 2032 Olympic Games for social benefits.To complete this assessment task, you are required to:Provide a brief synopsis of the stakeholder that you have chosen and be sure to include relevant objectives that are important to the stakeholder.Identify how and why the stakeholder has leveraged previous international events (if any).Develop and explain leveraging strategies you believe should be utilisedby your stakeholderin the lead up to the 2032 Olympic Games. Be sure to outline the leverageable resource, opportunities, strategic objectives, and means.Explain how the strategies can be used to achieve the objectives mentioned in point 1.NB: Use appropriate academic citations and references to support your analysis and discussion.Your 2000 word report-style paper should be double spaced (Times New Roman, 12 point font) and written in third person.AI should not be used as it will provide you with inaccurate results for this assessment.Read full task descriptionHide full task description",
-            "submission_guidelines": "Please submit the assignment through Turnitin located in the Blackboard assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Leveraging international events for social benefits</strong></p>\n<p>International events are often leveraged for economic, tourism, or social benefits. Brisbane has been awarded the 2032 Olympic Games. Stakeholders within the city of Brisbane will seek to leverage the Olympic Games.  </p>\n<p>Your task is to develop a strategy for how a stakeholder in your region can leverage the 2032 Olympic Games for social benefits.</p>\n<p> To complete this assessment task, you are required to:</p>\n<ol>\n<li>Provide a brief synopsis of the stakeholder that you have chosen and be sure to include relevant objectives that are important to the stakeholder.</li>\n<li>Identify how and why the stakeholder has leveraged previous international events (if any). </li>\n<li>Develop and explain leveraging strategies you believe should be utilised <strong>by your stakeholder </strong>in the lead up to the 2032 Olympic Games. Be sure to outline the leverageable resource, opportunities, strategic objectives, and means.</li>\n<li>Explain how the strategies can be used to achieve the objectives mentioned in point 1. </li>\n</ol>\n<p> NB: Use appropriate academic citations and references to support your analysis and discussion.</p>\n<p>Your 2000 word report-style paper should be double spaced (Times New Roman, 12 point font) and written in third person.</p>\n<p>AI should not be used as it will provide you with inaccurate results for this assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit the assignment through Turnitin located in the Blackboard assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -65,16 +69,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "4/09/2024",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 4/09/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "An in-person quiz will be provided in Week 7.The quiz will be used to test all materials used in the class leading up to the quiz.The quiz will consist of 15 multiple choice and 3 short answer questions.The quiz will first be done individually. The individual portion will count for 80% of your mark for this assessment.After submission of all of the individual quizzes, you will then redo the exact same quiz as a group. The group will consist of 4-5 students. The group portion will be worth 20% of your overall mark for this assessment. Groups will be randomly assigned.Note: this method is used as group learning and discussion of topics typically helps retention and learning.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The quiz will be distributed and collected during class time.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An in-person quiz will be provided in Week 7.</p>\n<ul>\n<li>The quiz will be used to test all materials used in the class leading up to the quiz.</li>\n<li>The quiz will consist of 15 multiple choice and 3 short answer questions.</li>\n<li>The quiz will first be done individually. The individual portion will count for 80% of your mark for this assessment.</li>\n<li>After submission of all of the individual quizzes, you will then redo the exact same quiz as a group. The group will consist of 4-5 students. The group portion will be worth 20% of your overall mark for this assessment. Groups will be randomly assigned.</li>\n</ul>\n<p>Note: this method is used as group learning and discussion of topics typically helps retention and learning.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The quiz will be distributed and collected during class time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -85,25 +89,25 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "23/10/2024",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 23/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "An in-person quiz will be provided in Week 13.The quiz will be used to test all materials used in the class leading up to the quiz.The quiz will consist of 15 multiple choice and 3 short answer questions.The quiz will first be done individually. The individual portion will count for 80% of your mark for this assessment.After submission of all of the individual quizzes, you will then redo the exact same quiz as a group. The group will consist of 4-5 students. The group portion will be worth 20% of your overall mark for this assessment. Groups will be randomly assigned.Note: this method is used as group learning and discussion of topics typically helps retention and learning.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The quiz will be submitted during class time on instruction from the course staff.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An in-person quiz will be provided in Week 13.</p>\n<ul>\n<li>The quiz will be used to test all materials used in the class leading up to the quiz.</li>\n<li>The quiz will consist of 15 multiple choice and 3 short answer questions.</li>\n<li>The quiz will first be done individually. The individual portion will count for 80% of your mark for this assessment.</li>\n<li>After submission of all of the individual quizzes, you will then redo the exact same quiz as a group. The group will consist of 4-5 students. The group portion will be worth 20% of your overall mark for this assessment. Groups will be randomly assigned.</li>\n</ul>\n<p>Note: this method is used as group learning and discussion of topics typically helps retention and learning.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The quiz will be submitted during class time on instruction from the course staff.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "IntroductionIntroduction to international event issues and strategiesLearning outcomes:L01, L02, L03",
-            "topic_title": "Introduction",
-            "topic_description": "Introduction to international event issues and strategies",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>Introduction to international event issues and strategies</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Introduction to international event issues and strategies",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -113,9 +117,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Culture & SubcultureUnderstanding culture and subculture in international eventsLearning outcomes:L01, L03, L05",
-            "topic_title": "Culture & Subculture",
-            "topic_description": "Understanding culture and subculture in international events",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Culture &amp; Subculture</strong><br/><p>Understanding culture and subculture in international events</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Culture &amp; Subculture</strong>",
+            "topic_description": "Culture & Subculture Understanding culture and subculture in international events",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -125,9 +129,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Event leveraging and non-host leveragingEvent leveragingLearning outcomes:L01, L02",
-            "topic_title": "Event leveraging and non-host leveraging",
-            "topic_description": "Event leveraging",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Event leveraging and non-host leveraging</strong><br/><p>Event leveraging</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Event leveraging and non-host leveraging</strong>",
+            "topic_description": "Event leveraging and non-host leveraging Event leveraging",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -136,17 +140,17 @@
         {
             "learning_period": "Week 4",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "Public holiday - WednesdayWork on Assessment 1",
-            "topic_title": "Public holiday - Wednesday",
-            "topic_description": "Work on Assessment 1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public holiday - Wednesday</strong><br/><p>Work on Assessment 1</p></p></div></td>",
+            "topic_title": "<strong>Public holiday - Wednesday</strong>",
+            "topic_description": "Public holiday - Wednesday Work on Assessment 1",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Bidding for international eventsHow to bid for an international event inc.Learning outcomes:L01, L02, L03",
-            "topic_title": "Bidding for international events",
-            "topic_description": "How to bid for an international event inc.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bidding for international events</strong><br/><p>How to bid for an international event inc.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Bidding for international events</strong>",
+            "topic_description": "Bidding for international events How to bid for an international event inc.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -156,9 +160,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Volunteers at international eventsUnderstanding cultural differences in volunteerismLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Volunteers at international events",
-            "topic_description": "Understanding cultural differences in volunteerism",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Volunteers at international events</strong><br/><p>Understanding cultural differences in volunteerism</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Volunteers at international events</strong>",
+            "topic_description": "Volunteers at international events Understanding cultural differences in volunteerism",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -169,9 +173,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Quiz 1Quiz 1 will be conducted in this class session in Week 7.Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Quiz 1",
-            "topic_description": "Quiz 1 will be conducted in this class session in Week 7.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 1 </strong><br/><p>Quiz 1 will be conducted in this class session in Week 7.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Quiz 1 </strong>",
+            "topic_description": "Quiz 1 Quiz 1 will be conducted in this class session in Week 7.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -183,9 +187,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Politics and human rightsPolitics and human rightsLearning outcomes:L01, L02, L03",
-            "topic_title": "Politics and human rights",
-            "topic_description": "Politics and human rights",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Politics and human rights</strong><br/><p>Politics and human rights</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Politics and human rights</strong>",
+            "topic_description": "Politics and human rights Politics and human rights",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -195,9 +199,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "International MediaLearning outcomes:L01, L02",
-            "topic_title": "International Media",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>International Media</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>International Media</strong>",
+            "topic_description": "International Media",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -206,17 +210,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-semester break",
-            "topic_title": "In-semester break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Workshop",
-            "topic": "Media Framing WorkshopMedia Framing Workshop with Vitor SobralLearning outcomes:L01, L02, L03, L05",
-            "topic_title": "Media Framing Workshop",
-            "topic_description": "Media Framing Workshop with Vitor Sobral",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media Framing Workshop</strong><br/><p>Media Framing Workshop with Vitor Sobral</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Media Framing Workshop</strong>",
+            "topic_description": "Media Framing Workshop Media Framing Workshop with Vitor Sobral",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -227,9 +231,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Soft powerShaping cultural diplomacyLearning outcomes:L01, L02, L03",
-            "topic_title": "Soft power",
-            "topic_description": "Shaping cultural diplomacy",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Soft power</strong><br/><p>Shaping cultural diplomacy</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Soft power</strong>",
+            "topic_description": "Soft power Shaping cultural diplomacy",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -239,9 +243,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Workshop",
-            "topic": "Quiz 2Quiz 2 will be conducted in this class session.Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Quiz 2",
-            "topic_description": "Quiz 2 will be conducted in this class session.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 2 </strong><br/><p>Quiz 2 will be conducted in this class session.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Quiz 2 </strong>",
+            "topic_description": "Quiz 2 Quiz 2 will be conducted in this class session.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -253,9 +257,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Discussion, Revision, and Wrap-up",
-            "topic_title": "Discussion, Revision, and Wrap-up",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion, Revision, and Wrap-up</strong><br/></p></div></td>",
+            "topic_title": "<strong>Discussion, Revision, and Wrap-up</strong>",
+            "topic_description": "Discussion, Revision, and Wrap-up",
             "learning_outcomes": []
         }
     ]
