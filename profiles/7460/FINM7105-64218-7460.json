@@ -1,4 +1,8 @@
 {
+    "course_title": "Fixed Income and Public Financial Management",
+    "study_period": "Sem 2 2024",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7105-64218-7460",
     "full_course_code": "FINM7105-64218-7460",
     "course_code": "FINM7105",
@@ -32,40 +36,40 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "A1: Report and Trading Game Simulation",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "Part A 15/07/2024Part B 19/07/2024",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Part A 15/07/2024</p>\n<p>Part B 19/07/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Activity/ Performance, Written",
             "category": "Paper/ Report/ Annotation, Role play/ Simulation",
-            "task_description": "This assessment consists of two parts. In the first part, students will discuss green bonds in detail, highlighting how they differ from conventional bonds, and provide a written report. In the second part, students will participate in a trading game applying insights from the online module and discussion in part one.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be submitted via Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment consists of two parts. In the first part, students will discuss green bonds in detail, highlighting how they differ from conventional bonds, and provide a written report. In the second part, students will participate in a trading game applying insights from the online module and discussion in part one<strong>.</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "A2: Written Report",
             "special_indicators": [],
-            "weighting": "60%",
-            "due_date": "8/08/2024 5:00 pm",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 8/08/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "In this assessment, students will evaluate and compare the current state of debt management at the state and territory levels. Furthermore, students will review and suggest changes to the Australian government's debt portfolio (fixed income securities), aiming to enhance financial sustainability and mitigate risk.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be submitted via Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, students will evaluate and compare the current state of debt management at the state and territory levels. Furthermore, students will review and suggest changes to the Australian government's debt portfolio (fixed income securities), aiming to enhance financial sustainability and mitigate risk.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Not scheduled",
             "activity_type": "General contact hours",
-            "topic": "Online Learning / Self-Paced Learning28 June - 16 July (Self-Directed Learning)Topics covered include a public service perspective, the budgeting process in the public sector, the role of fixed income securities, case studies of fixed income securities, and pricing debt.Learning outcomes:L01, L02, L03",
-            "topic_title": "Online Learning / Self-Paced Learning",
-            "topic_description": "28 June - 16 July (Self-Directed Learning)\nTopics covered include a public service perspective, the budgeting process in the public sector, the role of fixed income securities, case studies of fixed income securities, and pricing debt.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Learning / Self-Paced Learning</strong><br/><p><strong>28 June - 16 July (Self-Directed Learning)</strong></p>\n<p>Topics covered include a public service perspective, the budgeting process in the public sector, the role of fixed income securities, case studies of fixed income securities, and pricing debt. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Online Learning / Self-Paced Learning</strong>",
+            "topic_description": "Online Learning / Self-Paced Learning 28 June - 16 July (Self-Directed Learning) Topics covered include a public service perspective, the budgeting process in the public sector, the role of fixed income securities, case studies of fixed income securities, and pricing debt.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -75,9 +79,9 @@
         {
             "learning_period": "Not scheduled",
             "activity_type": "Workshop",
-            "topic": "Face-to-Face Learning: Day 117 July 2024Financial (and non-financial) criteria to evaluate funding requests in the public sector, Funding sources (recap of online component), detailed credit analysis and its importance in accessing finances.Learning outcomes:L01, L04, L05",
-            "topic_title": "Face-to-Face Learning: Day 1",
-            "topic_description": "17 July 2024\nFinancial (and non-financial) criteria to evaluate funding requests in the public sector, Funding sources (recap of online component), detailed credit analysis and its importance in accessing finances.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning: Day 1</strong><br/><p><strong>17 July 2024</strong></p>\n<p>Financial (and non-financial) criteria to evaluate funding requests in the public sector, Funding sources (recap of online component), detailed credit analysis and its importance in accessing finances. </p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning: Day 1</strong>",
+            "topic_description": "Face-to-Face Learning: Day 1 17 July 2024 Financial (and non-financial) criteria to evaluate funding requests in the public sector, Funding sources (recap of online component), detailed credit analysis and its importance in accessing finances.",
             "learning_outcomes": [
                 "L01",
                 "L04",
@@ -87,9 +91,9 @@
         {
             "learning_period": "Not scheduled",
             "activity_type": "Workshop",
-            "topic": "Face-to-Face Learning:  Day 218 July 2024Debt pricing (Fixed Income) and factors affecting this pricing. Measuring and managing price sensitivity (Duration). Identifying and managing different types of risks attached to fixed income portfolio.Central Treasury Management (CTM) Trading Game Begins (Quarter 1).Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Face-to-Face Learning:  Day 2",
-            "topic_description": "18 July 2024\nDebt pricing (Fixed Income) and factors affecting this pricing. Measuring and managing price sensitivity (Duration). Identifying and managing different types of risks attached to fixed income portfolio. \nCentral Treasury Management (CTM) Trading Game Begins (Quarter 1).",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning:  Day 2</strong><br/><p><strong>18 July 2024</strong></p>\n<p>Debt pricing (Fixed Income) and factors affecting this pricing. Measuring and managing price sensitivity (Duration). Identifying and managing different types of risks attached to fixed income portfolio. </p>\n<p>Central Treasury Management (CTM) Trading Game Begins (Quarter 1).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning:  Day 2</strong>",
+            "topic_description": "Face-to-Face Learning:  Day 2 18 July 2024 Debt pricing (Fixed Income) and factors affecting this pricing. Measuring and managing price sensitivity (Duration). Identifying and managing different types of risks attached to fixed income portfolio. Central Treasury Management (CTM) Trading Game Begins (Quarter 1).",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -100,9 +104,9 @@
         {
             "learning_period": "Not scheduled",
             "activity_type": "Workshop",
-            "topic": "Face-to-Face Learning: Day 319 July 2024CTM Trading game continues (Students play Quarter 2 and 3 of the game). Discussion about Assessment 2. Course Review.Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Face-to-Face Learning: Day 3",
-            "topic_description": "19 July 2024\nCTM Trading game continues (Students play Quarter 2 and 3 of the game). Discussion about Assessment 2. Course Review.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning: Day 3</strong><br/><p><strong>19 July 2024</strong></p>\n<p>CTM Trading game continues (Students play Quarter 2 and 3 of the game). Discussion about Assessment 2. Course Review.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning: Day 3</strong>",
+            "topic_description": "Face-to-Face Learning: Day 3 19 July 2024 CTM Trading game continues (Students play Quarter 2 and 3 of the game). Discussion about Assessment 2. Course Review.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -114,9 +118,9 @@
         {
             "learning_period": "Not scheduled",
             "activity_type": "General contact hours",
-            "topic": "Online / AssessmentJuly 20 - 5 August (Self-Directed Learning)Students will be working individually on their assessmentLearning outcomes:L01, L04, L05",
-            "topic_title": "Online / Assessment",
-            "topic_description": "July 20 - 5 August (Self-Directed Learning)\nStudents will be working individually on their assessment",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online / Assessment</strong><br/><p><strong>July 20 - 5 August (Self-Directed Learning)</strong></p>\n<p>Students will be working individually on their assessment</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Online / Assessment</strong>",
+            "topic_description": "Online / Assessment July 20 - 5 August (Self-Directed Learning) Students will be working individually on their assessment",
             "learning_outcomes": [
                 "L01",
                 "L04",
