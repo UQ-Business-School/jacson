@@ -1,4 +1,8 @@
 {
+    "course_title": "Consumer & Buyer Behaviour",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7503-60301-7460",
     "full_course_code": "MKTG7503-60301-7460",
     "course_code": "MKTG7503",
@@ -37,144 +41,240 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "23/09/2024 3:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 23/09/2024 3:00 pm</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Project",
-            "task_description": "This is a group assessment.In this research proposal (or project plan), students in a group setting will discuss relevant consumer behaviours (an effect, a phenomenon, a trend, a consumption experience, etc.) that will be more thoroughly examined in Assessment 2 (the independent research report).Broadly, your team will:(1)    Pick three consumer behaviours of interest. The three behaviours shall cover diverse industries rather than come from a single industry. A good starting point is to look at trends (or changes) in consumer decision-making process, consumption process, and post-consumption experiences during the past 10 to 20 years. Examples of potential topics or areas will be provided and discussed during class.(2)    Background information (e.g., an overview of the phenomenon).(3)    Explain or justify behaviour/effect/phenomenon (problem formulation/identification). Detailed guidelines will be provided in class.(3)    For each behaviour, clearly state the research aim.(4)    For each behaviour, formulate and spell out two research questions (i.e., a total of 6 research questions for the three behaviours in assessment 1).The main purpose of this proposal (Assessment 1) is for your group to receive feedback and suggestions from the teaching team on how to improve the topic, research aim, and research questions. You should incorporate the feedback into the independent research project report (Assessment 2).Peer Review:Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements with team members' contributions that cannot be resolved, students must bring the problem to the attention of their Course Coordinator as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Your report is to be submitted to Blackboard either on or before the due date.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a group assessment.</p>\n<p>In this research proposal (or project plan), students in a group setting will discuss relevant consumer behaviours (an effect, a phenomenon, a trend, a consumption experience, etc.) that will be more thoroughly examined in Assessment 2 (the independent research report). </p>\n<p>Broadly, your team will:</p>\n<p>(1)    Pick three consumer behaviours of interest. The three behaviours shall cover diverse industries rather than come from a single industry. A good starting point is to look at trends (or changes) in consumer decision-making process, consumption process, and post-consumption experiences during the past 10 to 20 years. Examples of potential topics or areas will be provided and discussed during class.</p>\n<p>(2)    Background information (e.g., an overview of the phenomenon).</p>\n<p>(3)    Explain or justify behaviour/effect/phenomenon (problem formulation/identification). Detailed guidelines will be provided in class.</p>\n<p>(3)    For each behaviour, clearly state the research aim.</p>\n<p>(4)    For each behaviour, formulate and spell out two research questions (i.e., a total of 6 research questions for the three behaviours in assessment 1).</p>\n<p>The main purpose of this proposal (Assessment 1) is for your group to receive feedback and suggestions from the teaching team on how to improve the topic, research aim, and research questions. You should incorporate the feedback into the independent research project report (Assessment 2).</p>\n<p><strong>Peer Review: </strong>Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements with team members' contributions that cannot be resolved, students must bring the problem to the attention of their Course Coordinator as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your report is to be submitted to Blackboard either on or before the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Assessment 2 - Full report",
             "special_indicators": [],
-            "weighting": "60%",
-            "due_date": "4/11/2024 3:00 pm",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 4/11/2024 3:00 pm</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Project",
-            "task_description": "This is an individual assessment.In this project, you will examine a particular consumer behaviour (an effect, a phenomenon, a consumption experience, etc), study it (by gathering information from primary data), and generate valuable and relevant insights for consumers, firms and/or policymakers.Broadly, you will(1)       Pick a particular consumer behaviour of interest (i.e. one of the three topics in Assessment 1, or work on a different topic not covered by Assessment 1)(2)       Explore and examine the contextual information surrounding the phenomenon.(3)       List and justify your research aim and research questions.(4)       Conducting personal interviews to collect data to answer research questions. Seven (7) participants/interviewees are expected for data collection. Note that this course is not about research methods; therefore the larger sample is neither required nor rewarded with extra marks. Nor should you use any statistical techniques/tools for data analysis. (Instructions and guidelines will be provided in class).(5)       Draw insightful and sensible conclusions based on the analysis of data, and make recommendations to relevant shareholders and stakeholders.Detailed instructions and assessment rubric will be provided and downable from our course Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The report is to be submitted to Blackboard either on or before the due date.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assessment. </p>\n<p>In this project, you will examine a particular consumer behaviour (an effect, a phenomenon, a consumption experience, etc), study it (by gathering information from primary data), and generate valuable and relevant insights for consumers, firms and/or policymakers.</p>\n<p>Broadly, you will</p>\n<p>(1)       Pick a particular consumer behaviour of interest (i.e. one of the three topics in Assessment 1, or work on a different topic not covered by Assessment 1)</p>\n<p>(2)       Explore and examine the contextual information surrounding the phenomenon.</p>\n<p>(3)       List and justify your research aim and research questions.</p>\n<p>(4)       Conducting personal interviews to collect data to answer research questions. Seven (7) participants/interviewees are expected for data collection. Note that this course is not about research methods; therefore the larger sample is neither required nor rewarded with extra marks. Nor should you use any statistical techniques/tools for data analysis. (Instructions and guidelines will be provided in class).</p>\n<p>(5)       Draw insightful and sensible conclusions based on the analysis of data, and make recommendations to relevant shareholders and stakeholders.</p>\n<p>Detailed instructions and assessment rubric will be provided and downable from our course Blackboard.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The report is to be submitted to Blackboard either on or before the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Lecture 1 - Introduction to consumer behaviourCourse overview",
-            "topic_title": "Lecture 1 - Introduction to consumer behaviour",
-            "topic_description": "Course overview",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1 - Introduction to consumer behaviour</strong><br/><p>Course overview</p></p></div></td>",
+            "topic_title": "<strong>Lecture 1 - Introduction to consumer behaviour</strong>",
+            "topic_description": "Lecture 1 - Introduction to consumer behaviour Course overview",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 2",
             "activity_type": "Lecture",
-            "topic": "Lecture 2 - Contemporary perspectives on consumer behaviourContemporary perspectives on consumer behaviour.Behavioural economics.",
-            "topic_title": "Lecture 2 - Contemporary perspectives on consumer behaviour",
-            "topic_description": "Contemporary perspectives on consumer behaviour.\nBehavioural economics.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2 - Contemporary perspectives on consumer behaviour</strong><br/><p>Contemporary perspectives on consumer behaviour.</p>\n<p>Behavioural economics.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 2 - Contemporary perspectives on consumer behaviour</strong>",
+            "topic_description": "Lecture 2 - Contemporary perspectives on consumer behaviour Contemporary perspectives on consumer behaviour. Behavioural economics.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - Introduction to consumer behaviour</strong><br/><p>Course overview.</p>\n<p>Introduction to group activities.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - Introduction to consumer behaviour</strong>",
+            "topic_description": "Tutorial 1 - Introduction to consumer behaviour Course overview. Introduction to group activities.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 3",
             "activity_type": "Lecture",
-            "topic": "Lecture 3 - Decision-making & involvementDecision making stages and process.Concept of consumer involvement.",
-            "topic_title": "Lecture 3 - Decision-making & involvement",
-            "topic_description": "Decision making stages and process.\nConcept of consumer involvement.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3 - Decision-making &amp; involvement</strong><br/><p>Decision making stages and process.</p>\n<p>Concept of consumer involvement.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 3 - Decision-making &amp; involvement</strong>",
+            "topic_description": "Lecture 3 - Decision-making & involvement Decision making stages and process. Concept of consumer involvement.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2 - Contemporary perspectives on consumer behaviour</strong><br/><p>Group discussions on mini case studies based on lecture 2 contents.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 2 - Contemporary perspectives on consumer behaviour</strong>",
+            "topic_description": "Tutorial 2 - Contemporary perspectives on consumer behaviour Group discussions on mini case studies based on lecture 2 contents.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "Lecture 4 - Information session for Assessment 1Information session for Assessment One (group project).Introduction on research aim, purpose, and questions.Referencing styles & Information searching strategies.",
-            "topic_title": "Lecture 4 - Information session for Assessment 1",
-            "topic_description": "Information session for Assessment One (group project).\nIntroduction on research aim, purpose, and questions. \nReferencing styles & Information searching strategies.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4 - Information session for Assessment 1</strong><br/><p>Information session for Assessment One (group project).</p>\n<p>Introduction on research aim, purpose, and questions. </p>\n<p>Referencing styles &amp; Information searching strategies.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 4 - Information session for Assessment 1</strong>",
+            "topic_description": "Lecture 4 - Information session for Assessment 1 Information session for Assessment One (group project). Introduction on research aim, purpose, and questions. Referencing styles & Information searching strategies.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 - Decision-making &amp; involvement</strong><br/><p>Group discussion on mini case studies (check blackboard).</p>\n<p>Note: Royal Queensland Show public holiday (Brisbane Area). Students of Wednesday tutorials to attend tutorials on alternative weekdays (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 3 - Decision-making &amp; involvement</strong>",
+            "topic_description": "Tutorial 3 - Decision-making & involvement Group discussion on mini case studies (check blackboard). Note: Royal Queensland Show public holiday (Brisbane Area). Students of Wednesday tutorials to attend tutorials on alternative weekdays (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "Lecture 5 - Learning & MemoryBehavioural and cognitive learning.Classical conditioning and Operant conditioning.Theories of short- and long-term memory",
-            "topic_title": "Lecture 5 - Learning & Memory",
-            "topic_description": "Behavioural and cognitive learning.\nClassical conditioning and Operant conditioning.\nTheories of short- and long-term memory",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5 - Learning &amp; Memory</strong><br/><p>Behavioural and cognitive learning.</p>\n<p>Classical conditioning and Operant conditioning.</p>\n<p>Theories of short- and long-term memory</p></p></div></td>",
+            "topic_title": "<strong>Lecture 5 - Learning &amp; Memory</strong>",
+            "topic_description": "Lecture 5 - Learning & Memory Behavioural and cognitive learning. Classical conditioning and Operant conditioning. Theories of short- and long-term memory",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4 - Information session for Assessment 1</strong><br/><p>Group discussion on mini case studies (check blackboard).</p>\n<p>Group allocation &amp; registration finalised this week.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 4 - Information session for Assessment 1</strong>",
+            "topic_description": "Tutorial 4 - Information session for Assessment 1 Group discussion on mini case studies (check blackboard). Group allocation & registration finalised this week.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "Lecture 6 - Perceptual processPerceptual process & perceptual mapping",
-            "topic_title": "Lecture 6 - Perceptual process",
-            "topic_description": "Perceptual process & perceptual mapping",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6 - Perceptual process</strong><br/><p>Perceptual process &amp; perceptual mapping</p></p></div></td>",
+            "topic_title": "<strong>Lecture 6 - Perceptual process</strong>",
+            "topic_description": "Lecture 6 - Perceptual process Perceptual process & perceptual mapping",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5 - Learning &amp; Memory</strong><br/><p>Group discussion on mini case studies (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 5 - Learning &amp; Memory</strong>",
+            "topic_description": "Tutorial 5 - Learning & Memory Group discussion on mini case studies (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "Lecture 7 - Attitude & behaviour changeTheories and measurement of attitude.The process of behaviour change.The Elaboration Likelihood Model.",
-            "topic_title": "Lecture 7 - Attitude & behaviour change",
-            "topic_description": "Theories and measurement of attitude.\nThe process of behaviour change.\nThe Elaboration Likelihood Model.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7 - Attitude &amp; behaviour change</strong><br/><p>Theories and measurement of attitude.</p>\n<p>The process of behaviour change.</p>\n<p>The Elaboration Likelihood Model.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 7 - Attitude &amp; behaviour change</strong>",
+            "topic_description": "Lecture 7 - Attitude & behaviour change Theories and measurement of attitude. The process of behaviour change. The Elaboration Likelihood Model.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6 - Learning &amp; Memory</strong><br/><p>Group discussion on mini case studies (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 6 - Learning &amp; Memory</strong>",
+            "topic_description": "Tutorial 6 - Learning & Memory Group discussion on mini case studies (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 8",
             "activity_type": "Lecture",
-            "topic": "Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report)First half of the class: Personality (section one of the theories on Personality).Second half of the class: Assessment 2 briefing - guidelines and marking rubric.",
-            "topic_title": "Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report)",
-            "topic_description": "First half of the class: Personality (section one of the theories on Personality). \nSecond half of the class: Assessment 2 briefing - guidelines and marking rubric.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report)</strong><br/><p>First half of the class: Personality (section one of the theories on Personality). </p>\n<p>Second half of the class: Assessment 2 briefing - guidelines and marking rubric.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report)</strong>",
+            "topic_description": "Lecture 8 - Personality (section 1), Information session for Assessment 2 (major report) First half of the class: Personality (section one of the theories on Personality). Second half of the class: Assessment 2 briefing - guidelines and marking rubric.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7 - Attitude &amp; behaviour change</strong><br/><p>Group discussion on mini case studies (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 7 - Attitude &amp; behaviour change</strong>",
+            "topic_description": "Tutorial 7 - Attitude & behaviour change Group discussion on mini case studies (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
-            "topic": "Lecture 9 - Personality (section 2), self & motivationPersonality (second section of theories Personality).The multiplicity of Self.Theories of Motivation.(From this week we'd have finished the micro-view on consumer behaviour and start to move onto the macro, social-environmental aspect.",
-            "topic_title": "Lecture 9 - Personality (section 2), self & motivation",
-            "topic_description": "Personality (second section of theories Personality). \nThe multiplicity of Self.\nTheories of Motivation.\n (From this week we'd have finished the micro-view on consumer behaviour and start to move onto the macro, social-environmental aspect.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9 - Personality (section 2), self &amp; motivation</strong><br/><p>Personality (second section of theories Personality). </p>\n<p>The multiplicity of Self.</p>\n<p>Theories of Motivation.</p>\n<p> (From this week we'd have finished the micro-view on consumer behaviour and start to move onto the macro, social-environmental aspect.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 9 - Personality (section 2), self &amp; motivation</strong>",
+            "topic_description": "Lecture 9 - Personality (section 2), self & motivation Personality (second section of theories Personality). The multiplicity of Self. Theories of Motivation. (From this week we'd have finished the micro-view on consumer behaviour and start to move onto the macro, social-environmental aspect.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8 - Personality</strong><br/><p>Group discussion on mini case studies (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 8 - Personality</strong>",
+            "topic_description": "Tutorial 8 - Personality Group discussion on mini case studies (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "IN-SEMESTER BREAKNo class during semester break.",
-            "topic_title": "IN-SEMESTER BREAK",
-            "topic_description": "No class during semester break.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IN-SEMESTER BREAK</strong><br/><p>No class during semester break.</p></p></div></td>",
+            "topic_title": "<strong>IN-SEMESTER BREAK</strong>",
+            "topic_description": "IN-SEMESTER BREAK No class during semester break.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "Lecture 10 - Groups & social processesReference groups.Social pressure.Social power.",
-            "topic_title": "Lecture 10 - Groups & social processes",
-            "topic_description": "Reference groups.\nSocial pressure.\nSocial power.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10 - Groups &amp; social processes</strong><br/><p>Reference groups.</p>\n<p>Social pressure.</p>\n<p>Social power.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 10 - Groups &amp; social processes</strong>",
+            "topic_description": "Lecture 10 - Groups & social processes Reference groups. Social pressure. Social power.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9 - Self &amp; motivation</strong><br/><p>Group discussion on mini case studies (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 9 - Self &amp; motivation</strong>",
+            "topic_description": "Tutorial 9 - Self & motivation Group discussion on mini case studies (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 11",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "Lecture 11 - NO CLASSKing’s Birthday public holiday. No class on this day.Students should have commenced working on the major project report.",
-            "topic_title": "Lecture 11 - NO CLASS",
-            "topic_description": "King’s Birthday public holiday. No class on this day.\nStudents should have commenced working on the major project report.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11 - NO CLASS</strong><br/><p>King’s Birthday public holiday. No class on this day.</p>\n<p>Students should have commenced working on the major project report.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 11 - NO CLASS</strong>",
+            "topic_description": "Lecture 11 - NO CLASS King’s Birthday public holiday. No class on this day. Students should have commenced working on the major project report.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10 - NO TUTORIALS</strong><br/><p>No tutorials this week.</p>\n<p>Students should have commenced working on the major project report.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 10 - NO TUTORIALS</strong>",
+            "topic_description": "Tutorial 10 - NO TUTORIALS No tutorials this week. Students should have commenced working on the major project report.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 12",
             "activity_type": "Lecture",
-            "topic": "Lecture 12 - Consumer CultureConsumer culture.Effective marketing communications.",
-            "topic_title": "Lecture 12 - Consumer Culture",
-            "topic_description": "Consumer culture.\nEffective marketing communications.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12 - Consumer Culture</strong><br/><p>Consumer culture.</p>\n<p>Effective marketing communications.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 12 - Consumer Culture</strong>",
+            "topic_description": "Lecture 12 - Consumer Culture Consumer culture. Effective marketing communications.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11 - Groups &amp; social processes</strong><br/><p>Group discussion on mini case studies (check blackboard).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 11 - Groups &amp; social processes</strong>",
+            "topic_description": "Tutorial 11 - Groups & social processes Group discussion on mini case studies (check blackboard).",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 13",
             "activity_type": "Lecture",
-            "topic": "Lecture 13 -Buying patterns and future trends of consumer behaviour(Last week) Patterns and future trends of consumer behaviour.Q&A session for Assessment 2.Wrapping up.",
-            "topic_title": "Lecture 13 -Buying patterns and future trends of consumer behaviour",
-            "topic_description": "(Last week) Patterns and future trends of consumer behaviour. \nQ&A session for Assessment 2.\nWrapping up.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 13 -Buying patterns and future trends of consumer behaviour</strong><br/><p>(Last week) Patterns and future trends of consumer behaviour. </p>\n<p>Q&amp;A session for Assessment 2.</p>\n<p>Wrapping up.</p></p></div></td>",
+            "topic_title": "<strong>Lecture 13 -Buying patterns and future trends of consumer behaviour</strong>",
+            "topic_description": "Lecture 13 -Buying patterns and future trends of consumer behaviour (Last week) Patterns and future trends of consumer behaviour. Q&A session for Assessment 2. Wrapping up.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12 - Consumer Culture</strong><br/><p>Last week's tutorials.</p>\n<p>Q &amp; A for Assessment 2.</p>\n<p>Reflection on lecture 12 contents (No mini case studies this week).</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 12 - Consumer Culture</strong>",
+            "topic_description": "Tutorial 12 - Consumer Culture Last week's tutorials. Q & A for Assessment 2. Reflection on lecture 12 contents (No mini case studies this week).",
             "learning_outcomes": []
         }
     ]
