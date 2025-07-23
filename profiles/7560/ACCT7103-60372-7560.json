@@ -1,0 +1,369 @@
+{
+    "course_title": "Auditing",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7103-60372-7560",
+    "full_course_code": "ACCT7103-60372-7560",
+    "course_code": "ACCT7103",
+    "class_code": "60372",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ timetable.</p>\n<p>The In-Semester Exam:</p>\n<ul>\n<li>will be based on Topics 1-4, including lectures and tutorials</li>\n<li>contains about 10 multiple choice questions and 3 written questions</li>\n<li>the written questions include practical/problem-solving questions that require you to analyse mini cases/scenarios and apply relevant audit theories/regulations/techniques to form appropriate judgments/decisions</li>\n<li>the written questions usually require you to demonstrate your understanding about important aspects of the audit process</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study: Audit Planning and testing",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 17/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Group Case Study Overview</strong></p>\n<p>This group case study provides you with practical experience in audit planning, identifying risks, conducting tests of control procedures, and performing substantive testing. The case study has a word limit of 1800 words. Each group should consist of 2 members. Students struggling to find another student to work with should contact the Course Coordinator. Further instructions are available on the Course Blackboard site.</p>\n<p><strong>Case Study Instructions</strong></p>\n<p>The case study consists of performing several tasks and completing the working papers provided. Follow these guidelines when preparing and submitting your work:</p>\n<ul>\n<li>Register your case study group using the case study group signup link in the case study assessment folder on Blackboard one week before the case study is due.</li>\n<li>Save your case study as a Word document. PDF submissions will not be accepted.</li>\n<li>Upload the completed case study to Blackboard via Turn-it-in before the deadline.</li>\n<li>After submitting the case study, perform peer assessment via Buddy Check in the case study assessment folder on Blackboard.</li>\n</ul>\n<p><strong>Important Submission Details</strong></p>\n<ul>\n<li>Include names of both group members in your submission.</li>\n<li>Avoid last-minute submissions, as system issues can arise due to high traffic. Late submissions without an approved extension will be penalised according to university policy.</li>\n<li>After submission, take a screenshot of your receipt as proof. Retain this receipt for your records.</li>\n<li>Academic integrity rules apply: copying from others or engaging in contract cheating is strictly prohibited.</li>\n</ul>\n<p>For detailed information on the case study's format, expectations, and submission, please refer to the notice in the \"Assignment\" folder on Blackboard.</p>\n<p><strong>AI Usage Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically on Blackboard through Turn-it-in.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Exam:</p>\n<ul>\n<li>is a <strong>closed book, invigilated exam.</strong></li>\n<li>time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ websites</li>\n<li>contains about 4 to 5 written questions. Each question consists of a number of short answer/short essay/problem solving/application questions</li>\n<li>the written questions focus on problem-solving, which involves analysing cases/scenarios and applying relevant audit theories/regulations/techniques to form appropriate judgments/decisions</li>\n<li>some written questions require you to demonstrate your understanding of important aspects of the audit process</li>\n<li>more details of the final exam will be made available towards the end of the semester</li>\n<li>you are advised that <strong>ALL areas of the course are examinable</strong> and thus leaving out any section of the course material from your study plans would be ill-advised</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1 Introduction &amp; Audit objectives</strong><br><p>In Week 1, we will discuss what an audit is about, different types of audits and auditors, and the various audit objectives. Relevant readings: Arens (Chapters 1 and 4).</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1 Introduction &amp; Audit objectives</strong>",
+            "topic_description": "Topic 1 Introduction & Audit objectives In Week 1, we will discuss what an audit is about, different types of audits and auditors, and the various audit objectives. Relevant readings: Arens (Chapters 1 and 4).",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 1: Introduction &amp; Audit objectives</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Workshop 1: Introduction &amp; Audit objectives</strong>",
+            "topic_description": "Workshop 1: Introduction & Audit objectives",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2: Audit risk model &amp; Audit evidence</strong><br/><p>In Topic 2, we will introduce various ways auditors collect audit evidence and we will also briefly discuss the various components of the audit risk model. Relevant reading: Arens (Chapters 5 and 7 (p.232-236))</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 2: Audit risk model &amp; Audit evidence</strong>",
+            "topic_description": "Topic 2: Audit risk model & Audit evidence In Topic 2, we will introduce various ways auditors collect audit evidence and we will also briefly discuss the various components of the audit risk model. Relevant reading: Arens (Chapters 5 and 7 (p.232-236))",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 2: Audit risk model &amp; Audit evidence</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 2: Audit risk model &amp; Audit evidence</strong>",
+            "topic_description": "Workshop 2: Audit risk model & Audit evidence",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3: Audit planning, materiality and risk</strong><br/><p>In Topic 3, we continue to learn how audit risk model works. In particular, we will learn how audit risks and inherent risks are assessed. In addition, we explore how materiality thresholds are set at the planning stage and subsequently how they are used to identify material misstatements. Relevant reading: Arens (Chapters 6 and 7)</p>\n<p><strong>EKKA Public Holiday - Wednesday 13 August 2025</strong> - Our regular lecture will be affected by EKKA Day. Please check Blackboard for announcements about the time and venue of the make-up class.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Topic 3: Audit planning, materiality and risk</strong>",
+            "topic_description": "Topic 3: Audit planning, materiality and risk In Topic 3, we continue to learn how audit risk model works. In particular, we will learn how audit risks and inherent risks are assessed. In addition, we explore how materiality thresholds are set at the planning stage and subsequently how they are used to identify material misstatements. Relevant reading: Arens (Chapters 6 and 7) EKKA Public Holiday - Wednesday 13 August 2025 - Our regular lecture will be affected by EKKA Day. Please check Blackboard for announcements about the time and venue of the make-up class.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 3: Audit planning, materiality and risk</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 3: Audit planning, materiality and risk</strong>",
+            "topic_description": "Workshop 3: Audit planning, materiality and risk",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4: Internal control, control risk and fraud</strong><br/><p>On Topic 4, we will discuss the types of internal controls implemented by reporting entities that contributing to higher quality financial information, how control risks are assessed and tested by auditors. Relevant reading: Arens (Chapters 8 and 9)</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Topic 4: Internal control, control risk and fraud</strong>",
+            "topic_description": "Topic 4: Internal control, control risk and fraud On Topic 4, we will discuss the types of internal controls implemented by reporting entities that contributing to higher quality financial information, how control risks are assessed and tested by auditors. Relevant reading: Arens (Chapters 8 and 9)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 4: Internal control, control risk and fraud</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 4: Internal control, control risk and fraud</strong>",
+            "topic_description": "Workshop 4: Internal control, control risk and fraud",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5: Tests of controls and substantive tests 1</strong><br/><p>On Topic 5, we introduce the concept of tests of controls and substantive testing, and how these concepts, along with other concepts we have learned so far, are applied in sales and collection cycle. Relevant reading: Arens (Chapters 11, 12 and 13).</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Topic 5: Tests of controls and substantive tests 1</strong>",
+            "topic_description": "Topic 5: Tests of controls and substantive tests 1 On Topic 5, we introduce the concept of tests of controls and substantive testing, and how these concepts, along with other concepts we have learned so far, are applied in sales and collection cycle. Relevant reading: Arens (Chapters 11, 12 and 13).",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 5: Tests of controls and substantive tests 1</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 5: Tests of controls and substantive tests 1</strong>",
+            "topic_description": "Workshop 5: Tests of controls and substantive tests 1",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6: Audit sampling</strong><br/><p>On Topic 6, we explore how sampling techniques are applied in audit testing with practical examples. Relevant readings: Gay and Simnett (Chapter 10)</p></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Topic 6: Audit sampling</strong>",
+            "topic_description": "Topic 6: Audit sampling On Topic 6, we explore how sampling techniques are applied in audit testing with practical examples. Relevant readings: Gay and Simnett (Chapter 10)",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 6: Audit Sampling</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 6: Audit Sampling</strong>",
+            "topic_description": "Workshop 6: Audit Sampling",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 7: Tests of controls and substantive tests 2</strong><br/><p>On Topic 7, we will explore how tests of controls and substantive tests are applied in the audit of 1) cash and PPE accounts and 2) the following transactions cycles: inventory and warehousing and payroll and personnel. Relevant reading: Arens (Chapters 15 and 16)</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Topic 7: Tests of controls and substantive tests 2</strong>",
+            "topic_description": "Topic 7: Tests of controls and substantive tests 2 On Topic 7, we will explore how tests of controls and substantive tests are applied in the audit of 1) cash and PPE accounts and 2) the following transactions cycles: inventory and warehousing and payroll and personnel. Relevant reading: Arens (Chapters 15 and 16)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 7: Tests of controls and substantive tests 2</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 7: Tests of controls and substantive tests 2</strong>",
+            "topic_description": "Workshop 7: Tests of controls and substantive tests 2",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Tests of controls and substantive tests 3</strong><br/><p>On Topic 8, we will identify tests of controls and substantive testing relevant for the acquisition and payment cycle and capital acquisition and repayment cycle. Relevant Reading: Arens (Chapters 15 and 16)</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Topic 8: Tests of controls and substantive tests 3</strong>",
+            "topic_description": "Topic 8: Tests of controls and substantive tests 3 On Topic 8, we will identify tests of controls and substantive testing relevant for the acquisition and payment cycle and capital acquisition and repayment cycle. Relevant Reading: Arens (Chapters 15 and 16)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Teaching Break</strong><br/><p>We will take a teaching break this week with no lecture, workshop or consultation.</p></p></div></td>",
+            "topic_title": "<strong>Teaching Break</strong>",
+            "topic_description": "Teaching Break We will take a teaching break this week with no lecture, workshop or consultation.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break(29 Sep - 05 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 8: Tests of controls and substantive tests 3</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 8: Tests of controls and substantive tests 3</strong>",
+            "topic_description": "Workshop 8: Tests of controls and substantive tests 3",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Completing the audit</strong><br/><p>On Topic 9, we identify audit procedures to complete the audit process, including identifying and assessing subsequent events and contingent liabilities. Relevant Reading: Arens (Chapter 17).</p>\n<p><strong>Kings Birthday Public Holiday - Monday 6 October 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Topic 9: Completing the audit</strong>",
+            "topic_description": "Topic 9: Completing the audit On Topic 9, we identify audit procedures to complete the audit process, including identifying and assessing subsequent events and contingent liabilities. Relevant Reading: Arens (Chapter 17). Kings Birthday Public Holiday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 9: Completing the audit</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 9: Completing the audit</strong>",
+            "topic_description": "Workshop 9: Completing the audit",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10 Audit reports</strong><br/><p>In Topic 10, we will demonstrate what the end product of the audit processes - an audit report - looks like, and conditions under which each type of audit report are issued. Relevant reading: Arens (Chapter 18)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Topic 10 Audit reports</strong>",
+            "topic_description": "Topic 10 Audit reports In Topic 10, we will demonstrate what the end product of the audit processes - an audit report - looks like, and conditions under which each type of audit report are issued. Relevant reading: Arens (Chapter 18)",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 10: Audit reports</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 10: Audit reports</strong>",
+            "topic_description": "Workshop 10: Audit reports",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 11 Ethics, Auditor legal liabilities</strong><br/><p>In Topic 11, we explore ethical requirements auditors need to follow. More importantly, what legal consequences auditors could be facing if they failed to provide quality services to their clients. Relevant reading: Gay and Simnett (Chapter 2 and 3).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic_title": "<strong>Topic 11 Ethics, Auditor legal liabilities</strong>",
+            "topic_description": "Topic 11 Ethics, Auditor legal liabilities In Topic 11, we explore ethical requirements auditors need to follow. More importantly, what legal consequences auditors could be facing if they failed to provide quality services to their clients. Relevant reading: Gay and Simnett (Chapter 2 and 3).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 11: Ethics, Auditor legal liabilities</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 11: Ethics, Auditor legal liabilities</strong>",
+            "topic_description": "Workshop 11: Ethics, Auditor legal liabilities",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision lecture</strong><br/><p>We will provide some information on the final exam and go through some mock final exam papers.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision lecture</strong>",
+            "topic_description": "Revision lecture We will provide some information on the final exam and go through some mock final exam papers.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
