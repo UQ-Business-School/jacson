@@ -1,0 +1,190 @@
+{
+    "course_title": "Managing Resources in Tourism, Hospitality & Events",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR7023-20359-7520",
+    "full_course_code": "TOUR7023-20359-7520",
+    "course_code": "TOUR7023",
+    "class_code": "20359",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Critically evaluate various types of resources in tourism, hospitality and event operations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify and reflect on theoretical and practical considerations associated with managing resources in tourism, hospitality and event operations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the management process and associated core business concepts related to resource management in the tourism, hospitality and event context."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically analyse a complex tourism, hospitality or event business problem or situation relating to resource management practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Formulate recommendations for strategic and ethical resource management in tourism, hospitality and event operations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Infographic - External Resource Audit: Destination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 3/04/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Poster",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Working INDIVIDUALLY, students independently, critically evaluate TH&amp;E natural, cultural, and support resources of a chosen destination, identify its main management challenges, and provide management strategies to solve (preventing, mitigating, or managing) the issues.</p>\n<p>The assessment has two parts:</p>\n<p><strong>Part A (Destination Audit Spreadsheet)</strong>: You are to conduct an external resource audit of a chosen regional destination (in Australia or overseas - from the list of regional destinations on Blackboard) and critically evaluate all the relevant natural, cultural and social resources for the chosen destination.</p>\n<p>•         A spreadsheet template is available on Blackboard to guide the audit process.</p>\n<p>•         You have to <strong>identify the resources that reflect the destination characteristics</strong>, identifying more natural or cultural resources depending on the destination type. <strong>The audit must cover all resource sub-types, (five natural, four cultural, four social) with at least one resource.</strong> The identified resources must reflect the destination type, thus allowing for more natural or cultural resources depending on the type of destination.</p>\n<p>•         You are to critically <strong>evaluate each resource's appeal, quality, and uniqueness</strong>.</p>\n<p>•         You then identify and reflect on <strong>the main management challenges and possible strategies to overcome those</strong>.</p>\n<p>•         Your completed spreadsheet must be submitted as part of this assessment, and completion provides the foundation for you to complete part B.</p>\n<p><strong>Part B (Destination Marketing Infographic): </strong>Based on your research and resource audit spreadsheet, you will prepare an infographic (using Canva’s or Piktochart 's Infographic free function, or similar) from a destination marketing perspective. An infographic is a visual representation of an idea or data, and yours should be succinct, entertaining, and eye-catching. It should cite the relevant literature and incorporate informative text and engaging images or graphics to appeal and explain your findings to your audiences. (https://www.canva.com/) (https://create.piktochart.com/infographic). Your infographic should address the following aspects:</p>\n<p>•         <strong>An overview of the destination</strong> (geographical location, types of attractions, visitor segment and statistics etc);</p>\n<p>•         A summary of the most relevant two (2) examples of natural, cultural and support resources available at this destination. This will require you to <strong>inform on the resource i) quality, ii) uniqueness and iii) appeal for 2 natural resources, 2 cultural resources and 2 social resources;</strong></p>\n<p>•         Explain <strong>the most important two (2) resource management challenges </strong>for your destination. Evidence-based justification of the identified challenges is necessary.</p>\n<p>•         <strong>Address each challenge strategically with one (1) possible management strategy</strong> that will overcome the challenge. The infographic includes, thus, two (2) strategies, one for each of the most important challenges.</p>\n<p><strong>Your research should be based on recent academic sources</strong> (published within the past 10 years). Attach your <strong>reference list following the APA reference guide on the audit and the infographic.</strong></p>\n<p><strong>Complex/authentic assessment using AI to support learning: </strong>Students using AI must <strong>disclose one AI Statement</strong> and <strong>attach an Appendix</strong> with the prompts given to AI and the results provided by AI. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assessment (Part A and B) must be submitted to Turnitin, which is accessed from the Blackboard Assessments link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p> 29/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Working INDIVIDUALLY, you are required <strong>to assess ONE of the two provided scenarios critically</strong>, identify TH&amp;E resource management issues/problems, and provide informed consideration of the ethical implications. This assessment requires students to independently and critically evaluate a complex issue in managing THEs resources and, through problem-solving and research skills, provide a researched-informed understanding of the issues and strategic, evidenced, and actionable recommendations for meaningful resolutions to the case. Through the assignment, you will need to demonstrate ethical awareness in evaluating and responding to the identified issues.</p>\n<p>Prepare a clear and concise <strong>2,500-word case study report</strong>. The word limit applies to the content and detail of your report. It EXCLUDES title page, appendices, and reference list.</p>\n<ol>\n<li><strong>Choose ONE scenario</strong> (selected from the two that will be made available on Blackboard)</li>\n<li>Identify the <strong>key resource management issues</strong></li>\n<li><strong>Discuss the ethical issues arising from the resource management challenges</strong>, drawing on relevant and current literature to inform the analysis </li>\n<li><strong>Critically analyse the underlying causes and implications </strong>of the identified issues (provide evidence-based justification of your reasoning)</li>\n<li>Critically <strong>assess the consequences from diverse stakeholder perspectives</strong> (MORE THAN TWO stakeholders)</li>\n<li><strong>Formulate TWO strategic, evidenced and actionable recommendations (ONE preventive and ONE reactive) </strong>to address key issues raised through problem-solving</li>\n<li>Provide a clear <strong>conclusion</strong> to the report reflecting on sustainable development.</li>\n</ol>\n<p>You must include at least <strong>10 recent* and relevant academic and non-academic references</strong> following the APA style to support your analysis and recommendations.</p>\n<p>* Recent references are those published in the last 10 years.</p>\n<p>This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students using AI must <strong>disclose one AI Statement</strong> and <strong>attach an Appendix</strong> with the prompts given to AI and the results provided by AI. <strong>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. </strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>It is a course requirement that you submit your case study report via the electronic Turnitin Submission Portal available under the Blackboard Assessment link for this course. Your report should be uploaded in a Word or PDF format and it MUST be successfully submitted prior to the deadline to avoid late submission penalty. Please allow sufficient time to upload your file BEFORE the due hour and date; and ensure you secure a 'receipt' as proof of timely submission.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Managing THEs Resources</strong><br/><p>The tourism destination</p></p></div></td>",
+            "topic_title": "<strong>Introduction to Managing THEs Resources</strong>",
+            "topic_description": "Introduction to Managing THEs Resources The tourism destination",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Natural Resource Analysis</strong><br/><p>Critical Evaluation of Tourism Destination Resources</p></p></div></td>",
+            "topic_title": "<strong>Natural Resource Analysis</strong>",
+            "topic_description": "Natural Resource Analysis Critical Evaluation of Tourism Destination Resources",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cultural &amp; Support Resource Analysis</strong><br/><p>Critical Evaluation of Tourism Destination Resources</p></p></div></td>",
+            "topic_title": "<strong>Cultural &amp; Support Resource Analysis</strong>",
+            "topic_description": "Cultural & Support Resource Analysis Critical Evaluation of Tourism Destination Resources",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Destination Resource Audit </strong><br/><p>Audit &amp; Marketing Infographic in Practice</p></p></div></td>",
+            "topic_title": "<strong>Destination Resource Audit </strong>",
+            "topic_description": "Destination Resource Audit Audit & Marketing Infographic in Practice",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organisational Resources Analysis in THEs </strong><br/><p>Strategic Critical Evaluation of Organisational Environment</p></p></div></td>",
+            "topic_title": "<strong>Organisational Resources Analysis in THEs </strong>",
+            "topic_description": "Organisational Resources Analysis in THEs Strategic Critical Evaluation of Organisational Environment",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dynamic Change in THEs</strong><br/><p>Practice for Complex Problem-Solving</p></p></div></td>",
+            "topic_title": "<strong>Dynamic Change in THEs</strong>",
+            "topic_description": "Dynamic Change in THEs Practice for Complex Problem-Solving",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Management, Leadership &amp; Ethics in THEs </strong><br/><p>Culture &amp; Diversity Reflective Practice</p></p></div></td>",
+            "topic_title": "<strong>Management, Leadership &amp; Ethics in THEs </strong>",
+            "topic_description": "Management, Leadership & Ethics in THEs Culture & Diversity Reflective Practice",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Human Resources in THEs  - Guest Lecturer TBA</strong><br/><p>Role Play &amp; Reflective Practice</p></p></div></td>",
+            "topic_title": "<strong>Managing Human Resources in THEs  - Guest Lecturer TBA</strong>",
+            "topic_description": "Managing Human Resources in THEs  - Guest Lecturer TBA Role Play & Reflective Practice",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No classes during the mid-semester break</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No classes during the mid-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operations &amp; Performance Management in THEs - Guest Lecturer TBA</strong><br/><p>Role Play Critical Incident Analysis</p></p></div></td>",
+            "topic_title": "<strong>Operations &amp; Performance Management in THEs - Guest Lecturer TBA</strong>",
+            "topic_description": "Operations & Performance Management in THEs - Guest Lecturer TBA Role Play Critical Incident Analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Technology &amp; Innovation</strong><br/><p>Practice for Complex Problem-Solving</p></p></div></td>",
+            "topic_title": "<strong>Technology &amp; Innovation</strong>",
+            "topic_description": "Technology & Innovation Practice for Complex Problem-Solving",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Risks &amp; Crisis in THEs</strong><br/><p>Practice for Complex Problem-Solving</p></p></div></td>",
+            "topic_title": "<strong>Managing Risks &amp; Crisis in THEs</strong>",
+            "topic_description": "Managing Risks & Crisis in THEs Practice for Complex Problem-Solving",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Climate Change Challenge for THEs Resources</strong><br/><p>Climate change mitigation and adaptation in tourism</p></p></div></td>",
+            "topic_title": "<strong>Climate Change Challenge for THEs Resources</strong>",
+            "topic_description": "Climate Change Challenge for THEs Resources Climate change mitigation and adaptation in tourism",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bring it All Together - Field trip TBA</strong><br/><p>THE's Resource Management for Sustainable Development &amp; Consultations</p></p></div></td>",
+            "topic_title": "<strong>Bring it All Together - Field trip TBA</strong>",
+            "topic_description": "Bring it All Together - Field trip TBA THE's Resource Management for Sustainable Development & Consultations",
+            "learning_outcomes": []
+        }
+    ]
+}
