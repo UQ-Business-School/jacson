@@ -1,0 +1,383 @@
+{
+    "course_title": "Corporate Finance",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM2415-20294-7520",
+    "full_course_code": "FINM2415-20294-7520",
+    "course_code": "FINM2415",
+    "class_code": "20294",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Determine cost of capital and conduct project valuation"
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate optimal capital structure"
+        },
+        {
+            "number": "LO3.",
+            "description": "Conduct corporate valuation, analyse capital raising decisions and mergers and acquisitions decisions"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse payout policy and understand corporate governance and corporate social responsibility"
+        },
+        {
+            "number": "LO5.",
+            "description": "Work collaboratively as a group in collecting and analyzing  financial data"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p>\n<p>\n</p><p>Saturday 29 March or 5 April or 12 April. Will be scheduled by the Examinations.</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The In-Semester Exam covers materials from lectures 1-4 inclusive and will be conducted in person on Saturday 29 March or 5 April or 12 April.</li>\n<li>The exam will contain multiple choice questions.</li>\n<li>More detailed information will be available in the Assessments folder on Blackboard closer to the exam date. </li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 30/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>You will be required to select a firm and analyse it using the knowledge learnt from this course. You will be asked to estimate the firm's cost of capital, analyse its capital structure, and do corporate valuation. </li>\n<li>You are required to do this assignment in a group of 4 to 5 people. Group members do not need to be registered in the same lecture or tutorial. </li>\n<li>GROUP REGISTRATION: Each group must complete your group registration via Blackboard before starting the assignment. Group registration must be completed by <strong>5PM</strong> <strong>Friday of Week 4</strong>. You can use the Discussion Board on Blackboard to look for group members. If you still have trouble forming your team, please let the teaching staff know as soon as possible. The assignment questions will be made available on Blackboard. </li>\n<li>PEER ASSESSMENT: Peer Assessment will be used to compute your final individual grade on the Group Assignment. Completing the Peer Assessment is mandatory. If you do not submit a Peer Assessment Form, you will receive a score of zero on the assignment. Peer Assessment will be completed on Blackboard, and is integrated into the Blackboard teams. Each team member will allocate 100 points between the members of their team. Justification of your distribution of points is essential if they are to be included in calculation of the final Peer Assessment Factor (PAF). In particular, if the score given to any team member deviates from the average by 10% or more, you must include a written justification. For example, in a team of 4, the average score will be 25. If you give someone 20 out of 25, you are saying that team member only deserves 80% (20/25) of the score on the team project. If everyone on the team gives the same score, then that team member will have a PAF of 0.8 and their project score will be 0.8 times the team score on the team assignment. Therefore, in a team of 4, all scores of 22.5 (27.5) and lower (higher) MUST be justified to count.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The final exam will be conducted in person. It is a closed book exam.</li>\n<li>It will consist of 5 short-answer questions, each of which has a number of parts.</li>\n<li>Questions will cover the topics taught after the In-Semester Exam.</li>\n<li>Further details about the final exam will be discussed in class and posted to the course Blackboard site. </li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction, Review of the Time Value of Money and the Cost of Capital</strong><br/><p>Review of time value of money, cost of capital</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Introduction, Review of the Time Value of Money and the Cost of Capital</strong>",
+            "topic_description": "Introduction, Review of the Time Value of Money and the Cost of Capital Review of time value of money, cost of capital",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Evaluation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Project Evaluation</strong>",
+            "topic_description": "Project Evaluation",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T1: Introduction, Review of the Time Value of Money and the Cost of Capital</strong><br/><p>Review of time value of money, cost of capital</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>T1: Introduction, Review of the Time Value of Money and the Cost of Capital</strong>",
+            "topic_description": "T1: Introduction, Review of the Time Value of Money and the Cost of Capital Review of time value of money, cost of capital",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure I: Capital Structure in Perfect Capital Markets</strong><br/><p>Capital structure in perfect capital markets</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Capital Structure I: Capital Structure in Perfect Capital Markets</strong>",
+            "topic_description": "Capital Structure I: Capital Structure in Perfect Capital Markets Capital structure in perfect capital markets",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T2: Project Evaluation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>T2: Project Evaluation</strong>",
+            "topic_description": "T2: Project Evaluation",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure II: Capital Structure with Taxes</strong><br/><p>Capital Structure with debt and taxes</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Capital Structure II: Capital Structure with Taxes</strong>",
+            "topic_description": "Capital Structure II: Capital Structure with Taxes Capital Structure with debt and taxes",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T3: Capital Structure I: Capital Structure in Perfect Capital Markets</strong><br/><p>Capital structure in perfect capital markets.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>T3: Capital Structure I: Capital Structure in Perfect Capital Markets</strong>",
+            "topic_description": "T3: Capital Structure I: Capital Structure in Perfect Capital Markets Capital structure in perfect capital markets.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/><p>Capital Structure with financial distress, incentives, and information</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
+            "topic_description": "Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information Capital Structure with financial distress, incentives, and information",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T4: Capital Structure II: Capital Structure with Taxes</strong><br/><p>Capital Structure with debt and taxes</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>T4: Capital Structure II: Capital Structure with Taxes</strong>",
+            "topic_description": "T4: Capital Structure II: Capital Structure with Taxes Capital Structure with debt and taxes",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Valuation I</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Corporate Valuation I</strong>",
+            "topic_description": "Corporate Valuation I",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
+            "topic_description": "T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday In-semester Exam</strong><br/><p>No Lecture and Tutorials this week as In-Semester Exam.</p>\n<p><strong>Please Note:</strong> The exact scheduling will be updated when the official Saturday Exam timetable is released.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Saturday In-semester Exam</strong>",
+            "topic_description": "Saturday In-semester Exam No Lecture and Tutorials this week as In-Semester Exam. Please Note: The exact scheduling will be updated when the official Saturday Exam timetable is released.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial</strong><br/><p>No Tutorials as In-Semester Exam.</p>\n<p><strong>Please Note:</strong> The exact scheduling will be updated when the official Saturday Exam timetable is released.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>No tutorial</strong>",
+            "topic_description": "No tutorial No Tutorials as In-Semester Exam. Please Note: The exact scheduling will be updated when the official Saturday Exam timetable is released.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Valuation II</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Corporate Valuation II</strong>",
+            "topic_description": "Corporate Valuation II",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T6: Corporate Valuation I</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>T6: Corporate Valuation I</strong>",
+            "topic_description": "T6: Corporate Valuation I",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Raising Capital</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Raising Capital</strong>",
+            "topic_description": "Raising Capital",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T7: Corporate Valuation II</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>T7: Corporate Valuation II</strong>",
+            "topic_description": "T7: Corporate Valuation II",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mergers and Acquisitions</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Mergers and Acquisitions</strong>",
+            "topic_description": "Mergers and Acquisitions",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T8: Raising Capital</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025 </strong>- Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>T8: Raising Capital</strong>",
+            "topic_description": "T8: Raising Capital Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Payout Policy</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Payout Policy</strong>",
+            "topic_description": "Payout Policy",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T9: Mergers and Acquisitions</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>T9: Mergers and Acquisitions</strong>",
+            "topic_description": "T9: Mergers and Acquisitions",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Governance and Social Responsibility</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Corporate Governance and Social Responsibility</strong>",
+            "topic_description": "Corporate Governance and Social Responsibility",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T10: Payout Policy</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T10: Payout Policy</strong>",
+            "topic_description": "T10: Payout Policy",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Course Review</strong>",
+            "topic_description": "Course Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T11: Corporate Governance and Social Responsibility</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T11: Corporate Governance and Social Responsibility</strong>",
+            "topic_description": "T11: Corporate Governance and Social Responsibility",
+            "learning_outcomes": [
+                "L04"
+            ]
+        }
+    ]
+}
