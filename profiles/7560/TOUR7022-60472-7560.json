@@ -1,0 +1,374 @@
+{
+    "course_title": "Disciplinary Foundations of Tourism, Hospitality and Events",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR7022-60472-7560",
+    "full_course_code": "TOUR7022-60472-7560",
+    "course_code": "TOUR7022",
+    "class_code": "60472",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Discuss the contribution of relevant social science and humanities disciplines to the theoretical knowledge of tourism, hospitality and events."
+        },
+        {
+            "number": "LO2.",
+            "description": "Draw upon theories and approaches from various disciplines to make informed decisions in real-world tourism, hospitality and event situations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Incorporate multidisciplinary thinking to solve tourism, hospitality and event problems, by acknowledging and valuing the various approaches taken by different disciplines to the same problem."
+        },
+        {
+            "number": "LO4.",
+            "description": "Utilise interdisciplinary reasoning to integrate perspectives from multiple disciplines to address complex challenges and capitalise on opportunities."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Discussion Papers",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30% Two individual submissions worth 15% each </dd>",
+            "due_date": "<dd><p>2:00 pm Week 5 Thu - Week 11 Thu</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the first lecture a <strong>Tourism, Hospitality and/or Event related issue</strong> will be presented.</p>\n<p>This issue will be discussed each week in the tutorials, progressively applying the various disciplines covered in the course to this issue.</p>\n<p>To contribute to these discussions, you need to <strong>submit TWO (2) one-page discussion papers </strong>regarding the issue, over the course of the semester.</p>\n<p>For each discussion paper you will need to:</p>\n<p>Firstly, undertake research to <strong>identify three (3) different key points</strong> that are <strong>relevant to BOTH the issue and the discipline</strong> for that week. Each key point must be ‘new’ to the discussions in the course.</p>\n<p>Secondly,<strong> generate a reasoned argument for why each of these key points are connected to the discussion of the issue and the discipline</strong>. These ‘connecting arguments’ must extend beyond the key point and be original, your own reasoning, and written in your own words.  </p>\n<p>A one-page template will be provided on Blackboard to assist you in completing this assessment. The three Key Points and the Connecting Arguments MUST fit on the one page (using the formatting of the template). </p>\n<p>The requirements for this task will also be modelled during the initial tutorials so you understand how to complete the task.</p>\n<p>You have choice about which disciplines (and therefore which weeks) you wish to select for your submissions. The due date for the first possible submission is in Week Five and the latest possible submission date for your second paper is in Week Eleven.</p>\n<p>Submissions will be progressive and used to facilitate the tutorial discussions. Therefore, you will need to submit your discussion papers prior to the relevant tutorial.</p>\n<p>Each discipline has its own discussion paper due date, and these dates will be provided on the course Blackboard site.</p>\n<p>The marking criteria will be provided on the course Blackboard site.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your paper in word format through Turnitin on the course BlackBoard site, with the required resource pages attached.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-class Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> Week 11</p>\n<p>\n</p><p>During lecture time</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this exam, you will need to complete an <strong>in-class quiz</strong>.</p>\n<p>You complete the quiz in the <strong>lecture room</strong> during the <strong>lecture time </strong></p>\n<p>You will have<strong> 80 minutes</strong> to complete the quiz.</p>\n<p><strong>The quiz will include 40 Multiple Choice / Answer Questions (MCQs + MAQs)</strong>.</p>\n<p>The quiz will cover all of the topics covered in the course.</p>\n<p>You will be provided with further details on the quiz during the semester.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Article Review Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 11/11/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this Article Review you will need to write a <strong>2000 word report</strong> focusing a <strong>tourism, hospitality and/or event issue</strong> of your choice, e.g. Ecotourism, Dark Tourism, Host-Guest Relationship, Events &amp; Technology.</p>\n<p>This assessment requires you to source, and then review, a<strong> journal article that</strong> <strong>uses a ‘combined disciplinary’ approach </strong>to analyse your chosen issue. It is very important to select a suitable journal article.</p>\n<p>The combined disciplinary approach <strong>must include two disciplines that are covered in this course this semester</strong>.</p>\n<p>The journal article that you review for this assessment must be different from those used in the course to assist your understanding of the task.</p>\n<p>Your Article Review should:</p>\n<ol>\n<li>outline the research problem, literature and methodology,</li>\n<li>critically review the contribution of each discipline to the research, and</li>\n<li>evaluate how using this ‘combined disciplinary approach’ created real-world outcomes. </li>\n</ol>\n<p><strong><em>Tip:</em></strong><em> use the Marking Criteria Sheet to ensure you address each aspect of the criteria in your Article Review, and note the weightings for each criteria.</em></p>\n<p>More details about this assessment task, including the marking criteria will be provided on the course Blackboard site.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your report in word format through Turnitin on the course BlackBoard site, with the reviewed journal article attached.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>The week one lecture is an introduction to this course and how it aligns with your decision to enrol in this Masters program.</p>\n<p>It will cover both practical aspects, such as the textbook and an overview of the assessment tasks, alongside the course foundations, such as what is a discipline? what are the social sciences - and the humanities? as these provide the basis for your 'Disciplines journey' this semester.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction The week one lecture is an introduction to this course and how it aligns with your decision to enrol in this Masters program. It will cover both practical aspects, such as the textbook and an overview of the assessment tasks, alongside the course foundations, such as what is a discipline? what are the social sciences - and the humanities? as these provide the basis for your 'Disciplines journey' this semester.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sociology</strong><br/><p>This lecture will provide details on assessment task 1 - the Discussion Papers.</p>\n<p>Then we will focus on the first discipline of Sociology. This will include an introduction to this discipline - its origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Sociology</strong>",
+            "topic_description": "Sociology This lecture will provide details on assessment task 1 - the Discussion Papers. Then we will focus on the first discipline of Sociology. This will include an introduction to this discipline - its origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Plan: 'One Issue - One Disciplinary Approach'</strong><br/><p>This first tutorial will provide an opportunity for everyone to get to know each other better. </p>\n<p>Then we will discuss the plan for the tutorial activities this semester. </p>\n<p>This will highlight how the discipline that is covered in the lecture (e.g. Geography in Week 4), is then the discipline for the Discussion Paper due the following week (i.e. Thursday of Week 5), which is then the focus of the next tutorial (i.e. in Week 6).    </p>\n<p>As all the Discussion Papers will focus on the 'issue' of Ecotourism, the tutorials will be looking at this same issue each week, but from various disciplinary approaches. </p>\n<p>Details on this Ecotourism issue will be provided for you to access during Week 3, as the Public Holiday results in no scheduled lectures or tutorials that week.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial Plan: 'One Issue - One Disciplinary Approach'</strong>",
+            "topic_description": "Tutorial Plan: 'One Issue - One Disciplinary Approach' This first tutorial will provide an opportunity for everyone to get to know each other better. Then we will discuss the plan for the tutorial activities this semester. This will highlight how the discipline that is covered in the lecture (e.g. Geography in Week 4), is then the discipline for the Discussion Paper due the following week (i.e. Thursday of Week 5), which is then the focus of the next tutorial (i.e. in Week 6). As all the Discussion Papers will focus on the 'issue' of Ecotourism, the tutorials will be looking at this same issue each week, but from various disciplinary approaches. Details on this Ecotourism issue will be provided for you to access during Week 3, as the Public Holiday results in no scheduled lectures or tutorials that week.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Due to the Ekka Public Holiday there are no lectures or tutorials this week</strong><br/></p></div></td>",
+            "topic_title": "<strong>Due to the Ekka Public Holiday there are no lectures or tutorials this week</strong>",
+            "topic_description": "Due to the Ekka Public Holiday there are no lectures or tutorials this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geography</strong><br/><p>This week the lecture shifts to the discipline of Geography, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Geography</strong>",
+            "topic_description": "Geography This week the lecture shifts to the discipline of Geography, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sociology – Guided Practice</strong><br/><p>The tutorials for this week and next week will focus on the discipline of Sociology which has already been covered in the lecture.</p>\n<p>These tutorials are designed to help you learn how to complete your Discussion Papers, which will be on two other disciplines.</p>\n<p>In this 'guided practice' tutorial you will work in small groups to 'mark' an example Discussion Paper that we have prepared on Sociology and Ecotourism.</p>\n<p>This will firstly, illustrate how undertaking the three steps of the assessment task results in a completed Discussion Paper using the provided template, and secondly, help you understand the marking criteria.  </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Sociology – Guided Practice</strong>",
+            "topic_description": "Sociology – Guided Practice The tutorials for this week and next week will focus on the discipline of Sociology which has already been covered in the lecture. These tutorials are designed to help you learn how to complete your Discussion Papers, which will be on two other disciplines. In this 'guided practice' tutorial you will work in small groups to 'mark' an example Discussion Paper that we have prepared on Sociology and Ecotourism. This will firstly, illustrate how undertaking the three steps of the assessment task results in a completed Discussion Paper using the provided template, and secondly, help you understand the marking criteria.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Psychology</strong><br/><p>This week the lecture shifts to the discipline of Psychology, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Psychology</strong>",
+            "topic_description": "Psychology This week the lecture shifts to the discipline of Psychology, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sociology – Student Practice</strong><br/><p>The tutorials for last week and this week will focus on the discipline of Sociology which has already been covered in the lecture.</p>\n<p>These tutorials are designed to help you learn how to complete your Discussion Papers, which will be on two other disciplines.</p>\n<p>In this 'student practice' tutorial you will work in small groups to identify a 'key point' and create a 'connecting argument' from specific pages in a provided Sociology and Ecotourism 'resource'.</p>\n<p>This will firstly, provide an example of a relevant 'resource', and secondly, give you the opportunity to practice presenting a 'key point' appropriately and then take the point further to generate the 'connecting argument'.  </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Sociology – Student Practice</strong>",
+            "topic_description": "Sociology – Student Practice The tutorials for last week and this week will focus on the discipline of Sociology which has already been covered in the lecture. These tutorials are designed to help you learn how to complete your Discussion Papers, which will be on two other disciplines. In this 'student practice' tutorial you will work in small groups to identify a 'key point' and create a 'connecting argument' from specific pages in a provided Sociology and Ecotourism 'resource'. This will firstly, provide an example of a relevant 'resource', and secondly, give you the opportunity to practice presenting a 'key point' appropriately and then take the point further to generate the 'connecting argument'.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economics</strong><br/><p>This week the lecture shifts to the discipline of Economics, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Economics</strong>",
+            "topic_description": "Economics This week the lecture shifts to the discipline of Economics, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geography</strong><br/><p>This tutorial will start to develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we shift from Sociological considerations to the perspective of Geography. </p>\n<p>This discussion also provides an opportunity to further your understanding of the Discussion Papers task as we review 'key points' and 'connecting arguments' from past student submissions.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Geography</strong>",
+            "topic_description": "Geography This tutorial will start to develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we shift from Sociological considerations to the perspective of Geography. This discussion also provides an opportunity to further your understanding of the Discussion Papers task as we review 'key points' and 'connecting arguments' from past student submissions.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Philosophy - Ethics</strong><br/><p>This week the lecture shifts to the discipline of Philosophy, with the focus on Ethics as the study of morality, providing the initial introduction of the discipline's origins, research focus, and methods, followed by three common ethical approaches and their assessment of the moral issues at play in a real-world tourism situation.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Philosophy - Ethics</strong>",
+            "topic_description": "Philosophy - Ethics This week the lecture shifts to the discipline of Philosophy, with the focus on Ethics as the study of morality, providing the initial introduction of the discipline's origins, research focus, and methods, followed by three common ethical approaches and their assessment of the moral issues at play in a real-world tourism situation.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Psychology</strong><br/><p>This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Psychology. </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Psychology</strong>",
+            "topic_description": "Psychology This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Psychology.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Anthropology</strong><br/><p>This week the lecture shifts to the discipline of Anthropology, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Anthropology</strong>",
+            "topic_description": "Anthropology This week the lecture shifts to the discipline of Anthropology, providing the initial introduction of the discipline's origins, research focus, key theories/ approaches, and methods, followed by its application to tourism, hospitality, and events.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economics</strong><br/><p>This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Economics. </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Economics</strong>",
+            "topic_description": "Economics This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Economics.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>History &amp; Education</strong><br/><p>This week the lecture will cover the final two disciplines - History and Education. Following the usual format, the discipline will be introduced, and then applications across tourism, hospitality, and events will be discussed. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>History &amp; Education</strong>",
+            "topic_description": "History & Education This week the lecture will cover the final two disciplines - History and Education. Following the usual format, the discipline will be introduced, and then applications across tourism, hospitality, and events will be discussed.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Philosophy - Ethics</strong><br/><p>This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we consider Ethical approaches to moral issues in ecotourism. </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Philosophy - Ethics</strong>",
+            "topic_description": "Philosophy - Ethics This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we consider Ethical approaches to moral issues in ecotourism.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No lectures or tutorials</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No lectures or tutorials",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz Preparation &amp; Discipline Review</strong><br/><p>The lecture this week will help you prepare for the Week Eleven Quiz, and will cover two separate aspects:</p>\n<ol>\n<li>the Quiz details - format, timing, types of questions with examples, what to bring with you, etc  </li>\n<li>the Quiz content - this will provide a review of the discipline-related knowledge covered throughout all the lectures this semester</li>\n</ol></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Quiz Preparation &amp; Discipline Review</strong>",
+            "topic_description": "Quiz Preparation & Discipline Review The lecture this week will help you prepare for the Week Eleven Quiz, and will cover two separate aspects: the Quiz details - format, timing, types of questions with examples, what to bring with you, etc the Quiz content - this will provide a review of the discipline-related knowledge covered throughout all the lectures this semester",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Anthropology</strong><br/><p>This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Anthropology. </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Anthropology</strong>",
+            "topic_description": "Anthropology This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Anthropology.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-class Quiz</strong><br/><p>In this lecture you will complete the In-class Quiz assessment task. You need to attend the lecture in person to complete the quiz. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>In-class Quiz</strong>",
+            "topic_description": "In-class Quiz In this lecture you will complete the In-class Quiz assessment task. You need to attend the lecture in person to complete the quiz.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>History</strong><br/><p>This tutorial will still progress your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of History.</p>\n<p>Furthermore, the final three tutorials align with the last assessment task - the Article Review. </p>\n<p>In this tutorial your group will review aspects of a journal article that includes Ecotourism and History, as well as other disciplines, and focus on the Report Section Two of the assessment task.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>History</strong>",
+            "topic_description": "History This tutorial will still progress your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of History. Furthermore, the final three tutorials align with the last assessment task - the Article Review. In this tutorial your group will review aspects of a journal article that includes Ecotourism and History, as well as other disciplines, and focus on the Report Section Two of the assessment task.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>One Issue - Multiple Disciplines (Part One)</strong><br/><p>The last two lectures consider inter and multi disciplinary approaches.</p>\n<p>While each discipline is distinct, as covered thus far in the course, it is also important to understand the ways, and advantages of drawing from multiple disciplines to address challenges across tourism, hospitality and events.</p>\n<p>As this 'combining disciplines' approach aligns with the final assessment - the Article Review, we will go through the details of this assessment task in the lecture.</p>\n<p>This week, we will also consider a real-world 'solution', breaking it down to illustrate the various disciplines that apply to 'parts' of the solution, to highlight the need to consider multiple disciplines when addressing complex issues.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>One Issue - Multiple Disciplines (Part One)</strong>",
+            "topic_description": "One Issue - Multiple Disciplines (Part One) The last two lectures consider inter and multi disciplinary approaches. While each discipline is distinct, as covered thus far in the course, it is also important to understand the ways, and advantages of drawing from multiple disciplines to address challenges across tourism, hospitality and events. As this 'combining disciplines' approach aligns with the final assessment - the Article Review, we will go through the details of this assessment task in the lecture. This week, we will also consider a real-world 'solution', breaking it down to illustrate the various disciplines that apply to 'parts' of the solution, to highlight the need to consider multiple disciplines when addressing complex issues.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Education</strong><br/><p>This tutorial will still progress your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Education.</p>\n<p>As the final three tutorials align with the last assessment task, this tutorial addresses the 'combining disciplines' focus for Report Section Three of the Article Review task.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Education</strong>",
+            "topic_description": "Education This tutorial will still progress your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Education. As the final three tutorials align with the last assessment task, this tutorial addresses the 'combining disciplines' focus for Report Section Three of the Article Review task.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>One Issue - Multiple Disciplines (Part Two)</strong><br/><p>The last two lectures consider inter and multi disciplinary approaches. </p>\n<p>While each discipline is distinct, as covered thus far in the course, it is also important to understand the ways, and advantages of drawing from multiple disciplines to address challenges across tourism, hospitality and events.     </p>\n<p>In this last lecture, we will consider a research project and how various disciplines informed and contributed to the research design, process, theories, and contributions. This provides an example for the Article Review assessment task. </p>\n<p>Plus final words - keep in touch! </p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>One Issue - Multiple Disciplines (Part Two)</strong>",
+            "topic_description": "One Issue - Multiple Disciplines (Part Two) The last two lectures consider inter and multi disciplinary approaches. While each discipline is distinct, as covered thus far in the course, it is also important to understand the ways, and advantages of drawing from multiple disciplines to address challenges across tourism, hospitality and events. In this last lecture, we will consider a research project and how various disciplines informed and contributed to the research design, process, theories, and contributions. This provides an example for the Article Review assessment task. Plus final words - keep in touch!",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Assessment: 'One Issue - Multiple Disciplines'</strong><br/><p>This final tutorial continues to support your understanding of the Article Review assessment task. </p>\n<p>In this tutorial the activity addresses the 'real-world outcomes' of the combined disciplinary research for Report Section Four of the assessment task.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Final Assessment: 'One Issue - Multiple Disciplines'</strong>",
+            "topic_description": "Final Assessment: 'One Issue - Multiple Disciplines' This final tutorial continues to support your understanding of the Article Review assessment task. In this tutorial the activity addresses the 'real-world outcomes' of the combined disciplinary research for Report Section Four of the assessment task.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        }
+    ]
+}
