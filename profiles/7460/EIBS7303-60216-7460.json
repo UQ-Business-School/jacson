@@ -1,4 +1,8 @@
 {
+    "course_title": "Building Innovation Capability",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/EIBS7303-60216-7460",
     "full_course_code": "EIBS7303-60216-7460",
     "course_code": "EIBS7303",
@@ -28,16 +32,16 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Research Journal",
             "special_indicators": [],
-            "weighting": "60%",
-            "due_date": "19/08/2024 3:00 pm30/09/2024 3:00 pm4/11/2024 3:00 pm",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 19/08/2024 3:00 pm</p>\n<p> 30/09/2024 3:00 pm</p>\n<p> 4/11/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L03, L04",
             "mode": "Written",
             "category": "Notebook/ Logbook",
-            "task_description": "TheResearch Journalis intended to capture your learning through undertaking the course. The journal is both a reflective document of your skills growth as well as a record of your ability to understand and apply key theories and analytical frameworks to organisational innovation problems. It will serve as an important guide to build your career in becoming an innovation leader.During the relevant weeks you will be asked to make a submission to the research journal with a reflection on or application of relevant theories and frameworks covered in those weeks. The total assessment is worth 60 marks, but it is broken up in three parts to offer you the opportunity to gain feedback on your learning and performance throughout the semester.Use of AIThis task has been designed to be challenging, authentic and complex. Whilst you may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, you will be required to demonstrate detailed comprehension of their written submission independent of AI tools.You must clearly reference any use of AI in each instance including providing an appendix with used prompts. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via the Research Journal assessment link in Blackboard - each individual student to upload their personal journal for grading",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The <strong><em>Research Journal </em></strong>is intended to capture your learning through undertaking the course. The journal is both a reflective document of your skills growth as well as a record of your ability to understand and apply key theories and analytical frameworks to organisational innovation problems. It will serve as an important guide to build your career in becoming an innovation leader.</p>\n<p>During the relevant weeks you will be asked to make a submission to the research journal with a reflection on or application of relevant theories and frameworks covered in those weeks. The total assessment is worth 60 marks, but it is broken up in three parts to offer you the opportunity to gain feedback on your learning and performance throughout the semester.</p>\n<p><strong><em>Use of AI</em></strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst you may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, you will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>You must clearly reference any use of AI in each instance including providing an appendix with used prompts. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via the Research Journal assessment link in Blackboard - each individual student to upload their personal journal for grading</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -48,25 +52,25 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "25/10/2024 3:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 25/10/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The team project focuses on writing a consulting report that appraises the history of the focal organisation and the pathways available to building innovation capabilities. Students will use theoretical frameworks to assist with analysing and interpreting the organisation and recommend actionable steps to build a more innovative organisation.ReportThe report outlines the analysis, mixing evidence with theory to offer recommendations on how the organisation could improve its capability to innovate.A peer assessment is required to be submitted via a Peer Assessment tool in Blackboard.Use of AIThis task has been designed to be challenging, authentic and complex. Whilst you may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, you will be required to demonstrate detailed comprehension of their written submission independent of AI tools.You must clearly reference any use of AI in each instance including providing an appendix with used prompts. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via the Team Assessment link in Blackboard - only ONE report per team.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team project focuses on writing a consulting report that appraises the history of the focal organisation and the pathways available to building innovation capabilities. Students will use theoretical frameworks to assist with analysing and interpreting the organisation and recommend actionable steps to build a more innovative organisation.</p>\n<p><strong>Report</strong></p>\n<p>The report outlines the analysis, mixing evidence with theory to offer recommendations on how the organisation could improve its capability to innovate.</p>\n<p>A peer assessment is required to be submitted via a Peer Assessment tool in Blackboard.</p>\n<p><strong><em>Use of AI</em></strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst you may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, you will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>You must clearly reference any use of AI in each instance including providing an appendix with used prompts. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via the Team Assessment link in Blackboard - only ONE report per team.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Why become more innovative and entrepreneurial?Learning outcomes:L01, L02, L04",
-            "topic_title": "Why become more innovative and entrepreneurial?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Why become more innovative and entrepreneurial?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Why become more innovative and entrepreneurial?</strong>",
+            "topic_description": "Why become more innovative and entrepreneurial?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -76,9 +80,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "What are the risks associated with innovation?Learning outcomes:L01, L04",
-            "topic_title": "What are the risks associated with innovation?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What are the risks associated with innovation?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>What are the risks associated with innovation?</strong>",
+            "topic_description": "What are the risks associated with innovation?",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -87,9 +91,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "How to structure an organisation for innovation?Learning outcomes:L01, L02",
-            "topic_title": "How to structure an organisation for innovation?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to structure an organisation for innovation?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>How to structure an organisation for innovation?</strong>",
+            "topic_description": "How to structure an organisation for innovation?",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -98,9 +102,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "What are capabilities of an innovating individual?Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "What are capabilities of an innovating individual?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What are capabilities of an innovating individual?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>What are capabilities of an innovating individual?</strong>",
+            "topic_description": "What are capabilities of an innovating individual?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -111,9 +115,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "How to use culture as a strategic advantage?Learning outcomes:L01, L03, L04",
-            "topic_title": "How to use culture as a strategic advantage?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to use culture as a strategic advantage?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>How to use culture as a strategic advantage?</strong>",
+            "topic_description": "How to use culture as a strategic advantage?",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -123,9 +127,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "How to lead innovative organisations?Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "How to lead innovative organisations?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to lead innovative organisations?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>How to lead innovative organisations?</strong>",
+            "topic_description": "How to lead innovative organisations?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -136,9 +140,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "How to scale the innovative organisation?Learning outcomes:L01, L02",
-            "topic_title": "How to scale the innovative organisation?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> How to scale the innovative organisation?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong> How to scale the innovative organisation?</strong>",
+            "topic_description": "How to scale the innovative organisation?",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -147,9 +151,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "How to manage ventures?Learning outcomes:L01, L03, L04",
-            "topic_title": "How to manage ventures?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to manage ventures?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>How to manage ventures?</strong>",
+            "topic_description": "How to manage ventures?",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -159,9 +163,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "How to manage the corporate entrepreneurial ecosystem?Learning outcomes:L01, L02, L03",
-            "topic_title": "How to manage the corporate entrepreneurial ecosystem?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to manage the corporate entrepreneurial ecosystem?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>How to manage the corporate entrepreneurial ecosystem?</strong>",
+            "topic_description": "How to manage the corporate entrepreneurial ecosystem?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -171,17 +175,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "How to open my innovation processes?Learning outcomes:L01, L02, L04",
-            "topic_title": "How to open my innovation processes?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to open my innovation processes?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>How to open my innovation processes?</strong>",
+            "topic_description": "How to open my innovation processes?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -191,9 +195,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "How to become more agile in innovation?Learning outcomes:L01, L02, L04",
-            "topic_title": "How to become more agile in innovation?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to become more agile in innovation?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>How to become more agile in innovation?</strong>",
+            "topic_description": "How to become more agile in innovation?",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -203,9 +207,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "How to renew my organisation?Learning outcomes:L01, L04",
-            "topic_title": "How to renew my organisation?",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to renew my organisation?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>How to renew my organisation?</strong>",
+            "topic_description": "How to renew my organisation?",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -214,9 +218,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Building Innovative OrganisationsLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Building Innovative Organisations",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Building Innovative Organisations</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Building Innovative Organisations</strong>",
+            "topic_description": "Building Innovative Organisations",
             "learning_outcomes": [
                 "L01",
                 "L02",
