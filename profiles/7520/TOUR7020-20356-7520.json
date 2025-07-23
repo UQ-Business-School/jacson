@@ -1,0 +1,218 @@
+{
+    "course_title": "Tourism, Hospitality & Event Industries",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR7020-20356-7520",
+    "full_course_code": "TOUR7020-20356-7520",
+    "course_code": "TOUR7020",
+    "class_code": "20356",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and analyse the impacts tourism, hospitality and events have on sustainability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply systems thinking to analyse the sustainability of a tourism, hospitality, event system."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop and use critical thinking and academic writing skills to complete all assessment tasks."
+        },
+        {
+            "number": "LO4.",
+            "description": "Collaboratively work in teams to prepare a report on a tourism, hospitality, event system."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Impact Identification",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25% 1200 words (excluding template headings) </dd>",
+            "due_date": "<dd><p> 27/03/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Task Description</strong>:</p>\n<p><strong><em>Note</em></strong><em>: Assessment Task 1(Impact Identification), Assessment Task 2 (Impact Analysis) and Assessment Task 3 (System Report) are related. The planning and feedback from Assessment Task 1 will be used by you to develop Assessment Task 2. Likewise, the planning and feedback from Assessment Task 2 will be used by you to develop Assessment Task 3. </em></p>\n<p><strong>Assessment Task 1 – Impact Identification</strong></p>\n<p>This is an individual task.</p>\n<p>This assessment task is to be completed using the <em>Impact Identification Template</em> available on Blackboard.</p>\n<p>To complete this template you will be required to:</p>\n<ul>\n<li>State your research question related to one aspect of either<strong> </strong>tourism<strong> OR</strong> hospitality <strong>OR</strong> events <strong>AND</strong> its impact on the sustainability of the host economy <strong>OR</strong> environment <strong>OR</strong> society/culture. Your topic cannot be related to service management, and it cannot be a case study. Research topics will be allocated in class early in the semester.</li>\n<li>Use your database searching skills (taught in class) to find three (3) or more academic journal articles published after 2014 that identify positive and/or negative impacts related to your research question. By using a range of articles you should be able to identify positive and negative impacts. If you only find positive or negative impacts then you will need to justify why this is the case.</li>\n<li>Use paraphrasing to summarise appropriate positive and negative impacts.</li>\n<li>Use APA7 referencing to identify the source(s) for each impact.</li>\n</ul>\n<p><strong>Note:</strong> Your research will ONLY be based on an analysis of available literature in the field - you will NOT be collecting primary data (doing 'empirical' research).</p>\n<p><strong>Format</strong>: </p>\n<ul>\n<li>Font size 11 point</li>\n<li>Font type - Calibri; Times New Roman; Arial</li>\n<li>Line spacing - 1.5 spacing</li>\n</ul>\n<p><strong>Use of AI/MT Technologies</strong></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your completed <em>Impact Identification Template</em> must be submitted to Turnitin, which is accessed from Blackboard through the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Impact Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25% 1200 words (excluding template headings) </dd>",
+            "due_date": "<dd><p> 1/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Assessment Task 2: Impact Analysis</strong></p>\n<p>This is an individual task</p>\n<p>Analyse the impacts you identified in your <em>Impact Identification</em> (Assessment Task 1) to determine two (2) underlying factors that influence whether your impacts are positive or negative.</p>\n<p>Complete the <em>Impact Analysis Template</em>. This requires you to:</p>\n<ul>\n<li>State your research question from your <em>Impact Identification</em> (Assessment Task 1);</li>\n<li>Provide a 500 word referenced justification for each underlying factor you identify;</li>\n<li>Provide a 200 word answer to your research question.</li>\n</ul>\n<p><strong>Note:</strong> Your research will ONLY be based on an analysis of available literature in the field - you will NOT be collecting primary data (doing 'empirical' research).</p>\n<p><strong>Use of AI/MT technologies:</strong></p>\n<p><em>Artificial Intelligence (IT) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><strong>Referencing:</strong> APA7</p>\n<p><strong>Formatting:</strong></p>\n<ul>\n<li>Font size - 11 point</li>\n<li>Font type - Calibri; Times New Roman; Arial</li>\n<li>Line spacing - 1.5 spacing</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your completed <em>Impact Analysis Template </em>must be submitted to Turnitin, which is accessed from Blackboard through the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "System Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50% 3500 words (excluding title page; executive summary; table of contents; reference list; appendices - if used) </dd>",
+            "due_date": "<dd><p>System Report 30/05/2025 2:00 pm</p>\n<p>Buddy Check 30/05/2025 5:00 pm</p>\n<p>Oral Defense </p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Due to your expertise in THE management, your team have been hired as consultants to prepare a System Report for the manager of a THE business. The THE business you will be preparing and writing the report for is the tourism <strong>OR </strong>hospitality <strong>OR </strong>event (T/H/E) business you have been working on in class. Your team is the group of students you were assigned to work with in class.</p>\n<p>As a <strong>group</strong>:</p>\n<ul>\n<li>Prepare a report for the manager of your T/H/E business. Your report will be based on a tourism system developed for one (1) potential, or existing, target market for your T/H/E business. This is the system your group has been working on in class from Week 9 onwards.</li>\n<li>Include the following in your report:</li>\n<li>Title page</li>\n<li>Executive summary (overview of your whole report)</li>\n<li>Table of contents (use numbered headings)</li>\n<li>Introduction (explain why systems thinking is beneficial for your T/H/E business)</li>\n<li>'Body' of your report (Do not use the heading 'body'. Use headings appropriate for your topic). In this section include:</li>\n<li>Diagram of your system</li>\n<li>Explanation of your system</li>\n<li>Relevance of sustainability for your system</li>\n<li>Conclusion (summary of the key take-away points for your T/H/E business manager)</li>\n<li>Recommendations (analyse the underlying factors identified from each group member's <em>Impact Analysis</em> (Assessment Task 2) to determine, and justify, three (3) strategies that your T/H/E business manager could implement to support/ encourage a sustainable system. Each recommendation should be approximately 200 words.).</li>\n<li>Reference list (at least 10 academic references published after 2014. These can include the sources used for your <em>Impact Identification</em> and <em>Impact Analysis</em>)</li>\n<li>Appendices (if needed)</li>\n</ul>\n<p><strong>Note</strong>: Your research will ONLY be based on an analysis of available literature in the field - you will NOT be collecting primary data (doing 'empirical' research). This means you can NOT contact your T/H/E business.</p>\n<p><strong>Use of AI/MT technologies:</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<p><strong>Referencing</strong>: APA7</p>\n<p><strong>Formatting</strong>:</p>\n<ul>\n<li>Font size - 11 point</li>\n<li>Font type - Calibri; Times New Roman; Arial</li>\n<li>Line spacing - 1.5 spacing</li>\n</ul>\n<p><br/></p>\n<p><strong>Individual:</strong></p>\n<p>Peer Review</p>\n<ul>\n<li>Each member of the group will complete a peer review of each group member's contribution to the development and writing of the report. This will be completed on Buddy Check and it will be due three (3) hours after the submission date/time of the <em>System Report</em>.</li>\n<li>No marks are awarded for the Peer Review however, no marks will be awarded for the group's report until all peer reviews are completed and submitted by the group.</li>\n</ul>\n<p>Oral Defense</p>\n<ul>\n<li>During the end of semester exam block each group member will be required to do an individual Oral Defense question and answer (Q&amp;A) to demonstrate their understanding of their group's System Report. In this five (5) minute session each student will be required to provide a verbal response to a series of randomly allocated questions. The questions are designed to determine if the individual's understanding of the development of the report and its content is consistent with the standard of the report.</li>\n<li>No marks are awarded for the Oral Defense however, if the individual is unable to demonstrate a level of knowledge consistent with the mark awarded for the report then that individual's mark will be scaled down accordingly.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to tourism, hospitality and events</strong><br><p>What is THE? </p>\n<p>Exploring your Course Profile.</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to tourism, hospitality and events</strong>",
+            "topic_description": "Introduction to tourism, hospitality and events What is THE? Exploring your Course Profile.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability </strong><br/><p>Sustainability - what is it?</p>\n<p>Assessment 1 explained.</p>\n<p>Student Central - how can we help you?</p></p></div></td>",
+            "topic_title": "<strong>Sustainability </strong>",
+            "topic_description": "Sustainability Sustainability - what is it? Assessment 1 explained. Student Central - how can we help you?",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced database searching and Referencing</strong><br/><p>Advanced Database Searching workshop - location to be advised.</p>\n<p>APA7 Referencing explained.</p></p></div></td>",
+            "topic_title": "<strong>Advanced database searching and Referencing</strong>",
+            "topic_description": "Advanced database searching and Referencing Advanced Database Searching workshop - location to be advised. APA7 Referencing explained.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability: economic impacts and socio-cultural impacts </strong><br/><p>Using the tourism multiplier to explore economic impacts.</p>\n<p>Exploring the diversity of socio-cultural impacts. </p></p></div></td>",
+            "topic_title": "<strong>Sustainability: economic impacts and socio-cultural impacts </strong>",
+            "topic_description": "Sustainability: economic impacts and socio-cultural impacts Using the tourism multiplier to explore economic impacts. Exploring the diversity of socio-cultural impacts.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability: environmental impacts </strong><br/><p>Diversity of environmental impacts for both natural and built environments.</p></p></div></td>",
+            "topic_title": "<strong>Sustainability: environmental impacts </strong>",
+            "topic_description": "Sustainability: environmental impacts Diversity of environmental impacts for both natural and built environments.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability: managing impacts </strong><br/><p>Stakeholder collaboration - Sustainable Island</p></p></div></td>",
+            "topic_title": "<strong>Sustainability: managing impacts </strong>",
+            "topic_description": "Sustainability: managing impacts Stakeholder collaboration - Sustainable Island",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Systems theory and THE </strong><br/><p>Systems and sustainability - the link. </p>\n<p>Progressing your analytical skills - using Assessment 1 to prepare Assessment 2.</p></p></div></td>",
+            "topic_title": "<strong>Systems theory and THE </strong>",
+            "topic_description": "Systems theory and THE Systems and sustainability - the link. Progressing your analytical skills - using Assessment 1 to prepare Assessment 2.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourism System - tourist and generating region (alternative date to be advised)</strong><br/><p>Diversity of tourists. </p>\n<p>Exploring the role of generating regions.</p>\n<p><strong>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</strong></p></p></div></td>",
+            "topic_title": "<strong>Tourism System - tourist and generating region (alternative date to be advised)</strong>",
+            "topic_description": "Tourism System - tourist and generating region (alternative date to be advised) Diversity of tourists. Exploring the role of generating regions. Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No classes this week.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No classes this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourism System - transit region (Assessment 3)</strong><br/><p>Identifying a transit region and its role in the system.</p>\n<p>Assessment 3 explained.</p>\n<p>Effective group work.</p></p></div></td>",
+            "topic_title": "<strong>Tourism System - transit region (Assessment 3)</strong>",
+            "topic_description": "Tourism System - transit region (Assessment 3) Identifying a transit region and its role in the system. Assessment 3 explained. Effective group work.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourism System - destination region (tourist perspective)</strong><br/><p>Exploring tourist expectations of a destination region.</p>\n<p>Report structure. Introduction unpacked.</p>\n<p>WIL opportunities - and the value of LinkedIn.</p></p></div></td>",
+            "topic_title": "<strong>Tourism System - destination region (tourist perspective)</strong>",
+            "topic_description": "Tourism System - destination region (tourist perspective) Exploring tourist expectations of a destination region. Report structure. Introduction unpacked. WIL opportunities - and the value of LinkedIn.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourism System - destination region (management perspective)</strong><br/><p>Strategies used to manage destination regions.</p>\n<p>Report - conclusion and recommendations unpacked.</p></p></div></td>",
+            "topic_title": "<strong>Tourism System - destination region (management perspective)</strong>",
+            "topic_description": "Tourism System - destination region (management perspective) Strategies used to manage destination regions. Report - conclusion and recommendations unpacked.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourism System - external influences</strong><br/><p>The role of government in THE.</p>\n<p>Report - executive summary unpacked.</p></p></div></td>",
+            "topic_title": "<strong>Tourism System - external influences</strong>",
+            "topic_description": "Tourism System - external influences The role of government in THE. Report - executive summary unpacked.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review and consolidate (alternative date to be advised)</strong><br/><p>Course overview. </p>\n<p>Final consultation for Assessment Task 3.</p>\n<p>Preparing your oral defense.</p></p></div></td>",
+            "topic_title": "<strong>Review and consolidate (alternative date to be advised)</strong>",
+            "topic_description": "Review and consolidate (alternative date to be advised) Course overview. Final consultation for Assessment Task 3. Preparing your oral defense.",
+            "learning_outcomes": []
+        }
+    ]
+}
