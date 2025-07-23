@@ -1,0 +1,257 @@
+{
+    "course_title": "Scientific Methods in Commerce",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS6923-20343-7520",
+    "full_course_code": "RBUS6923-20343-7520",
+    "course_code": "RBUS6923",
+    "class_code": "20343",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Critically evaluate the quality of research conducted in a variety of academic disciplines."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand statistical techniques for research."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify interesting research problems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Conduct your own research."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Workshop Mastery & Manuscript Critiques",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> Week 2 - Week 13</p>\n<p>\n</p><p>These reports are due by 9:00 AM on the day of the seminar workshop, to be submitted before the beginning of class.</p>\n<p>You must also submit a revised or updated version of 3 \"referee's\" reports by 12 noon on the Monday following the workshop. The revised report should incorporate the issues raised by both the presenter and the workshop participants, and the responses of the presenter.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The workshop is an integral part of the course. You are expected to \"attend\" the research workshops during the semester and demonstrate an appreciation of the merit of the workshop papers from a scientific method perspective. This mastery will be demonstrated by preparing a series of critiques of selected workshop papers presented during the semester.</p>\n<p>The workshop schedule will be distributed as soon as it becomes available and updated on a regular basis. <strong><em>Please note, the schedule is always \"flexible\" and last minute changes are possible.</em></strong></p>\n<p>You are required to complete an independent \"referee's report\" (approximately1,500 words) on 5 workshop papers that you nominate from the workshop program; at least one report relating to an accounting paper and one to a finance paper - the remaining three reports can be either accounting or finance (students whose major is neither accounting nor finance will alternatively consider workshop papers from within their own discipline).</p>\n<p>The workshop schedule will be distributed as soon as it becomes available and <strong><em>updated on a regular basis</em></strong>. The eligible workshops will be identified in advance (not all workshops will necessarily be deemed \"eligible\" for critique). <strong><em>Again, please note, the schedule is always \"flexible\" and last minute changes are possible</em></strong>. You are, therefore, well advised to identify the workshop papers that interest you the most in advance, and also to have a contingency plan in mind if one of those papers is withdrawn.</p>\n<p>Finally, while students are strongly encouraged to discuss issues that arise in this course together, the written work you submit must be entirely your own. Similarly, you must not help another student to cheat by lending assignments (present or past). The submission of work or ideas which are not your own and for which you claim credit is called plagiarism. This is a form of cheating.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via Blackboard <strong><em>and also directly to the instructor as an e-mail attachment</em></strong>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Data Analysis Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 16/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The data analysis project provides you with a “hands-on” opportunity to work with real data and statistical programs/packages.</p>\n<p>Students are strongly encouraged to discuss issues that arise in this course together, however, the written work you submit must be entirely your own. Similarly, you must not help another student to cheat by lending assignments (present or past). The submission of work or ideas which are not your own and for which you claim credit is called plagiarism. This is a form of cheating.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via Blackboard <strong><em>and also directly to the instructor as an e-mail attachment</em></strong>. Note, the submission should be a single document that can be directly printed.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 18/06/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final piece of assessment will be an assignment that will cover the lecture material from the course and as well, include two cases requiring applications of the material.</p>\n<p>Students are encouraged to discuss issues that arise in this course together, however, the written work you submit must be entirely your own. Similarly, you must not help another student to cheat by lending assessment material (present or past). The submission of work or ideas which are not your own and for which you claim credit is called plagiarism. This is a form of cheating.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted via Blackboard <strong><em>and also directly to the instructor as an e-mail attachment</em></strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Introduction to Scientific Method and Research</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Introduction to Scientific Method and Research",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scientific Inference; Statistics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Scientific Inference; Statistics</strong>",
+            "topic_description": "Scientific Inference; Statistics",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression Analysis I</strong><br/><p>Introduction to Regression - correlation; linear regression; fixed effects; clustered standard errors</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Regression Analysis I</strong>",
+            "topic_description": "Regression Analysis I Introduction to Regression - correlation; linear regression; fixed effects; clustered standard errors",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression Analysis II</strong><br/><p>'dummy' variable models</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Regression Analysis II</strong>",
+            "topic_description": "Regression Analysis II 'dummy' variable models",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experimental Design</strong><br/><p>pseudo, quasi &amp; true experimental designs; case study research</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Experimental Design</strong>",
+            "topic_description": "Experimental Design pseudo, quasi & true experimental designs; case study research",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression Analysis III</strong><br/><p>form of econometric model</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Regression Analysis III</strong>",
+            "topic_description": "Regression Analysis III form of econometric model",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression Analysis IV</strong><br/><p>form of econometric model; directionality; level of analysis</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Regression Analysis IV</strong>",
+            "topic_description": "Regression Analysis IV form of econometric model; directionality; level of analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Seminar this Week Due to Public Holiday</strong><br/><p><strong>Good Friday Public Holiday - Friday 18 April 2025</strong> - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>No Seminar this Week Due to Public Holiday</strong>",
+            "topic_description": "No Seminar this Week Due to Public Holiday Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression Analysis V</strong><br/><p>self-selection bias; endogeneity</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Regression Analysis V</strong>",
+            "topic_description": "Regression Analysis V self-selection bias; endogeneity",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analysis Assignment</strong><br/><p>workshop forum for advancing / completing data analysis assignment</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Data Analysis Assignment</strong>",
+            "topic_description": "Data Analysis Assignment workshop forum for advancing / completing data analysis assignment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced Econometric Issues</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Advanced Econometric Issues</strong>",
+            "topic_description": "Advanced Econometric Issues",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics of Research</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Ethics of Research</strong>",
+            "topic_description": "Ethics of Research",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Summary Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Summary Review</strong>",
+            "topic_description": "Summary Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
