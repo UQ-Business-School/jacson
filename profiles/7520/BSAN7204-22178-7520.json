@@ -1,0 +1,353 @@
+{
+    "course_title": "Statistical Methods in Business",
+    "study_period": "Sem 1 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7204-22178-7520",
+    "full_course_code": "BSAN7204-22178-7520",
+    "course_code": "BSAN7204",
+    "class_code": "22178",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Perform exploratory data analysis to describe data."
+        },
+        {
+            "number": "LO2.",
+            "description": "Construct and evaluate models for inferential statistical analysis for real-world problem solving."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate data-driven insights and value propositions for stakeholders."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Exploratory Data Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 28/03/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Analytics Practice",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 23/05/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)</p>\n<p>You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Complete via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Technical Report and Stakeholder Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 30/05/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assessment is for you to work with a complex collection of data files in order to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:</p>\n<ul>\n<li>Multiple linear regression</li>\n<li>Logistic regression and multiple logistic regression</li>\n<li>Time series</li>\n</ul>\n<p>You will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Further details of submission will be provided on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Business Decision-Making and the Role of Data</strong><br/><p>Understanding collective organisation as agreement, action and outcomes, and the business context and the importance of data in decision-making.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Business Decision-Making and the Role of Data</strong>",
+            "topic_description": "Introduction to Business Decision-Making and the Role of Data Understanding collective organisation as agreement, action and outcomes, and the business context and the importance of data in decision-making.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Business Decision-Making and the Role of Data</strong><br/><p>Understanding collective organisation as agreement, action and outcomes, and the business context and the importance of data in decision-making.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Business Decision-Making and the Role of Data</strong>",
+            "topic_description": "Introduction to Business Decision-Making and the Role of Data Understanding collective organisation as agreement, action and outcomes, and the business context and the importance of data in decision-making.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Framing the Question</strong><br/><p>How to frame business problems in compelling ways that can be addressed through data analysis.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Framing the Question</strong>",
+            "topic_description": "Framing the Question How to frame business problems in compelling ways that can be addressed through data analysis.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Framing the Question</strong><br/><p>How to frame business problems in compelling ways that can be addressed through data analysis.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Framing the Question</strong>",
+            "topic_description": "Framing the Question How to frame business problems in compelling ways that can be addressed through data analysis.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Data and Exploratory Analysis</strong><br/><p>The importance of understanding your data before diving into analysis.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Data and Exploratory Analysis</strong>",
+            "topic_description": "Introduction to Data and Exploratory Analysis The importance of understanding your data before diving into analysis.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Data and Exploratory Analysis</strong><br/><p>The importance of understanding your data before diving into analysis.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Data and Exploratory Analysis</strong>",
+            "topic_description": "Introduction to Data and Exploratory Analysis The importance of understanding your data before diving into analysis.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis Testing in Business</strong><br/><p>How to use hypothesis testing to validate or undermine business assumptions.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Hypothesis Testing in Business</strong>",
+            "topic_description": "Hypothesis Testing in Business How to use hypothesis testing to validate or undermine business assumptions.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis Testing in Business</strong><br/><p>How to use hypothesis testing to validate or undermine business assumptions.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Hypothesis Testing in Business</strong>",
+            "topic_description": "Hypothesis Testing in Business How to use hypothesis testing to validate or undermine business assumptions.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Regression as a Predictive Tool</strong><br/><p>Understanding the limitations and power of regression models.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Linear Regression as a Predictive Tool</strong>",
+            "topic_description": "Linear Regression as a Predictive Tool Understanding the limitations and power of regression models.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Regression as a Predictive Tool</strong><br/><p>Understanding the limitations and power of regression models.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Linear Regression as a Predictive Tool</strong>",
+            "topic_description": "Linear Regression as a Predictive Tool Understanding the limitations and power of regression models.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multiple Regression and Model Building</strong><br/><p>How to build models that capture key business variables without overcomplicating the analysis.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Multiple Regression and Model Building</strong>",
+            "topic_description": "Multiple Regression and Model Building How to build models that capture key business variables without overcomplicating the analysis.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multiple Regression and Model Building</strong><br/><p>How to build models that capture key business variables without overcomplicating the analysis.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Multiple Regression and Model Building</strong>",
+            "topic_description": "Multiple Regression and Model Building How to build models that capture key business variables without overcomplicating the analysis.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Logistic Regression and Predicting Outcomes</strong><br/><p>Using data to predict categorical outcomes in business scenarios.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Logistic Regression and Predicting Outcomes</strong>",
+            "topic_description": "Logistic Regression and Predicting Outcomes Using data to predict categorical outcomes in business scenarios.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Logistic Regression and Predicting Outcomes</strong><br/><p>Using data to predict categorical outcomes in business scenarios.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Logistic Regression and Predicting Outcomes</strong>",
+            "topic_description": "Logistic Regression and Predicting Outcomes Using data to predict categorical outcomes in business scenarios.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Series Analysis and Forecasting</strong><br/><p>The importance of time series analysis in business forecasting.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Time Series Analysis and Forecasting</strong>",
+            "topic_description": "Time Series Analysis and Forecasting The importance of time series analysis in business forecasting.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Series Analysis and Forecasting</strong><br/><p>The importance of time series analysis in business forecasting.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Time Series Analysis and Forecasting</strong>",
+            "topic_description": "Time Series Analysis and Forecasting The importance of time series analysis in business forecasting.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Model Selection and Validation</strong><br/><p>How to select and validate the best model for your business problem.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Model Selection and Validation</strong>",
+            "topic_description": "Model Selection and Validation How to select and validate the best model for your business problem.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Model Selection and Validation</strong><br/><p>How to select and validate the best model for your business problem.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Model Selection and Validation</strong>",
+            "topic_description": "Model Selection and Validation How to select and validate the best model for your business problem.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integrating AI into Business Analytics</strong><br/><p>How AI can enhance business analytics by making the analysis process more efficient.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Integrating AI into Business Analytics</strong>",
+            "topic_description": "Integrating AI into Business Analytics How AI can enhance business analytics by making the analysis process more efficient.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integrating AI into Business Analytics</strong><br/><p>How AI can enhance business analytics by making the analysis process more efficient.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Integrating AI into Business Analytics</strong>",
+            "topic_description": "Integrating AI into Business Analytics How AI can enhance business analytics by making the analysis process more efficient.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating Results to Stakeholders</strong><br/><p>The importance of translating statistical results into actionable business insights.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Communicating Results to Stakeholders</strong>",
+            "topic_description": "Communicating Results to Stakeholders The importance of translating statistical results into actionable business insights.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating Results to Stakeholders</strong><br/><p>The importance of translating statistical results into actionable business insights.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Communicating Results to Stakeholders</strong>",
+            "topic_description": "Communicating Results to Stakeholders The importance of translating statistical results into actionable business insights.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Integration and Review</strong><br/><p>Integrating everything learned in the course through a comprehensive case study.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Case Study Integration and Review</strong>",
+            "topic_description": "Case Study Integration and Review Integrating everything learned in the course through a comprehensive case study.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Integration and Review</strong><br/><p>Integrating everything learned in the course through a comprehensive case study.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Case Study Integration and Review</strong>",
+            "topic_description": "Case Study Integration and Review Integrating everything learned in the course through a comprehensive case study.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Reflections and Future Directions</strong><br/><p>How to keep up with new tools and methods in a rapidly evolving field, while keeping in mind the two core reasons for all quantitative practices: collective organization via agreement and effective action.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Final Reflections and Future Directions</strong>",
+            "topic_description": "Final Reflections and Future Directions How to keep up with new tools and methods in a rapidly evolving field, while keeping in mind the two core reasons for all quantitative practices: collective organization via agreement and effective action.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Reflections and Future Directions</strong><br/><p>How to keep up with new tools and methods in a rapidly evolving field, while keeping in mind the two core reasons for all quantitative practices: collective organization via agreement and effective action.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Final Reflections and Future Directions</strong>",
+            "topic_description": "Final Reflections and Future Directions How to keep up with new tools and methods in a rapidly evolving field, while keeping in mind the two core reasons for all quantitative practices: collective organization via agreement and effective action.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        }
+    ]
+}
