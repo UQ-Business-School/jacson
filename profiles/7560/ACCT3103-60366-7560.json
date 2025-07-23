@@ -1,0 +1,410 @@
+{
+    "course_title": "Advanced Financial Accounting",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT3103-60366-7560",
+    "full_course_code": "ACCT3103-60366-7560",
+    "course_code": "ACCT3103",
+    "class_code": "60366",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe current issues in areas of advanced accounting, including how the themes of control and varying levels of influence pervade accounting for corporate structures."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain current international trends in the reporting of key accounting areas, recognising their impact on Australian reporting entities, and linking these to the relevant Australian Accounting Standards relating to inter-corporate investments."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate the ability to evaluate and apply Australian Accounting Standards to a range of specific issues including company income tax, joint arrangements, associated companies, and external administration including liquidation."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate the ability to explain and evaluate the process of consolidation and undertake the accounting procedures required to consolidate a parent entity and its controlled entities (including partly-owned controlled entities) in compliance with Australian Accounting Standards."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse and critically evaluate accounting topics in real world scenarios, showing the ability to present findings to peers and professional accountants."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual Video Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 24/09/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Details of the requirements and format for the video presentation and a comprehensive marking criteria sheet will be provided on the course Blackboard and discussed in lectures.</p>\n<p>This assessment item has three specific learning goals. Each learning goal is identified below with the relevant marking criteria:</p>\n<p><strong>Be able to deliver a quality business presentation (4-Minute Video)</strong></p>\n<ul>\n<li><strong>Knowledge: </strong>Presenter clearly understands content and provides informed answers to questions.</li>\n<li><strong>Non-verbal skills:</strong> Presenter does not rely on notes, has good eye contact and body language throughout, and is able to use visual aids effectively.</li>\n<li><strong>Verbal skills:</strong> Presenter is audible, articulate and has good delivery of content.</li>\n</ul>\n<p><strong>Be knowledgeable within field of accounting and be creative analytical thinkers</strong></p>\n<ul>\n<li><strong>Identification:</strong> Problem is identified and discussed within relevant context</li>\n<li><strong>Analysis:</strong> Problem is analysed with integration of relevant research of accounting standards and data.</li>\n<li><strong>Conclusion:</strong> Consequences are considered, discussed, and conclusion reached</li>\n</ul>\n<p><strong>Have professional and effective presentation skills</strong></p>\n<ul>\n<li><strong>Structure:</strong> The presentation is logically sequenced with sound structure, clear and easy to understand.</li>\n<li><strong>Clarity of expression: </strong>Visual aids are free of spelling, punctuation and grammatical errors.</li>\n<li><strong>Research and Referencing: </strong> Important source is referenced and the student demonstrates an ability to undertake independent research.</li>\n</ul>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Blackboard upload (see detailed instructions provided on BB). Make sure you have a receipt of your submission. Penalties for late submission will be applied based on the details on the Late Submission instructions below.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 9/10/2025</p>\n<p>\n</p><p>During Lecture Time</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam is an <strong>ONLINE Blackboard exam administered through Blackboard during lecture time. </strong></p>\n<p>If you are unable to sit your exam, you must apply for a deferred exam. </p>\n<p>The coverage for the in-semester exam will be published in the course site prior to the exam.</p>\n<p>Short answer, practical and problem-solving questions containing accounting items are marked according to the accurate recognition, numerical measurement, and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors.</p>\n<p>More detailed information on the in-semester exam will be discussed in the lecture prior to the exam.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Cover all topics in the course.</p>\n<p>This exam is a <strong>paper-based, closed book, invigilated exam by UQ-appointed invigilators</strong>.</p>\n<p>Short answer, practical and problem solving questions containing accounting items are marked according to the accurate recognition, numerical measurement and calculation of accounting information. In journal-related practical questions and numerical calculations, you will not be penalised for consequential errors, however marking penalties will apply in journal-related practical questions for the inclusion of additional journals. Short answer theory and short essay questions are marked according to the correct application of accounting framework, accounting standards and generally accepted accounting principles to source information.</p>\n<p>Further details will be provided via Central Examinations, Blackboard communications, and an exam information lecture.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Note: This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1: Accounting for Income Tax</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 1: Accounting for Income Tax</strong>",
+            "topic_description": "Lecture 1: Accounting for Income Tax",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Accounting for Income Tax</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Accounting for Income Tax</strong>",
+            "topic_description": "Tutorial 1: Accounting for Income Tax",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2: Introduction to Business Combinations</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 2: Introduction to Business Combinations</strong>",
+            "topic_description": "Lecture 2: Introduction to Business Combinations",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2:  Introduction to Business Combinations</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 2:  Introduction to Business Combinations</strong>",
+            "topic_description": "Tutorial 2:  Introduction to Business Combinations",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3:  Consolidation: Basic Principles</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 3:  Consolidation: Basic Principles</strong>",
+            "topic_description": "Lecture 3:  Consolidation: Basic Principles",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Consolidation: Basic Principles</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Consolidation: Basic Principles</strong>",
+            "topic_description": "Tutorial 3: Consolidation: Basic Principles",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4: Consolidation: FVA and Tax Effects</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 4: Consolidation: FVA and Tax Effects</strong>",
+            "topic_description": "Lecture 4: Consolidation: FVA and Tax Effects",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Consolidation: FVA and Tax Effects</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Consolidation: FVA and Tax Effects</strong>",
+            "topic_description": "Tutorial 4: Consolidation: FVA and Tax Effects",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: Consolidation: Intra-group Transactions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 5: Consolidation: Intra-group Transactions</strong>",
+            "topic_description": "Lecture 5: Consolidation: Intra-group Transactions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Consolidation: Intra-group Transactions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Consolidation: Intra-group Transactions</strong>",
+            "topic_description": "Tutorial 5: Consolidation: Intra-group Transactions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Consolidation: Partly Owned Subs (DNCI)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 6: Consolidation: Partly Owned Subs (DNCI)</strong>",
+            "topic_description": "Lecture 6: Consolidation: Partly Owned Subs (DNCI)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Consolidation: Partly Owned Subs (DNCI)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Consolidation: Partly Owned Subs (DNCI)</strong>",
+            "topic_description": "Tutorial 6: Consolidation: Partly Owned Subs (DNCI)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: Consolidation: Partly Owned Subs (INCI)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 7: Consolidation: Partly Owned Subs (INCI)</strong>",
+            "topic_description": "Lecture 7: Consolidation: Partly Owned Subs (INCI)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Lecture: Preparation for Case Study</strong><br/><p>Students are required to attend this lecture in person to interact with the industry practitioner to prepare for the Indivual Video Presentation Assessment.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Guest Lecture: Preparation for Case Study</strong>",
+            "topic_description": "Guest Lecture: Preparation for Case Study Students are required to attend this lecture in person to interact with the industry practitioner to prepare for the Indivual Video Presentation Assessment.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial: Independent Study</strong><br/></p></div></td>",
+            "topic_title": "<strong>No tutorial: Independent Study</strong>",
+            "topic_description": "No tutorial: Independent Study",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Tutorial 7: Consolidation: Partly Owned Subs (INCI)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong> Tutorial 7: Consolidation: Partly Owned Subs (INCI)</strong>",
+            "topic_description": "Tutorial 7: Consolidation: Partly Owned Subs (INCI)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Joint Arrangements</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8: Joint Arrangements</strong>",
+            "topic_description": "Lecture 8: Joint Arrangements",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In Semester Break</strong>",
+            "topic_description": "In Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial: Independent Study</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorial: Independent Study</strong>",
+            "topic_description": "No Tutorial: Independent Study",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Joint Arrangements</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Joint Arrangements</strong>",
+            "topic_description": "Tutorial 8: Joint Arrangements",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Equity Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 9: Equity Accounting</strong>",
+            "topic_description": "Lecture 9: Equity Accounting",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Equity Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Equity Accounting</strong>",
+            "topic_description": "Tutorial 9: Equity Accounting",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10: Insolvency and Liquidation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 10: Insolvency and Liquidation</strong>",
+            "topic_description": "Lecture 10: Insolvency and Liquidation",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Insolvency and Liquidation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Insolvency and Liquidation</strong>",
+            "topic_description": "Tutorial 10: Insolvency and Liquidation",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture: Revision</strong><br/><p>Semester review and revision; final exam information.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture: Revision</strong>",
+            "topic_description": "Lecture: Revision Semester review and revision; final exam information.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
