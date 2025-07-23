@@ -1,0 +1,214 @@
+{
+    "course_title": "Global Strategic Management",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS3301-60434-7560",
+    "full_course_code": "MGTS3301-60434-7560",
+    "course_code": "MGTS3301",
+    "class_code": "60434",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Work independently and collaboratively to use appropriate strategy, tools, and frameworks to analyse a firm’s current strategy and their ethical implications."
+        },
+        {
+            "number": "LO2.",
+            "description": "Work independently and collaboratively to formulate new strategies at the business and corporate levels."
+        },
+        {
+            "number": "LO3.",
+            "description": "Use political skill to appropriately navigate organisational communities, cultures, structures."
+        },
+        {
+            "number": "LO4.",
+            "description": "Persuasively argue for theory-based strategy implementation."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use strategic theory to develop insights into personal developmental needs as an ethical future organisational Strategist."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Strategic Framework Analysis",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 28/08/2025 10:50 am</p>\n<p> 4/09/2025 10:50 am</p>\n<p> 11/09/2025 10:50 am</p>\n<p> 18/09/2025 10:50 am</p>\n<p>\n</p><p>Individual work must be submitted on Blackboard prior to attending class</p>\n<p>Group work must be submitted on Blackboard prior to the conclusion of class</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be assessed on their teamwork and case analysis skills in the seminars scheduled Week 5, Week 6, Week 7 and Week 8. These seminars will follow the format of a Management Team Meeting. Students will be allocated to teams will play a role on the management team of the case company. During the seminar, the management team will be asked to evaluate and make recommendations on the case company's business-level and corporate-level strategies and future directions. Students will be assessed on their preparation for and participation in the Management Team Meeting and the quality of the strategic advice their team provides to the case company as the output of their meeting.</p>\n<p>Schedule of case organisations:</p>\n<p>Week 5 – Myer</p>\n<p>Week 6 – Wesfarmers</p>\n<p>Week 7 – Aristocrat Leisure</p>\n<p>Week 8 - Qantas</p>\n<p>You will have FOUR opportunities to be assessed on your performance and your BEST THREE marks out of 10 will count towards your final mark for the course (3 x 10% = 30%). Students who are absent for a week of assessment will receive a mark of zero. A student who has legitimate grounds for an absence from an assessment week under the University's assessment policy must contact the course coordinator prior to, or within 24 hours of, the missed assessment and must provide appropriate supporting documentation.  </p>\n<p>In-Seminar</p>\n<p>At the start of the assessable team meetings, students will be allocated to a team, which represents a Management Team of the case company. Students will join their Management Team at their team’s assigned table. In the first phase, Management Team members will be presented with AI generated analysis of the firm's external and internal environments. Teams will then review this analysis and identify where it could be improved based on their understanding of the PESTEL, Porter and VRIN frameworks. Teams will then use this information to produce a second AI generated analysis of the firm's external and internal environments. They will then assess how the second analysis has improved on the first AI generated analysis. </p>\n<p>In the second phase, the seminar coordinator will allocate specific analysis tasks to students to work together to apply course theory to evaluate decision making alternatives for the case company. Facilitators will move around the various Management Teams to (i) probe for more theoretically grounded reasoning to deepen learning of course material, and (ii) assure that individual students are contributing to their team’s Management Team Meeting. The seminar coordinator will also facilitate whole-class debriefs at regular intervals in which Management Teams will be asked to report on and defend their evaluations of alternative courses of action for the case company.</p>\n<p>PLEASE NOTE: A student who does not remain for the entirety of the in-class assessment will receive a mark of zero for the assessment.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignments are to be electronically submitted.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Politics of Organisational Structure",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 22/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Presentation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Textbooks often portray strategy as a-political (without politics). However, this is a misleading impression. Organisations represent a complex environment, featuring a mix of actors with different motivations, levels of influence, and bases of power. These dynamics are most apparent during periods of organisational restructuring, where textbook models of best practice in organisational design are often rendered impossible by clashes between different actors motivated by competing interests. Students will be introduced to a hypothetical organisation, Millennium Airlines, which is restructuring to ensure its ongoing competitiveness in the face of challenging circumstances in its external and internal environment. Using information about the organisation and theory on organisational politics and structure, students will recommend a restructure which accounts for political realities of the organisation by completing:</p>\n<ol>\n<li>a zoom-style format (only) video brief to a member of the organisation's Executive which justifies their recommended structure</li>\n<li>a hierarchical diagram (only) of an ideal structure for the organisation</li>\n<li>a hierarchical diagram (only) of a recommended structure for the organisation</li>\n</ol>\n<p>Please note:</p>\n<ol>\n<li>Video briefs must be in a face-to-face, zoom-style format. They are not to include images of PowerPoint slides. Videos containing images of PowerPoint slides will not be taken into consideration when marking this assignment. </li>\n<li>Any additional information (e.g. paragraphs and further explanations) submitted with the hierarchy diagrams will not be taken into consideration when marking this assignment. </li>\n<li>There is no need to submit a script to accompany your video.</li>\n</ol>\n<p><strong>AI Statement:</strong></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The following outputs are required for this assignment. (1) video brief to Group Director Strategy; (2) Millennium Airlines ideal structure; and (3) Millennium Airlines recommended structure.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Myself as Strategist",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 10/11/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As you reach the culmination of your University degree, this assignment gives you the opportunity to use the knowledge you've gained in this course to reflect and plan. Integrating theory on (1) strategy as practice; (2) vice and virtue in character; and (3) on strategy as storytelling, you will reflect on your time at University and in your personal life. Which of your previously taken-for-granted assumptions have been challenged during your time at UQ? What character vices contributed to your challenges? What character virtues helped you out of your problems? Does your personal journey look like a hero’s quest or an entrepreneurial adventure? What character traits do you want to change / hone / improve? And what does this mean for your future as a Strategist? </p>\n<p>This reflective piece will assess:</p>\n<ol>\n<li>your ability to apply theory on strategy as practice for outlining your lived experience of university and life</li>\n<li>your ability to apply theory on strategy as storytelling for outlining your story as a compelling hero’s journey or entrepreneurial adventure</li>\n<li>your ability to apply theory on virtue and vice in character to outline plans for changing / honing / improving yourself.</li>\n<li>your ability to outline a future strategy for managing challenges you may face as a strategic manager</li>\n</ol>\n<p>To do this, you will be required to present your reflection and plan in one of the following formats:</p>\n<ul>\n<li>1,000 word written reflective assignment</li>\n<li>Infographic diagram or Instagram picture collage including recorded audio explanation (up to 6 minutes)</li>\n<li>Video diary or collection of short TikTok-style videos (up to 6 minutes)</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction: What is strategy?</strong><br/><p>In this course introduction, you will be presented with the assessment activities and an explanation of how the course will work.</p></p></div></td>",
+            "topic_title": "<strong>Course Introduction: What is strategy?</strong>",
+            "topic_description": "Course Introduction: What is strategy? In this course introduction, you will be presented with the assessment activities and an explanation of how the course will work.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Planning: Information Search Through Technology </strong><br/><p>In a world where technology increasingly plays a role in information search, we consider the ethical issues of using tools such as AI to analyse the organisation and the environments in which it competes. You will be introduced to ways of reading AI technology, focused on its role in a \"wrestleised\" society. That is, you will be introduced to the crafted performance of AI, its excesses, its omissions, and its value as a tool of entertainment. You will be shown how understanding of AI through this lens will assist you in reading and creating AI generated strategic analysis. </p></p></div></td>",
+            "topic_title": "<strong>Strategic Planning: Information Search Through Technology </strong>",
+            "topic_description": "Strategic Planning: Information Search Through Technology In a world where technology increasingly plays a role in information search, we consider the ethical issues of using tools such as AI to analyse the organisation and the environments in which it competes. You will be introduced to ways of reading AI technology, focused on its role in a \"wrestleised\" society. That is, you will be introduced to the crafted performance of AI, its excesses, its omissions, and its value as a tool of entertainment. You will be shown how understanding of AI through this lens will assist you in reading and creating AI generated strategic analysis.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Planning: Value Adding Through Theory (Part 1 - External Environment Analysis)</strong><br/><p>This week, you will be introduced to PESTEL and Porter's Five Forces analysis for understanding the general and industry environments in which an organisation competes. By returning to the thoughts of Aguilar (PESTEL) and Michael Porter (Porter's Five Forces), you will understand why these frameworks were developed and how they might help us better understand how organisations can survive and thrive in their external environments.</p></p></div></td>",
+            "topic_title": "<strong>Strategic Planning: Value Adding Through Theory (Part 1 - External Environment Analysis)</strong>",
+            "topic_description": "Strategic Planning: Value Adding Through Theory (Part 1 - External Environment Analysis) This week, you will be introduced to PESTEL and Porter's Five Forces analysis for understanding the general and industry environments in which an organisation competes. By returning to the thoughts of Aguilar (PESTEL) and Michael Porter (Porter's Five Forces), you will understand why these frameworks were developed and how they might help us better understand how organisations can survive and thrive in their external environments.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Planning: Value Adding Through Theory (Part 2 - Internal Environment Analysis)</strong><br/><p>This week, you will be introduced to Resources and Capabilities (VRIN) analysis for understanding the organisation's internal environment. By returning to the thoughts of Barney, you will understand why these frameworks were developed and how they might help us better understand how organisations can survive and thrive leveraging the resources and capabilities in their internal environment.</p></p></div></td>",
+            "topic_title": "<strong>Strategic Planning: Value Adding Through Theory (Part 2 - Internal Environment Analysis)</strong>",
+            "topic_description": "Strategic Planning: Value Adding Through Theory (Part 2 - Internal Environment Analysis) This week, you will be introduced to Resources and Capabilities (VRIN) analysis for understanding the organisation's internal environment. By returning to the thoughts of Barney, you will understand why these frameworks were developed and how they might help us better understand how organisations can survive and thrive leveraging the resources and capabilities in their internal environment.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business-Level Strategy</strong><br/><p>This week will be the first of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Myer organisation. In-class, we will use the case study to explore the topic of business-level strategy.</p></p></div></td>",
+            "topic_title": "<strong>Business-Level Strategy</strong>",
+            "topic_description": "Business-Level Strategy This week will be the first of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Myer organisation. In-class, we will use the case study to explore the topic of business-level strategy.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate-Level Strategy</strong><br/><p>This week will be the second of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Wesfarmers organisation. In-class, we will use the case study to explore the topic of corporate-level strategy.</p></p></div></td>",
+            "topic_title": "<strong>Corporate-Level Strategy</strong>",
+            "topic_description": "Corporate-Level Strategy This week will be the second of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Wesfarmers organisation. In-class, we will use the case study to explore the topic of corporate-level strategy.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Alliances</strong><br/><p>This week will be the third of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Canva organisation. In-class, we will use the case study to explore the topic of strategic alliances.</p></p></div></td>",
+            "topic_title": "<strong>Strategic Alliances</strong>",
+            "topic_description": "Strategic Alliances This week will be the third of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Canva organisation. In-class, we will use the case study to explore the topic of strategic alliances.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Governance</strong><br/><p>This week will be the fourth of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Qantas organisation. In-class, we will use the case study to explore the topic of corporate governance.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Corporate Governance</strong>",
+            "topic_description": "Corporate Governance This week will be the fourth of the in-class assessments for your assignment on Strategic Frameworks and Decision Making. Prior to class, you will submit your individual edits on the AI analysis of the Qantas organisation. In-class, we will use the case study to explore the topic of corporate governance.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy as Structure</strong><br/><p>This week you will be introduced to the topic of organisational structure, including functional, cooperative M-Form, SBU M-Form, and competitive M-Form structures. You will explore how these structures enable and constrain strategy in organisations. The information in this seminar will be essential to your understanding of the second assignment.</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Strategy as Structure</strong>",
+            "topic_description": "Strategy as Structure This week you will be introduced to the topic of organisational structure, including functional, cooperative M-Form, SBU M-Form, and competitive M-Form structures. You will explore how these structures enable and constrain strategy in organisations. The information in this seminar will be essential to your understanding of the second assignment.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy as Politics</strong><br/><p>In this week's seminar, you will explore how strategy is implemented through the way in which actors play politics. You will be introduced to the notions of elites and political games, including budgeting games, alliance-building games, sponsorship games, and expertise games. The information in this seminar will be essential to your understanding of the second assignment.</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Strategy as Politics</strong>",
+            "topic_description": "Strategy as Politics In this week's seminar, you will explore how strategy is implemented through the way in which actors play politics. You will be introduced to the notions of elites and political games, including budgeting games, alliance-building games, sponsorship games, and expertise games. The information in this seminar will be essential to your understanding of the second assignment.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Millennium Airlines Assignment Support</strong><br/><p>Student consults will be scheduled this week for you to discuss your progress on the second assignment.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Millennium Airlines Assignment Support</strong>",
+            "topic_description": "Millennium Airlines Assignment Support Student consults will be scheduled this week for you to discuss your progress on the second assignment.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Character and Strategic Management: Strategy as Practice, and Virtues, Deficiencies and Excesses in character</strong><br/><p>In this week's material, we will cover the topic of being yourself as a strategic manager. You will be introduced to the topic of virtue and vice and consider how you may demonstrate these in your own character. The material covered will be essential to your work on the third assignment.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Character and Strategic Management: Strategy as Practice, and Virtues, Deficiencies and Excesses in character</strong>",
+            "topic_description": "Character and Strategic Management: Strategy as Practice, and Virtues, Deficiencies and Excesses in character In this week's material, we will cover the topic of being yourself as a strategic manager. You will be introduced to the topic of virtue and vice and consider how you may demonstrate these in your own character. The material covered will be essential to your work on the third assignment.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Storytelling and Strategic Management: The Hero and Picareqsue Story</strong><br/><p>In this week's material, we will cover the topic of being yourself storytelling in strategic management. You will be introduced to heroic and picaresque stories and consider how these have been used to persuade audiences and reflect on self. The material covered will be essential to your work on the third assignment.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Storytelling and Strategic Management: The Hero and Picareqsue Story</strong>",
+            "topic_description": "Storytelling and Strategic Management: The Hero and Picareqsue Story In this week's material, we will cover the topic of being yourself storytelling in strategic management. You will be introduced to heroic and picaresque stories and consider how these have been used to persuade audiences and reflect on self. The material covered will be essential to your work on the third assignment.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
