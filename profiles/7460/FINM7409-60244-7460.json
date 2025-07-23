@@ -1,4 +1,8 @@
 {
+    "course_title": "Financial Management for Decision Makers",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7409-60244-7460",
     "full_course_code": "FINM7409-60244-7460",
     "course_code": "FINM7409",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "29/08/2024 4:00 pmDuring lecture time",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/08/2024 4:00 pm</p>\n<p>\n</p><p>During lecture time</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The In-Semester Exam is held during the normal lecture hours.The exam covers material from Lectures 1-4. It contains multiple-choice and problem-solving questions.Further details about the exam will be discussed in class and posted to our course Blackboard site.AI Statement:This assessment task is to be completed online via Blackboard. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam is held during the normal lecture hours.</p>\n<p>The exam covers material from Lectures 1-4. It contains multiple-choice and problem-solving questions.</p>\n<p>Further details about the exam will be discussed in class and posted to our course Blackboard site. </p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed online via Blackboard. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,16 +65,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "4/10/2024 12:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/10/2024 12:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "For this assignment, you will be required to calculate financial ratios.You will also be required to provide a short (within 700 words) written analysis based on the ratios that are derived.Instructions will be provided to you on Blackboard.The assignment will be completed individually.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assignment will be submitted electronically on a Blackboard Assessment link and a Blackboard Turnitin link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assignment, you will be required to calculate financial ratios.</p>\n<p>You will also be required to provide a short (within 700 words) written analysis based on the ratios that are derived.</p>\n<p>Instructions will be provided to you on Blackboard. <strong><em>The assignment will be completed individually.</em></strong></p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment will be submitted electronically on a Blackboard Assessment link and a Blackboard Turnitin link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -85,25 +89,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The final exam covers all topics in the course. It will consist of problem-solving, short-answer, and short-essay questions.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam covers all topics in the course. It will consist of problem-solving, short-answer, and short-essay questions.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Introduction to AccountingLearning outcomes:L01",
-            "topic_title": "Introduction to Accounting",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Accounting</strong>",
+            "topic_description": "Introduction to Accounting",
             "learning_outcomes": [
                 "L01"
             ]
@@ -111,19 +115,41 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Introduction to AccountingLearning outcomes:L01",
-            "topic_title": "Introduction to Accounting",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Accounting</strong>",
+            "topic_description": "Introduction to Accounting",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statement of Financial Position</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Statement of Financial Position</strong>",
+            "topic_description": "Statement of Financial Position",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Statement of Financial PositionLearning outcomes:L01, L02",
-            "topic_title": "Statement of Financial Position",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statement of Financial Position</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Statement of Financial Position</strong>",
+            "topic_description": "Statement of Financial Position",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statement of Profit or Loss</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Statement of Profit or Loss</strong>",
+            "topic_description": "Statement of Profit or Loss",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -132,9 +158,20 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Statement of Profit or LossRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02",
-            "topic_title": "Statement of Profit or Loss",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statement of Profit or Loss</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Statement of Profit or Loss</strong>",
+            "topic_description": "Statement of Profit or Loss Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statement of Cash Flows</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Statement of Cash Flows</strong>",
+            "topic_description": "Statement of Cash Flows",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -143,9 +180,20 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Statement of Cash FlowsLearning outcomes:L01, L02",
-            "topic_title": "Statement of Cash Flows",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statement of Cash Flows</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Statement of Cash Flows</strong>",
+            "topic_description": "Statement of Cash Flows",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statements Analysis &amp; Interpretation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Financial Statements Analysis &amp; Interpretation</strong>",
+            "topic_description": "Financial Statements Analysis & Interpretation",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -154,38 +202,56 @@
         {
             "learning_period": "Week 6",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "No Tutorial",
-            "topic_title": "No Tutorial",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>During Lecture Time</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam During Lecture Time",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Financial Statements Analysis, InterpretationsLearning outcomes:L01, L02",
-            "topic_title": "Financial Statements Analysis, Interpretations",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statements Analysis, Interpretations</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Financial Statements Analysis, Interpretations</strong>",
+            "topic_description": "Financial Statements Analysis, Interpretations",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
-            "learning_period": "Week 8",
-            "activity_type": "Tutorial",
-            "topic": "Time Value of MoneyLearning outcomes:L03",
-            "topic_title": "Time Value of Money",
-            "topic_description": "",
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Value of Money</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Time Value of Money</strong>",
+            "topic_description": "Time Value of Money",
             "learning_outcomes": [
                 "L03"
             ]
         },
         {
-            "learning_period": "Week 9",
+            "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Capital InvestmentLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Capital Investment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Value of Money</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Time Value of Money</strong>",
+            "topic_description": "Time Value of Money",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Investment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Capital Investment</strong>",
+            "topic_description": "Capital Investment",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -194,53 +260,124 @@
             ]
         },
         {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
-            "learning_outcomes": []
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Investment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Capital Investment</strong>",
+            "topic_description": "Capital Investment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
         },
         {
-            "learning_period": "Week 10",
-            "activity_type": "Tutorial",
-            "topic": "Bond and Share ValuationLearning outcomes:L03, L05",
-            "topic_title": "Bond and Share Valuation",
-            "topic_description": "",
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bond and Share Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Bond and Share Valuation</strong>",
+            "topic_description": "Bond and Share Valuation",
             "learning_outcomes": [
                 "L03",
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 11",
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Risk & Return 1King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L05",
-            "topic_title": "Risk & Return 1",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bond and Share Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Bond and Share Valuation</strong>",
+            "topic_description": "Bond and Share Valuation",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk &amp; Return 1</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Risk &amp; Return 1</strong>",
+            "topic_description": "Risk & Return 1",
             "learning_outcomes": [
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 12",
+            "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Risk & Return 2Learning outcomes:L01, L02",
-            "topic_title": "Risk & Return 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk &amp; Return 1</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Risk &amp; Return 1</strong>",
+            "topic_description": "Risk & Return 1 King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk &amp; Return 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Risk &amp; Return 2</strong>",
+            "topic_description": "Risk & Return 2",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
-            "learning_period": "Week 13",
+            "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "Cost of Capital, Capital StructureLearning outcomes:L01, L03, L04, L05",
-            "topic_title": "Cost of Capital, Capital Structure",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk &amp; Return 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Risk &amp; Return 2</strong>",
+            "topic_description": "Risk & Return 2",
             "learning_outcomes": [
                 "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cost of Capital &amp; Capital Structure</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Cost of Capital &amp; Capital Structure</strong>",
+            "topic_description": "Cost of Capital & Capital Structure",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cost of Capital, Capital Structure</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cost of Capital, Capital Structure</strong>",
+            "topic_description": "Cost of Capital, Capital Structure",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Review</strong>",
+            "topic_description": "Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
                 "L03",
                 "L04",
                 "L05"
