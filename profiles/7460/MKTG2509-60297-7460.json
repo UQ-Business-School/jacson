@@ -1,4 +1,8 @@
 {
+    "course_title": "Service and Relationship Marketing",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG2509-60297-7460",
     "full_course_code": "MKTG2509-60297-7460",
     "course_code": "MKTG2509",
@@ -41,16 +45,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30% Individual; 1,500 words",
-            "due_date": "23/08/2024 2:00 pm",
+            "weighting": "<dd>30% Individual; 1,500 words </dd>",
+            "due_date": "<dd><p> 23/08/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The purpose of this critique is to identify sources of customer satisfaction and dissatisfaction with services.During the first 4 weeks of this semester, you must evaluate five service encounter experiences.After evaluating five service encounters, you are to write a paper that analyses the worst service encounter.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The purpose of this critique is to identify sources of customer satisfaction and dissatisfaction with services.</p>\n<p>During the first 4 weeks of this semester, you must evaluate five service encounter experiences.</p>\n<p> After evaluating five service encounters, you are to write a paper that analyses the worst service encounter.</p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -65,16 +69,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30% Individual",
-            "due_date": "20/09/2024 2:00 pm",
+            "weighting": "<dd>30% Individual </dd>",
+            "due_date": "<dd><p> 20/09/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "Students must prepare a blueprint for a service provider (to be defined in week 5).Guidelines and Template will be provided on blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Guidelines and information will be provided on Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students must prepare a blueprint for a service provider (to be defined in week 5).</p>\n<p>Guidelines and Template will be provided on blackboard.</p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Guidelines and information will be provided on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -89,25 +93,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "40% Group",
-            "due_date": "14/10/2024 9:00 am",
+            "weighting": "<dd>40% Group </dd>",
+            "due_date": "<dd><p> 14/10/2024 9:00 am</p></dd>",
             "learning_objectives": "L01, L03, L04, L05",
             "mode": "Activity/ Performance",
             "category": "Presentation",
-            "task_description": "Important characteristics of a manager are the ability to identify, analyse, evaluate, and solve complex problems. To simulate this real world environment, students are to apply services and relationship marketing theory to analyse and solve a particular marketing case. The case study format below will be adopted in analysing the case.Case Summary and Problem Statement:Brief summary of the case is provided. The background information mentions key reasons for the problem. Problems are stated in terms that are actionable by the decision-maker for the analysis. A good problem definition keeps the case analysis tightly structured because everything discussed after this point must be related to the problem(s) stated in this section.Problem Analysis:Problems are dissected to analyse key factors.Alternatives and Evaluation of Alternatives:Arguments are provided for and against each alternative.Course of Action Recommendation and Justification:Develop the most effective, efficient, and feasible combination of alternatives to solve the problems within boundaries of the firm's objectives.Writing quality, Communication Style, and Literacy:All required sections are included, and each is effectively organised. Students proofread their papers and no grammatical errors exist. Report has no punctuation, spelling, or capitalisation errors.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Your slide deck is due to be submitted to Blackboard by Week 12, Monday at 9am.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Important characteristics of a manager are the ability to identify, analyse, evaluate, and solve complex problems. To simulate this real world environment, students are to apply services and relationship marketing theory to analyse and solve a particular marketing case. The case study format below will be adopted in analysing the case.</p>\n<p><strong>Case Summary and Problem Statement: </strong>Brief summary of the case is provided. The background information mentions key reasons for the problem. Problems are stated in terms that are actionable by the decision-maker for the analysis. A good problem definition keeps the case analysis tightly structured because everything discussed after this point must be related to the problem(s) stated in this section.</p>\n<p><strong>Problem Analysis: </strong>Problems are dissected to analyse key factors.</p>\n<p><strong>Alternatives and Evaluation of Alternatives: </strong>Arguments are provided for and against each alternative.</p>\n<p><strong>Course of Action Recommendation and Justification: </strong>Develop the most effective, efficient, and feasible combination of alternatives to solve the problems within boundaries of the firm's objectives.</p>\n<p><strong>Writing quality, Communication Style, and Literacy:</strong> All required sections are included, and each is effectively organised. Students proofread their papers and no grammatical errors exist. Report has no punctuation, spelling, or capitalisation errors. </p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your slide deck is due to be submitted to Blackboard by Week 12, Monday at 9am.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Introduction to Services MarketingText book chapters 1 and 2Learning outcomes:L01",
-            "topic_title": "Introduction to Services Marketing",
-            "topic_description": "Text book chapters 1 and 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Services Marketing</strong><br/><p>Text book chapters 1 and 2</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Services Marketing</strong>",
+            "topic_description": "Introduction to Services Marketing Text book chapters 1 and 2",
             "learning_outcomes": [
                 "L01"
             ]
@@ -115,19 +119,41 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Introduction & Assessment OverviewLearning outcomes:L01",
-            "topic_title": "Introduction & Assessment Overview",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction &amp; Assessment Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction &amp; Assessment Overview</strong>",
+            "topic_description": "Introduction & Assessment Overview",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service Encounters</strong><br/><p>Textbook chapters 3 and 4</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Service Encounters</strong>",
+            "topic_description": "Service Encounters Textbook chapters 3 and 4",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "Customer expectations and Service encountersLearning outcomes:L01, L02",
-            "topic_title": "Customer expectations and Service encounters",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Customer expectations and Service encounters</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Customer expectations and Service encounters</strong>",
+            "topic_description": "Customer expectations and Service encounters",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Customer Journey</strong><br/><p>Textbook chapter 5</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Customer Journey</strong>",
+            "topic_description": "Customer Journey Textbook chapter 5",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -136,9 +162,19 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Service QualityEkka Public Holiday Wednesday 16 August - please attend alternate tutorial this week only.Learning outcomes:L01",
-            "topic_title": "Service Quality",
-            "topic_description": "Ekka Public Holiday Wednesday 16 August - please attend alternate tutorial this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service Quality</strong><br/><p>Ekka Public Holiday Wednesday 16 August - please attend alternate tutorial this week only.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Service Quality</strong>",
+            "topic_description": "Service Quality Ekka Public Holiday Wednesday 16 August - please attend alternate tutorial this week only.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service Recovery</strong><br/><p>Textbook chapter 7</p>\n<p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Service Recovery</strong>",
+            "topic_description": "Service Recovery Textbook chapter 7 Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -146,20 +182,44 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Customer journey & InsightsLearning outcomes:L01, L02",
-            "topic_title": "Customer journey & Insights",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Customer journey &amp; Insights</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Customer journey &amp; Insights</strong>",
+            "topic_description": "Customer journey & Insights",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service Innovation &amp; Design</strong><br/><p>Textbook chapter 8</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Service Innovation &amp; Design</strong>",
+            "topic_description": "Service Innovation & Design Textbook chapter 8",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Service BlueprintLearning outcomes:L01, L02, L03",
-            "topic_title": "Service Blueprint",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service Blueprint</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Service Blueprint</strong>",
+            "topic_description": "Service Blueprint",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service Standards and the Servicescape</strong><br/><p>Chapters 9 and 10</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Service Standards and the Servicescape</strong>",
+            "topic_description": "Service Standards and the Servicescape Chapters 9 and 10",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -169,9 +229,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Physical evidence & ServicescapeLearning outcomes:L01, L02, L03",
-            "topic_title": "Physical evidence & Servicescape",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Physical evidence &amp; Servicescape</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Physical evidence &amp; Servicescape</strong>",
+            "topic_description": "Physical evidence & Servicescape",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -179,49 +239,103 @@
             ]
         },
         {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Delivering Service Performance</strong><br/><p>Textbook chapters 11, 12 and 13</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Delivering Service Performance</strong>",
+            "topic_description": "Delivering Service Performance Textbook chapters 11, 12 and 13",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Service / customer rolesLearning outcomes:L02",
-            "topic_title": "Service / customer roles",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Service / customer roles</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Service / customer roles</strong>",
+            "topic_description": "Service / customer roles",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Service Promises</strong><br/><p>Textbook chapters 14 and 15</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Managing Service Promises</strong>",
+            "topic_description": "Managing Service Promises Textbook chapters 14 and 15",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Service Promises</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Managing Service Promises</strong>",
+            "topic_description": "Managing Service Promises",
             "learning_outcomes": [
                 "L02"
             ]
         },
         {
             "learning_period": "Week 9",
-            "activity_type": "Tutorial",
-            "topic": "Managing Service PromisesLearning outcomes:L02",
-            "topic_title": "Managing Service Promises",
-            "topic_description": "",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to solve case studies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>How to solve case studies</strong>",
+            "topic_description": "How to solve case studies",
             "learning_outcomes": [
+                "L01",
                 "L02"
             ]
         },
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "How to analyse case studiesLearning outcomes:L05",
-            "topic_title": "How to analyse case studies",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to analyse case studies</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>How to analyse case studies</strong>",
+            "topic_description": "How to analyse case studies",
             "learning_outcomes": [
                 "L05"
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Building relationships</strong><br/><p>Textbook chapter 6</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Building relationships</strong>",
+            "topic_description": "Building relationships Textbook chapter 6",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Building relationshipsLearning outcomes:L04, L05",
-            "topic_title": "Building relationships",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Building relationships</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Building relationships</strong>",
+            "topic_description": "Building relationships",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Customer Loyalty and CLV</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Customer Loyalty and CLV</strong>",
+            "topic_description": "Customer Loyalty and CLV",
             "learning_outcomes": [
                 "L04",
                 "L05"
@@ -230,9 +344,20 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "In class PresentationsLearning outcomes:L04, L05",
-            "topic_title": "In class Presentations",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In class Presentations</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>In class Presentations</strong>",
+            "topic_description": "In class Presentations",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Focus on AI &amp; A3 Q&amp;A</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Focus on AI &amp; A3 Q&amp;A</strong>",
+            "topic_description": "Focus on AI & A3 Q&A",
             "learning_outcomes": [
                 "L04",
                 "L05"
@@ -241,9 +366,20 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "A3 PresentationsLearning outcomes:L04, L05",
-            "topic_title": "A3 Presentations",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>A3 Presentations</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>A3 Presentations</strong>",
+            "topic_description": "A3 Presentations",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>A3 Presentations</strong><br/><p>No Lecture this week.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>A3 Presentations</strong>",
+            "topic_description": "A3 Presentations No Lecture this week.",
             "learning_outcomes": [
                 "L04",
                 "L05"
