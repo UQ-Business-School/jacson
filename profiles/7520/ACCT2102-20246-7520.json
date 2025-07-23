@@ -1,0 +1,412 @@
+{
+    "course_title": "Intermediate Management Accounting",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT2102-20246-7520",
+    "full_course_code": "ACCT2102-20246-7520",
+    "course_code": "ACCT2102",
+    "class_code": "20246",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain cost behaviour, its application to breakeven analysis and its importance in management decisions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply alternative methods of calculating the costs of products, services and other cost objects and evaluate how the method used can affect management decisions and organisational performance."
+        },
+        {
+            "number": "LO3.",
+            "description": "Compare and critically evaluate actual versus planned operating performance."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the need for management accounting information, systems and practices to change in response to changes in the operating and business environments."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p>\n<p>\n</p><p>A centrally controlled exam to be held on a Saturday [possible dates: March 29 (end of week 5), April 5 (end of week 6), or April 12 (end of week 7). Session Times, either: 9:00am, 12:00pm, 3:00pm, or 5:30pm.] These are not choices, the date and time will be determined by UQ Central closer to the exam date.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester examination will be conducted on a Saturday after Lecture 4 and the related Tutorial</p>\n<p>(tutorial 4) have been completed. Students will be advised of the date as soon as the University makes this</p>\n<p>available.</p>\n<p>The In-Semester exam will consist of a combination of multiple choice, short answer and practical/problem</p>\n<p>solving questions that will assess your knowledge and application of material covered in Lectures and</p>\n<p>Tutorials 1-4 inclusive.</p>\n<p>Student ID must be produced at the exam. Results will be posted on the course Blackboard site.</p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>MCQs will be computer marked. Short answer and practical/problem solving questions will be marked on</p>\n<p>the basis of your working and final answer.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 26/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Cases help increase your learning of the topic areas concerned by requiring the application of course material to real business organisations. </p>\n<p>Students are required to submit a single pdf of their case study.</p>\n<p>Further details will accompany the case study when released.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is through Blackboard and/or Turnitin.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Invigilated Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This exam is a <strong>closed book, invigilated exam </strong>as required by UQ and Professional Accounting organisations.</p>\n<p>The exam is an on-campus, paper-based exam invigilated by UQ appointed invigilators.</p>\n<p>Further details about the exam:</p>\n<ul>\n<li>The final exam will cover <strong>Week 5 to Week 12</strong> (i.e., Cost Behaviour and CVP Analysis through to and including Overhead Variances)</li>\n<li>The final exam will consist of a combination of multiple choice, short answer and practical/problem solving questions.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Job Costing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Job Costing</strong>",
+            "topic_description": "Job Costing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Job Costing </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Job Costing </strong>",
+            "topic_description": "Job Costing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Job Costing Systems Refinement</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Job Costing Systems Refinement</strong>",
+            "topic_description": "Job Costing Systems Refinement",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Job Cost Systems Refinement</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Job Cost Systems Refinement</strong>",
+            "topic_description": "Job Cost Systems Refinement",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Activity Based Costing and Management</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Activity Based Costing and Management</strong>",
+            "topic_description": "Activity Based Costing and Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Activity-Based Costing and Management</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Activity-Based Costing and Management</strong>",
+            "topic_description": "Activity-Based Costing and Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process costing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Process costing</strong>",
+            "topic_description": "Process costing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Costing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Process Costing</strong>",
+            "topic_description": "Process Costing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cost Behaviour and CVP Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Cost Behaviour and CVP Analysis</strong>",
+            "topic_description": "Cost Behaviour and CVP Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cost Behaviour and CVP Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Cost Behaviour and CVP Analysis</strong>",
+            "topic_description": "Cost Behaviour and CVP Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analytic Thinking and Prediction</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Data Analytic Thinking and Prediction</strong>",
+            "topic_description": "Data Analytic Thinking and Prediction",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analytic Thinking &amp; Prediction</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Data Analytic Thinking &amp; Prediction</strong>",
+            "topic_description": "Data Analytic Thinking & Prediction",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Decision Making and Relevant Info (Pt 1)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Decision Making and Relevant Info (Pt 1)</strong>",
+            "topic_description": "Decision Making and Relevant Info (Pt 1)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial this week</strong><br/></p></div></td>",
+            "topic_title": "<strong>No tutorial this week</strong>",
+            "topic_description": "No tutorial this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No lecture this week</strong><br/></p></div></td>",
+            "topic_title": "<strong>No lecture this week</strong>",
+            "topic_description": "No lecture this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Decision Making and Relevant Info (Pt 2)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Decision Making and Relevant Info (Pt 2)</strong>",
+            "topic_description": "Decision Making and Relevant Info (Pt 2)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Decision Making and Relevant Info I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Decision Making and Relevant Info I</strong>",
+            "topic_description": "Decision Making and Relevant Info I",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Budgeting and Cost Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Capital Budgeting and Cost Analysis</strong>",
+            "topic_description": "Capital Budgeting and Cost Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Decision Making and Relevant Info II</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Decision Making and Relevant Info II</strong>",
+            "topic_description": "Decision Making and Relevant Info II Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Direct Input Variances (DM &amp; DL)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Direct Input Variances (DM &amp; DL)</strong>",
+            "topic_description": "Direct Input Variances (DM & DL)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Budgeting and Cost Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Capital Budgeting and Cost Analysis</strong>",
+            "topic_description": "Capital Budgeting and Cost Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Overhead Variances</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Overhead Variances</strong>",
+            "topic_description": "Overhead Variances",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Direct Input Variances (DM &amp; DL)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Direct Input Variances (DM &amp; DL)</strong>",
+            "topic_description": "Direct Input Variances (DM & DL)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Exam Information Lecture</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Final Exam Information Lecture</strong>",
+            "topic_description": "Final Exam Information Lecture",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Overhead variances</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Overhead variances</strong>",
+            "topic_description": "Overhead variances",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
