@@ -1,0 +1,475 @@
+{
+    "course_title": "Business Analytics Foundations",
+    "study_period": "Sem 1 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7205-22180-7520",
+    "full_course_code": "BSAN7205-22180-7520",
+    "course_code": "BSAN7205",
+    "class_code": "22180",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Evaluate a business analytics problem as a team using design thinking approaches"
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop insights for stakeholders by applying business analytic tools and approaches"
+        },
+        {
+            "number": "LO3.",
+            "description": "Reflect on how Business Analytics frameworks enable problem solving and value creation"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Design Thinking Output",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 21/03/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, students will be using design-thinking tools to propose an analytics solution in an education context. Student teams are commissioned by the Brisbane-based analytics firm Aginic to develop this solution for the Edenglassie Department of Education: students are asked to investigate the role of data in transforming the education field and, accordingly, develop a business case and an initial prototype for an analytics solution that could enable teachers and corporate staff to make data-driven decisions that improve students’ learning experience.</p>\n<p>This assessment is group-based. Students are supported by an online white board that enables asynchronous contributions from each team member.</p>\n<p>Students will be required to complete a self and peer evaluation as part of this assignment. A series of review questions will be available on Blackboard and should be completed on submission of your teams manual. The evaluation process assists the teaching team to understand how each student contributed and the findings are confidential. The peer evaluation can affect each student's mark for this assignment. Further details will be provided in class and on Blackboard. This assessment builds student employability by providing an opportunity to access knowledge, think critically, problem solve and work in a team.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Exploring and Transforming Data",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 2/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, students will enter the delivery phase of developing their analytics solution, by exploring and preparing/processing data available from the Department of Education. They will need to engage with the Data module and use their knowledge of data exploration and transformation to make the dataset fit-for-use in the process of building their analytics solution. The final dataset needs to meet stakeholder needs and support the prototype proposed in the first assignment.</p>\n<p>Students are provided with several tables by Aginic pertaining to students’ assessment, attendance, and activities. They will need to explore the dataset and identify as many of the possible data quality issues as you can, then perform transformations to address the issues they have identified. Finally, they also need to justify why your transformed dataset is fit-for-use. This assessment builds your employability by developing your coding and data exploration skills.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Business Analytics Solution",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 13/06/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, students will deliver a business analytics solution – a digital dashboard. They need to build on the prototype they had proposed for Assessment 1 and use the curated data that was prepared for Assessment 2. The business-analytics solution must respond to the information needs specific to the categories of users represented and must enable users to perform a range of dimensional analyses of data (drilling down, rolling up, etc.).</p>\n<p>For the delivery of the business analytics solution, students are asked to showcase how their solution can benefit the users too. Therefore, they have to generate insight via the data, engage in storytelling with analytical insights and propose actions, and close by reflecting on the solution’s value. This assessment builds your employability by developing your skills in designing digital platforms as a visual technique to communicate solutions to industry.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.1: The Data Race Framework</strong><br/><p>Self-Directed Learning: This topic builds on a practical framework called Data Race to explain how businesses can create value from their digital data assets.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.1: The Data Race Framework</strong>",
+            "topic_description": "Topic 1.1: The Data Race Framework Self-Directed Learning: This topic builds on a practical framework called Data Race to explain how businesses can create value from their digital data assets.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live welcome session and course introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Live welcome session and course introduction</strong>",
+            "topic_description": "Live welcome session and course introduction",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1: Business Purpose</strong><br/><p>Self-Directed Learning: This topic focuses on how companies can formulate analytics business cases, using a user-centric approach.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 2.1: Business Purpose</strong>",
+            "topic_description": "Topic 2.1: Business Purpose Self-Directed Learning: This topic focuses on how companies can formulate analytics business cases, using a user-centric approach.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Case Study Analysis</strong><br/><p>This case analysis session focuses on the journey of IDEO, a design thinking firm, and how their approaches can be used to develop user-centric analytics solutions.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Live Case Study Analysis</strong>",
+            "topic_description": "Live Case Study Analysis This case analysis session focuses on the journey of IDEO, a design thinking firm, and how their approaches can be used to develop user-centric analytics solutions.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1: Business Purpose (continued)</strong><br/><p>Self-Directed Learning: This topic focuses on how companies can formulate analytics business cases, using a user-centric approach.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 2.1: Business Purpose (continued)</strong>",
+            "topic_description": "Topic 2.1: Business Purpose (continued) Self-Directed Learning: This topic focuses on how companies can formulate analytics business cases, using a user-centric approach.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment-1 Q&amp;A with Mantel </strong><br/><p>The session gives students opportunity to ask assignment-1 data related questions to Aginic employees.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Assignment-1 Q&amp;A with Mantel </strong>",
+            "topic_description": "Assignment-1 Q&A with Mantel The session gives students opportunity to ask assignment-1 data related questions to Aginic employees.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.1: Understanding Data</strong><br/><p>Self-Directed Learning: This topic takes a deep dive into understanding data, its evolution, data sources and types, data's quality issues and meta data.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.1: Understanding Data</strong>",
+            "topic_description": "Topic 3.1: Understanding Data Self-Directed Learning: This topic takes a deep dive into understanding data, its evolution, data sources and types, data's quality issues and meta data.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Case Study Analysis</strong><br/><p>This session provides a discussion on the cases of Netflix and Walmart and how they explore their data assets to generate value for users.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Live Case Study Analysis</strong>",
+            "topic_description": "Live Case Study Analysis This session provides a discussion on the cases of Netflix and Walmart and how they explore their data assets to generate value for users.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.2: Exploring and Transforming Data</strong><br/><p>Self-Directed Learning: This topic uses a hands-on programming approach to demonstrate how data can be explored and transformed to make it fit for use.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.2: Exploring and Transforming Data</strong>",
+            "topic_description": "Topic 3.2: Exploring and Transforming Data Self-Directed Learning: This topic uses a hands-on programming approach to demonstrate how data can be explored and transformed to make it fit for use.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp prep</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp prep</strong>",
+            "topic_description": "Coding Bootcamp prep",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generative AI for coding</strong><br/><p>In this session, students will be introduced to generative AI and how it can be used for coding using prompt engineering. </p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Generative AI for coding</strong>",
+            "topic_description": "Generative AI for coding In this session, students will be introduced to generative AI and how it can be used for coding using prompt engineering.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 1</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 1</strong>",
+            "topic_description": "Coding Bootcamp 1",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Practice 1a</strong><br/><p>This session is to help you practice your coding skills and troubleshoot any errors.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Practice 1a</strong>",
+            "topic_description": "Coding Practice 1a This session is to help you practice your coding skills and troubleshoot any errors.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Practice 1b</strong><br/><p>This session is to help you practice your coding skills and troubleshoot any errors.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Practice 1b</strong>",
+            "topic_description": "Coding Practice 1b This session is to help you practice your coding skills and troubleshoot any errors.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.3: Transforming Data</strong><br/><p>Self-Directed Learning: Module 3.3 is the final topic for the second step in the Data Race: Data. The focus of this topic is Transforming Data .</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 3.3: Transforming Data</strong>",
+            "topic_description": "Topic 3.3: Transforming Data Self-Directed Learning: Module 3.3 is the final topic for the second step in the Data Race: Data. The focus of this topic is Transforming Data .",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 2</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 2</strong>",
+            "topic_description": "Coding Bootcamp 2",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Practice 2a</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Practice 2a</strong>",
+            "topic_description": "Coding Practice 2a",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Practice 2b</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Practice 2b</strong>",
+            "topic_description": "Coding Practice 2b",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.1: Performance Management </strong><br/><p>Self-Directed Learning: This topic describes how data and analytics can help companies manage their business performance.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 4.1: Performance Management </strong>",
+            "topic_description": "Topic 4.1: Performance Management Self-Directed Learning: This topic describes how data and analytics can help companies manage their business performance.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Bootcamp 3</strong><br/><p>This session introduce students to Python programming and its associated coding environments.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Bootcamp 3</strong>",
+            "topic_description": "Coding Bootcamp 3 This session introduce students to Python programming and its associated coding environments.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Practice 3a</strong><br/><p>This session focus on data exploration and transformation using Python.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Practice 3a</strong>",
+            "topic_description": "Coding Practice 3a This session focus on data exploration and transformation using Python.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coding Practice 3b</strong><br/><p>This session is to help you practice your coding skills and troubleshoot any errors.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Coding Practice 3b</strong>",
+            "topic_description": "Coding Practice 3b This session is to help you practice your coding skills and troubleshoot any errors.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.2: Introduction to Machine Learning</strong><br/><p>Self-Directed Learning: This topic explains the process of machines learning, together with a number of machine learning algorithms and how they are used in business.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 4.2: Introduction to Machine Learning</strong>",
+            "topic_description": "Topic 4.2: Introduction to Machine Learning Self-Directed Learning: This topic explains the process of machines learning, together with a number of machine learning algorithms and how they are used in business.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 2 Q&amp;A Session 1a</strong><br/><p>This session will help you practice your coding skills and prepare for Assignment 2 submission.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Assessment 2 Q&amp;A Session 1a</strong>",
+            "topic_description": "Assessment 2 Q&A Session 1a This session will help you practice your coding skills and prepare for Assignment 2 submission.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 2 Q&amp;A Session 1b</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Assessment 2 Q&amp;A Session 1b</strong>",
+            "topic_description": "Assessment 2 Q&A Session 1b",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.3: Visual Storytelling</strong><br/><p>Self-Directed Learning: This topic focuses on how analytics professionals can build narratives using data-driven insights that influence their audience.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 4.3: Visual Storytelling</strong>",
+            "topic_description": "Topic 4.3: Visual Storytelling Self-Directed Learning: This topic focuses on how analytics professionals can build narratives using data-driven insights that influence their audience.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dashboarding workshop 1a</strong><br/><p>This session provides a hands-on experience to build digital dashboards with a popular tool.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Dashboarding workshop 1a</strong>",
+            "topic_description": "Dashboarding workshop 1a This session provides a hands-on experience to build digital dashboards with a popular tool.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dashboarding workshop 1b</strong><br/><p>This session provides a hands-on experience to build digital dashboards with a popular tool.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Dashboarding workshop 1b</strong>",
+            "topic_description": "Dashboarding workshop 1b This session provides a hands-on experience to build digital dashboards with a popular tool.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Case Analysis (Performance Management and Dimensional Modelling)</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Live Case Analysis (Performance Management and Dimensional Modelling)</strong>",
+            "topic_description": "Live Case Analysis (Performance Management and Dimensional Modelling)",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.4: Data-driven Action</strong><br/><p>Self-Directed Learning: This topic shows how data-driven insights can inspire competitive action or automation of business processes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 4.4: Data-driven Action</strong>",
+            "topic_description": "Topic 4.4: Data-driven Action Self-Directed Learning: This topic shows how data-driven insights can inspire competitive action or automation of business processes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dashboarding workshop 2a</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Dashboarding workshop 2a</strong>",
+            "topic_description": "Dashboarding workshop 2a",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dashboarding workshop 2b</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Dashboarding workshop 2b</strong>",
+            "topic_description": "Dashboarding workshop 2b",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5.1: Value</strong><br/><p>Self-Directed Learning: This module explains how analytics value can be defined and measured and how its negetive consequences can be avoided.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 5.1: Value</strong>",
+            "topic_description": "Topic 5.1: Value Self-Directed Learning: This module explains how analytics value can be defined and measured and how its negetive consequences can be avoided.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dashboarding workshop 3a</strong><br/><p>This session provides a hands-on experience to build digital dashboards with a popular tool.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Dashboarding workshop 3a</strong>",
+            "topic_description": "Dashboarding workshop 3a This session provides a hands-on experience to build digital dashboards with a popular tool.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dashboarding workshop 3b</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Dashboarding workshop 3b</strong>",
+            "topic_description": "Dashboarding workshop 3b",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6.1: Becoming Data Savvy</strong><br/><p>Self-Directed Learning: In this topic, you will learn about the future of analytics and reflect on your journey on becoming a data savvy business professional.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 6.1: Becoming Data Savvy</strong>",
+            "topic_description": "Topic 6.1: Becoming Data Savvy Self-Directed Learning: In this topic, you will learn about the future of analytics and reflect on your journey on becoming a data savvy business professional.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 3 Q&amp;A Session 1a</strong><br/><p>This is a Q&amp;A session for Assignment 3.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Assignment 3 Q&amp;A Session 1a</strong>",
+            "topic_description": "Assignment 3 Q&A Session 1a This is a Q&A session for Assignment 3.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 3 Q&amp;A Session 1b</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Assignment 3 Q&amp;A Session 1b</strong>",
+            "topic_description": "Assignment 3 Q&A Session 1b",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
