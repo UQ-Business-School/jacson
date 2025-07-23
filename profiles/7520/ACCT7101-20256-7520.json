@@ -1,0 +1,400 @@
+{
+    "course_title": "Accounting",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7101-20256-7520",
+    "full_course_code": "ACCT7101-20256-7520",
+    "course_code": "ACCT7101",
+    "class_code": "20256",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "understand the role of financial accounting in the business world including financial accounting framework and processes"
+        },
+        {
+            "number": "LO2.",
+            "description": "prepare accounting records and financial reports"
+        },
+        {
+            "number": "LO3.",
+            "description": "apply relevant accounting standards to accounting issues"
+        },
+        {
+            "number": "LO4.",
+            "description": "perform basic financial statement analysis"
+        },
+        {
+            "number": "LO5.",
+            "description": "evaluate financial accounting information to make business decisions"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-semester exam consists of multiple choice questions, short answer theory questions, practical questions including the preparation of journal entries (including adjusting and closing entries), and the preparation of basic financial statements. The material will be drawn from<strong> Topics 1 to 4 inclusive</strong>. In preparing for the in-semester exam you should review all lecture material, tutorial questions and exercises.</p>\n<p>The in-semester exam is a <strong>centrally scheduled &amp; administered PAPER-BASED exam invigilated on campus. </strong></p>\n<p>The exam will be scheduled by UQ Central Examinations for the Saturday In-Semester Exam period.</p>\n<p>More detailed information will be discussed in the lecture prior to the exam.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Note: This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Note: \"Learning objectives\" refer to the objectives listed in section 2.2 of the course outline, NOT lecture topics.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Financial Report Analysis and Decision Making",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 15/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be randomly assigned companies to do financial report analyses and make business decisions. Research the financial press and other sources of available information to familiarise yourself with the industry in which your allocated companies operate and with company-specific factors that may have or will affect the company’s performance.</p>\n<p>This Assignment aims to develop your skills to:</p>\n<ol>\n<li>understand and analyse financial reports; and</li>\n<li>evaluate financial information and synthesise financial and non-financial information to make business decisions.</li>\n</ol>\n<p>The written responses to this assignment are limited to a maximum of 5 pages (Times Roman 12 point type, 1.5 line spacing and minimum 2 cm margin on either side). The Excel table of financial ratios and a list of references are excluded from this page limit.</p>\n<p>More details of the assignment will be provided in the lecture.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Note: This assessment task evaluates students' abilities, skills and knowledge <strong>without </strong>the aid of Artificial Intelligence (AI). Students are advised that <strong>the use of AI technologies to develop responses is strictly prohibited </strong>and <strong>may constitute student misconduct under the Student Code of Conduct</strong>. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your assignment before or on the due date. Follow the instructions below.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will cover <strong>all the topics 1 to 11</strong>.</p>\n<p>The final exam consists of multiple-choice questions and written questions, including both practical and theoretical components. More detailed information regarding the exam will be provided in the revision lecture.</p>\n<p>This exam is a <strong>closed book, invigilated exam</strong> as required by UQ and Professional Accounting organisations.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Note: This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Note: Sample exams are available on the university library website. Please note, however, that these are provided for revision purposes only.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1 - Introduction to Financial Reporting</strong><br><p>Introduction to Financial Reporting - This lecture will provide an introduction to accounting including the business environment, the regulatory environment and the financial statements.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 1 - Introduction to Financial Reporting</strong>",
+            "topic_description": "Lecture 1 - Introduction to Financial Reporting Introduction to Financial Reporting - This lecture will provide an introduction to accounting including the business environment, the regulatory environment and the financial statements.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - Introduction to Financial Reporting</strong><br><p>Introduction to Financial Reporting &amp;<br/>\nOverview of accounting software: Xero</p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - Introduction to Financial Reporting</strong>",
+            "topic_description": "Tutorial 1 - Introduction to Financial Reporting Introduction to Financial Reporting & Overview of accounting software: Xero",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2 - Double Entry Accounting</strong><br><p>Recording Transactions: Double Entry Accounting - Students will learn the principle of double-entry accounting (debits and credits) and how they are used to record accounting transactions.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 2 - Double Entry Accounting</strong>",
+            "topic_description": "Lecture 2 - Double Entry Accounting Recording Transactions: Double Entry Accounting - Students will learn the principle of double-entry accounting (debits and credits) and how they are used to record accounting transactions.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2 - Double Entry Accounting</strong><br/><p>Recording Transactions - Double Entry Accounting &amp; Xero workshop(1): Preparing journal entries and trial balance using Xero</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 2 - Double Entry Accounting</strong>",
+            "topic_description": "Tutorial 2 - Double Entry Accounting Recording Transactions - Double Entry Accounting & Xero workshop(1): Preparing journal entries and trial balance using Xero",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3 - Revenue and Expense Recognition</strong><br/><p>Revenue and Expense Recognition in Accrual Accounting - Students will learn the accrual accounting concepts and how they are used in making adjusting entries for prepayments and accruals.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Lecture 3 - Revenue and Expense Recognition</strong>",
+            "topic_description": "Lecture 3 - Revenue and Expense Recognition Revenue and Expense Recognition in Accrual Accounting - Students will learn the accrual accounting concepts and how they are used in making adjusting entries for prepayments and accruals.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 - Revenue and Expense Recognition</strong><br/><p>Revenue and Expense Recognition in Accrual Accounting &amp; Xero workshop(2): Preparing adjusting journal entries and financial statements using Xero</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 3 - Revenue and Expense Recognition</strong>",
+            "topic_description": "Tutorial 3 - Revenue and Expense Recognition Revenue and Expense Recognition in Accrual Accounting & Xero workshop(2): Preparing adjusting journal entries and financial statements using Xero",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4 - Accounting for Merchandising Firms</strong><br/><p>Accounting for Merchandising Firms - Students will learn the accounting treatment of different inventory systems and cost flow methods.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 4 - Accounting for Merchandising Firms</strong>",
+            "topic_description": "Lecture 4 - Accounting for Merchandising Firms Accounting for Merchandising Firms - Students will learn the accounting treatment of different inventory systems and cost flow methods.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4 - Accounting for Merchandising Firms</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4 - Accounting for Merchandising Firms</strong>",
+            "topic_description": "Tutorial 4 - Accounting for Merchandising Firms",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5 - Financial Statement Analysis</strong><br/><p>Financial Statement Analysis - Students will learn different tools of financial statement analysis including ratio analysis for assessing a company's creditworthiness and profitability.</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 5 - Financial Statement Analysis</strong>",
+            "topic_description": "Lecture 5 - Financial Statement Analysis Financial Statement Analysis - Students will learn different tools of financial statement analysis including ratio analysis for assessing a company's creditworthiness and profitability.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5 - Financial Statement Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5 - Financial Statement Analysis</strong>",
+            "topic_description": "Tutorial 5 - Financial Statement Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6 - Accounting for Current Assets</strong><br/><p>Accounting for Current Assets - Students will learn internal control principles for handling cash and the reporting of cash and receivables in the financial statements.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 6 - Accounting for Current Assets</strong>",
+            "topic_description": "Lecture 6 - Accounting for Current Assets Accounting for Current Assets - Students will learn internal control principles for handling cash and the reporting of cash and receivables in the financial statements.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam: No Tutorials Or Lecture</strong><br/><p>There will be no lectures or tutorials in the week conducting the Saturday in-semester exam, which will cover the material from lectures 1 to 4. </p>\n<p>The Saturday in-semester Exam will be scheduled for either Saturday, 29 March, 5 April, or 12 April. Further details will be provided on the course Blackboard site.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Exam: No Tutorials Or Lecture</strong>",
+            "topic_description": "In-Semester Exam: No Tutorials Or Lecture There will be no lectures or tutorials in the week conducting the Saturday in-semester exam, which will cover the material from lectures 1 to 4. The Saturday in-semester Exam will be scheduled for either Saturday, 29 March, 5 April, or 12 April. Further details will be provided on the course Blackboard site.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6 - Accounting for Current Assets</strong><br/><p>Good Friday Public Holiday - No tutorial Friday April 18 2025. Please attend alternative tutorial this week only.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6 - Accounting for Current Assets</strong>",
+            "topic_description": "Tutorial 6 - Accounting for Current Assets Good Friday Public Holiday - No tutorial Friday April 18 2025. Please attend alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7 - Accounting for Non-Current Assets</strong><br/><p>Accounting for Non-Current Assets - Students will learn the accounting treatment of non-current assets including the concept of depreciation, asset impairments and revaluation.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7 - Accounting for Non-Current Assets</strong>",
+            "topic_description": "Lecture 7 - Accounting for Non-Current Assets Accounting for Non-Current Assets - Students will learn the accounting treatment of non-current assets including the concept of depreciation, asset impairments and revaluation.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7 - Accounting for Non-Current Assets</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7 - Accounting for Non-Current Assets</strong>",
+            "topic_description": "Tutorial 7 - Accounting for Non-Current Assets",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8 - Liabilities</strong><br/><p>Liabilities - Students will learn the accounting treatment of current and non-current liabilities including debentures, provisions and contingent liabilities.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8 - Liabilities</strong>",
+            "topic_description": "Lecture 8 - Liabilities Liabilities - Students will learn the accounting treatment of current and non-current liabilities including debentures, provisions and contingent liabilities.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8 - Liabilities</strong><br/><p>Labour Day Public Holiday - No tutorial Monday May 05 2025. Please attend alternative tutorial this week only.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8 - Liabilities</strong>",
+            "topic_description": "Tutorial 8 - Liabilities Labour Day Public Holiday - No tutorial Monday May 05 2025. Please attend alternative tutorial this week only.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9 - Equity</strong><br/><p>Equity - Students will learn the accounting treatment of equity including the issuance of ordinary shares, share splits, cash dividends and share dividends.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9 - Equity</strong>",
+            "topic_description": "Lecture 9 - Equity Equity - Students will learn the accounting treatment of equity including the issuance of ordinary shares, share splits, cash dividends and share dividends.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9 - Equity</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9 - Equity</strong>",
+            "topic_description": "Tutorial 9 - Equity",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10 - Statement of Cash Flows I</strong><br/><p>Statement of Cash Flows I - Students will learn how to prepare a statement of cash flows using the direct method and how to evaluate an entity using cash flows.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 10 - Statement of Cash Flows I</strong>",
+            "topic_description": "Lecture 10 - Statement of Cash Flows I Statement of Cash Flows I - Students will learn how to prepare a statement of cash flows using the direct method and how to evaluate an entity using cash flows.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10 - Statement of Cash Flows I</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10 - Statement of Cash Flows I</strong>",
+            "topic_description": "Tutorial 10 - Statement of Cash Flows I",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11 - Statement of Cash Flows II</strong><br/><p>Statement of Cash Flows II &amp; Analysing and Integrating GAAP - Students will learn how to prepare a statement of cash flows using the indirect method. Students will also understand the Conceptual Framework, concepts, principles and qualitative characteristics of financial reporting.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 11 - Statement of Cash Flows II</strong>",
+            "topic_description": "Lecture 11 - Statement of Cash Flows II Statement of Cash Flows II & Analysing and Integrating GAAP - Students will learn how to prepare a statement of cash flows using the indirect method. Students will also understand the Conceptual Framework, concepts, principles and qualitative characteristics of financial reporting.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11 - Statement of Cash Flows II</strong><br/><p>Statement of Cash Flows II &amp; Analysing and Integrating GAAP</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11 - Statement of Cash Flows II</strong>",
+            "topic_description": "Tutorial 11 - Statement of Cash Flows II Statement of Cash Flows II & Analysing and Integrating GAAP",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11 - Revision Lecture</strong><br/><p> Revision Lecture - This is a revision lecture and all the important concepts and principles learned in this course will be reviewed.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 11 - Revision Lecture</strong>",
+            "topic_description": "Lecture 11 - Revision Lecture Revision Lecture - This is a revision lecture and all the important concepts and principles learned in this course will be reviewed.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
