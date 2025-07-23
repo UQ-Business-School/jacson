@@ -1,0 +1,406 @@
+{
+    "course_title": "Fundamentals of Marketing",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7501-60452-7560",
+    "full_course_code": "MKTG7501-60452-7560",
+    "course_code": "MKTG7501",
+    "class_code": "60452",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Communicate an appreciation for the importance of marketing to business success in a range of contexts."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the central role of the customer, whether individual or organisational, in the marketing process."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate situational influences on marketing across a range of industries and companies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Collect and analyse evidence to determine competitive advantage, target market and position."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse marketing evidence to evaluate and determine the effectiveness of marketing mix strategies."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Mid-semester Marketing Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment is a multiple-choice exam that will be conducted in-person by central exams.</p>\n<p>The exam is designed to engage students in early exploration of marketing theory and will be based on the content covered in Week 1, 2, and 3 lectures, Week 2, 3 and 4 tutorials, and all readings from these weeks (Chapters 1, 2, 3, and 5).</p>\n<p>Further instructions and details will be available in the Assessment folder and discussed in class.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "STP Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 24/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task aims to improve learners' knowledge of segmenting, targeting and positioning (STP). Learners will perform a review of a designated product brand (an actual real-life market offering), examining the marketing theory and the market evidence to determine its current STP. In doing so, learners will need to consult relevant marketing literature, research industry information, apply marketing theory and present their findings in a written report. A comprehensive assignment guide and requirements are available on Learn.UQ and will be discussed in classes before the commencement of the assessment.</p>\n<p>A maximum word limit has been set for this assessment (see the guidelines on Learn.UQ for details) and any words submitted above the maximum limit will not be eligible for marking.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The written assignment must be submitted electronically through the Online Blackboard and Turnitin Submission on the Learn.UQ site, based on the specific instructions provided. Those who fail to follow the exact submission instructions will incur late penalties until submission is resolved.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The aim of this final assessment task (an exam) is to increase learners' knowledge of the marketing mix and demonstrate their understanding as an individual. This will include the evaluation evidence based on theoretical knowledge and the ability to apply knowledge to real-life marketing situations, using multiple choice questions and short answer questions. Further details of the final exam will be discussed in tutorials and lectures.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and Marketing Process</strong><br/><p>Overview of marketing and course expectations. Strategic marketing planning, customer value and competitive advantage. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Course Overview and Marketing Process</strong>",
+            "topic_description": "Course Overview and Marketing Process Overview of marketing and course expectations. Strategic marketing planning, customer value and competitive advantage.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Marketing Environments</strong><br/><p>The internal and external marketing environment, including situational analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Marketing Environments</strong>",
+            "topic_description": "Marketing Environments The internal and external marketing environment, including situational analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and Marketing Planning</strong><br/><p>Discussions of class schedules and assessment expectations.<br/>\nApplication of marketing process and importance of customer value.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Course Overview and Marketing Planning</strong>",
+            "topic_description": "Course Overview and Marketing Planning Discussions of class schedules and assessment expectations. Application of marketing process and importance of customer value.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Behaviour</strong><br><p>Understanding the drivers of consumer behaviour.</p>\n<p>Assessment 1: Mid-semester Marketing Exam briefing.</p>\n<p>During this week, ALL students should also watch the Library Guide - accessed via the course website.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Consumer Behaviour</strong>",
+            "topic_description": "Consumer Behaviour Understanding the drivers of consumer behaviour. Assessment 1: Mid-semester Marketing Exam briefing. During this week, ALL students should also watch the Library Guide - accessed via the course website.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Marketing Environments in Action</strong><br/><p>Understanding the influences of internal and external forces upon marketing.</p>\n<p><strong>Public Holiday - Wednesday </strong>- Check Blackboard for announcements about affected tutorial classes.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Marketing Environments in Action</strong>",
+            "topic_description": "Marketing Environments in Action Understanding the influences of internal and external forces upon marketing. Public Holiday - Wednesday - Check Blackboard for announcements about affected tutorial classes.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Segmentation and Targeting (STP)</strong><br/><p>Examining how brands gain competitive advantage through segmenting and targeting the marketplace.</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Segmentation and Targeting (STP)</strong>",
+            "topic_description": "Segmentation and Targeting (STP) Examining how brands gain competitive advantage through segmenting and targeting the marketplace.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Customer Behaviour in Action</strong><br/><p>Practical activities to examine and consider customer perspectives and influences on behaviour.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Customer Behaviour in Action</strong>",
+            "topic_description": "Customer Behaviour in Action Practical activities to examine and consider customer perspectives and influences on behaviour.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Positioning (STP)</strong><br/><p>Exploring how brands position their offerings in the minds of consumers.</p>\n<p>Assessment 2: STP Analysis briefing.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Positioning (STP)</strong>",
+            "topic_description": "Positioning (STP) Exploring how brands position their offerings in the minds of consumers. Assessment 2: STP Analysis briefing.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>STP in Action - Segment and Targeting</strong><br/><p>Practical activities to segment, target and profile the most desirable customer. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>STP in Action - Segment and Targeting</strong>",
+            "topic_description": "STP in Action - Segment and Targeting Practical activities to segment, target and profile the most desirable customer.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Product &amp; Services Strategy</strong><br/><p>Product decisions in the marketing mix.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Product &amp; Services Strategy</strong>",
+            "topic_description": "Product & Services Strategy Product decisions in the marketing mix.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>STP in Action - Positioning</strong><br/><p>Practical activities to understand positioning choices.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>STP in Action - Positioning</strong>",
+            "topic_description": "STP in Action - Positioning Practical activities to understand positioning choices.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pricing Strategy</strong><br/><p>Contribution of pricing to the marketing mix.</p>\n<p>Assessment 3: Final Exam briefing.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Pricing Strategy</strong>",
+            "topic_description": "Pricing Strategy Contribution of pricing to the marketing mix. Assessment 3: Final Exam briefing.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Product Decisions in Action</strong><br/><p>Interactive activities to explore product decisions in the marketing mix.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Product Decisions in Action</strong>",
+            "topic_description": "Product Decisions in Action Interactive activities to explore product decisions in the marketing mix.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Place Strategy</strong><br/><p>Distribution and marketing channel considerations.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Place Strategy</strong>",
+            "topic_description": "Place Strategy Distribution and marketing channel considerations.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pricing in Action</strong><br/><p>Interactive activities to explore pricing decisions in the marketing mix.</p>\n<p>Assessment 2: STP Analysis Q&amp;A</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Pricing in Action</strong>",
+            "topic_description": "Pricing in Action Interactive activities to explore pricing decisions in the marketing mix. Assessment 2: STP Analysis Q&A",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Promotion - IMC</strong><br/><p>Communicating customer value in the marketing mix through advertising and public relations.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Promotion - IMC</strong>",
+            "topic_description": "Promotion - IMC Communicating customer value in the marketing mix through advertising and public relations.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Place in Action</strong><br/><p>Interactive activities to explore place decisions in the marketing mix.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Place in Action</strong>",
+            "topic_description": "Place in Action Interactive activities to explore place decisions in the marketing mix.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No tutorials during In-Semester break.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No tutorials during In-Semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Promotion - IMC</strong><br/><p>Creating value in relationships through personal selling, sales promotion and direct and digital marketing.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Promotion - IMC</strong>",
+            "topic_description": "Promotion - IMC Creating value in relationships through personal selling, sales promotion and direct and digital marketing.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IMC Promotion in Action</strong><br/><p>Interactive activities to explore marketing mix through advertising and public relations.</p>\n<p><strong>Public Holiday - Monday </strong>- Check Blackboard for announcements about affected tutorial classes.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>IMC Promotion in Action</strong>",
+            "topic_description": "IMC Promotion in Action Interactive activities to explore marketing mix through advertising and public relations. Public Holiday - Monday - Check Blackboard for announcements about affected tutorial classes.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Market Research and Implementation</strong><br/><p>Importance of marketing information and approaches to research, and consideration of evaluation, budgeting and implementation of marketing plans.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Market Research and Implementation</strong>",
+            "topic_description": "Market Research and Implementation Importance of marketing information and approaches to research, and consideration of evaluation, budgeting and implementation of marketing plans.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IMC Promotion in Action</strong><br/><p>Interactive activities to explore personal selling, sales promotion and digital/direct promotion decisions in the marketing mix.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>IMC Promotion in Action</strong>",
+            "topic_description": "IMC Promotion in Action Interactive activities to explore personal selling, sales promotion and digital/direct promotion decisions in the marketing mix.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Contemporary Issues and Final Exam</strong><br/><p>Overview of some of the major issues for ethical marketing and contemporary marketing managers.</p>\n<p>Discussion of the Final Exam approach.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Ethics and Contemporary Issues and Final Exam</strong>",
+            "topic_description": "Ethics and Contemporary Issues and Final Exam Overview of some of the major issues for ethical marketing and contemporary marketing managers. Discussion of the Final Exam approach.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Marketing Research in Action</strong><br/><p>A practical session developing and conducting market research and considering marketing mix in execution.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Marketing Research in Action</strong>",
+            "topic_description": "Marketing Research in Action A practical session developing and conducting market research and considering marketing mix in execution.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Marketing Mix Review</strong><br/><p>Review of overall marketing mix, highlighting the unified nature. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Marketing Mix Review</strong>",
+            "topic_description": "Marketing Mix Review Review of overall marketing mix, highlighting the unified nature.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Exam Preparation</strong><br/><p>Final course review with a focus on exam preparation.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review and Exam Preparation</strong>",
+            "topic_description": "Course Review and Exam Preparation Final course review with a focus on exam preparation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
