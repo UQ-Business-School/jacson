@@ -1,0 +1,218 @@
+{
+    "course_title": "Visual Analytics",
+    "study_period": "Sem 2 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7208-60199-7560",
+    "full_course_code": "BSAN7208-60199-7560",
+    "course_code": "BSAN7208",
+    "class_code": "60199",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand and apply the fundamental theories of data visualisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Create efficient and appropriate visualisations to generate insights that support decision making utilising various technologies."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explore and critically evaluate data visualisations to be able to communicate key insights to various stakeholders."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work effectively and collaboratively in a team by critically evaluating the contribution of individual data visualisations in communicating key insights to stakeholders."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1 - Problem Statement",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 19/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is an individual report that draws upon several data sets in a specific business context to support one or more of the United Nations Sustainable Development Goals. In that context, the report is to present an investment recommendation supported by data analysis and data visualisation techniques. The assignment requires that the student use at least three public data sets, taken together as a whole, related to the identified business context. These three or more data sets are then analysed in support of the development of an investment recommendation that addresses one or more SDGs. You should write the report from the perspective of a business or a government entity considering such an investment.</p>\n<p>The essay is to present an analysis and interpretation of the data using at least two different forms of data visualisation as identified in lectures. The essay is to provide a broad overview of the context of the problem, identify the sources of the data sets and their relevance to the analysis, present the analysis and interpret the results, and finally link the analysis to key supporting arguments for the investment recommendation made. You should state any assumptions you make about your analysis or recommendation.</p>\n<p>Key to success with this assessment task is succinct analysis and strong links between the data visualisation and the key supporting arguments for the recommendation. The discussion is to be supported by citing research that supports the context, analysis, interpretation, and key arguments made in support of the recommendation.</p>\n<p><strong>REQUIREMENTS</strong></p>\n<p>Scope</p>\n<p>This assessment task is an individual report that draws upon several data sets. Note that in this context, a data set is simply a ‘table’ of data. It might be a listing of invoices, or employees, or of visitor numbers. Students using a nominated open data set should use at least one other open data set not provided. The report is to present a management recommendation (or recommendations) supported by data analysis and data visualisation techniques.</p>\n<p>The assignment requires that the student acquire at least three data sets. These data sets, taken together as a whole, relate to the identified context and the associated SDG related problem. Therefore, at least two data sets are to be analysed in support of the development of a management recommendation.</p>\n<p>The report is to provide a broad overview of the context of the business, identify the sources of the data sets and their relevance to the analysis, present the analysis and interpret the results, and link the analysis to key supporting arguments for the recommendation made. The analysis is to support the development of a management recommendation for a course of action, in line with an evidence-based management culture.</p>\n<p>The report is to present an analysis and interpretation of the selected data using at least three different types of data visualisation. Furthermore, at least two data sets should be evident in two different types of data visualisations presented. For example, a geo-spatial representation might have two data sets represented in it and a trend line might be used to relate two data sets to each other over time.</p>\n<p>As part of this requirement, the report should refer to at least three (3) academic, quality, peer reviewed research papers that support the issues, analysis and recommendations outlined in the report.</p>\n<p>The report should identify the sources of the data used.</p>\n<p><strong>Generative AI statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2 - Interactive Prototype",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 17/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, you will create an interactive visualisation prototype. It will involve the design and implementation of a set of interactive visualisations and provide a critical evaluation. </p>\n<p>The aims of this assignment are:</p>\n<ul>\n<li>to design a set of interactive visualisations to allow for effective visual data exploration and sense making,</li>\n<li>to provide a critical evaluation of your design</li>\n</ul>\n<p>In Assignment 1, you created a set of visualisations that provide initial insight about the data and helped answer some of the questions that you are exploring.</p>\n<p><strong>Part 1: Visualisation and interaction design </strong></p>\n<p>In the first phase of this section, you will reproduce at least two of the first assignment visualisations, and at least one new visualisation, using the ggplot2 library in R. The aim is to demonstrate your understanding of the principles of the Grammar of Graphics to reproduce a visualisation idiom and create a new visualisation based on requirements. The two visualisations that you must reproduce can slightly differ from the ones you created, but the resulting visualisation should be as close as possible to the original ones.</p>\n<p>For the new visualisation(s) that you will create with ggplot2, you need to:</p>\n<ul>\n<li>Describe your use of ggplot2’s grammar of graphics (in terms of data, layer, scale, coordinate and facets)</li>\n<li>Explain how your design choices allow for efficient visualisation of the data you want to analyse (refer to guidelines and principles from Munzner, Bertin, Tufte etc…)</li>\n</ul>\n<p>In the second phase of this section, you will bring interactivity to your visualisations. Your interactive visualisations should demonstrate at least three interactions (see Heer and Shneiderman’s taxonomy) and show how they help data exploration and sense-making in the report. You are encouraged to use the interactive libraries covered in Module 3.4.</p>\n<p>In the third and last phase of this section, you will provide a short evaluation of your design. This evaluation should address issues such as quality of encodings, efficient use of data/ink ratio, and other considerations covered in Module 4.</p>\n<p><strong>Part 2: Report </strong></p>\n<p>Students will prepare a major report (maximum 8 pages) based on their design and evaluation of their data visualisations. The report is free form but must contain:</p>\n<p>The ggplot2 code of the reproduced visualisations and the new visualisation(s) (Phase 1)</p>\n<p>Which interactions were implemented and how they help data exploration and sensemaking (Phase 2)</p>\n<p>A summary of your data visualisation evaluation (Phase 3)</p>\n<p>Finalised visualisations that justify the final investment recommendations.</p>\n<p><strong>Part 3: Presentation</strong></p>\n<p>Each student is asked to prepare and record a presentation of 15 minutes summarising their work and demonstrating key points using the interactivity they built into their visualisations. </p>\n<p>Students need to demonstrate the challenges they had in creating their visualisations and how they addressed them.</p>\n<p>Students should also describe any limitations of their visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described.</p>\n<p>The key success factors in the presentation are communication (how well the key points of the investment were summarised for its stakeholders), issues identification, any assumptions made in identifying issues, and presentation style.</p>\n<p><strong>Generative AI statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Video presentation",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 31/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment will be completed as a group of 3-5. You will critically reflect on each group member’s report and prepare a group presentation to demonstrate how interactivity built into group members’ visualisations enhanced reporting.</p>\n<p>Groups need to critique the challenges students had in creating their visualisations and how they addressed them.</p>\n<p>Groups should also critique any limitations of students' visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described.</p>\n<p>The key success factors in the presentation are communication (how well the key points of the investment were summarised for its stakeholders), issues identification, any assumptions made in identifying issues, and presentation style.</p>\n<p><strong>Generative AI statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1: Introduction to Visual Analytics</strong><br/><p>This topic introduces the general concepts of visual analytics.</p>\n<p><strong>Live session:</strong> This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing the visual analytics.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.1: Introduction to Visual Analytics</strong>",
+            "topic_description": "Module 1.1: Introduction to Visual Analytics This topic introduces the general concepts of visual analytics. Live session: This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing the visual analytics. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1: Theories of visualisation</strong><br/><p>This topic introduces important theories of designing for visual analytics.</p>\n<p><strong>Live session:</strong> This session will take you through some theories of visualisation with examples from Tufte and Few seeking feedback on the images, their flaws, the causes of problems.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.1: Theories of visualisation</strong>",
+            "topic_description": "Module 2.1: Theories of visualisation This topic introduces important theories of designing for visual analytics. Live session: This session will take you through some theories of visualisation with examples from Tufte and Few seeking feedback on the images, their flaws, the causes of problems. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1: Design process</strong><br/><p>This topic extends theories of visual design to visualisation practices.</p>\n<p><strong>Live session:</strong> This session will introduce the practice of data visualisation for exploration, how to identify various properties of the data, and how to select appropriate exploratory visualisations.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 3.1: Design process</strong>",
+            "topic_description": "Module 3.1: Design process This topic extends theories of visual design to visualisation practices. Live session: This session will introduce the practice of data visualisation for exploration, how to identify various properties of the data, and how to select appropriate exploratory visualisations. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2: Data types and visualisation idioms</strong><br/><p>This topic introduces Munzner's approach to visual design.</p>\n<p><strong>Live session:</strong> This session will introduce Munzner's framework to designing data visualisations.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 3.2: Data types and visualisation idioms</strong>",
+            "topic_description": "Module 3.2: Data types and visualisation idioms This topic introduces Munzner's approach to visual design. Live session: This session will introduce Munzner's framework to designing data visualisations. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3: The grammar of graphics</strong><br><p>This topic introduces Wilkinson's Grammar of Graphics and apply it to visualisation.</p>\n<p><strong>Live session:</strong> This session will explore ggplot templates that can be used to create different visualisation types.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 3.3: The grammar of graphics</strong>",
+            "topic_description": "Module 3.3: The grammar of graphics This topic introduces Wilkinson's Grammar of Graphics and apply it to visualisation. Live session: This session will explore ggplot templates that can be used to create different visualisation types. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.4: The importance of interaction</strong><br/><p>This topic continues to explore visualisation and interactivity.</p>\n<p><strong>Live session:</strong> This session will explore some exemplar interactive visualisations and will demonstrate how the interactions support sense making and understanding.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.4: The importance of interaction</strong>",
+            "topic_description": "Module 3.4: The importance of interaction This topic continues to explore visualisation and interactivity. Live session: This session will explore some exemplar interactive visualisations and will demonstrate how the interactions support sense making and understanding. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Tutorial</strong><br/><p>R tutorial: This tutorial will include R visualisation techniques using the grammar of graphics and ggplot.  </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>R Tutorial</strong>",
+            "topic_description": "R Tutorial R tutorial: This tutorial will include R visualisation techniques using the grammar of graphics and ggplot.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.1: Evaluation</strong><br/><p>This topic consolidates how knowledge of visual design principles contribute to the evaluation of visualisations.</p>\n<p><strong>Live session:</strong> This session will consolidate critical theories and practice of visual design.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 4.1: Evaluation</strong>",
+            "topic_description": "Module 4.1: Evaluation This topic consolidates how knowledge of visual design principles contribute to the evaluation of visualisations. Live session: This session will consolidate critical theories and practice of visual design. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 5.1: From data to vis to insight</strong><br/><p>This topic explores visual narrative and the use of visualisations in presentations.</p>\n<p><strong>Live session:</strong> This session will explore examples of visual narratives in detail to understand their visual components and how they convey their messages. We will also examine examples of narrative structures using Cohn s schema to help identify their narrative categories and constituents.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p>\n<p><strong>Kings Birthday Public Holiday - Monday 6 October 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Module 5.1: From data to vis to insight</strong>",
+            "topic_description": "Module 5.1: From data to vis to insight This topic explores visual narrative and the use of visualisations in presentations. Live session: This session will explore examples of visual narratives in detail to understand their visual components and how they convey their messages. We will also examine examples of narrative structures using Cohn s schema to help identify their narrative categories and constituents. Preparation : Students need to complete this week's self-directed material before the live session. Kings Birthday Public Holiday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In Semester Break</strong>",
+            "topic_description": "In Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 6.1: Practical Examples</strong><br/><p>This topic explores how to apply visual design principles to the evaluation of visualisations.</p>\n<p><strong>Live session:</strong> This session will apply critical theories and practice of visual design to the critical review of visualisations.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 6.1: Practical Examples</strong>",
+            "topic_description": "Module 6.1: Practical Examples This topic explores how to apply visual design principles to the evaluation of visualisations. Live session: This session will apply critical theories and practice of visual design to the critical review of visualisations. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Tutorial</strong><br/><p>R tutorial: This tutorial will include R visualisation techniques using the grammar of graphics and ggplot.  </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>R Tutorial</strong>",
+            "topic_description": "R Tutorial R tutorial: This tutorial will include R visualisation techniques using the grammar of graphics and ggplot.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 7.1: Trends and future direction in Visual Analytics</strong><br/><p>This topic explores future trends in data visualisation theory and practice.</p>\n<p><strong>Live session:</strong> This session will explore immersive technologies, the visualisation practices they support, and emerging trends.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 7.1: Trends and future direction in Visual Analytics</strong>",
+            "topic_description": "Module 7.1: Trends and future direction in Visual Analytics This topic explores future trends in data visualisation theory and practice. Live session: This session will explore immersive technologies, the visualisation practices they support, and emerging trends. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
