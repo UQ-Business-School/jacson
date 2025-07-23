@@ -1,4 +1,8 @@
 {
+    "course_title": "Advanced Studies in Marketing",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG4501-60299-7460",
     "full_course_code": "MKTG4501-60299-7460",
     "course_code": "MKTG4501",
@@ -32,55 +36,55 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Advanced Study in Marketing Proposal (A1)",
             "special_indicators": [],
-            "weighting": "30% Individual; 2,000 Words",
-            "due_date": "6/09/2024 2:00 pm",
+            "weighting": "<dd>30% Individual; 2,000 Words </dd>",
+            "due_date": "<dd><p> 6/09/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Project",
-            "task_description": "A written project plan/proposal (maximum 2000 words and 12 pages, excluding references and appendices) outlining an advanced study in marketing. A draft copy of a survey must be attached as an appendix item (export from online survey software Qualtrics).AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submission of the Assignment on Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A written project plan/proposal (maximum 2000 words and 12 pages, excluding references and appendices) outlining an advanced study in marketing. A draft copy of a survey must be attached as an appendix item (export from online survey software Qualtrics).</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission of the Assignment on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Strategic Marketing Presentation (A2)",
             "special_indicators": [],
-            "weighting": "20% Individual",
-            "due_date": "8/10/2024 2:00 pm",
+            "weighting": "<dd>20% Individual </dd>",
+            "due_date": "<dd><p> 8/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "A presentation (20 minutes, inclusive of 15 minutes presentation and 5 minutes question/discussion time) of a strategic marketing plan based on the results of an advanced study in marketing.Please Note:The presentation will be recorded for marking purposes.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
-            "submission_guidelines": "Blackboard submission",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A presentation (20 minutes, inclusive of 15 minutes presentation and 5 minutes question/discussion time) of a strategic marketing plan based on the results of an advanced study in marketing.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Blackboard submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Advanced Study in Marketing Report (A3)",
             "special_indicators": [],
-            "weighting": "50% Individual",
-            "due_date": "4/11/2024 5:00 pm",
+            "weighting": "<dd>50% Individual </dd>",
+            "due_date": "<dd><p> 4/11/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Project",
-            "task_description": "A written project report (maximum 5000 words and 30 pages, excluding references and appendices) of the full technical results of an advanced study in marketing.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
-            "submission_guidelines": "Blackboard submission",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A written project report (maximum 5000 words and 30 pages, excluding references and appendices) of the full technical results of an advanced study in marketing.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Blackboard submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Introduction to advanced studies in marketingIntroduction to advanced studies in marketingLearning outcomes:L01",
-            "topic_title": "Introduction to advanced studies in marketing",
-            "topic_description": "Introduction to advanced studies in marketing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to advanced studies in marketing</strong><br/><p>Introduction to advanced studies in marketing</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to advanced studies in marketing</strong>",
+            "topic_description": "Introduction to advanced studies in marketing Introduction to advanced studies in marketing",
             "learning_outcomes": [
                 "L01"
             ]
@@ -88,9 +92,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Coming up with interesting research ideasComing up with interesting research ideasLearning outcomes:L01, L03",
-            "topic_title": "Coming up with interesting research ideas",
-            "topic_description": "Coming up with interesting research ideas",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coming up with interesting research ideas</strong><br/><p>Coming up with interesting research ideas</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Coming up with interesting research ideas</strong>",
+            "topic_description": "Coming up with interesting research ideas Coming up with interesting research ideas",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -99,9 +103,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Aligning market research with organisation policyAligning market research with organisation policyLearning outcomes:L01, L02, L04",
-            "topic_title": "Aligning market research with organisation policy",
-            "topic_description": "Aligning market research with organisation policy",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Aligning market research with organisation policy</strong><br/><p>Aligning market research with organisation policy</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Aligning market research with organisation policy</strong>",
+            "topic_description": "Aligning market research with organisation policy Aligning market research with organisation policy",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -111,9 +115,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Collecting data for high quality researchCollecting data for high quality researchLearning outcomes:L03",
-            "topic_title": "Collecting data for high quality research",
-            "topic_description": "Collecting data for high quality research",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Collecting data for high quality research</strong><br/><p>Collecting data for high quality research</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Collecting data for high quality research</strong>",
+            "topic_description": "Collecting data for high quality research Collecting data for high quality research",
             "learning_outcomes": [
                 "L03"
             ]
@@ -121,9 +125,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Ethics and Survey DesignEthics and Survey DesignLearning outcomes:L03",
-            "topic_title": "Ethics and Survey Design",
-            "topic_description": "Ethics and Survey Design",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Survey Design</strong><br/><p>Ethics and Survey Design</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Ethics and Survey Design</strong>",
+            "topic_description": "Ethics and Survey Design Ethics and Survey Design",
             "learning_outcomes": [
                 "L03"
             ]
@@ -131,9 +135,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Sampling design and data collectionSampling design and data collectionLearning outcomes:L03",
-            "topic_title": "Sampling design and data collection",
-            "topic_description": "Sampling design and data collection",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sampling design and data collection</strong><br/><p>Sampling design and data collection</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Sampling design and data collection</strong>",
+            "topic_description": "Sampling design and data collection Sampling design and data collection",
             "learning_outcomes": [
                 "L03"
             ]
@@ -141,9 +145,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Advanced study in marketing proposalAdvanced study in marketing proposalLearning outcomes:L03",
-            "topic_title": "Advanced study in marketing proposal",
-            "topic_description": "Advanced study in marketing proposal",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced study in marketing proposal</strong><br/><p>Advanced study in marketing proposal</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Advanced study in marketing proposal</strong>",
+            "topic_description": "Advanced study in marketing proposal Advanced study in marketing proposal",
             "learning_outcomes": [
                 "L03"
             ]
@@ -151,9 +155,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Advanced marketing intelligence modellingAdvanced marketing intelligence modellingLearning outcomes:L03, L05",
-            "topic_title": "Advanced marketing intelligence modelling",
-            "topic_description": "Advanced marketing intelligence modelling",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced marketing intelligence modelling</strong><br/><p>Advanced marketing intelligence modelling</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Advanced marketing intelligence modelling</strong>",
+            "topic_description": "Advanced marketing intelligence modelling Advanced marketing intelligence modelling",
             "learning_outcomes": [
                 "L03",
                 "L05"
@@ -162,9 +166,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Pilot data analysis and research quality controlPilot data analysis and research quality controlLearning outcomes:L03, L04, L05",
-            "topic_title": "Pilot data analysis and research quality control",
-            "topic_description": "Pilot data analysis and research quality control",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pilot data analysis and research quality control</strong><br/><p>Pilot data analysis and research quality control</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Pilot data analysis and research quality control</strong>",
+            "topic_description": "Pilot data analysis and research quality control Pilot data analysis and research quality control",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -174,17 +178,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-semester break",
-            "topic_title": "In-semester break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Data AnalysisData AnalysisLearning outcomes:L03, L04, L05",
-            "topic_title": "Data Analysis",
-            "topic_description": "Data Analysis",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analysis</strong><br/><p>Data Analysis</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Data Analysis</strong>",
+            "topic_description": "Data Analysis Data Analysis",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -194,9 +198,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Strategic Marketing Presentations:Strategic Marketing PresentationsLearning Objectives: 1, 2, 3, 4, 5Learning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Strategic Marketing Presentations:",
-            "topic_description": "Strategic Marketing Presentations\nLearning Objectives: 1, 2, 3, 4, 5",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Marketing Presentations:</strong><br/><p>Strategic Marketing Presentations<br/>\nLearning Objectives: 1, 2, 3, 4, 5</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategic Marketing Presentations:</strong>",
+            "topic_description": "Strategic Marketing Presentations: Strategic Marketing Presentations Learning Objectives: 1, 2, 3, 4, 5",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -208,9 +212,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Strategic Marketing PresentationsStrategic Marketing PresentationsLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Strategic Marketing Presentations",
-            "topic_description": "Strategic Marketing Presentations",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Marketing Presentations</strong><br><p>Strategic Marketing Presentations</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategic Marketing Presentations</strong>",
+            "topic_description": "Strategic Marketing Presentations Strategic Marketing Presentations",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -222,9 +226,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Course Review and ReflectionsCourse Review and ReflectionsLearning outcomes:L01",
-            "topic_title": "Course Review and Reflections",
-            "topic_description": "Course Review and Reflections",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Reflections</strong><br/><p>Course Review and Reflections</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Review and Reflections</strong>",
+            "topic_description": "Course Review and Reflections Course Review and Reflections",
             "learning_outcomes": [
                 "L01"
             ]
