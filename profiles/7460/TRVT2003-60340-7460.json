@@ -1,0 +1,437 @@
+{
+    "course_title": "Project Management for Tourism and Events",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TRVT2003-60340-7460",
+    "full_course_code": "TRVT2003-60340-7460",
+    "course_code": "TRVT2003",
+    "class_code": "60340",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Discuss the theoretical and practical components of project planning and operations"
+        },
+        {
+            "number": "LO2.",
+            "description": "Use international case studies to demonstrate comprehensive knowledge of event design principles"
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop operational plans to strategically facilitate effective and efficient planning and management of events and tourism-related projects"
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically engage with issues of risk management, workforce, and logistics"
+        },
+        {
+            "number": "LO5.",
+            "description": "Work effectively in teams to identify and propose solutions for real-world tourism and events operational issues"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Review Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30% 3 quizzes at 10% each </dd>",
+            "due_date": "<dd><p> 20/08/2024 8:00 pm</p>\n<p> 17/09/2024 8:00 pm</p>\n<p> 15/10/2024 8:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Three non-cumulative review quizzes (10% each) will be administered throughout the semester that will cover the course lecture material, readings, and the tutorial activities. </li>\n<li>60 minutes will be allowed to complete each quiz between <strong>8am and 8pm on Tuesday of the scheduled week. </strong></li>\n<li>Each quiz will consist of 10 questions consisting of an array of question types.</li>\n<li>The questions will primarily require you to <strong>individually</strong> complete the problem based learning activities from our weekly tutorials. </li>\n<li>Questions types will include open submission, drawing figures, constructing charts, multiple choice, true/false and/or short answer questions drawn from the class content from the preceding weeks of content. </li>\n<li>All quizzes will be completed <strong>fully online via Inspera Assessment.</strong> Inspera Assessment provides additional functionality to complement the existing suite of digital learning tools at UQ with a greater range of question types, accessibility provisions, and non-English languages.</li>\n<li>A formative practice quiz to allow students to gain familiarity with the types of questions to be asked will be available from the start of the course.</li>\n</ul>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Inspera accessed through Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Elevator Pitch",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 26/08/2024</p>\n<p>\n</p><p>Due live in your week 6 tutorial</p>\n<p><br/></p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students work individually to pitch their ideas in response to the client’s event tourism briefs as a scaffolding assessment for the client proposal.</li>\n<li>The pitch will be delivered live in class individually in week 6 of the term.</li>\n<li>From the pitch, feedback will be provided by the class and teaching team to help refine and improve their ideas for the proposal. </li>\n<li>The elevator pitch will be 2-3 minutes maximum (strictly enforced).</li>\n<li>You are required to attend all pitches and provide feedback to your peers (just as they will be providing feedback for you). </li>\n<li>The results of the elevator pitch and feedback provided will help groups shape and refine their ideas for the Group Event Pitch due during exam week.</li>\n<li>A detailed presentation schedule will be provided to the class via Blackboard.</li>\n<li><strong>Please Note: </strong>The pitch will be recorded for marking purposes.</li>\n</ul>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission in class via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Client Event Proposal Personal Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 15/11/2024</p>\n<p>\n</p><p>Due at November 15th at 5pm via Blackboard. </p></dd>",
+            "learning_objectives": "L03",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task requires you to individually write a 1,000 to 1,500 reflection essay on your experience working on the Client Event Proposal Assessment from receiving the client brief to delivering the final proposal. </p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard, will be subject to plagarism, orginality and AI review.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Client Event Tourism Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 11/11/2024 - 15/11/2024</p>\n<p>\n</p><p>Due during exam week 2, TBA</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students work in teams of 4-6 students all term to develop an event tourism plan for a real client from the Brisbane business community.</li>\n<li>During week 2 of the term, the client provides event tourism briefs directly to the class. From these briefs, the groups develop event tourism proposals directly in response to the client’s real world problems and objectives. The proposals will cover all topics in the course including scoping, site selection, site layout, staffing and volunteer requirements, staging and logistics, risk management, and financing and budgets.</li>\n<li>Students use the project management tools they have developed throughout the term including Gantt charts, run sheets, work break down structure, and site maps to support their proposal. The project will be conducted in partnership with EventsAir, the industry leading project management software program, to provide students with software training in developing their proposal. The presentation and report will be delivered directly to the client at the end of the term. </li>\n<li>Teams will be created by the students with assistance from the teaching staff in week 1. Students will work in these groups all semester.</li>\n<li><strong>No hard copy report</strong> is required but supplementary materials such as site plans, timelines etc. are allowed as handouts with a limit of 10 single sided pages maximum.</li>\n<li>Your mark will be based on your individual contribution to the assessment task. Thus, you will be required to complete a peer evaluation at mid-semester and the end of the semester. Individual grades will be calculated as the group score (self-rated score included) weighted by the peer evaluation score.</li>\n<li>The pitch will be presented to the client and teaching staff at the end of the semester and will be <strong>12 minutes</strong> in duration maximum. </li>\n<li>Complete details regarding the assessment task will be provided on Blackboard. </li>\n<li>The my.uq website for Study Skills-&gt;Group Work <a href=\"https://my.uq.edu.au/information-and-services/student-support/study-skills/group-work\">https://my.uq.edu.au/information-and-services/student-support/study-skills/group-work</a> </li>\n<li>UQ’s edX course - Working in Teams: A Practical Guide <a href=\"https://www.edx.org/course/working-in-teams-a-practical-guide\">https://www.edx.org/course/working-in-teams-a-practical-guide</a></li>\n</ul>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Through a live presentation and supplementary materials.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intro to Event &amp; Tourism Project Mgmt</strong><br><p>Introduction to Problem Based Learning (PBL); Intro to the project management for events and tourism; group formation; tutorials begin this week.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Intro to Event &amp; Tourism Project Mgmt</strong>",
+            "topic_description": "Intro to Event & Tourism Project Mgmt Introduction to Problem Based Learning (PBL); Intro to the project management for events and tourism; group formation; tutorials begin this week.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1</strong><br><p>Maryborough Motel and Conference Centre Case Study</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1</strong>",
+            "topic_description": "Tutorial 1 Maryborough Motel and Conference Centre Case Study",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creativity and design</strong><br/><p>Developing an event tourism concept; Designing events/projects; tutorial PBL activities</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Creativity and design</strong>",
+            "topic_description": "Creativity and design Developing an event tourism concept; Designing events/projects; tutorial PBL activities",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/><p>Brisbane Broncos Case Study</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2 Brisbane Broncos Case Study",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Proposals and bidding</strong><br/><p>Developing and responding to project proposal; tutorial PBL activities; client meeting (mandatory online lecture attendance)</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Proposals and bidding</strong>",
+            "topic_description": "Proposals and bidding Developing and responding to project proposal; tutorial PBL activities; client meeting (mandatory online lecture attendance)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Victoria Park Case Study</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3 Victoria Park Case Study",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Events Air Training; no tutorials</strong><br/><p>No Class, Ekka Public Holiday(Public Holiday): Events Air Training</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Events Air Training; no tutorials</strong>",
+            "topic_description": "Events Air Training; no tutorials No Class, Ekka Public Holiday(Public Holiday): Events Air Training",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/><p><strong>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4 Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stakeholders and feasibility</strong><br/><p>Feasibility screening for events internal v external stakeholders, stakeholder management, stakeholder maps; tutorial PBL activities; Quiz #1</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Stakeholders and feasibility</strong>",
+            "topic_description": "Stakeholders and feasibility Feasibility screening for events internal v external stakeholders, stakeholder management, stakeholder maps; tutorial PBL activities; Quiz #1",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/><p>MBRIT Case Study</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5 MBRIT Case Study",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Symposium",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Elevator Pitches</strong><br/><p>Elevator pitches presented live;</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Elevator Pitches</strong>",
+            "topic_description": "Elevator Pitches Elevator pitches presented live;",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/><p>Elevator Pitch Presentations</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6 Elevator Pitch Presentations",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Logistics</strong><br/><p>Logistics for customers, products and facilities; site plans; tutorial PBL activities</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Logistics</strong>",
+            "topic_description": "Logistics Logistics for customers, products and facilities; site plans; tutorial PBL activities",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/><p>Spicer's Case Study</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7 Spicer's Case Study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Management Tools</strong><br/><p>Gantt charts; critical path analysis; work breakdown structures and more; tutorial PBL activities;</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Project Management Tools</strong>",
+            "topic_description": "Project Management Tools Gantt charts; critical path analysis; work breakdown structures and more; tutorial PBL activities;",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/><p>Icon Group Case Study</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8 Icon Group Case Study",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Workforce</strong><br/><p>Motivating, recruiting, and managing staff and volunteers; tutorial PBL activities; Quiz #2</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Project Workforce</strong>",
+            "topic_description": "Project Workforce Motivating, recruiting, and managing staff and volunteers; tutorial PBL activities; Quiz #2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/><p>Property Council Australia Case Study</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9 Property Council Australia Case Study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project financing</strong><br/><p>Forecasting; budgeting; cash-flow; tutorial PBL activities</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Project financing</strong>",
+            "topic_description": "Project financing Forecasting; budgeting; cash-flow; tutorial PBL activities",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>Riverlife Case Study</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10 Riverlife Case Study",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk management</strong><br/><p>Contingency planning, risk identification and analysis, risk management procedures;security protocols, contracts, legislation; tutorial PBL activities</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Risk management</strong>",
+            "topic_description": "Risk management Contingency planning, risk identification and analysis, risk management procedures;security protocols, contracts, legislation; tutorial PBL activities",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/><p>UQ Sports Case Study</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11 UQ Sports Case Study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Proposal Consultation </strong><br/><p>Quiz #3;</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Proposal Consultation </strong>",
+            "topic_description": "Proposal Consultation Quiz #3;",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12</strong><br/><p>Proposal Consultation</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 12</strong>",
+            "topic_description": "Tutorial 12 Proposal Consultation",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Proposal Consultation </strong><br/><p>Consultation for the Client Event Tourism Proposal;</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Proposal Consultation </strong>",
+            "topic_description": "Proposal Consultation Consultation for the Client Event Tourism Proposal;",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 13</strong><br/><p>Proposal Consultation</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 13</strong>",
+            "topic_description": "Tutorial 13 Proposal Consultation",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        }
+    ]
+}
