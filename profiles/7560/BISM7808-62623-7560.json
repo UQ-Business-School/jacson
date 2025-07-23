@@ -1,0 +1,193 @@
+{
+    "course_title": "Digitalising Business",
+    "study_period": "Sem 2 2025",
+    "location": "Brisbane City",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7808-62623-7560",
+    "full_course_code": "BISM7808-62623-7560",
+    "course_code": "BISM7808",
+    "class_code": "62623",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Design and communicate a cohesive IT Governance framework that aligns with business needs."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate innovative information technologies to identify transformative opportunities to create value."
+        },
+        {
+            "number": "LO3.",
+            "description": "Work collaboratively with peers to analyse key IT governance issues and communicate strategic recommendations to stakeholders."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply evidence-based ethical decision-making for information technology investments for an Indigenous community and reflect on the process."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Impact of Emerging Digital Technologies",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 12/11/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Analytical Report analysing and evaluating the potential impact of an innovative technology upon the student’s employer/ business (past, current, or prospective). The innovative information technology should be based on artificial intelligence. In some circumstances, alternative (but still innovative) information technologies may be considered with permission from the lecturer and where the student has a special interest.</p>\n<p>The analysis considers the implications of the information technology in terms of the challenges and opportunities the technology presents, and the implications for the organisation’s ‘future readiness’ for digital transformation. This analysis should also address the organisation's wider social context in terms of the UN Sustainable Development Goals and its ethical, legal and social responsibilities.</p>\n<p>You are to prepare a short briefing paper appropriate for presentation to the organisation's Board of Directors that make appropriate and well-reasoned recommendations. The recommendations aim to make the organisation more 'future ready' than it currently is.  The enterprise may be any existing real-world enterprise. In practice, this might be the student's past or current employer, or perhaps a prospective future employer.  The briefing presents specific and focussed recommendations (between 4 and 6 recommendations) that are actionable by the Board. At least two recommendations are to consider the UN Sustainable Development Goals and the organisation's ethical, legal, and social responsibilities.</p>\n<p>The analysis should draw on analytical techniques discussed in seminars. </p>\n<p>Key to success in this assessment that the Executive Briefing be clear and concise, and appropriate for its audience. </p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of this assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Learn.UQ in the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "IT Governance Mechanisms in Action Team Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> Week 11</p>\n<p>\n</p><p>During Class</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Team presentation of 15 minutes that gives recommendations on a specific case to a Board/high level committee. This presentation is followed by an interactive question-and-answer session probing the group’s recommendations and their implications.</p>\n<p>Students are allocated by the lecturer to teams of 3-5 students, and are to present a strategic direction forward for the organisation to the class that addresses challenges and issues apparent in the case. Prospective cases are identified in class and through Learn.UQ, and cases are allocated to groups according to preferences where possible.</p>\n<p>This assessment has three aspects.</p>\n<ol>\n<li>The team should present and summarise the key challenges and issues identified as arising from the case.</li>\n<li>The team should present a strategic direction forward for the organisation that makes recommendations regarding IT governance mechanisms and strategy choices to the executive audience indicated by the case. These recommendations are informed by the organisational context of the case as discussed in seminars.</li>\n<li>After the 15 minute presentation, the team leads a question-and-answer discussion with other students (acting in the role of the Board) for up to 10 minutes.</li>\n</ol>\n<p>The presentation requires the audience to act and participate as stakeholders of the organisation discussed in the case. All presentation materials are to be submitted by the end of the teaching session in which the presentation is made. As a team project, an individual peer assessment factor is applied to the team mark to calculate each team member's own individual mark to represent each team member's relative contribution to the project outcome.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Learn.UQ in the Assessment link. All presentation materials are to be submitted by the end of the teaching session in which the presentation is made. As a team project, an individual peer assessment factor is applied to the team mark to calculate each team member's own individual mark to represent each team member's relative contribution to the project outcome.  </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Ethical Decision Making Case Study",
+            "special_indicators": [],
+            "weighting": "<dd>30% Executive Briefing 20% and Explanatory Note 10% </dd>",
+            "due_date": "<dd><p> 31/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment has two parts.</p>\n<p><strong>Part 1: Executive Briefing - Commissioning Technological Services in an Indigenous Community (20% individual)</strong></p>\n<p>An executive briefing that considers and develops a framework for the commissioning of technologically-based services in an Indigenous Community.  The framework relates to a case study scenario based on an Indigenous organisation.  The framework identifies the key elements that need to be considered in replicating this particular technology service model into a new Indigenous community setting.  </p>\n<p><strong>Part 2: Explanatory Note (10% individual)</strong></p>\n<p>An Explanatory Note in the form of a reflection that supports and explains key decision points in considering and developing the framework, and reflects upon key personal learnings developed in preparing the Executive Briefing.  </p>\n<p><strong>AI Statement</strong></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Learn.UQ in the Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 1 - Introduction to Digitalising Business</strong><br/><p>In this seminar we will introduce the student to the course and clarify student and staff expectations. We will then introduce the three pillars of knowledge underpinning this course: the role of Information Technology governance, the assessment of digital capabilities at the enterprise level, and preparing the organisation for the impacts of emerging technologies. We will conclude by forming teams and setting a framework of expectations for teamwork.</p></p></div></td>",
+            "topic_title": "<strong>Session 1 - Introduction to Digitalising Business</strong>",
+            "topic_description": "Session 1 - Introduction to Digitalising Business In this seminar we will introduce the student to the course and clarify student and staff expectations. We will then introduce the three pillars of knowledge underpinning this course: the role of Information Technology governance, the assessment of digital capabilities at the enterprise level, and preparing the organisation for the impacts of emerging technologies. We will conclude by forming teams and setting a framework of expectations for teamwork.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 2 - Role of IT Governance</strong><br/><p>In this seminar we will discuss the purpose of IT governance and its importance in ensuring organisations deliver value from their IT investments in an ethical manner and addressing their regulatory requirements.</p></p></div></td>",
+            "topic_title": "<strong>Session 2 - Role of IT Governance</strong>",
+            "topic_description": "Session 2 - Role of IT Governance In this seminar we will discuss the purpose of IT governance and its importance in ensuring organisations deliver value from their IT investments in an ethical manner and addressing their regulatory requirements.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 3 - Innovative Information Technologies</strong><br/><p>In this seminar we will consider the potential for business disruption from emerging technologies with a focus on the role and impact of artificial intelligence technologies in business.</p>\n<p><strong>EKKA Public Holiday - Wednesday 13 August 2025</strong> - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>Session 3 - Innovative Information Technologies</strong>",
+            "topic_description": "Session 3 - Innovative Information Technologies In this seminar we will consider the potential for business disruption from emerging technologies with a focus on the role and impact of artificial intelligence technologies in business. EKKA Public Holiday - Wednesday 13 August 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 4 - Future Readiness and IT Innovation</strong><br/><p>In this seminar we will present approaches to the assessment of the impact of innovative information technologies on digital business models, and particularly the organisation's 'future readiness'.</p></p></div></td>",
+            "topic_title": "<strong>Session 4 - Future Readiness and IT Innovation</strong>",
+            "topic_description": "Session 4 - Future Readiness and IT Innovation In this seminar we will present approaches to the assessment of the impact of innovative information technologies on digital business models, and particularly the organisation's 'future readiness'.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 5 - Design Considerations in IT Governance</strong><br/><p>In this seminar we will introduce the Foundation for Execution as a basis for evaluating the alignment of business requirements with IT capabilities and identifying principles in selecting governance mechanisms that match to the organisation.</p></p></div></td>",
+            "topic_title": "<strong>Session 5 - Design Considerations in IT Governance</strong>",
+            "topic_description": "Session 5 - Design Considerations in IT Governance In this seminar we will introduce the Foundation for Execution as a basis for evaluating the alignment of business requirements with IT capabilities and identifying principles in selecting governance mechanisms that match to the organisation.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 6 - Alignment of Enterprise IT Architecture with the Business Operating Model</strong><br/><p>In this seminar we will consider the importance of aligning the Enterprise IT Architecture with the Business requirements, Operating Model, and introduce the Business Engagement Model perspective to help with achieving this alignment.</p></p></div></td>",
+            "topic_title": "<strong>Session 6 - Alignment of Enterprise IT Architecture with the Business Operating Model</strong>",
+            "topic_description": "Session 6 - Alignment of Enterprise IT Architecture with the Business Operating Model In this seminar we will consider the importance of aligning the Enterprise IT Architecture with the Business requirements, Operating Model, and introduce the Business Engagement Model perspective to help with achieving this alignment.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 7 - Governance Mechanisms for Planning and Building Information Technology Investments</strong><br/><p>In this seminar we will introduce governance mechanisms for planning which information technology investments to make, and for designing, implementing, and building new information systems.</p></p></div></td>",
+            "topic_title": "<strong>Session 7 - Governance Mechanisms for Planning and Building Information Technology Investments</strong>",
+            "topic_description": "Session 7 - Governance Mechanisms for Planning and Building Information Technology Investments In this seminar we will introduce governance mechanisms for planning which information technology investments to make, and for designing, implementing, and building new information systems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 8 - Governance Mechanisms for Delivering and Monitoring IT Services</strong><br/><p>In this seminar we will introduce governance mechanisms for the day-to-day delivery of information technology services and for monitoring their performance in terms of efficiency and effectiveness.</p></p></div></td>",
+            "topic_title": "<strong>Session 8 - Governance Mechanisms for Delivering and Monitoring IT Services</strong>",
+            "topic_description": "Session 8 - Governance Mechanisms for Delivering and Monitoring IT Services In this seminar we will introduce governance mechanisms for the day-to-day delivery of information technology services and for monitoring their performance in terms of efficiency and effectiveness.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 9 - Digital Capabilities</strong><br/><p>In this seminar we will set out a framework for identifying and assessing the key digital capabilities at the organisational level that ensure the alignment of business requirements and IT capabilities. These digital capabilities are established in consideration of the organisation's wider social context.</p></p></div></td>",
+            "topic_title": "<strong>Session 9 - Digital Capabilities</strong>",
+            "topic_description": "Session 9 - Digital Capabilities In this seminar we will set out a framework for identifying and assessing the key digital capabilities at the organisational level that ensure the alignment of business requirements and IT capabilities. These digital capabilities are established in consideration of the organisation's wider social context.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 10 - Evaluating Digital Capabilities</strong><br/><p>In this seminar we will set out frameworks for assessing and evaluating the present state of digital capabilities in comparison with business requirements.</p></p></div></td>",
+            "topic_title": "<strong>Session 10 - Evaluating Digital Capabilities</strong>",
+            "topic_description": "Session 10 - Evaluating Digital Capabilities In this seminar we will set out frameworks for assessing and evaluating the present state of digital capabilities in comparison with business requirements.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 1 1 - Board Presentation Day</strong><br/><p><strong>I</strong>n this activity we will hear presentations from all teams in addressing the case assigned to them for the IT Governance Mechanisms in Action Team Project assessment.</p></p></div></td>",
+            "topic_title": "<strong>Session 1 1 - Board Presentation Day</strong>",
+            "topic_description": "Session 1 1 - Board Presentation Day I n this activity we will hear presentations from all teams in addressing the case assigned to them for the IT Governance Mechanisms in Action Team Project assessment.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Session 12 - Review and Conclusion of Digitalising Business</strong><br/><p>In this seminar we will how the course addressed expectations, and end the course with a final review of the topics addressed, key learnings arising from the course (including a consideration of the potential impact of the course upon student practice). The course concludes with a consideration of the next steps in finalising the course assessment(s) and a final activity.</p></p></div></td>",
+            "topic_title": "<strong>Session 12 - Review and Conclusion of Digitalising Business</strong>",
+            "topic_description": "Session 12 - Review and Conclusion of Digitalising Business In this seminar we will how the course addressed expectations, and end the course with a final review of the topics addressed, key learnings arising from the course (including a consideration of the potential impact of the course upon student practice). The course concludes with a consideration of the next steps in finalising the course assessment(s) and a final activity.",
+            "learning_outcomes": []
+        }
+    ]
+}
