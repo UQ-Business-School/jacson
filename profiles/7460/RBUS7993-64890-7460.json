@@ -1,0 +1,65 @@
+{
+    "course_title": "Research Thesis",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS7993-64890-7460",
+    "full_course_code": "RBUS7993-64890-7460",
+    "course_code": "RBUS7993",
+    "class_code": "64890",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and articulate appropriate theroetical frameworks."
+        },
+        {
+            "number": "LO2.",
+            "description": "Carry out a literature review."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop appropriate hypotheses / research questions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Justify methodology."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse and interpret results."
+        },
+        {
+            "number": "LO6.",
+            "description": "Appreciate social and ethical responsibilities and apply ethical standards in research in the field of study."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Coursework Thesis",
+            "special_indicators": [],
+            "weighting": "<dd>100%</dd>",
+            "due_date": "<dd><p> 25/10/2024 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The empirical Masters thesis follows the same basic format as an Honours thesis or PhD thesis. To that end, unless otherwise instructed by the supervisor, the thesis will have a minimum chapter content likely to include:</p>\n<ol>\n<li>Introduction</li>\n<li>Literature review</li>\n<li>Model and hypotheses</li>\n<li>Methodology of data collection</li>\n<li>Analysis, results and discussion</li>\n<li>Conclusion.</li>\n</ol>\n<p>The above structure is an example for an empirical thesis. In cases where a theoretical theses is undertaken a different structure would be required. Students are advised to seek direction of their supervisor on the appropriate structure in such cases.</p>\n<p><strong>Ethics</strong></p>\n<p>Ethics approval must be sought prior to any form of primary data collection. Information regarding the ethics application process is as follows:</p>\n<p>Information about how to submit an application is available here: <a href=\"http://www.uq.edu.au/research/integrity-compliance/low-and-negligible-risk-reviews\"> http://www.uq.edu.au/research/integrity-compliance/low-and-negligible-risk-reviews</a></p>\n<p>All applications should use the HREA form. <a href=\"http://www.uq.edu.au/research/integrity-compliance/hrea\">http://www.uq.edu.au/research/integrity-compliance/hrea</a></p>\n<p>The first committee meeting was held on 31/01, with fortnightly meetings scheduled thereafter. The cut-off date for submissions is one week prior to each scheduled meeting. The schedule for future meetings (and cut-off dates) is available here: <a href=\"http://www.uq.edu.au/research/integrity-compliance/files/human/2017%20BEL%20LNR.xlsx\">http://www.uq.edu.au/research/integrity-compliance/files/human/2017%20BEL%20LNR.xlsx</a></p>\n<p>Any questions regarding the ethics process should be directed to: <a href=\"mailto:BELLNR@UQ.EDU.AU\">BELLNR@UQ.EDU.AU</a></p>\n<p><strong>Thesis Format and Word Count</strong></p>\n<p>The thesis must be the lesser of 20,000 words in length or 100 pages of double spaced printing in 12 point Times New Roman font on A4 paper.</p>\n<p>The fly page must show:</p>\n<ul>\n<li>by (student's name)</li>\n<li>the date</li>\n<li>Supervisor: (name)</li>\n</ul>\n<p>On a separate page show: Acknowledgements</p>\n<p>Signed disclaimer statement which says: “The work presented in this thesis is, to the best of my knowledge and belief, original, except as acknowledged in the text. The material has not been submitted, either in whole or in part, for a degree at this or any other university.”</p>\n<p><strong>DATA and THESIS SUBMISSION</strong></p>\n<p>Students are required to submit all data files and thesis by the due time to avoid penalty. The student must pass the thesis through Turnitin which is available on the Course Blackboard Site and attach the generated report to the thesis for submission. After the thesis is examined a window of opportunity exists for students to amend their thesis for editorial errors and submit a final thesis for publication on eSpace. If a student does not submit a final thesis the first version of the thesis will be automatically published as the final.</p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The thesis is to be submitted electronically to Turnitin located in the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent Research Activity</strong><br/></p></div></td>",
+            "topic_title": "<strong>Independent Research Activity</strong>",
+            "topic_description": "Independent Research Activity",
+            "learning_outcomes": []
+        }
+    ]
+}
