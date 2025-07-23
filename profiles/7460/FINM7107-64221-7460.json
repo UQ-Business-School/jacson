@@ -1,4 +1,8 @@
 {
+    "course_title": "Real Estate and Infrastructure",
+    "study_period": "Sem 2 2024",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7107-64221-7460",
     "full_course_code": "FINM7107-64221-7460",
     "course_code": "FINM7107",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "1/11/2024",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 1/11/2024</p></dd>",
             "learning_objectives": "L02",
             "mode": "Activity/ Performance",
             "category": "Quiz",
-            "task_description": "Students will be required to apply the knowledge and skills acquired during the initial online/self-directed learning content. They will respond to a range of questions relating to fundamental Real estate and Infrastructure concepts.AI STATEMENTThis assessment task evaluates students' abilities, skills and knowledgewithout the aid of generative Artificial Intelligence (AI) or Machine Translation (MT).Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be attempted via Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to apply the knowledge and skills acquired during the initial online/self-directed learning content. They will respond to a range of questions relating to fundamental Real estate and Infrastructure concepts.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge <strong>without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT).</strong> Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be attempted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -65,40 +69,40 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "8/11/2024During Class.",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 8/11/2024</p>\n<p>\n</p><p>During Class.</p></dd>",
             "learning_objectives": "L01, L04, L05",
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "On Day 3 of the face-to -face course you will work on an oral presentation. You will be assessed on your group collaboration and the quality of the answers you present on the day. You will be provided with details of an infrastructure/real estate project and expected to address challenges, impacts and potential outcomes.Please Note:The presentation will be recorded for marking purposes per UQ Policy.You will be provided the opportunity for peer feedback.AI STATEMENTThis assessment task evaluates students' abilities, skills and knowledgewithout the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Assessment will be presented in a live environment.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>On Day 3 of the face-to -face course you will work on an oral presentation. You will be assessed on your group collaboration and the quality of the answers you present on the day. You will be provided with details of an infrastructure/real estate project and expected to address challenges, impacts and potential outcomes.</p>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p>You will be provided the opportunity for peer feedback.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge <strong>without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT)</strong>. Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be presented in a live environment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "A3: Written Case Study Analysis",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "22/11/2024 3:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 22/11/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "Following completion of the online content and face-to-face sessions, students will be required to apply knowledge and skills to analyse an authentic case study and provide recommendations to highlight ways to minimise the challenges, maximise impact and optimise investment returns.AI STATEMENTThis assessment task evaluates students' abilities, skills and knowledgewithout the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Following completion of the online content and face-to-face sessions, students will be required to apply knowledge and skills to analyse an authentic case study and provide recommendations to highlight ways to minimise the challenges, maximise impact and optimise investment returns.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge <strong>without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT)</strong>. Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Multiple weeksFrom Week 1 To Week 3",
             "activity_type": "Not Timetabled",
-            "topic": "Online Learning / Self-Paced Learning14 October – 3 November 2024Fundamental concepts in Real estate and Infrastructure project funding.Learning outcomes:L02",
-            "topic_title": "Online Learning / Self-Paced Learning",
-            "topic_description": "14 October – 3 November 2024\nFundamental concepts in Real estate and Infrastructure project funding.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Learning / Self-Paced Learning</strong><br/><p><strong>14 October – 3 November 2024</strong></p>\n<p>Fundamental concepts in Real estate and Infrastructure project funding.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Online Learning / Self-Paced Learning</strong>",
+            "topic_description": "Online Learning / Self-Paced Learning 14 October – 3 November 2024 Fundamental concepts in Real estate and Infrastructure project funding.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -106,9 +110,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Workshop",
-            "topic": "Face-to-Face Learning Day 1Wednesday 6/11:Real EstateLearning outcomes:L01, L03, L04, L05",
-            "topic_title": "Face-to-Face Learning Day 1",
-            "topic_description": "Wednesday 6/11: Real Estate",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning Day 1</strong><br/><p><strong>Wednesday 6/11:</strong> Real Estate</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning Day 1</strong>",
+            "topic_description": "Face-to-Face Learning Day 1 Wednesday 6/11: Real Estate",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -117,11 +121,36 @@
             ]
         },
         {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning: Day 2</strong><br/><p><strong>Thursday 7/11:</strong> Infrastructure</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning: Day 2</strong>",
+            "topic_description": "Face-to-Face Learning: Day 2 Thursday 7/11: Infrastructure",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning: Day 3</strong><br/><p><strong>Friday 8/11:</strong> Combined for Project Walkthrough.</p>\n<p><em>(Live oral group presentations for assessment)</em></p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning: Day 3</strong>",
+            "topic_description": "Face-to-Face Learning: Day 3 Friday 8/11: Combined for Project Walkthrough. (Live oral group presentations for assessment)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Multiple weeksFrom Week 5 To Week 6",
             "activity_type": "Not Timetabled",
-            "topic": "Online Study for AssessmentLearning outcomes:L01, L02, L03, L04, L05",
-            "topic_title": "Online Study for Assessment",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Study for Assessment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Online Study for Assessment</strong>",
+            "topic_description": "Online Study for Assessment",
             "learning_outcomes": [
                 "L01",
                 "L02",
