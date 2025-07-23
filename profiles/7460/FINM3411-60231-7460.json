@@ -1,4 +1,8 @@
 {
+    "course_title": "Applied Corporate Finance",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3411-60231-7460",
     "full_course_code": "FINM3411-60231-7460",
     "course_code": "FINM3411",
@@ -41,16 +45,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "Written Report - Due 15:00 20/08/2024Team Presentation During Tutorial 7/10/2024 - 11/10/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Written Report - Due 15:00 20/08/2024</p>\n<p>Team Presentation During Tutorial 7/10/2024 - 11/10/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Oral, Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Presentation",
-            "task_description": "The team case study will involve the estimation of the weighted average cost of capital (WACC) for a firm.Each team will prepare a detailed WACC analysis, a short report, and a short presentation.The case study will be completed in randomly assigned teams.Team work must be submitted electronically.Full details and relevant materials will be posted on the course Blackboard site.Peer evaluation details will be provided with the case materials.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit report through Blackboard Assessment link. Only one team member is to submit. All team member names must appear on the cover page.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The team case study will involve the estimation of the weighted average cost of capital (WACC) for a firm.</li>\n<li>Each team will prepare a detailed WACC analysis, a short report, and a short presentation.</li>\n<li>The case study will be completed in randomly assigned teams.</li>\n<li>Team work must be submitted electronically.</li>\n<li>Full details and relevant materials will be posted on the course Blackboard site.</li>\n<li>Peer evaluation details will be provided with the case materials.</li>\n</ul>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit report through Blackboard Assessment link. Only one team member is to submit. All team member names must appear on the cover page.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,16 +65,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "4/09/2024During Class",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 4/09/2024</p>\n<p>\n</p><p>During Class</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The In-Semester Exam covers material from all classes prior to the exam.A combination of short answer and problem solving questions will be included in the exam.More information about the exam will be shared in class and posted to the course Blackboard site.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The In-Semester Exam covers material from all classes prior to the exam.</li>\n<li>A combination of short answer and problem solving questions will be included in the exam.</li>\n<li>More information about the exam will be shared in class and posted to the course Blackboard site.</li>\n</ul>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -81,25 +85,25 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L04, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "This exam is a online Blackboard exam.The final exam will cover material from after the in-semester exam.A combination of short answer and problem solving questions will be included in the exam.Further information about the final exam will be shared in class and posted to the course Blackboard site.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>This exam is a online Blackboard exam.</li>\n<li>The final exam will cover material from after the in-semester exam.</li>\n<li>A combination of short answer and problem solving questions will be included in the exam.</li>\n<li>Further information about the final exam will be shared in class and posted to the course Blackboard site.</li>\n</ul>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "Weighted-Average Cost of CapitalLearning outcomes:L02, L03",
-            "topic_title": "Weighted-Average Cost of Capital",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weighted-Average Cost of Capital</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Weighted-Average Cost of Capital</strong>",
+            "topic_description": "Weighted-Average Cost of Capital",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -108,20 +112,40 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "T1 - Weighted-Average Cost of CapitalLearning outcomes:L02, L03",
-            "topic_title": "T1 - Weighted-Average Cost of Capital",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T1 - Weighted-Average Cost of Capital</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>T1 - Weighted-Average Cost of Capital</strong>",
+            "topic_description": "T1 - Weighted-Average Cost of Capital",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Optimal Capital Structure I</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Optimal Capital Structure I</strong>",
+            "topic_description": "Optimal Capital Structure I",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "T2 - Optimal Capital Structure ILearning outcomes:L01",
-            "topic_title": "T2 - Optimal Capital Structure I",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T2 - Optimal Capital Structure I</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>T2 - Optimal Capital Structure I</strong>",
+            "topic_description": "T2 - Optimal Capital Structure I",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Optimal Capital Structure II</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Optimal Capital Structure II</strong>",
+            "topic_description": "Optimal Capital Structure II",
             "learning_outcomes": [
                 "L01"
             ]
@@ -129,9 +153,19 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "T3 - Optimal Capital Structure IILearning outcomes:L01",
-            "topic_title": "T3 - Optimal Capital Structure II",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T3 - Optimal Capital Structure II</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>T3 - Optimal Capital Structure II</strong>",
+            "topic_description": "T3 - Optimal Capital Structure II",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Optimal Capital Structure III</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Optimal Capital Structure III</strong>",
+            "topic_description": "Optimal Capital Structure III",
             "learning_outcomes": [
                 "L01"
             ]
@@ -139,46 +173,99 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "T5 - Optimal capital structure IIILearning outcomes:L01",
-            "topic_title": "T5 - Optimal capital structure III",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T5 - Optimal capital structure III</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>T5 - Optimal capital structure III</strong>",
+            "topic_description": "T5 - Optimal capital structure III",
             "learning_outcomes": [
                 "L01"
             ]
         },
         {
-            "learning_period": "Week 6",
-            "activity_type": "Tutorial",
-            "topic": "T5 - Dividend imputation and gammaLearning outcomes:L02, L03",
-            "topic_title": "T5 - Dividend imputation and gamma",
-            "topic_description": "",
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dividend imputation and gamma</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Dividend imputation and gamma</strong>",
+            "topic_description": "Dividend imputation and gamma",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T5 - Dividend imputation and gamma</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>T5 - Dividend imputation and gamma</strong>",
+            "topic_description": "T5 - Dividend imputation and gamma",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Catch-up and In-Semester Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Catch-up and In-Semester Review</strong>",
+            "topic_description": "Catch-up and In-Semester Review",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "No TutorialNo Tutorial due to In-Semester Exam this week.",
-            "topic_title": "No Tutorial",
-            "topic_description": "No Tutorial due to In-Semester Exam this week.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/><p>No Tutorial due to In-Semester Exam this week.</p></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial No Tutorial due to In-Semester Exam this week.",
             "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>In-Semester exam during class</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam In-Semester exam during class",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
         },
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "No TutorialSelf-Paced Study - No tutorial this week",
-            "topic_title": "No Tutorial",
-            "topic_description": "Self-Paced Study - No tutorial this week",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/><p>Self-Paced Study - No tutorial this week</p></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial Self-Paced Study - No tutorial this week",
             "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Risk Management I</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Corporate Risk Management I</strong>",
+            "topic_description": "Corporate Risk Management I",
+            "learning_outcomes": [
+                "L04"
+            ]
         },
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "T6 - Corporate Risk Management ILearning outcomes:L04",
-            "topic_title": "T6 - Corporate Risk Management I",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T6 - Corporate Risk Management I</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T6 - Corporate Risk Management I</strong>",
+            "topic_description": "T6 - Corporate Risk Management I",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Risk Management II</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Corporate Risk Management II</strong>",
+            "topic_description": "Corporate Risk Management II",
             "learning_outcomes": [
                 "L04"
             ]
@@ -186,50 +273,90 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakNo classes during In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "No classes during In-Semester Break",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No classes during In-Semester Break</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No classes during In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "T7 - Corporate Risk Management IILearning outcomes:L04",
-            "topic_title": "T7 - Corporate Risk Management II",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T7 - Corporate Risk Management II</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T7 - Corporate Risk Management II</strong>",
+            "topic_description": "T7 - Corporate Risk Management II",
             "learning_outcomes": [
                 "L04"
             ]
         },
         {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mergers and Acquisitions</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Mergers and Acquisitions</strong>",
+            "topic_description": "Mergers and Acquisitions",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Team Case PresentationsLearning outcomes:L02, L03",
-            "topic_title": "Team Case Presentations",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Case Presentations</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Team Case Presentations</strong>",
+            "topic_description": "Team Case Presentations",
             "learning_outcomes": [
                 "L02",
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Lecture</strong><br/><p>No Lecture this week to focus on team presentations</p></p></div></td>",
+            "topic_title": "<strong>No Lecture</strong>",
+            "topic_description": "No Lecture No Lecture this week to focus on team presentations",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "T8 - Mergers and AcquisitionsLearning outcomes:L05",
-            "topic_title": "T8 - Mergers and Acquisitions",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T8 - Mergers and Acquisitions</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>T8 - Mergers and Acquisitions</strong>",
+            "topic_description": "T8 - Mergers and Acquisitions",
             "learning_outcomes": [
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 13",
-            "activity_type": "Tutorial",
-            "topic": "T9 - Real OptionsLearning outcomes:L04",
-            "topic_title": "T9 - Real Options",
-            "topic_description": "",
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Real Options I</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Real Options I</strong>",
+            "topic_description": "Real Options I",
             "learning_outcomes": [
                 "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T9 - Real Options</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T9 - Real Options</strong>",
+            "topic_description": "T9 - Real Options",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Real Options II / Course review</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Real Options II / Course review</strong>",
+            "topic_description": "Real Options II / Course review",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
             ]
         }
     ]
