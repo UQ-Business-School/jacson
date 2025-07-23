@@ -1,4 +1,8 @@
 {
+    "course_title": "Cyber Security Human Capital Leadership",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7635-60286-7460",
     "full_course_code": "MGTS7635-60286-7460",
     "course_code": "MGTS7635",
@@ -28,55 +32,55 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Discussion board posts and oral presentations",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "22/07/2024 - 25/10/2024Prior to and during each seminar",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 22/07/2024 - 25/10/2024</p>\n<p>\n</p><p>Prior to and during each seminar</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Oral, Written",
             "category": "Reflection",
-            "task_description": "You must reflect on the required course readings for each week and consider how key concepts and principles presented in those readings affect your own leadership competence. This course requirement is formative and does not attract any marks toward your final grade. However, the course process is designed to assist you in identifying and capturing key reflections on course concepts you will analyze in your final graded individual reflective essay.The work you undertake in preparing and presenting these reflections will be integrated into (and form part of) your final graded individual reflective essay (60% of your grade).You must compose your own written individual reflections, submit them to Turnitin, and post them on the course Blackboard discussion board prior to each scheduled seminar. Then, you will orally present your reflections at the beginning of each seminar and discuss them with your peers and the course instructor.Your reflections must be 400-500 words each using the following format and prompts:Background: What was my prior understanding of this topic?Incident: How has my understanding of this topic changed as a result of these readings?Sustain: What will I sustain or do the same in the future?Improve: What will I improve or do differently in the future?Next actions: What actions will I take next?More detailed instructions for this assignment are posted under Assessments on the course Blackboard site.AI tools and technologies are prohibited in this assessment and any detected use will be considered academic misconduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You must submit each written reflection through Turnitin on the course Blackboard Assessment link before posting them to the course Blackboard Discussion Board.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You must reflect on the required course readings for each week and consider how key concepts and principles presented in those readings affect your own leadership competence. This course requirement is formative and does not attract any marks toward your final grade. However, the course process is designed to assist you in identifying and capturing key reflections on course concepts you will analyze in your final graded individual reflective essay.</p>\n<p><strong>The work you undertake in preparing and presenting these reflections will be integrated into (and form part of) your final graded individual reflective essay (60% of your grade).</strong></p>\n<p>You must compose your own written individual reflections, submit them to Turnitin, and post them on the course Blackboard discussion board prior to each scheduled seminar. Then, you will orally present your reflections at the beginning of each seminar and discuss them with your peers and the course instructor.</p>\n<p>Your reflections must be 400-500 words each using the following format and prompts:</p>\n<p>Background: What was my prior understanding of this topic?</p>\n<p>Incident: How has my understanding of this topic changed as a result of these readings?</p>\n<p>Sustain: What will I sustain or do the same in the future?</p>\n<p>Improve: What will I improve or do differently in the future?</p>\n<p>Next actions: What actions will I take next? </p>\n<p>More detailed instructions for this assignment are posted under Assessments on the course Blackboard site.</p>\n<p><strong>AI tools and technologies are prohibited in this assessment and any detected use will be considered academic misconduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit each written reflection through Turnitin on the course Blackboard Assessment link before posting them to the course Blackboard Discussion Board.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Snowden Case Study",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "20/09/2024 2:00 pmIn class presentation",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 20/09/2024 2:00 pm</p>\n<p>\n</p><p>In class presentation</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Presentation",
-            "task_description": "This is an individual project where you'll create and submit a pre-recorded video presentation,not to exceed 15 minutes in duration. You must conduct an individual case study analysis of the events surrounding the leaking of U.S. government information by Edward Snowden in 2013. You will conduct your analysis using concepts and principles from the course while also assuming a cyber security leader's perspective, imagining yourself as a senior leader in the U.S. government, responsible for dealing with the events and outcomes of the Snowden incident.You are required to watch the documentary film,Snowden's Great Escape(2015) (in the course learning resources and available through the UQ library) and use case study materials provided by the instructor. However, you may use additional resources such as print and online articles, government press releases and briefings, the documentary filmCitizenfour(2014), and the movie,Snowden(2016) (which are also available through the UQ library).You must use the following format and prompts for your analysis and presentation:Background:What is your understanding of the situation leading up to the incident? What was supposed to happen?Incident:What occurred? What actually did happen? (Use the '5W's+' (Who, What, When, Where, How and Why) to relate the incident.)Sustain:What three (3) things would you continue to do in the future and why? (Apply course concepts here.)Improve:What three (3) things would you do differently in the future and why? (Apply course concepts here.)Next Actions:What actions will you take next and why? (Apply course concepts here.)Additional information:- A separate grading rubric will be used to assess the quality of the presentation. Students should refer to this rubric when producing their presentation.- Students can determine the best format for their pre-recorded video presentations (e.g., PowerPoint slides, live demonstration, animated video).- Video presentations should be submitted via Blackboard.AI tools and technologies are prohibited in this assessment and any detected use will be considered academic misconduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual project where you'll create and submit a pre-recorded video presentation, <strong>not to exceed 15 minutes in duration</strong>. You must conduct an individual case study analysis of the events surrounding the leaking of U.S. government information by Edward Snowden in 2013. You will conduct your analysis using concepts and principles from the course while also assuming a cyber security leader's perspective, imagining yourself as a senior leader in the U.S. government, responsible for dealing with the events and outcomes of the Snowden incident.</p>\n<p>You are required to watch the documentary film, <em>Snowden's Great Escape</em> (2015) (in the course learning resources and available through the UQ library) and use case study materials provided by the instructor. However, you may use additional resources such as print and online articles, government press releases and briefings, the documentary film <em>Citizenfour </em>(2014), and the movie, <em>Snowden </em>(2016) (which are also available through the UQ library). </p>\n<p>You must use the following format and prompts for your analysis and presentation:</p>\n<p><strong>Background:</strong> What is your understanding of the situation leading up to the incident? What was supposed to happen?</p>\n<p><strong>Incident: </strong>What occurred? What actually did happen? (Use the '5W's+' (Who, What, When, Where, How and Why) to relate the incident.)</p>\n<p><strong>Sustain:</strong> What three (3) things would you continue to do in the future and why? (Apply course concepts here.)</p>\n<p><strong>Improve:</strong> What three (3) things would you do differently in the future and why? (Apply course concepts here.)</p>\n<p><strong>Next Actions:</strong> What actions will you take next and why? (Apply course concepts here.)</p>\n<p><strong>Additional information:</strong></p>\n<p>  - A separate grading rubric will be used to assess the quality of the presentation. Students should refer to this rubric when producing their presentation.</p>\n<p>  - Students can determine the best format for their pre-recorded video presentations (e.g., PowerPoint slides, live demonstration, animated video).</p>\n<p>  - Video presentations should be submitted via Blackboard.</p>\n<p><strong>AI tools and technologies are prohibited in this assessment and any detected use will be considered academic misconduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Individual Reflective Essay",
             "special_indicators": [],
-            "weighting": "60%",
-            "due_date": "4/11/2024 2:00 pm",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 4/11/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Essay/ Critique, Reflection",
-            "task_description": "This course requirement is your major assessment item in the course, worth 60% of your grade.The aim of this assessment is to demonstrate your grasp of course concepts and principles and how you are integrating them into your own leadership competence by writing an individual reflective essay. The work you have done throughout the semester in preparing and presenting your reflections on the Blackboard Discussion Board and during class will assist you greatly in completing this essay.In this essay, you must reflect on key concepts and principles presented during the course and consider how they affect your own competence in cyber security human capital leadership.Your individual reflective essay must be 2500 words in length and use the following format and prompts:Background:What was my prior competence in cyber security human capital leadership?Learning:How has my competence in cyber security human capital leadership changed as a result of this course?Sustain:What will I sustain (or do the same) in my future practice of cyber security human capital leadership?Improve:What will I improve (or do differently) in my future practice of cyber security human capital leadership?Conclusions and Next actions:What do I conclude from this course and what actions will I take next?You must compose your own written individual reflective essay and submit it using Turnitin on the Assessments link on the course Blackboard site.More detailed instructions for this assignment are posted under Assessments on the course Blackboard site.The use of AI technologies and toolsare prohibited in this assessment and any detected use will be considered academic misconduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong><em>This course requirement is your major assessment item in the course, worth 60% of your grade.</em> </strong></p>\n<p>The aim of this assessment is to demonstrate your grasp of course concepts and principles and how you are integrating them into your own leadership competence by writing an individual reflective essay. The work you have done throughout the semester in preparing and presenting your reflections on the Blackboard Discussion Board and during class will assist you greatly in completing this essay. </p>\n<p>In this essay, you must reflect on key concepts and principles presented during the course and consider how they affect your own competence in cyber security human capital leadership. </p>\n<p>Your individual reflective essay must be 2500 words in length and use the following format and prompts:</p>\n<p><strong>Background: </strong>What was my prior competence in cyber security human capital leadership?</p>\n<p><strong>Learning:</strong> How has my competence in cyber security human capital leadership changed as a result of this course?</p>\n<p><strong>Sustain:</strong> What will I sustain (or do the same) in my future practice of cyber security human capital leadership?</p>\n<p><strong>Improve: </strong>What will I improve (or do differently) in my future practice of cyber security human capital leadership?</p>\n<p><strong>Conclusions and Next actions: </strong>What do I conclude from this course and what actions will I take next? </p>\n<p>You must compose your own written individual reflective essay and submit it using Turnitin on the Assessments link on the course Blackboard site.</p>\n<p>More detailed instructions for this assignment are posted under Assessments on the course Blackboard site.</p>\n<p><strong>The use of AI technologies and tools </strong><strong>are prohibited in this assessment and any detected use will be considered academic misconduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Course introductionIntroduction to the course and a discussion of what cyber security human capital leadership means. Students should read required texts in advance of the class.Learning outcomes:L03",
-            "topic_title": "Course introduction",
-            "topic_description": "Introduction to the course and a discussion of what cyber security human capital leadership means. Students should read required texts in advance of the class.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction</strong><br/><p>Introduction to the course and a discussion of what cyber security human capital leadership means. Students should read required texts in advance of the class.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Course introduction</strong>",
+            "topic_description": "Course introduction Introduction to the course and a discussion of what cyber security human capital leadership means. Students should read required texts in advance of the class.",
             "learning_outcomes": [
                 "L03"
             ]
@@ -84,9 +88,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Managing and LeadingStudents will use this time to read required texts and post a reflection on the course discussion board.Learning outcomes:L01",
-            "topic_title": "Managing and Leading",
-            "topic_description": "Students will use this time to read required texts and post a reflection on the course discussion board.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing and Leading</strong><br/><p>Students will use this time to read required texts and post a reflection on the course discussion board.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Managing and Leading</strong>",
+            "topic_description": "Managing and Leading Students will use this time to read required texts and post a reflection on the course discussion board.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -94,9 +98,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Managing and LeadingStudents will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.Learning outcomes:L01, L04",
-            "topic_title": "Managing and Leading",
-            "topic_description": "Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing and Leading</strong><br/><p>Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Managing and Leading</strong>",
+            "topic_description": "Managing and Leading Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -105,9 +109,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "What is culture?Students will use this time to read required texts and post a reflection on the course discussion board.Learning outcomes:L01",
-            "topic_title": "What is culture?",
-            "topic_description": "Students will use this time to read required texts and post a reflection on the course discussion board.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is culture?</strong><br/><p>Students will use this time to read required texts and post a reflection on the course discussion board.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>What is culture?</strong>",
+            "topic_description": "What is culture? Students will use this time to read required texts and post a reflection on the course discussion board.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -115,9 +119,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "What is culture?Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.Learning outcomes:L01, L04",
-            "topic_title": "What is culture?",
-            "topic_description": "Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is culture?</strong><br/><p>Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>What is culture?</strong>",
+            "topic_description": "What is culture? Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -126,9 +130,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Practice Theory: What it is and why it mattersStudents will use this time to read required texts and post a reflection on the course discussion board.Learning outcomes:L02",
-            "topic_title": "Practice Theory: What it is and why it matters",
-            "topic_description": "Students will use this time to read required texts and post a reflection on the course discussion board.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practice Theory: What it is and why it matters</strong><br/><p>Students will use this time to read required texts and post a reflection on the course discussion board.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Practice Theory: What it is and why it matters</strong>",
+            "topic_description": "Practice Theory: What it is and why it matters Students will use this time to read required texts and post a reflection on the course discussion board.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -136,9 +140,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Practice Theory: What it is and why it mattersStudents will present their individual analysis of the Snowden Case Study to the class. A seminar discussion focused on the case study presentations, readings, and reflections will follow.Learning outcomes:L02",
-            "topic_title": "Practice Theory: What it is and why it matters",
-            "topic_description": "Students will present their individual analysis of the Snowden Case Study to the class. A seminar discussion focused on the case study presentations, readings, and reflections will follow.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practice Theory: What it is and why it matters</strong><br/><p>Students will present their individual analysis of the Snowden Case Study to the class. A seminar discussion focused on the case study presentations, readings, and reflections will follow.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Practice Theory: What it is and why it matters</strong>",
+            "topic_description": "Practice Theory: What it is and why it matters Students will present their individual analysis of the Snowden Case Study to the class. A seminar discussion focused on the case study presentations, readings, and reflections will follow.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -146,9 +150,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Understanding and competenceStudents will use this time to read required texts and post a reflection on the course discussion board.Learning outcomes:L02, L03",
-            "topic_title": "Understanding and competence",
-            "topic_description": "Students will use this time to read required texts and post a reflection on the course discussion board.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding and competence</strong><br/><p>Students will use this time to read required texts and post a reflection on the course discussion board.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Understanding and competence</strong>",
+            "topic_description": "Understanding and competence Students will use this time to read required texts and post a reflection on the course discussion board.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -157,9 +161,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Understanding and competenceStudents will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.Learning outcomes:L02, L03",
-            "topic_title": "Understanding and competence",
-            "topic_description": "Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding and competence</strong><br/><p>Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Understanding and competence</strong>",
+            "topic_description": "Understanding and competence Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -168,17 +172,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Leading and managing changeStudents will use this time to read required texts and post a reflection on the course discussion board.Learning outcomes:L02, L03",
-            "topic_title": "Leading and managing change",
-            "topic_description": "Students will use this time to read required texts and post a reflection on the course discussion board.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leading and managing change</strong><br/><p>Students will use this time to read required texts and post a reflection on the course discussion board.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Leading and managing change</strong>",
+            "topic_description": "Leading and managing change Students will use this time to read required texts and post a reflection on the course discussion board.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -187,9 +191,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Leading and managing changeStudents will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.Learning outcomes:L02, L03",
-            "topic_title": "Leading and managing change",
-            "topic_description": "Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leading and managing change</strong><br/><p>Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Leading and managing change</strong>",
+            "topic_description": "Leading and managing change Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -198,9 +202,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Embedding practicesStudents will use this time to read required texts and post a reflection on the course discussion board.Learning outcomes:L04",
-            "topic_title": "Embedding practices",
-            "topic_description": "Students will use this time to read required texts and post a reflection on the course discussion board.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Embedding practices</strong><br/><p>Students will use this time to read required texts and post a reflection on the course discussion board.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Embedding practices</strong>",
+            "topic_description": "Embedding practices Students will use this time to read required texts and post a reflection on the course discussion board.",
             "learning_outcomes": [
                 "L04"
             ]
@@ -208,9 +212,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Embedding practicesStudents will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.Learning outcomes:L04",
-            "topic_title": "Embedding practices",
-            "topic_description": "Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Embedding practices</strong><br/><p>Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Embedding practices</strong>",
+            "topic_description": "Embedding practices Students will present their reflections from required readings to the class. A seminar discussion focused on the readings and reflections will follow.",
             "learning_outcomes": [
                 "L04"
             ]
