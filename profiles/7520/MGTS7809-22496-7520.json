@@ -1,0 +1,108 @@
+{
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7809-22496-7520",
+    "full_course_code": "MGTS7809-22496-7520",
+    "course_code": "MGTS7809",
+    "class_code": "22496",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (02/06/2025 - 28/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Critically evaluate principles, frameworks, and models of SHRM to align with business strategy and values."
+        },
+        {
+            "number": "LO2.",
+            "description": "Make evidence-based decisions on the design and implementation of HR systems and practices to achieve desired sustainable outcomes for the organisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Work collaboratively with peers to analyse HR issues and present strategic and ethical recommendations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse and evaluate the impact of HR systems from multiple stakeholder perspectives, including the impact on Indigenous Australian Peoples."
+        },
+        {
+            "number": "LO5.",
+            "description": "Ethically reflect on different approaches to the management of the workforce."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Executive Board Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "24/05/2025 5:00 pm",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "OverviewFormat: Recorded group presentation; groups are assignedTask: You are required to prepare and present a set of recommendations on a proposed human resource strategy and associated human capital strategy in response to the case presented.Length: 15 mins maximum per group; each team member presents approximately 3 minutesLayout: Choice of own, professional slides designSlides and recording upload to BlackboardFile Format: PPT or PDF for slides; MP4 for recordingFile Name: Group Number_A1Rubric: A marking rubric and instructions will be provided under the \"Assessment\" tab on Blackboard; further details will be provided in the seminarApproaches to AIThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.NoteThe presentation will be recorded for marking purposes per UQ Policy.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission: Online via Blackboard; one upload per group; no hard copies are accepted.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Presentation Peer Assessment",
+            "special_indicators": [],
+            "weighting": "Peer evaluation may impact individual marks.",
+            "due_date": "25/05/2025 5:00 pm",
+            "learning_objectives": "L03",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "OverviewFormat: Group presentation peer assessmentTask: To take into account situations where team members do not contribute equally to a group assessment, a peer assessment tool enables group members to give feedback on the level of contribution that each member gave into the group assessment; complete the peer assessment form providedFile Format: Online formMarks Weighting: 0% of total marks in course; completion is mandatory; group members' peer evaluation may impact individual marksRead full task descriptionHide full task description",
+            "submission_guidelines": "Submission: Online via Blackboard. No hard copies are accepted.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "Late submission may impact your individual mark for the group assessments.",
+            "additional_info": "You cannot defer or apply for an extension for this assessment."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Strategic HR Problem-Solution Report to Executive Board",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "40%",
+            "due_date": "7/06/2025 5:00 pm",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "OverviewFormat: Individual reportTask: In-depth analysis of a Strategic Human Resource Management (SHRM) issue in an organisation (identifying the issue, discussing the issue, and developing solutions)Length: 2500 words, +/- 10%, excluding title page, table of contents, list of figures/tables, executive summary, list of references, and appendices. The word count must be included on the title pageLayout: Arial, 11 pt, line spacing 1.5, all margins 2.5 cmFile Format: PDFFile Name: last name_first name_A2Rubric: A marking rubric and instructions will be provided under the \"Assessment\" tab on Blackboard; further details will be provided in the seminarApproaches to AIThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission: Online via Blackboard – Turnitin will be used as part of the submission; no hard copies are accepted.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Reflection on HR Practice",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "30%",
+            "due_date": "14/06/2025 5:00 pm",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "OverviewFormat: Individual reflectionTask: You are required to reflect on an unethical, biased, or questionable HR practice that you were exposed to as part of your managerial experience.Length: 1500 words, +/- 10%, excluding title page, table of contents, list of figures/tables, list of references, and appendices. The word count must be included on the cover pageLayout: Arial, 11 pt, line spacing 1.5, all margins 2.5 cmFile Format: PDFFile Name: last name_first name_A3Rubric: A marking rubric and instructions will be provided under the \"Assessment\" tab on Blackboard. Further details will be provided in the seminar.Approaches to AIThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.Read full task descriptionHide full task description",
+            "submission_guidelines": "Submission: Online via Blackboard – Turnitin will be used as part of the submission. No hard copies are accepted.",
+            "deferral_or_extension": "You may be able toapply for an extension.",
+            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "additional_info": "You may be able to\napply for an extension\n."
+        }
+    ],
+    "learning_activities": []
+}
