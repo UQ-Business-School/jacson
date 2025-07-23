@@ -1,4 +1,8 @@
 {
+    "course_title": "Advanced Investments and Portfolio Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3412-64242-7460",
     "full_course_code": "FINM3412-64242-7460",
     "course_code": "FINM3412",
@@ -45,16 +49,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "Tutorial Task 1  5/08/2024 1:00 pmTutorial Task 2 12/08/2024 1:00 pmTutorial Task 3 19/08/2024 1:00 pmTutorial Task 4 26/08/2024 1:00 pmTutorial Task 5 9/09/2024 1:00 pmThe tutorial tasks are due on the Monday after the tutorials are held.Therefore you have the week, the weekend and Monday mornings to work on the tutorial tasks.",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Tutorial Task 1  5/08/2024 1:00 pm</p>\n<p>Tutorial Task 2 12/08/2024 1:00 pm</p>\n<p>Tutorial Task 3 19/08/2024 1:00 pm</p>\n<p>Tutorial Task 4 26/08/2024 1:00 pm</p>\n<p>Tutorial Task 5 9/09/2024 1:00 pm</p>\n<p>\n</p><p>The tutorial tasks are due on the Monday after the tutorials are held.</p>\n<p>Therefore you have the week, the weekend and Monday mornings to work on the tutorial tasks.</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Portfolio, Tutorial/ Problem Set",
-            "task_description": "Weeks 2-7 you will be required to complete tutorial tasks that will assist you in preparing for the team assignment.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Weeks 2-7 you will be required to complete tutorial tasks that will assist you in preparing for the team assignment.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -69,16 +73,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "15%",
-            "due_date": "26/08/2024 - 30/08/2024More information about the exam timetable will be shared in class and via the course Blackboard site.",
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 26/08/2024 - 30/08/2024</p>\n<p>\n</p><p>More information about the exam timetable will be shared in class and via the course Blackboard site.</p></dd>",
             "learning_objectives": "L01, L05, L06, L07",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "This is a multiple choice exam. More information about the In-Semester Exam will be shared in class and posted to the course Blackboard site.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a multiple choice exam. More information about the In-Semester Exam will be shared in class and posted to the course Blackboard site.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -93,50 +97,87 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "65% (Team 50%; Individual 15%)",
-            "due_date": "Written Report, Excel Model, Presentation Slides 10/10/2024 2:00 pmTeam Presentations 8:00 - 18:30 11/10/2024Reflection Journal 25/10/2024 5:00 pm",
+            "weighting": "<dd>65% (Team 50%; Individual 15%) </dd>",
+            "due_date": "<dd><p>Written Report, Excel Model, Presentation Slides 10/10/2024 2:00 pm</p>\n<p>Team Presentations 8:00 - 18:30 11/10/2024</p>\n<p>Reflection Journal 25/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Oral, Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Product/ Design, Reflection",
-            "task_description": "The investment valuation project and presentation assessment score comprises the aggregate score of four separately graded components:Financial Model (team score - out of 15): Submitted with the report and powerpoint presentation.Written report (team score - out of 25): Must be no more than 8 pages long, although tables and/or appendices attached at the end of the report will not count against the total page count.Professional Presentation (team score - out of 10): Professional presentation across the model, report and the presentation. Industry standard is expected.In-class presentation: Presented during class. Presentations are timed, and over-time presentations will be cut short with a 10% presentation score penalty.Individual Presentation (individual score - out of 10): Each team member will receive a unique score out of 10 for their in-class presentation.Peer Critique (individual score, based upon peer feedback): The summative Peer evaluation using the blackboard tool - this is multiplied by your team score to create an individual result. (A formative peer evaluation will be conducted during semester so all students understand the implications of the peer evaluation) Students must complete peer assessment to be eligible to receive a grade for the team assignment. Details of the peer assessment process and criteria will be attached to the project materials on Blackboard.Final Journal Entry (individual score - out of 5): Students must complete a reflection on what they have learnt working on this team based project.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit through Turnitin in the Blackboard Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The investment valuation project and presentation assessment score comprises the aggregate score of four separately graded components:</p>\n<ul>\n<li>Financial Model (team score - out of 15): Submitted with the report and powerpoint presentation.</li>\n<li>Written report (team score - out of 25): Must be no more than 8 pages long, although tables and/or appendices attached at the end of the report will not count against the total page count.</li>\n<li>Professional Presentation (team score - out of 10): Professional presentation across the model, report and the presentation. Industry standard is expected.</li>\n<li>In-class presentation: Presented during class. Presentations are timed, and over-time presentations will be cut short with a 10% presentation score penalty.</li>\n<li>Individual Presentation (individual score - out of 10): Each team member will receive a unique score out of 10 for their in-class presentation.</li>\n<li>Peer Critique (individual score, based upon peer feedback): The summative Peer evaluation using the blackboard tool - this is multiplied by your team score to create an individual result. (A formative peer evaluation will be conducted during semester so all students understand the implications of the peer evaluation) Students must complete peer assessment to be eligible to receive a grade for the team assignment. Details of the peer assessment process and criteria will be attached to the project materials on Blackboard.</li>\n<li>Final Journal Entry (individual score - out of 5): Students must complete a reflection on what they have learnt working on this team based project.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Turnitin in the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "Formative Peer Assessment",
             "special_indicators": [],
             "weighting": null,
-            "due_date": "Week 13During Class",
+            "due_date": "<dd><p> Week 13</p>\n<p>\n</p><p>During Class</p></dd>",
             "learning_objectives": "L03",
             "mode": "Activity/ Performance",
             "category": "Participation/ Student contribution",
-            "task_description": "This will be conducted in class as a formative assessment so that everyone is familiar with the peer assessment method.This will not count to your final grade.Read full task descriptionHide full task description",
-            "submission_guidelines": "You cannot defer or apply for an extension for this assessment.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be conducted in class as a formative assessment so that everyone is familiar with the peer assessment method.</p>\n<p>This will not count to your final grade.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
             "late_submission": null,
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Not Timetabled",
-            "topic": "Team Work MOOC (Self Directed Learning)EdEx - Working in Teams: A Practical GuideLearning outcomes:L03",
-            "topic_title": "Team Work MOOC (Self Directed Learning)",
-            "topic_description": "EdEx - Working in Teams: A Practical Guide",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Work MOOC (Self Directed Learning)</strong><br/><p>EdEx - Working in Teams: A Practical Guide</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Team Work MOOC (Self Directed Learning)</strong>",
+            "topic_description": "Team Work MOOC (Self Directed Learning) EdEx - Working in Teams: A Practical Guide",
             "learning_outcomes": [
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Macro &amp; industry Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Macro &amp; industry Analysis</strong>",
+            "topic_description": "Macro & industry Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 1Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 1",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 1</strong>",
+            "topic_description": "Weekly Tutorial 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statement Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Financial Statement Analysis</strong>",
+            "topic_description": "Financial Statement Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 2</strong>",
+            "topic_description": "Weekly Tutorial 2",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -146,10 +187,22 @@
         },
         {
             "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Equity Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Equity Valuation</strong>",
+            "topic_description": "Equity Valuation",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 2Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 3</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 3</strong>",
+            "topic_description": "Weekly Tutorial 3 Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -159,10 +212,22 @@
         },
         {
             "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Debt &amp; Credit</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Debt &amp; Credit</strong>",
+            "topic_description": "Debt & Credit",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 3Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 3",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 4</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 4</strong>",
+            "topic_description": "Weekly Tutorial 4",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -172,10 +237,22 @@
         },
         {
             "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Theory &amp; Performance Evaluation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05, L07</p></div></td>",
+            "topic_title": "<strong>Portfolio Theory &amp; Performance Evaluation</strong>",
+            "topic_description": "Portfolio Theory & Performance Evaluation",
+            "learning_outcomes": [
+                "L01",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 4Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 4",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 5</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 5</strong>",
+            "topic_description": "Weekly Tutorial 5",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -185,31 +262,42 @@
         },
         {
             "learning_period": "Week 6",
-            "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 5Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 5",
-            "topic_description": "",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>EMH, BF &amp; Impact Investing</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>EMH, BF &amp; Impact Investing</strong>",
+            "topic_description": "EMH, BF & Impact Investing",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/><p>More information about the in-semester exam will be shared in class and via the course Blackboard site.</p></p><p><strong>Learning outcomes:</strong> L01, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam More information about the in-semester exam will be shared in class and via the course Blackboard site.",
             "learning_outcomes": [
                 "L01",
-                "L02",
-                "L03",
-                "L04"
+                "L05",
+                "L06",
+                "L07"
             ]
         },
         {
             "learning_period": "Multiple weeksFrom Week 7 To Week 9",
             "activity_type": "Lecture",
-            "topic": "Team Progress Meetings",
-            "topic_title": "Team Progress Meetings",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Progress Meetings</strong><br/></p></div></td>",
+            "topic_title": "<strong>Team Progress Meetings</strong>",
+            "topic_description": "Team Progress Meetings",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 6Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 6",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 6</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 6</strong>",
+            "topic_description": "Weekly Tutorial 6",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -220,9 +308,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 7Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 7",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 7</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 7</strong>",
+            "topic_description": "Weekly Tutorial 7",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -233,9 +321,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 8Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 8",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 8</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 8</strong>",
+            "topic_description": "Weekly Tutorial 8",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -246,17 +334,30 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester BreakNo Classes during In-Semester break.",
-            "topic_title": "In-Semester Break",
-            "topic_description": "No Classes during In-Semester break.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No Classes during In-Semester break.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No Classes during In-Semester break.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 9Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 9",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 9</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 9</strong>",
+            "topic_description": "Weekly Tutorial 9",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Project Progress Meeting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Team Project Progress Meeting</strong>",
+            "topic_description": "Team Project Progress Meeting",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -267,9 +368,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 10King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 10",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 10</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 10</strong>",
+            "topic_description": "Weekly Tutorial 10 King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -278,11 +379,23 @@
             ]
         },
         {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Presentations</strong><br/><p>No Seminars - Presentations on Friday Week 13</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Assignment Presentations</strong>",
+            "topic_description": "Assignment Presentations No Seminars - Presentations on Friday Week 13",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 11Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 11",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 11</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 11</strong>",
+            "topic_description": "Weekly Tutorial 11",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -293,9 +406,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "Weekly Tutorial 12Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Weekly Tutorial 12",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorial 12</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorial 12</strong>",
+            "topic_description": "Weekly Tutorial 12",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -306,9 +419,9 @@
         {
             "learning_period": "Revision week",
             "activity_type": "Workshop",
-            "topic": "Assessment Feedback SessionsTo take place during SWOTVAC",
-            "topic_title": "Assessment Feedback Sessions",
-            "topic_description": "To take place during SWOTVAC",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Feedback Sessions</strong><br/><p>To take place during SWOTVAC</p></p></div></td>",
+            "topic_title": "<strong>Assessment Feedback Sessions</strong>",
+            "topic_description": "Assessment Feedback Sessions To take place during SWOTVAC",
             "learning_outcomes": []
         }
     ]
