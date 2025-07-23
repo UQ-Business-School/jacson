@@ -1,4 +1,8 @@
 {
+    "course_title": "Introduction to Finance",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM1415-60225-7460",
     "full_course_code": "FINM1415-60225-7460",
     "course_code": "FINM1415",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "Practice presentation Week 3 - Week 4Team presentation #1 Week 6 - Week 7Team presentation #2 Week 12 - Week 12Peer assessment Week 13 - Week 13",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Practice presentation Week 3 - Week 4</p>\n<p>Team presentation #1 Week 6 - Week 7</p>\n<p>Team presentation #2 Week 12 - Week 12</p>\n<p>Peer assessment Week 13 - Week 13</p></dd>",
             "learning_objectives": "L01, L03, L04, L05",
             "mode": "Oral",
             "category": "Presentation, Project",
-            "task_description": "Students are required to work in teams of 4-5 people (preferably 5) with students in your tutorial.The team will be provided with practical issues that they need to collaboratively solve during and after the tutorial. Each team is expected to do two presentations in the allocated tutorials inteaching week 6 or 7,andteaching week 12. One of the team members needs to submit the presentation slides and preparation notes to Blackboard by the end of the presentation week. The topic and the detailed schedule will be published on Blackboard.You will be given a chance to practice your presentation and collect feedback inteaching week 3 or teaching week 4(This does not contribute to your grade).Upon completing the team project, you must also complete the Peer Assessment individually by14:00 Friday Week 13. Peer assessment will be used to compute your final grade on the team project. Completing the Peer Assessment ismandatory. If you do not submit a peer assessment form, you will receive a score of zero on the team project. Peer Assessment will be completed on Blackboard and is integrated into the Blackboard teams. Details about Peer Assessment will be discussed during the semester.AI use policy:Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The presentation slides and preparation notes are submitted using the course Blackboard site. For more details, refers to the \"Assessment Guidelines\" on Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to work in teams of 4-5 people (preferably 5) with students in your tutorial. </p>\n<p>The team will be provided with practical issues that they need to collaboratively solve during and after the tutorial. Each team is expected to do two presentations in the allocated tutorials in <strong>teaching week 6 or 7, </strong> and <strong>teaching week 12</strong>. One of the team members needs to submit the presentation slides and preparation notes to Blackboard by the end of the presentation week. The topic and the detailed schedule will be published on Blackboard.</p>\n<p>You will be given a chance to practice your presentation and collect feedback in <strong>teaching week 3 or teaching week 4</strong> (This does not contribute to your grade). </p>\n<p>Upon completing the team project, you must also complete the Peer Assessment individually by <strong>14:00 Friday Week 13</strong>. Peer assessment will be used to compute your final grade on the team project. Completing the Peer Assessment is <strong>mandatory</strong>. If you do not submit a peer assessment form, you will receive a score of zero on the team project. Peer Assessment will be completed on Blackboard and is integrated into the Blackboard teams. Details about Peer Assessment will be discussed during the semester.</p>\n<p><strong>AI use policy: </strong></p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The presentation slides and preparation notes are submitted using the course Blackboard site. For more details, refers to the \"Assessment Guidelines\" on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,16 +65,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "20%",
-            "due_date": "4/10/2024 2:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/10/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The stock valuation report should provide numerical analysis, theory discussion, and investment suggestions for a company.You are also expected to draw reflections from the first team presentation, where each team will be discussing a practical application on stock valuation.AI use policy:Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The assignment must be submitted using Turnitin and the submission point on the course Blackboard site. For more details, refers to the \"Assessment Guidelines\" on Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The stock valuation report should provide numerical analysis, theory discussion, and investment suggestions for a company.</p>\n<p>You are also expected to draw reflections from the first team presentation, where each team will be discussing a practical application on stock valuation.</p>\n<p><strong>AI use policy: </strong></p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted using Turnitin and the submission point on the course Blackboard site. For more details, refers to the \"Assessment Guidelines\" on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -85,25 +89,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "50%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "This exam is aclosed book, invigilated exam, paper-basedexam invigilated by UQ appointed invigilators as required by UQ and Professional Accounting organisations.Your final exam will consist of problem-solving and short-answer questions.More details about the final exam will be provided on Blackboard at the appropriate time.AI use policy:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This exam is a <strong>closed book, invigilated exam, paper-based</strong> exam invigilated by UQ appointed invigilators as required by UQ and Professional Accounting organisations.</p>\n<p>Your final exam will consist of problem-solving and short-answer questions.</p>\n<p>More details about the final exam will be provided on Blackboard at the appropriate time.</p>\n<p><strong>AI use policy:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "L1: Introduction to Financial Markets/InstrumentsLearning outcomes:L01, L02",
-            "topic_title": "L1: Introduction to Financial Markets/Instruments",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L1: Introduction to Financial Markets/Instruments</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>L1: Introduction to Financial Markets/Instruments</strong>",
+            "topic_description": "L1: Introduction to Financial Markets/Instruments",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -112,20 +116,40 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "T1: Introduction to Financial Markets/InstrumentsLearning outcomes:L01, L02",
-            "topic_title": "T1: Introduction to Financial Markets/Instruments",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T1: Introduction to Financial Markets/Instruments</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>T1: Introduction to Financial Markets/Instruments</strong>",
+            "topic_description": "T1: Introduction to Financial Markets/Instruments",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L2: Time Value of Money (I)</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>L2: Time Value of Money (I)</strong>",
+            "topic_description": "L2: Time Value of Money (I)",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "T2: Time Value of Money (I)Learning outcomes:L02",
-            "topic_title": "T2: Time Value of Money (I)",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T2: Time Value of Money (I)</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>T2: Time Value of Money (I)</strong>",
+            "topic_description": "T2: Time Value of Money (I)",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L3: Time value of Money (II) - Interest Rate</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>L3: Time value of Money (II) - Interest Rate</strong>",
+            "topic_description": "L3: Time value of Money (II) - Interest Rate",
             "learning_outcomes": [
                 "L02"
             ]
@@ -133,30 +157,41 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "T3: Time value of Money (II) - Interest RateRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02",
-            "topic_title": "T3: Time value of Money (II) - Interest Rate",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T3: Time value of Money (II) - Interest Rate</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>T3: Time value of Money (II) - Interest Rate</strong>",
+            "topic_description": "T3: Time value of Money (II) - Interest Rate Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L02"
             ]
         },
         {
-            "learning_period": "Week 5",
-            "activity_type": "Tutorial",
-            "topic": "T4: Valuation of SharesLearning outcomes:L01, L02",
-            "topic_title": "T4: Valuation of Shares",
-            "topic_description": "",
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L4: Valuation of Shares</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>L4: Valuation of Shares</strong>",
+            "topic_description": "L4: Valuation of Shares",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         },
         {
-            "learning_period": "Week 6",
+            "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "T5: Group PresentationAssessment: Group Presentation 1Learning outcomes:L01, L02, L05",
-            "topic_title": "T5: Group Presentation",
-            "topic_description": "Assessment: Group Presentation 1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T4: Valuation of Shares</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>T4: Valuation of Shares</strong>",
+            "topic_description": "T4: Valuation of Shares",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L5: SSP Activity 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>L5: SSP Activity 1</strong>",
+            "topic_description": "L5: SSP Activity 1",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -164,11 +199,34 @@
             ]
         },
         {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T5: Group Presentation</strong><br/><p>Assessment: Group Presentation 1</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>T5: Group Presentation</strong>",
+            "topic_description": "T5: Group Presentation Assessment: Group Presentation 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L6: Valuation of Debts</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>L6: Valuation of Debts</strong>",
+            "topic_description": "L6: Valuation of Debts",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "T6: Valuation of DebtsLearning outcomes:L01, L02, L04",
-            "topic_title": "T6: Valuation of Debts",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T6: Valuation of Debts</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>T6: Valuation of Debts</strong>",
+            "topic_description": "T6: Valuation of Debts",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -176,11 +234,31 @@
             ]
         },
         {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L7: Investment Decision Rules</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>L7: Investment Decision Rules</strong>",
+            "topic_description": "L7: Investment Decision Rules",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "T7: Investment Decision RulesLearning outcomes:L03",
-            "topic_title": "T7: Investment Decision Rules",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T7: Investment Decision Rules</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>T7: Investment Decision Rules</strong>",
+            "topic_description": "T7: Investment Decision Rules",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L8: Fundamentals of Capital Budgeting</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>L8: Fundamentals of Capital Budgeting</strong>",
+            "topic_description": "L8: Fundamentals of Capital Budgeting",
             "learning_outcomes": [
                 "L03"
             ]
@@ -188,27 +266,47 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "T8: Fundamentals of Capital BudgetingLearning outcomes:L03",
-            "topic_title": "T8: Fundamentals of Capital Budgeting",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T8: Fundamentals of Capital Budgeting</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>T8: Fundamentals of Capital Budgeting</strong>",
+            "topic_description": "T8: Fundamentals of Capital Budgeting",
             "learning_outcomes": [
                 "L03"
             ]
         },
         {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L9: Capital Markets and the Pricing of Risks</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>L9: Capital Markets and the Pricing of Risks</strong>",
+            "topic_description": "L9: Capital Markets and the Pricing of Risks",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "T9: Capital Markets and the Pricing of RisksLearning outcomes:L04",
-            "topic_title": "T9: Capital Markets and the Pricing of Risks",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T9: Capital Markets and the Pricing of Risks</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T9: Capital Markets and the Pricing of Risks</strong>",
+            "topic_description": "T9: Capital Markets and the Pricing of Risks",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L10: Optimal Portfolio Choice</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>L10: Optimal Portfolio Choice</strong>",
+            "topic_description": "L10: Optimal Portfolio Choice",
             "learning_outcomes": [
                 "L04"
             ]
@@ -216,19 +314,30 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "T10: Optimal Portfolio ChoiceKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L04",
-            "topic_title": "T10: Optimal Portfolio Choice",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T10: Optimal Portfolio Choice</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>T10: Optimal Portfolio Choice</strong>",
+            "topic_description": "T10: Optimal Portfolio Choice King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L04"
             ]
         },
         {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L11: SSP Activity 2</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>L11: SSP Activity 2</strong>",
+            "topic_description": "L11: SSP Activity 2",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "T11: Group PresentationAssessment: Group Presentation 2Learning outcomes:L01, L04, L05",
-            "topic_title": "T11: Group Presentation",
-            "topic_description": "Assessment: Group Presentation 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T11: Group Presentation</strong><br/><p>Assessment: Group Presentation 2</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>T11: Group Presentation</strong>",
+            "topic_description": "T11: Group Presentation Assessment: Group Presentation 2",
             "learning_outcomes": [
                 "L01",
                 "L04",
@@ -236,15 +345,37 @@
             ]
         },
         {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L12: CAPM and Estimating the Cost of Capital</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>L12: CAPM and Estimating the Cost of Capital</strong>",
+            "topic_description": "L12: CAPM and Estimating the Cost of Capital",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
             "learning_period": "Week 13",
             "activity_type": "Lecture",
-            "topic": "Revision LectureLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Revision Lecture",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Lecture</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Revision Lecture</strong>",
+            "topic_description": "Revision Lecture",
             "learning_outcomes": [
                 "L01",
                 "L02",
                 "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T12: CAPM and Estimating the Cost of Capital</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>T12: CAPM and Estimating the Cost of Capital</strong>",
+            "topic_description": "T12: CAPM and Estimating the Cost of Capital",
+            "learning_outcomes": [
+                "L01",
                 "L04"
             ]
         }
