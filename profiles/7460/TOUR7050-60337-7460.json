@@ -1,0 +1,400 @@
+{
+    "course_title": "Special Interest Tourism",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR7050-60337-7460",
+    "full_course_code": "TOUR7050-60337-7460",
+    "course_code": "TOUR7050",
+    "class_code": "60337",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the growth and development of special interest tourism over the past 30 years."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and compare the characteristics of a range of different types of tourism niche and micro-niche markets."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically assess different types of special interest tourism from the perspectives of tourists, operators, and destinations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and discuss possible future scenarios about developments in the tourism industry."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop a Special Interest Tour for a real world client."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 19/08/2024 1:00 pm</p>\n<p>\n</p><p>Week 5</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Activity/ Performance",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an online Quiz that will cover all seminar material, online material and set readings for <strong>Weeks 1, 2, 3, and 4.</strong></p>\n<p>This covers introduction to and theory of Special Interest Tourism plus techniques for envisioning the future.</p>\n<p>The Quiz will be open from 12pm to 1pm on Monday August 19th.</p>\n<p>Questions will be multiple choice, true false, and matching. </p>\n<p>After you start the Quiz, you will have 1 hour (60 minutes) to complete it. </p>\n<p>You will not be able to save your progress and exit once you have started - thus you must complete this assessment in one sitting.</p>\n<p>Details of the Seminar material, online material and set readings included are available on <strong>Blackboard</strong>.</p>\n<p>Further details about the quiz will provided in-class.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Tour Critique",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 2/09/2024 5:00 pm</p>\n<p>\n</p><p>Week 7</p></dd>",
+            "learning_objectives": "L03",
+            "mode": "Activity/ Performance, Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task requires you to attend a special interest tour during the current term and individually write a 1,000 to 1,500 word reflection essay on your experience critiquing the tour.</p>\n<p>For students that are located in Brisbane (i.e., internal students), we highly recommend you attend a Brisbane Greeters Walking Tour. The tours are free and take place daily at 10am, you can sign up here: <a href=\"https://www.brisbane.qld.gov.au/whats-on-in-brisbane/brisbane-greeter-tours\">https://www.brisbane.qld.gov.au/whats-on-in-brisbane/brisbane-greeter-tours</a> If you are local student and wish to attend a different special interest tour, you must seek approval from the teaching team on whether the tour is suitable for this assesment. </p>\n<p>For students located outside of Brisbane, you can attend a tour in your local area. But you must seek approval from the teaching team on whether the tour is suitable for this assessment.</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard, subject to originality, plagiarism, and AI review.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Paper on a Special Interest Tourism Type",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/09/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This <strong>individual research paper </strong>will consist of an in-depth analysis of a particular special interest tourism type (2,500 - 3000 words), covering past, present and potential future developments. You will conduct research using academic literature as well as relevant interesting material from contemporary sources. Potential future developments should be scoped using 'futuring techniques' which will be presented and workshopped in class. You should also include a case study to provide a real life example of an actual market offering.</p>\n<p><strong>You may choose the special interest tourism type for your research paper</strong>, with guidance from the teaching staff.</p>\n<p>The following topics will need to be covered in your paper :</p>\n<ul>\n<li>Historical development of your chosen SIT type</li>\n<li>Description of the target market</li>\n<li>Development of micro niche market/s</li>\n<li>Recent product innovations</li>\n<li>Potential future innovations</li>\n<li>Case Study</li>\n</ul>\n<p>A <strong>detailed outline </strong>of the research paper requirements and formatting is on <strong>Blackboard </strong>and you should use that as your guide.</p>\n<p>Approaches to this research will be discussed in Seminars, to help you prepare your research paper.</p>\n<p>You are encouraged to discuss the development of your paper during the designated Seminars.</p>\n<p>The paper is to be submitted in English using APA Style.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Paper must be submitted through Blackboard (Turnitin) located in the Blackboard Assessment link, subject to originality, plagiarism, and AI review.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Special Interest Tour Design",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Individual or Group of 2 to 3 (max) </dd>",
+            "due_date": "<dd><p> Exam week 1 - Exam week 2</p>\n<p>\n</p><p>To be scheduled.</p></dd>",
+            "learning_objectives": "L02, L03, L05",
+            "mode": "Oral",
+            "category": "Practical/ Demonstration, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the Seminars, you will be introduced to an approach to design a Special Interest Tour. </p>\n<p>You will work with other students to conceptualise Special Interest Tours and brainstorm applying the elements of tour design in response to the needs <strong>of a local Brisbane client. Our client will be provided at the start of the term. </strong></p>\n<p>The assessment task is to <strong>conceptualise a unique tour and write up a tour design</strong> <strong>and deliver an in-person presentation pitch to our client</strong>. A template to guide you in the process will be provided including the relevant elements of special interest theme, location, itinerary, memorable experiences, storytelling, target market, and operational details.</p>\n<p><strong>This assessment can be completed individually or in groups of 2 to 3 students (maximum). </strong></p>\n<p>As part of the assessment you will be required to reflect on your individual experience working with the client and creating your tour.. </p>\n<p>Further details and guidance will be provided on Blackboard and in class on selection of tour themes, locations, length of tour, etc.</p>\n<p>The template of design elements will be provided on Blackboard and explained in class.</p>\n<p>Marks will be awarded for creativity as well as practicality.</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit on Blackboard via Turnitin and in-person presentation. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>INTRODUCTION</strong><br/><p>Introduction to the course, staff, program of learning, approach to learning and assessment items. What is Special Interest Tourism?</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>INTRODUCTION</strong>",
+            "topic_description": "INTRODUCTION Introduction to the course, staff, program of learning, approach to learning and assessment items. What is Special Interest Tourism?",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1</strong>",
+            "topic_description": "Tutorial 1",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SIT BASICS</strong><br/><p>SIT is perhaps the most rapidly developing type of tourism. What are the characteristics of SIT that make it increasingly popular? What issues arise from this expansion? What theory has developed to explain and predict SIT?<br/>\nThis week we will have a comprehensive introduction to your individual research paper on a SIT type.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>SIT BASICS</strong>",
+            "topic_description": "SIT BASICS SIT is perhaps the most rapidly developing type of tourism. What are the characteristics of SIT that make it increasingly popular? What issues arise from this expansion? What theory has developed to explain and predict SIT? This week we will have a comprehensive introduction to your individual research paper on a SIT type.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SIT THEORY</strong><br/><p>This week, we will continue to explore theory underlying special interest tourism.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>SIT THEORY</strong>",
+            "topic_description": "SIT THEORY This week, we will continue to explore theory underlying special interest tourism.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ENVISIONING THE FUTURE</strong><br/><p>We expect SIT to continue to grow and transform, taking up future opportunities. What approaches exist to systematically look to the future? How can these be applied to SIT?</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>ENVISIONING THE FUTURE</strong>",
+            "topic_description": "ENVISIONING THE FUTURE We expect SIT to continue to grow and transform, taking up future opportunities. What approaches exist to systematically look to the future? How can these be applied to SIT?",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SIT TYPES I</strong><br/><p>Wine Tourism lecture and interactive workshop</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>SIT TYPES I</strong>",
+            "topic_description": "SIT TYPES I Wine Tourism lecture and interactive workshop",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SIT TYPES II</strong><br/><p>Ecotourism lecture and interactive workshop</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>SIT TYPES II</strong>",
+            "topic_description": "SIT TYPES II Ecotourism lecture and interactive workshop",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7. SIT Types III</strong><br/><p>Sport and Mountain Bike Tourism lecture and interactive workshop</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 7. SIT Types III</strong>",
+            "topic_description": "Week 7. SIT Types III Sport and Mountain Bike Tourism lecture and interactive workshop",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SIT TYPES IV</strong><br/><p>Dark tourism lecture and interactive workshop</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>SIT TYPES IV</strong>",
+            "topic_description": "SIT TYPES IV Dark tourism lecture and interactive workshop",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SI TOUR DESIGN I</strong><br/><p>This week we will introduce approaches to tour design. We will explain the assessment item in detail.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>SI TOUR DESIGN I</strong>",
+            "topic_description": "SI TOUR DESIGN I This week we will introduce approaches to tour design. We will explain the assessment item in detail.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IN-SEMESTER BREAK</strong><br/></p></div></td>",
+            "topic_title": "<strong>IN-SEMESTER BREAK</strong>",
+            "topic_description": "IN-SEMESTER BREAK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10. SI TOUR DESIGN II</strong><br/><p>No class, King's Birthday Holiday. Directed work on your tour design assessment.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Week 10. SI TOUR DESIGN II</strong>",
+            "topic_description": "Week 10. SI TOUR DESIGN II No class, King's Birthday Holiday. Directed work on your tour design assessment.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SI TOUR DESIGN III</strong><br/><p>This week we will work through further elements of tour design, applying them to your tour design.</p>\n<p><strong>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>SI TOUR DESIGN III</strong>",
+            "topic_description": "SI TOUR DESIGN III This week we will work through further elements of tour design, applying them to your tour design. King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12. SI TOUR DESIGN IV</strong><br/><p>This week we will work through further elements of tour design, applying them to your tour design.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Week 12. SI TOUR DESIGN IV</strong>",
+            "topic_description": "Week 12. SI TOUR DESIGN IV This week we will work through further elements of tour design, applying them to your tour design.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 12</strong>",
+            "topic_description": "Tutorial 12",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SI Tour Design Consultation</strong><br/><p>Review and consultation on your tour design. Course review.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>SI Tour Design Consultation</strong>",
+            "topic_description": "SI Tour Design Consultation Review and consultation on your tour design. Course review.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Final Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Final Tutorial</strong>",
+            "topic_description": "Final Tutorial",
+            "learning_outcomes": [
+                "L05"
+            ]
+        }
+    ]
+}
