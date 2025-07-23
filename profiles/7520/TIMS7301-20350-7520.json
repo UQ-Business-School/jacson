@@ -1,0 +1,259 @@
+{
+    "course_title": "Principles of Entrepreneurship",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7301-20350-7520",
+    "full_course_code": "TIMS7301-20350-7520",
+    "course_code": "TIMS7301",
+    "class_code": "20350",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Articulate the foundational knowledge in the area of entrepreneurship."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop, evaluate and communicate actionable business opportunities as part of a startup team."
+        },
+        {
+            "number": "LO3.",
+            "description": "Create viable and innovative Business Models."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically analyse knowledge creation in the startup process."
+        },
+        {
+            "number": "LO5.",
+            "description": "Practice real-time entrepreneurial leadership to craft ideas and test impacts."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team Presentations | Pitch, Video and Autopsy",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Pitch 21/03/2025</p>\n<p>Video 17/04/2025</p>\n<p>Autopsy 16/05/2025</p>\n<p>\n</p><p>Each presentation round with peer appraisal <em>(up to 10 marks per presentation, due via Blackboard)</em> <strong>plus</strong> individual moderations of up to 3 teams per round <em>(10 marks across all 3 presentations, due via RiPPLE). </em></p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The presentation arc covers three rounds for a new venture idea that you will develop in your teams: a facilitated pitch delivered in real-time to your peers <em>(deliver in week 4)</em>, a video articulating your venture growth strategy <em>(upload in week 8)</em> and an autopsy appraising your reflection on the opportunity and the conditions where it might grow in the future <em>(upload in week 12)</em>.</p>\n<p>Each team presents 3 times <em>- pitch, video &amp; autopsy -</em> each student moderates each presentation of 3 other teams, as allocated by RiPPLE</p>\n<p>Each team round will be moderated by peers while the quality of your moderations will be marked across each presentation.</p>\n<p>In addition, you will each assess the members of your team in completing each round to generate a peer assessment factor that will then be applied to your team score to yield an individual score for each presentation.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each presentation across pitch, video &amp; autopsy to be upload to Blackboard <em>(to allow marking allocations &amp; peer appraisal via Buddycheck)</em> as well as created as a team resource in RiPPLE <em>(to allow moderations)</em></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Analysis | Across 4 case topics",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Case topic 1 4/04/2025</p>\n<p>Case topic 2 17/04/2025</p>\n<p>Case topic 3 9/05/2025</p>\n<p>Case topic 4 30/05/2025</p>\n<p>\n</p><p>Each of the 4 case topics will be released in Blackboard with resource creation &amp; moderation completed in RiPPLE. Each topic attracts up to 5 marks - 2 marks for resource creation and 3 marks for moderation<em> (up to 1 mark per moderation submitted)</em></p></dd>",
+            "learning_objectives": "L04",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Generate a resource using the entrepreneurial theory that aligns with the respective case topic. Your peers will moderate your topic exploration shown in the resource you produce.</p>\n<p>Create 1 resource, moderate 3 others for each of the 4 topics.</p>\n<p>Each topic requires the creation of 1 resource and the moderation of 3 other resources.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Use the RiPPLE link provided in Blackboard&gt;Assessment for each case topic</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Case Study | Emerging opportunities",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 9/06/2025 - 13/06/2025</p></dd>",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A case study assignment that builds on your online resource/moderations sets to apply your analystical thinking skills. The case study provides a range of resources and allows access to online and text resources during the period from release to due date. The case study is to be individually undertaken, without reference to other students in the class or any commercial resources other than provided, in the spirit of demonstrating your own entrepreneurial growth strategy-building skills.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is via Turnitin on the Blackboard site. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S1 | New Ventures</strong><br/><p>Introduce entrepreneurship, a history of entrepreneurial thought and its place in today's economy. Opportunity discovery &amp; creation. Projects to develop. Assessment timelines. Student team formation.<br/>\n- Difference between small firms, entrepreneurial ventures and larger<br/>\ncorporations<br/>\n- Entrepreneurial teams</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>S1 | New Ventures</strong>",
+            "topic_description": "S1 | New Ventures Introduce entrepreneurship, a history of entrepreneurial thought and its place in today's economy. Opportunity discovery & creation. Projects to develop. Assessment timelines. Student team formation. - Difference between small firms, entrepreneurial ventures and larger corporations - Entrepreneurial teams",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S2 | Lean business models</strong><br><p>Using lean startup methods to shape business models and expose underlying growth drivers of value. Building a business model canvas informed using lean methods</p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>S2 | Lean business models</strong>",
+            "topic_description": "S2 | Lean business models Using lean startup methods to shape business models and expose underlying growth drivers of value. Building a business model canvas informed using lean methods",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S3 | Discovery-driven Planning</strong><br><p>Developing assumptions to bring new products &amp; services to market. Crafting an idea canvas. Exploring a DDP case.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S3 | Discovery-driven Planning</strong>",
+            "topic_description": "S3 | Discovery-driven Planning Developing assumptions to bring new products & services to market. Crafting an idea canvas. Exploring a DDP case.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S4 | Present growth pitch</strong><br><p>Deliver class presentation in your teams, showing how business model enables growth</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>S4 | Present growth pitch</strong>",
+            "topic_description": "S4 | Present growth pitch Deliver class presentation in your teams, showing how business model enables growth",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S5 | Entrepreneurial Strategy</strong><br/><p>Entrepreneurial strategy frameworks: forming opportunity to gain competitive advantage &amp; growth. Framing topics of inquiry with observed alignments.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>S5 | Entrepreneurial Strategy</strong>",
+            "topic_description": "S5 | Entrepreneurial Strategy Entrepreneurial strategy frameworks: forming opportunity to gain competitive advantage & growth. Framing topics of inquiry with observed alignments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S6 | Entrepreneurial Analyses</strong><br/><p>Tools to interpret key attributes of proposed or existing firms, to leverage underlying value and to frame strategic capability-growth actions</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>S6 | Entrepreneurial Analyses</strong>",
+            "topic_description": "S6 | Entrepreneurial Analyses Tools to interpret key attributes of proposed or existing firms, to leverage underlying value and to frame strategic capability-growth actions",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S7 | Business Building</strong><br/><p>Applying a discovery-driven growth orientation to scale with technology &amp; business models </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>S7 | Business Building</strong>",
+            "topic_description": "S7 | Business Building Applying a discovery-driven growth orientation to scale with technology & business models",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S8 | Public holiday then mid-semester break</strong><br/><p>Team video due immediately prior to this session</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>S8 | Public holiday then mid-semester break</strong>",
+            "topic_description": "S8 | Public holiday then mid-semester break Team video due immediately prior to this session",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/><p>No class - consider team videos to be moderated following the break - conduct further validation of your business ventures towards final autopsy</p></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break No class - consider team videos to be moderated following the break - conduct further validation of your business ventures towards final autopsy",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S9 | Disruptive Innovation</strong><br/><p>How technological &amp; business model innovations can exploit asymmetric forces, for startups to displace resource-rich incumbents, or yield incremental improvements in product or service deliveries. Examine how innovations disrupt incumbents by crafting new market dynamics for 'good enough' products &amp; services that substitute or complement current offerings</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S9 | Disruptive Innovation</strong>",
+            "topic_description": "S9 | Disruptive Innovation How technological & business model innovations can exploit asymmetric forces, for startups to displace resource-rich incumbents, or yield incremental improvements in product or service deliveries. Examine how innovations disrupt incumbents by crafting new market dynamics for 'good enough' products & services that substitute or complement current offerings",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S10 | Entrepreneurial Hypergrowth</strong><br/><p>Exploring hypergrowth using chasm theory as a mechanism to predict technological dispersion so to pre-empt destructive growth forces</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>S10 | Entrepreneurial Hypergrowth</strong>",
+            "topic_description": "S10 | Entrepreneurial Hypergrowth Exploring hypergrowth using chasm theory as a mechanism to predict technological dispersion so to pre-empt destructive growth forces",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S11 | Leadership &amp; Emergent Growth</strong><br/><p>Drivers for design-led growth strategies and how to organise for emergent growth paths in entrepreneurial ventures. Organising new venture using 2 different frameworks with distinct philosophies</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>S11 | Leadership &amp; Emergent Growth</strong>",
+            "topic_description": "S11 | Leadership & Emergent Growth Drivers for design-led growth strategies and how to organise for emergent growth paths in entrepreneurial ventures. Organising new venture using 2 different frameworks with distinct philosophies",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S12 | Entrepreneurial Finance</strong><br/><p>Exploring NPV and reverse financials as tools to interpret growth assumptions to accommodate uncertainty in finance models. Apply finance models to prospective ventures to interpret capital needs &amp; long-term value potential</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>S12 | Entrepreneurial Finance</strong>",
+            "topic_description": "S12 | Entrepreneurial Finance Exploring NPV and reverse financials as tools to interpret growth assumptions to accommodate uncertainty in finance models. Apply finance models to prospective ventures to interpret capital needs & long-term value potential",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S13 | Navigating Uncertainty</strong><br/><p>Review key components of entrepreneurship theory &amp; practice, pursuing opportunities beyond resources to hand. Reflecting on the journey through the course, discuss the team autopsy &amp; preparing for the final case study assignment released &amp; due during examination period.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>S13 | Navigating Uncertainty</strong>",
+            "topic_description": "S13 | Navigating Uncertainty Review key components of entrepreneurship theory & practice, pursuing opportunities beyond resources to hand. Reflecting on the journey through the course, discuss the team autopsy & preparing for the final case study assignment released & due during examination period.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
