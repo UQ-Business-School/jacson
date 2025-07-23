@@ -1,0 +1,357 @@
+{
+    "course_title": "Visitor Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR7031-20360-7520",
+    "full_course_code": "TOUR7031-20360-7520",
+    "course_code": "TOUR7031",
+    "class_code": "20360",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the dynamics of motivation and how this impacts on visitors' experiences in a range of tourism, hospitality and events settings"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the key principles of visitor learning, interpretation and orientation to the design of visitor experiences"
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify and manage environmental, social and cross-cultural impacts in visitor settings"
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop strategies and recommendations for the management of visitor experiences in tourism, hospitality and event operations and destinations"
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically evaluate a visitor experience using a range of evaluation tools and approaches."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Critique of Visitor Site",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 4/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Select a suitable visitor attraction and conduct a critique of the site in terms of visitor learning experiences and visitor management. </p>\n<p><strong>You CANNOT choose the Queensland Museum as we will be visiting this site as a field trip.</strong></p>\n<p>You will be doing this from the perspective of ONE particular target market of <strong>your </strong>choice (e.g. primary school children on field trips; families with teenage children; international tourists on a tour etc). </p>\n<p>You are required to:</p>\n<ul>\n<li>Select a visitor site that offers some level or type of visitor learning. You will need to visit the site to complete the analysis.</li>\n<li>Using the guidelines from our field trip to the Queensland Museum, write a critique of the interpretation and visitor facilities at <strong>your </strong>chosen site.</li>\n<li>Please include photographs to illustrate your points, including a selfie of you at your site.</li>\n</ul>\n<p><strong>PART 1: BACKGROUND (approx. 700 words)</strong></p>\n<ul>\n<li>Describe the site – what is it (museum, national park etc), where is it, how long has it been there etc.</li>\n<li>Provide a map or diagram of the site</li>\n<li>Choose <strong>ONE</strong> target market that you will be using as the basis of your report and briefly discuss their likely motives and interests.</li>\n</ul>\n<p><strong>PART 2: CRITIQUE (approx. 1,500 words)</strong></p>\n<ul>\n<li>Drawing from relevant lecture content and readings, note how well the site is likely to meet the needs and interests of the <strong>ONE target market</strong> you have identified. Elements you could discuss:</li>\n<li>Entrance/sense of welcome</li>\n<li>Visitor facilities</li>\n<li>Visitor comfort</li>\n<li>Orientation (internal and external directional signs)</li>\n<li>Visitor activities</li>\n<li>Interpretation</li>\n<li>Maintenance</li>\n<li>Highlight the areas and aspects that are done well and those that could be improved. Justify this with your on-site observations and photographs.</li>\n</ul>\n<p><strong>PART 3: RECOMMENDATIONS (approx. 800 words)</strong></p>\n<ul>\n<li>Provide suggestions/recommendations for improvements to the identified weaknesses. You can also provide suggestions for how the site can further improve their strengths. </li>\n</ul>\n<p>Recommendations should clearly link to the needs and preferences of the ONE target market you have selected.  Clearly state what is recommended and how to achieve this. For example, it is insufficient to say there are no multi-lingual signs so the recommendation is to install multi-lingual signs. Rather, you should be stating WHY multilingual would be beneficial, WHERE they should be placed and WHAT specific languages should be considered.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically via Turnitin located in the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Facility Design Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 30/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Word Count: </strong>Approx. 3,500</p>\n<p>This is an individual assignment that requires you to design an ORIGINAL tourism/event or hospitality facility. Choose from one of the following categories:</p>\n<ul>\n<li>a theme park, zoo, or cultural attraction</li>\n<li>a museum, art gallery or historic building</li>\n<li>a resort, health spa, hotel/casino complex (NOT A GYM)</li>\n<li>an entertainment complex</li>\n</ul>\n<p><strong>PART 1: Introduction (500-600 words)</strong></p>\n<p><strong>Overview of proposal:</strong></p>\n<ul>\n<li>an overview of the design concept.</li>\n<li>brief background information about the location of your facility and its surroundings.</li>\n<li>explanation of facility name.</li>\n</ul>\n<p><strong>Target Market, motives &amp; interests </strong></p>\n<p>In this section you should identify <strong>ONE</strong> market segment that you feel will be particularly attracted to the facility that you are proposing:</p>\n<ul>\n<li>Who are they, what are they interested in?</li>\n<li>Why is your facility likely to attract this market? Why do you think your proposal will be successful? Here you should briefly justify with literature dealing with the type of facility that you are proposing. The literature can include trade journals, media reports and non-academic sources if relevant.</li>\n</ul>\n<p><strong>PART 2: Design elements (approx. 3,000 words)</strong></p>\n<p><strong>Theme (approx. 200 words)</strong></p>\n<ul>\n<li>What are the underlying concept or ideas linking the elements together?</li>\n<li>What is the key thing you want visitors to think, feel or do as a result of visiting your facility?</li>\n</ul>\n<p><strong>Layout and Orientation (approx. 800 words)</strong></p>\n<ul>\n<li>Design a map or site plan of the facility. Describe and justify your layout.</li>\n<li>Describe the different ‘areas’ and explain how the site has been designed to facilitate visitor use, flows and movement.</li>\n<li>If relevant, explain how you would manage queues, crowding and capacity issues.</li>\n</ul>\n<p><strong>Design elements (approx. 1,500 words)</strong></p>\n<ul>\n<li>Describe how you intend to use ambient features (lighting, music, colour, décor) to support your theme and enhance your visitors’ experiences.</li>\n<li>Describe the activities and experiences that will be offered. Explain how these support your theme.</li>\n<li>Provide photos and diagrams to illustrate your design ideas.</li>\n</ul>\n<p><strong>Managing Impacts (approx. 500 words)</strong></p>\n<p>Describe how you will manage the on-site visitor experience:</p>\n<ul>\n<li>Identify <strong>one</strong> environmental impact and <strong>one</strong> socio-cultural impact that your facility could create. These can be both positive, both negative, or one of each. Any combination can be used but please only identify <strong>two impacts in total</strong>.</li>\n<li>Explain what<strong> visitor </strong>management strategies you would use to minimise/maximise the two identified impacts.</li>\n</ul>\n<p><strong>REFERENCE LIST </strong></p>\n<p><strong>APPENDICES (OPTIONAL)</strong></p>\n<p>Please insert illustrations into the text of your assignment. The appendices are for diagrams, graphs or tables you would like to refer to as supporting information. Appendices and references are not included in the word limit.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically via Turnitin located in the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction: What is Visitor Management?</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction: What is Visitor Management?</strong>",
+            "topic_description": "Introduction: What is Visitor Management?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction: The Challenges of Managing Visitors in TH&amp;E Contexts</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction: The Challenges of Managing Visitors in TH&amp;E Contexts</strong>",
+            "topic_description": "Introduction: The Challenges of Managing Visitors in TH&E Contexts",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding Your Visitors</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Understanding Your Visitors</strong>",
+            "topic_description": "Understanding Your Visitors",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding Visitors: Designing Engaging and Memorable Experiences for Different Target Markets</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Understanding Visitors: Designing Engaging and Memorable Experiences for Different Target Markets</strong>",
+            "topic_description": "Understanding Visitors: Designing Engaging and Memorable Experiences for Different Target Markets",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interpretation: Principles and Practices </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Interpretation: Principles and Practices </strong>",
+            "topic_description": "Interpretation: Principles and Practices",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interpretation: Exploring Interpretation and its Impact on Visitor Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Interpretation: Exploring Interpretation and its Impact on Visitor Learning</strong>",
+            "topic_description": "Interpretation: Exploring Interpretation and its Impact on Visitor Learning",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing Interpretive Signs: Principles &amp; Practices</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Designing Interpretive Signs: Principles &amp; Practices</strong>",
+            "topic_description": "Designing Interpretive Signs: Principles & Practices",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing Interpretive Signs: Critically Evaluating the Suitability and Effectiveness of Signs in Different TH&amp;E Contexts</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Designing Interpretive Signs: Critically Evaluating the Suitability and Effectiveness of Signs in Different TH&amp;E Contexts</strong>",
+            "topic_description": "Designing Interpretive Signs: Critically Evaluating the Suitability and Effectiveness of Signs in Different TH&E Contexts",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Visitor Studies: Evaluating Visitor Experiences</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Visitor Studies: Evaluating Visitor Experiences</strong>",
+            "topic_description": "Visitor Studies: Evaluating Visitor Experiences",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Visitor Studies: Site Visit to Queensland Museum</strong><br/><p>Site visit to Queensland Museum </p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Visitor Studies: Site Visit to Queensland Museum</strong>",
+            "topic_description": "Visitor Studies: Site Visit to Queensland Museum Site visit to Queensland Museum",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maps &amp; Way-finding; Visitor Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Maps &amp; Way-finding; Visitor Learning</strong>",
+            "topic_description": "Maps & Way-finding; Visitor Learning",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maps &amp; Way-finding; Visitor Learning: Identifying Elements of Effective Maps; Designing Experiences for Visitors with Different Learning Styles</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Maps &amp; Way-finding; Visitor Learning: Identifying Elements of Effective Maps; Designing Experiences for Visitors with Different Learning Styles</strong>",
+            "topic_description": "Maps & Way-finding; Visitor Learning: Identifying Elements of Effective Maps; Designing Experiences for Visitors with Different Learning Styles",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Principles of Design: Colour, Soundscapes, Textual Factors &amp; Spatial Design </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Principles of Design: Colour, Soundscapes, Textual Factors &amp; Spatial Design </strong>",
+            "topic_description": "Principles of Design: Colour, Soundscapes, Textual Factors & Spatial Design",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Principles of Design: Exploring the Impact of Colour, Soundscapes, Textual Factors &amp; Spatial Design on the Visitor Experience</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Principles of Design: Exploring the Impact of Colour, Soundscapes, Textual Factors &amp; Spatial Design on the Visitor Experience</strong>",
+            "topic_description": "Principles of Design: Exploring the Impact of Colour, Soundscapes, Textual Factors & Spatial Design on the Visitor Experience",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing Visitor Experiences: Multi-sensory Experiences &amp; Theming</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Designing Visitor Experiences: Multi-sensory Experiences &amp; Theming</strong>",
+            "topic_description": "Designing Visitor Experiences: Multi-sensory Experiences & Theming",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing Visitor Experiences: Creating Effective Multi-sensory &amp; Themed Tourist Spaces and Attractions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Designing Visitor Experiences: Creating Effective Multi-sensory &amp; Themed Tourist Spaces and Attractions</strong>",
+            "topic_description": "Designing Visitor Experiences: Creating Effective Multi-sensory & Themed Tourist Spaces and Attractions",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Crowds, Queues &amp; Risks</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Managing Crowds, Queues &amp; Risks</strong>",
+            "topic_description": "Managing Crowds, Queues & Risks",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Crowds, Queues and Risk: Exploring Strategies for Managing Large Numbers of Visitors</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Managing Crowds, Queues and Risk: Exploring Strategies for Managing Large Numbers of Visitors</strong>",
+            "topic_description": "Managing Crowds, Queues and Risk: Exploring Strategies for Managing Large Numbers of Visitors",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public Holiday</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Public Holiday</strong>",
+            "topic_description": "Public Holiday",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Socio-cultural Impacts on Communities</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Managing Socio-cultural Impacts on Communities</strong>",
+            "topic_description": "Managing Socio-cultural Impacts on Communities",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Socio-cultural Impacts: Managing Culture Shock &amp; Designing for Inclusion</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Managing Socio-cultural Impacts: Managing Culture Shock &amp; Designing for Inclusion</strong>",
+            "topic_description": "Managing Socio-cultural Impacts: Managing Culture Shock & Designing for Inclusion",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Environmental Impacts on the Built and Natural Environment</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Managing Environmental Impacts on the Built and Natural Environment</strong>",
+            "topic_description": "Managing Environmental Impacts on the Built and Natural Environment",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Environmental Impacts: Changing Visitors' Environmental Behaviour</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Managing Environmental Impacts: Changing Visitors' Environmental Behaviour</strong>",
+            "topic_description": "Managing Environmental Impacts: Changing Visitors' Environmental Behaviour",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Future Trends in Visitor Management</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Future Trends in Visitor Management</strong>",
+            "topic_description": "Future Trends in Visitor Management",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Future Visitor Management strategies: The role of technology; Digital Escape Box</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Future Visitor Management strategies: The role of technology; Digital Escape Box</strong>",
+            "topic_description": "Future Visitor Management strategies: The role of technology; Digital Escape Box",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        }
+    ]
+}
