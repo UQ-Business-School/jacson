@@ -1,0 +1,370 @@
+{
+    "course_title": "Introduction to Human Resource Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS2604-20321-7520",
+    "full_course_code": "MGTS2604-20321-7520",
+    "course_code": "MGTS2604",
+    "class_code": "20321",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the frameworks and systems for HRM, the components (or functions) of HRM systems, and the relationships among them."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically evaluate the appropriateness of approaches to HRM functions in local and international contexts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate practical skills in performing HRM functions to individual, team and organisational practices."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work as individuals to apply HRM concepts and theories to the analysis of individual's career management, team and organizational HRM practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work as individuals to communicate the analysis and recommendations relating to an individual's career management, team and organization's HRM practices."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Research Essay",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 14/04/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to submit a 1,500 word essay addressing only ONE (1) of the following essay topics:</p>\n<p>1. How is Onboarding defined in academic literature? Critically discuss the outcomes of Onboarding for individuals, teams and organisations. Briefly discuss HRM implications.</p>\n<p>2. How is PERMA (Positive Emotions*Engagement*Relationship*Meaning*Achievement) defined in academic literature? Critically discuss the factors that promote and inhibit PERMA in organisations. Briefly discuss HRM implications.</p>\n<p>3. How is DEI (Diversity*Equity*Inclusion) Program defined in academic literature? Critically discuss the consequences of DEI Program in organisations. Briefly discuss HRM implications.</p>\n<p><strong>ADDITIONAL NOTES:</strong></p>\n<ul>\n<li>The research essay should demonstrate that you have grasped the relevant theoretical concepts of HRM, that you are able to interpret research in a critical manner, and that you can link theory with HRM practice.</li>\n<li>The research essay should incorporate at least 15 academic peer-reviewed journal articles (2000-2025) from journals on the ABDC list.</li>\n<li>The prescribed textbook may be referenced, but the research essay should NOT use additional textbooks as references (ie, books that cover the broad field of HRM and are designed specifically for use in tertiary courses - check the preface and/or introduction).</li>\n<li>You must properly adhere to the Business School stylistic and presentation requirements for Essays as detailed in the Assignment Writing Guide.</li>\n<li>Note that additional advice about the research essay (e.g. its format, structure, content, style, referencing, etc) will be provided in the Assignment Writing Workshop.</li>\n<li>It is highly recommended that you submit a final draft and review your TurnitIn report at least 24 hours before the assignment due date to ensure that you have not inadvertently failed to comply with the academic integrity policy. Please check the citations, quotations (these should be minimal) and references carefully.</li>\n<li>What is most important in this assessment is how you use the evidence from the academic sources to justify your arguments.</li>\n</ul>\n<p><strong>The assignment is to be submitted as follows</strong></p>\n<ul>\n<li>The font will be 12 pt Times New Roman.</li>\n<li>Line spacing will be 1 ½ (1.5).</li>\n<li>Word count and limit (1500 words +/- 10%)</li>\n<li>Paragraphs will have first sentence indentation.</li>\n<li>The essay should have</li>\n<li>Introduction</li>\n<li>Body of the essay</li>\n<li>Conclusion</li>\n<li>appendices</li>\n<li>a minimum of 15 references</li>\n<li>Appendices may be used as supporting material. Appendices must be:</li>\n<li>(1) referenced in the text, and</li>\n<li>(2) kept in order of their reference.</li>\n</ul>\n<p><strong>Note:</strong></p>\n<ul>\n<li>Support and further information about assessment 1 is available on BlackBoard</li>\n</ul>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<ul>\n<li>Properly adhere to the Business School stylistic and presentation requirements for Essays as detailed in the Assignment Writing Guide.</li>\n<li>Criteria and marking details will be distributed in lecture and made available on our course Blackboard site.</li>\n<li>More details about the assessment will be discussed in class and posted to our course Blackboard site. </li>\n</ul>\n<p><strong>Complex/authentic assessment using Artificial Intelligence to Support Learning</strong></p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission:</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Career Plan Report",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>During Each Tutorial Week 2 Mon - Week 11 Fri</p>\n<p>Final Report Submission 3:00pm  Week 12 Wed - 21/05/2025</p>\n<p>\n</p><p>Final Report Submission is due by 3:00pm on the due date.</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Tutorials are designed to support student learning key concepts in the course and to assist students to prepare for assessment two task.</p>\n<p>You need to:</p>\n<ul>\n<li>1) prepare for tutorial activities prior to tutorials</li>\n<li>2) participate in tutorial activities and exercises during the tutorial.</li>\n</ul>\n<p><strong>Tutorial preparation prior to tutorials:</strong></p>\n<p>Each student will <em>individually</em> review tutorial exercise materials (such as case study, self-assessment activities or tutorial exercise information).</p>\n<p><strong>Tutorial participation during tutorials:</strong></p>\n<p>In a pre-assigned activities and exercises (e.g. self-assessments, case studies, scenarios, etc), you will complete the associated written tutorial exercises in the enrolled tutorial class. This course involves participating in tutorial exercises and activities, and these activities are directly linked to assessment task two. If you cannot commit to tutorial participation in your enrolled tutorials, please contact the course coordinator and lecturer to discuss alternative tutorial arrangements.(e.g. attending tutorials on another day of the week).</p>\n<p>It is essential that you attend tutorials to engage with the tutorial exercises and complete activities in tutorials. If you miss attending your enrolled tutorials and do not have a valid reason for your absence (accompanied by relevant documentation e.g., a medical certificate), you will miss important information that are relevant to assessment task two and will therefore require an alternative tutorial exercises or activities to make-up for your missed tutorials due to your absence.</p>\n<p><strong>Outcome of Tutorial participation</strong></p>\n<p>The outcome of the tutorial participation (e.g. completing self-assessment exercises, reflections, case studies, etc) will result in completion of assessment task two - career plan report. The details of assessment task two is described below:</p>\n<p><strong>Assessment 2: Career Plan Report</strong></p>\n<p><strong>Rationale</strong></p>\n<p>This second assessment will help you develop a career plan to help guide you in your journey as a student at university and as an employee or entrepreneur of your own business after you complete your university studies. As the world becomes increasingly global and competitive, the future of work is changing from national focus to international focus. When a vacant position is advertised, it is very common to compete for the position with candidates all around the world. Therefore, being strategic and competitive in managing your career is imperative. This second assessment will assist you to develop a plan to prepare for your future career.</p>\n<p>This assessment will give students the opportunity to reflect on their career and develop an understanding of their overall career direction including their career goals, values, interests and preferences.</p>\n<p><strong>Purpose</strong></p>\n<p>The aim of assessment task 2 is to enable students to build on their knowledge and skills of HRM theories and processes about career management and employability through a reflection approach. Students will have the opportunity to reflect on their strengths and areas for development as it relates to their career goals. This assessment will also help students to understand the connections between theory and practice and develop practical skills in developing and managing one's career in a competitive and global world.</p>\n<p><strong>Tasks</strong></p>\n<p>You will produce a 1000-word business report with at least 10 academic peer-reviewed sources. The weekly tutorial activities and exercises (e.g. self-assessments, case studies, scenarios, etc) will help you to gather data and information about who you are, what is important to you and your career goals and aspirations. The data and information you gather from the tutorial's activities and exercises will be valuable source of information for writing your report.</p>\n<p>Your report will address the following:</p>\n<ol>\n<li>Self-assessments: clarifying your values, work-style personality and lifestyle-trade off and identifying your strengths and areas for development.</li>\n<li>Creating career plan and goals to enhance career-related experiences before and after graduation</li>\n<li>Integration: consider the relationship between your self-assessment findings and your career plan and goals. How do your strengths and preferences align with your career goals and values? What knowledge and skills do you need to develop to help you to effectively pursue your career goals?</li>\n<li>Appendices: the appendices are included in the report but will not be part of the word count. The appendices include evidence from your self-assessments (e.g. values, work-style personality). You will also submit the career competency canvas, a one-page document that tells the story of your career (The career competency canvas will be discussed in lectures and tutorials).</li>\n</ol>\n<p><strong>The assignment is to be submitted as follows</strong></p>\n<ul>\n<li>The font will be 12 pt Times New Roman.</li>\n<li>Line spacing will be 1 ½ (1.5).</li>\n<li>Word count and limit (1000 words +/- 10%)</li>\n<li>Paragraphs will have first sentence indentation.</li>\n<li>The report should have</li>\n<li>Introduction</li>\n<li>body (Part 1, part 2 and part 3 discussed above)</li>\n<li>appendices</li>\n<li>a minimum of 10 references</li>\n<li>Appendices may be used as supporting material. Appendices must be:</li>\n<li>(1) referenced in the text, and</li>\n<li>(2) kept in order of their reference.</li>\n</ul>\n<p><strong>Note:</strong></p>\n<p>Support and further information about assessment 2 is available on Blackboard.</p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<ul>\n<li>Completeness and correctness of the in-class written exercise.</li>\n<li>More details about the assessment will be discussed in class and posted to our course Blackboard site. </li>\n</ul>\n<p><strong>Complex/authentic assessment using Artificial Intelligence to Support Learning</strong></p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>Submission</strong>: You are required to complete and submit the tutorial activities and exercises in a tutorial. The tutorial activities and exercises are designed to assist you to complete your final report which will be submitted by the due date. <strong>Note</strong>: If you are unable to submit a learning unit and/or written exercise in your nominated tutorial class, you will need to attend an alternate tutorial to avoid missing out on the learning of that tutorial. If you are unwell and cannot attend a tutorial, please contact the lecturer and course coordinator to discuss other options (e.g. consultations) to catch up on your learning from tutorials. A valid medicate certificate should be provided in cases where you are unwell and cannot attend tutorials.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Report on Issues in HRM - Case study Report",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 18/06/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment consists of a capstone case study analysis, which will be completed individually and submitted on the Blackboard site. The aim of the assessment is for students to apply and integrate the frameworks, models, and concepts from this course by analysing a case scenario.  </p>\n<p><strong>Rationale</strong></p>\n<p>Identifying, assessing, and addressing human resource management issues that affect the long-term objective of an organisation is a key responsibility of the Human resource manager.</p>\n<p>When done correctly, this can confirm the value of the Human Resources function. Successful implementation of HRM practices doesn’t necessarily involve a big budget and a large team. The best HRM practices come in many different forms and often encompass creativity, passion and the ability to make a difference, whatever the size of the organisation.</p>\n<p>Consider this assessment as a briefing by an internal HR manager (i.e. you, inside the case organisation) reporting to your executive team (i.e. me, the CEO of the case organisation).</p>\n<p><strong>Purpose</strong></p>\n<p>The purpose of this report is to conduct an in-depth <em>analysis</em> of an Human Resource Management issue in an organisation. You will be allocated a case study/scenario/materials to review by the lecturer.</p>\n<p>Using the HRM literature, models and lecture contents, you will analyse the case study, articulate the Human Resources problem/issue. You will individually select and develop your own solutions as a <em>model of best practice</em> for the specific organisation <em>optimising</em> their human capital. All solutions will be written in the report.</p>\n<p><strong>Tasks</strong></p>\n<p>You will produce a 2000-word business report with at least 10 academic peer-reviewed sources. Your report will address the following:</p>\n<ul>\n<li>A clear articulation of the human resource management issues/problems stating why it is important to address this issues/problems in the organisation</li>\n<li>Evaluation of the antecedents to the issues/problems</li>\n<li>An overview of the ethical implications behind the issues/problems</li>\n<li>Solutions and recommendations which are based on one or more of the models explored in the course during the semester.</li>\n<li>A clear justification for recommendations/solutions.</li>\n</ul>\n<p><strong>The assignment is to be submitted as follows</strong></p>\n<ul>\n<li>The font will be 12 pt Times New Roman.</li>\n<li>Line spacing will be 1 ½ (1.5).</li>\n<li>Paragraphs will have first sentence indentation.</li>\n<li>The report should have</li>\n<li>an executive summary,</li>\n<li>introduction</li>\n<li>body of the report</li>\n<li>conclusion</li>\n<li>a minimum of 10 references</li>\n<li>appendices</li>\n<li>Appendices may be used as supporting material. Appendices must be:</li>\n<li>(1) referenced in the text, and</li>\n<li>(2) kept in order of their reference.</li>\n</ul>\n<p><strong>Note</strong></p>\n<p>Support and further information about assessment 3 is available on Blackboard.</p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<ul>\n<li>Further details about marking criteria will be provided on the course Blackboard. Also more instructions and guidance on assessment task 3 will be provided throughout the semester and on the course Blackboard.</li>\n</ul>\n<p><strong>Complex/authentic assessment using Artificial Intelligence to Support Learning</strong></p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically to Turn-It-In via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course overview; Introduction to HRM</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course overview; Introduction to HRM</strong>",
+            "topic_description": "Course overview; Introduction to HRM",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #1 - Introduction to HRM</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #1 - Introduction to HRM</strong>",
+            "topic_description": "Tutorial #1 - Introduction to HRM",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Development of / Approaches to HRM</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Development of / Approaches to HRM</strong>",
+            "topic_description": "Development of / Approaches to HRM",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #2 - Approaches to HRM</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #2 - Approaches to HRM</strong>",
+            "topic_description": "Tutorial #2 - Approaches to HRM",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment writing workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assignment writing workshop</strong>",
+            "topic_description": "Assignment writing workshop",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #3 - Assignment Writing Workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #3 - Assignment Writing Workshop</strong>",
+            "topic_description": "Tutorial #3 - Assignment Writing Workshop",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Environment of HRM </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Environment of HRM </strong>",
+            "topic_description": "Environment of HRM",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #4 - Environment of HRM </strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #4 - Environment of HRM </strong>",
+            "topic_description": "Tutorial #4 - Environment of HRM",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Career Development and Employability Mindset </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Career Development and Employability Mindset </strong>",
+            "topic_description": "Career Development and Employability Mindset",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #5 - Career Development and Employability Mindset </strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #5 - Career Development and Employability Mindset </strong>",
+            "topic_description": "Tutorial #5 - Career Development and Employability Mindset",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Human Resource Managment Planning and Job Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Human Resource Managment Planning and Job Analysis</strong>",
+            "topic_description": "Human Resource Managment Planning and Job Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #6 - HRM Planning &amp; Job analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #6 - HRM Planning &amp; Job analysis</strong>",
+            "topic_description": "Tutorial #6 - HRM Planning & Job analysis",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recruitment and Selection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Recruitment and Selection</strong>",
+            "topic_description": "Recruitment and Selection",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #7 - Recruitment &amp; Selection</strong><br/><p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #7 - Recruitment &amp; Selection</strong>",
+            "topic_description": "Tutorial #7 - Recruitment & Selection Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance management-GOOD FRIDAY PUBLIC HOLIDAY (Self-based Online Learning Session)</strong><br/><p>Week 8 Lecture (Performance Management) falls on the Good Friday Public Holiday. There are no Lectures and Tutorials on the Good Friday Public Holiday. Students will engage in a Self-based Online Learning Session on Performance Management. Tutorials scheduled on Friday will be held on alternative days of the week.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Performance management-GOOD FRIDAY PUBLIC HOLIDAY (Self-based Online Learning Session)</strong>",
+            "topic_description": "Performance management-GOOD FRIDAY PUBLIC HOLIDAY (Self-based Online Learning Session) Week 8 Lecture (Performance Management) falls on the Good Friday Public Holiday. There are no Lectures and Tutorials on the Good Friday Public Holiday. Students will engage in a Self-based Online Learning Session on Performance Management. Tutorials scheduled on Friday will be held on alternative days of the week.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #8 - Performance Management</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #8 - Performance Management</strong>",
+            "topic_description": "Tutorial #8 - Performance Management",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Learning and Development</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Learning and Development</strong>",
+            "topic_description": "Learning and Development",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #9 - Learning and Development</strong><br/><p>Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #9 - Learning and Development</strong>",
+            "topic_description": "Tutorial #9 - Learning and Development Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rewarding Employees</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Rewarding Employees</strong>",
+            "topic_description": "Rewarding Employees",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #10 - Rewarding Employees</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #10 - Rewarding Employees</strong>",
+            "topic_description": "Tutorial #10 - Rewarding Employees",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Diversity</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Managing Diversity</strong>",
+            "topic_description": "Managing Diversity",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial #11 - Managing Diversity</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial #11 - Managing Diversity</strong>",
+            "topic_description": "Tutorial #11 - Managing Diversity",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Evaluating HRM and Future Challenges</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Evaluating HRM and Future Challenges</strong>",
+            "topic_description": "Evaluating HRM and Future Challenges",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12 - Assessment prep and consultations</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 12 - Assessment prep and consultations</strong>",
+            "topic_description": "Tutorial 12 - Assessment prep and consultations",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course review &amp; case study workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Course review &amp; case study workshop</strong>",
+            "topic_description": "Course review & case study workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
