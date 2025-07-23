@@ -1,0 +1,407 @@
+{
+    "course_title": "Business Information Security",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM3205-60382-7560",
+    "full_course_code": "BISM3205-60382-7560",
+    "course_code": "BISM3205",
+    "class_code": "60382",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Appreciate the overall context and need for information security within a business environment."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse security issues and propose security policies in terms of the fundamental security goals of confidentiality, integrity, authentication, availability, and non-repudiation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand and utilise the critical importance of risk management and continuity management in driving the overall business information security towards tangible continuous improvement."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse, evaluate and plan the deployment of the major technological controls that are relevant within business information security."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Essay: Security Case Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/09/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The essay will be completed individually by each student.</p>\n<p>The essay will comprise security case analysis that focuses on the course material covered during the first five seminars.</p>\n<p>We shall introduce and discuss this essay in the relevant seminar.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment: Security Topic Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 27/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will be individually completed by each student.</p>\n<p>The assignment will comprise a series of analysis questions that focus on the course material covered across the semester.</p>\n<p>We shall introduce and discuss this assignment in the relevant seminar.</p>\n<p><strong>AI Statement</strong></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Course Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of course exam will comprise a series of questions that focus on the course material covered across the course.</p>\n<p>The exam will include multiple choice questions and may also feature conceptual short questions and/or scenario-based analysis questions.</p>\n<p>We shall discuss this exam details in the relevant lecture.</p>\n<p>AI Statement:</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Information Security</strong><br/><p>We introduce the concept of information security and the fundamental view we shall use to analyse this topic.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Information Security</strong>",
+            "topic_description": "Introduction to Information Security We introduce the concept of information security and the fundamental view we shall use to analyse this topic.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - An Intro to Information Security</strong><br/><p>Information Security Discussion 1 - An Introduction to Information Security.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - An Intro to Information Security</strong>",
+            "topic_description": "Tutorial 1 - An Intro to Information Security Information Security Discussion 1 - An Introduction to Information Security.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Need for Security / Legal and Ethical Issues</strong><br/><p>We discuss the need for information security - types of security threats. We introduce a range of Australian IT related laws and the advantages/disadvantages these pose.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>The Need for Security / Legal and Ethical Issues</strong>",
+            "topic_description": "The Need for Security / Legal and Ethical Issues We discuss the need for information security - types of security threats. We introduce a range of Australian IT related laws and the advantages/disadvantages these pose.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2 - The Need for Security</strong><br/><p>Information Security Discussion 2 - Review questions cover The Need for Security.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2 - The Need for Security</strong>",
+            "topic_description": "Tutorial 2 - The Need for Security Information Security Discussion 2 - Review questions cover The Need for Security.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Planning for Security</strong><br/><p>We discuss management's role in the development, maintenance, and enforcement of information security policy and standards. We explain what an information security blueprint is in the context of the ISO 27000 series. We introduce contingency planning.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Planning for Security</strong>",
+            "topic_description": "Planning for Security We discuss management's role in the development, maintenance, and enforcement of information security policy and standards. We explain what an information security blueprint is in the context of the ISO 27000 series. We introduce contingency planning.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 -  Planning for Security </strong><br/><p>Information Security Discussion 3 - Review questions cover Planning for Security.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 3 -  Planning for Security </strong>",
+            "topic_description": "Tutorial 3 -  Planning for Security Information Security Discussion 3 - Review questions cover Planning for Security.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk Management (Part 1)</strong><br/><p>In the first part, we focus on defining risk management and its role in the organisation. We describe risk management techniques to identify and prioritise risk factors for assets. We explain how risk is assessed.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Risk Management (Part 1)</strong>",
+            "topic_description": "Risk Management (Part 1) In the first part, we focus on defining risk management and its role in the organisation. We describe risk management techniques to identify and prioritise risk factors for assets. We explain how risk is assessed.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4 - Risk Management I</strong><br/><p>Information Security Discussion 4 - Review questions cover Risk Management (Part 1).</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 4 - Risk Management I</strong>",
+            "topic_description": "Tutorial 4 - Risk Management I Information Security Discussion 4 - Review questions cover Risk Management (Part 1).",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk Management (Part 2)</strong><br/><p>In the second part, we discuss strategy options used to treat risk. We formulate a cost-benefit analysis (CBA) using existing conceptual frameworks. We describe popular methodologies used in business to manage risk.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Risk Management (Part 2)</strong>",
+            "topic_description": "Risk Management (Part 2) In the second part, we discuss strategy options used to treat risk. We formulate a cost-benefit analysis (CBA) using existing conceptual frameworks. We describe popular methodologies used in business to manage risk.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5 - Risk Management II</strong><br/><p>Information Security Discussion 5 - Review questions cover Risk Management (Part 2).</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 5 - Risk Management II</strong>",
+            "topic_description": "Tutorial 5 - Risk Management II Information Security Discussion 5 - Review questions cover Risk Management (Part 2).",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cryptography (Part 1)</strong><br/><p>We consider two major encryption paradigms - symmetric key and public key cryptography - their operational strengths and challenges.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Cryptography (Part 1)</strong>",
+            "topic_description": "Cryptography (Part 1) We consider two major encryption paradigms - symmetric key and public key cryptography - their operational strengths and challenges.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6 - Cryptography I</strong><br/><p>Information Security Discussion 6 - Review questions cover Cryptography (Part 1).</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 6 - Cryptography I</strong>",
+            "topic_description": "Tutorial 6 - Cryptography I Information Security Discussion 6 - Review questions cover Cryptography (Part 1).",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cryptography (Part 2)</strong><br/><p>We consider the commercial applications of cryptography - hybrid security applications for the Web and Email. We also consider other important applications such as digital signatures.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Cryptography (Part 2)</strong>",
+            "topic_description": "Cryptography (Part 2) We consider the commercial applications of cryptography - hybrid security applications for the Web and Email. We also consider other important applications such as digital signatures.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7 - Cryptography II</strong><br/><p>Information Security Discussion 7 - Review questions cover Cryptography (Part 2).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 7 - Cryptography II</strong>",
+            "topic_description": "Tutorial 7 - Cryptography II Information Security Discussion 7 - Review questions cover Cryptography (Part 2).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Security Technology (Firewalls, Proxys and the DMZ - Part 1)</strong><br/><p>A business analysis of major types of security controls - operational approaches and positioning within the business network.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Security Technology (Firewalls, Proxys and the DMZ - Part 1)</strong>",
+            "topic_description": "Security Technology (Firewalls, Proxys and the DMZ - Part 1) A business analysis of major types of security controls - operational approaches and positioning within the business network.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8 - Security Technology I</strong><br/><p>Information Security Discussion 8 - Review questions cover Security Technology (Firewalls, Proxys and the DMZ - Part 1).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 8 - Security Technology I</strong>",
+            "topic_description": "Tutorial 8 - Security Technology I Information Security Discussion 8 - Review questions cover Security Technology (Firewalls, Proxys and the DMZ - Part 1).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Security Technology (Intrusion Detection - Part 2)</strong><br/><p>Consideration of the role of intrusion detection systems - placement and operational approaches. We analyse how intrusion detection systems (IDS) provide 'defence in depth' for the modern business.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Security Technology (Intrusion Detection - Part 2)</strong>",
+            "topic_description": "Security Technology (Intrusion Detection - Part 2) Consideration of the role of intrusion detection systems - placement and operational approaches. We analyse how intrusion detection systems (IDS) provide 'defence in depth' for the modern business.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No Lectures or tutorials during in-semester break.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No Lectures or tutorials during in-semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9 - Security Technology II</strong><br/><p>Information Security Discussion 9 - Review questions cover Security Technology (Intrusion Detection - Part 2).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9 - Security Technology II</strong>",
+            "topic_description": "Tutorial 9 - Security Technology II Information Security Discussion 9 - Review questions cover Security Technology (Intrusion Detection - Part 2).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>PCI DSS Discussion &amp; Analysis</strong><br/><p>A 'capstone' analysis of the Payment Card Industry Data Security Standard (PCI DSS). A contractually obligatory standard for any business storing, forwarding or processing in-house credit card data for Visa, Mastercard, and Amex.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>PCI DSS Discussion &amp; Analysis</strong>",
+            "topic_description": "PCI DSS Discussion & Analysis A 'capstone' analysis of the Payment Card Industry Data Security Standard (PCI DSS). A contractually obligatory standard for any business storing, forwarding or processing in-house credit card data for Visa, Mastercard, and Amex.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10 - PCI DSS</strong><br/><p>Information Security Discussion 10 - Review questions cover PCI DSS.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 10 - PCI DSS</strong>",
+            "topic_description": "Tutorial 10 - PCI DSS Information Security Discussion 10 - Review questions cover PCI DSS.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Blockchain - Theory &amp; Practice</strong><br/><p>We analyse the blockchain application. Discussion of the blockchain as it underpins bitcoin (crypto-currency). We focus on its architecture, benefits, challenges, and how it implements hashing and cryptography. A business analysis of the variety of blockchain management paradigms that have emerged in business.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Blockchain - Theory &amp; Practice</strong>",
+            "topic_description": "Blockchain - Theory & Practice We analyse the blockchain application. Discussion of the blockchain as it underpins bitcoin (crypto-currency). We focus on its architecture, benefits, challenges, and how it implements hashing and cryptography. A business analysis of the variety of blockchain management paradigms that have emerged in business.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11 - Blockchain</strong><br/><p>Information Security Discussion 11 - Review questions cover Blockchain.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 11 - Blockchain</strong>",
+            "topic_description": "Tutorial 11 - Blockchain Information Security Discussion 11 - Review questions cover Blockchain.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Security Maintenance</strong><br/><p>We focus on security auditing and security testing as part of managing and operating the ongoing security program.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Security Maintenance</strong>",
+            "topic_description": "Security Maintenance We focus on security auditing and security testing as part of managing and operating the ongoing security program.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12 -  Q&amp;A session</strong><br/><p>Information Security Discussion 11 -  Q&amp;A session for exam.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 12 -  Q&amp;A session</strong>",
+            "topic_description": "Tutorial 12 -  Q&A session Information Security Discussion 11 -  Q&A session for exam.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recap &amp; Get Ready for the Exam</strong><br/><p>We review the series of seminars. Q&amp;A session for exam.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Recap &amp; Get Ready for the Exam</strong>",
+            "topic_description": "Recap & Get Ready for the Exam We review the series of seminars. Q&A session for exam.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
