@@ -1,4 +1,8 @@
 {
+    "course_title": "Management Communication",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7610-60281-7460",
     "full_course_code": "MGTS7610-60281-7460",
     "course_code": "MGTS7610",
@@ -32,31 +36,31 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Business writing portfolio",
             "special_indicators": [],
-            "weighting": "40%",
-            "due_date": "28/08/2024 4:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 28/08/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Portfolio, Reflection",
-            "task_description": "In this assessment task, you will create a portfolio of written documents suited to different business situations (email, letter, media release) AND a Critical Reflection on your own writing).IMPORTANT INFORMATION:1. You MAY use Artificial Intelligence (AI) - including Grammarly, DEEPL, ChatGPT, etc. - when preparing this assignment.2. BUTyou MUST clearly declare your use (or non-use) of AI on the assignment Cover Sheet.Failure to declare your use (or non-use) of AI may constitute student misconduct under the Student Code of Conduct.you MUST include a FULL TRANSCRIPT of your interactions with all forms of AI.Please see the Assignment Instructions posted on Blackboard for more detail. Consult your tutor if you have any doubts about what counts as \"AI\" and/or a \"full transcript.\"Failure to include a full transcript will affect your grade and may constitute student misconduct under the Student Code of Conduct.you MUST reflect critically on your use of AI in the Critical Reflection.Please see the Assignment Instructions posted on Blackboard for more detail.Failure to reflect critically on your use of AI may constitute student misconduct under the Student Code of Conduct.you MUST be prepared to discuss your assignment in-person with course staff, if asked to do so.3. IF YOU DON'T complete ALL of the steps (a) - (c) above, the maximum grade you can receive for this assignment will be 4/7.Course staff will NOT chase up missing AI documentation.You will NOT be allowed to submit (a) - (c) after the assignment deadline, if you forget these steps.4. Do NOT change the set question.Assignments that do not answer the set question(s) will receive a grade of zero (0) for the whole assignment.Read full task descriptionHide full task description",
-            "submission_guidelines": "1. You will submit this assessment via Turnitin (on Blackboard).",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment task, you will create a portfolio of written documents suited to different business situations (email, letter, media release) AND a Critical Reflection on your own writing).</p>\n<p><strong>IMPORTANT INFORMATION:</strong></p>\n<p><strong>1. You MAY use Artificial Intelligence (AI) - including Grammarly, DEEPL, ChatGPT, etc. - when preparing this assignment. </strong></p>\n<p><strong>2. BUT </strong></p>\n<ol>\n<li><strong>you MUST clearly declare your use (or non-use) of AI on the assignment Cover Sheet. </strong><em>Failure to declare your use (or non-use) of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST include a FULL TRANSCRIPT of your interactions with all forms of AI. </strong>Please see the Assignment Instructions posted on Blackboard for more detail. Consult your tutor if you have any doubts about what counts as \"AI\" and/or a \"full transcript.\" <em>Failure to include a full transcript will affect your grade and may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST reflect critically on your use of AI in the Critical Reflection. </strong>Please see the Assignment Instructions posted on Blackboard for more detail.<strong> </strong><em>Failure to reflect critically on your use of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST be prepared to discuss your assignment in-person with course staff, if asked to do so.</strong></li>\n</ol>\n<p><strong>3. IF YOU DON'T complete ALL of the steps (a) - (c) above, the maximum grade you can receive for this assignment will be 4/7.</strong></p>\n<ul>\n<li>Course staff will NOT chase up missing AI documentation.</li>\n<li>You will NOT be allowed to submit (a) - (c) after the assignment deadline, if you forget these steps.</li>\n</ul>\n<p><strong>4. Do NOT change the set question. <em>Assignments that do not answer the set question(s) will receive a grade of zero (0) for the whole assignment</em>.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>1. You will submit this assessment via Turnitin (on Blackboard). </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Conference Presentation",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "8/10/2024 4:00 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
             "category": "Presentation, Reflection",
-            "task_description": "In this assessment task, you will create a 5-minute video presentation recommending a solution to a problem caused by businesses in a specific industry, and write a Critical Reflection on your video. Please see the Assignment Instructions posted on Blackboard for more detail.IMPORTANT INFORMATION:1. You MAY use Artificial Intelligence (AI) - including Grammarly, DEEPL, ChatGPT, etc. - when preparing this assignment.2. BUTyou MUST clearly declare your use (or non-use) of AI on the assignment Cover Sheet.Failure to declare your use (or non-use) of AI may constitute student misconduct under the Student Code of Conduct.you MUST include a FULL TRANSCRIPT of your interactions with all forms of AI.Please see the Assignment Instructions posted on Blackboard for more detail. Consult your tutor if you have any doubts about what counts as \"AI\" and/or a \"full transcript.\"Failure to include a full transcript will affect your grade and may constitute student misconduct under the Student Code of Conduct.you MUST reflect critically on your use of AI in the Critical Reflection.Please see the Assignment Instructions posted on Blackboard for more detail.Failure to reflect critically on your use of AI may constitute student misconduct under the Student Code of Conduct.you MUST be prepared to discuss your assignment in-person with course staff, if asked to do so.3. IF YOU DON'T complete ALL of the steps (a) - (c) above, the maximum grade you can receive for this assignment will be 4/7.Course staff will NOT chase up missing AI documentation.You will NOT be allowed to submit (a) - (c) after the assignment deadline, if you forget these steps.4. Do NOT change the set question.Assignments that do not answer the set question(s) will receive a grade of zero (0) for the whole assignment.Read full task descriptionHide full task description",
-            "submission_guidelines": "1. You will submit this assessment via Turnitin (on Blackboard).",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment task, you will create a 5-minute video presentation recommending a solution to a problem caused by businesses in a specific industry, and write a Critical Reflection on your video. Please see the Assignment Instructions posted on Blackboard for more detail.</p>\n<p><strong>IMPORTANT INFORMATION:</strong></p>\n<p><strong>1. You MAY use Artificial Intelligence (AI) - including Grammarly, DEEPL, ChatGPT, etc. - when preparing this assignment. </strong></p>\n<p><strong>2. BUT </strong></p>\n<ol>\n<li><strong>you MUST clearly declare your use (or non-use) of AI on the assignment Cover Sheet. </strong><em>Failure to declare your use (or non-use) of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST include a FULL TRANSCRIPT of your interactions with all forms of AI. </strong>Please see the Assignment Instructions posted on Blackboard for more detail. Consult your tutor if you have any doubts about what counts as \"AI\" and/or a \"full transcript.\" <em>Failure to include a full transcript will affect your grade and may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST reflect critically on your use of AI in the Critical Reflection. </strong>Please see the Assignment Instructions posted on Blackboard for more detail.<strong> </strong><em>Failure to reflect critically on your use of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST be prepared to discuss your assignment in-person with course staff, if asked to do so.</strong></li>\n</ol>\n<p><strong>3. IF YOU DON'T complete ALL of the steps (a) - (c) above, the maximum grade you can receive for this assignment will be 4/7.</strong></p>\n<ul>\n<li>Course staff will NOT chase up missing AI documentation.</li>\n<li>You will NOT be allowed to submit (a) - (c) after the assignment deadline, if you forget these steps.</li>\n</ul>\n<p><strong>4. Do NOT change the set question. <em>Assignments that do not answer the set question(s) will receive a grade of zero (0) for the whole assignment</em>.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>1. You will submit this assessment via Turnitin (on Blackboard). </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -67,25 +71,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The final exam is a closed-book, handwritten exam. It will be held in-person, on-campus at a time schedule by the university.The exam will assessRegular course content presented in lectures, tutorials and/or Online Learning Modules (OLMs), ANDACE101x modules 1, 3, 4 and 5, which are REQUIRED READING for this course.Course staff will guide you about the types of questions on the exam BUT you will have to do your own independent study.Please see the Assignment Instructions posted on Blackboard for more detail.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>The final exam is a closed-book, handwritten exam. It will be held in-person, on-campus at a time schedule by the university.</strong></p>\n<p><strong>The exam will assess </strong></p>\n<ul>\n<li><strong>Regular course content presented in lectures, tutorials and/or Online Learning Modules (OLMs), AND </strong></li>\n<li><strong>ACE101x modules 1, 3, 4 and 5, which are REQUIRED READING for this course.</strong></li>\n</ul>\n<p><strong>Course staff will guide you about the types of questions on the exam BUT you will have to do your own independent study.</strong></p>\n<p>Please see the Assignment Instructions posted on Blackboard for more detail.</p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Not scheduled",
             "activity_type": "Not Timetabled",
-            "topic": "WRITE101x ModulesSpecific Write101x modules are RECOMMENDED READING for this course.Although these modules will not be assessed directly, they will help you complete all three asessment tasks in this course.Please see Blackboard for more information.Learning outcomes:L01",
-            "topic_title": "WRITE101x Modules",
-            "topic_description": "Specific Write101x modules are RECOMMENDED READING for this course.\nAlthough these modules will not be assessed directly, they will help you complete all three asessment tasks in this course.\nPlease see Blackboard for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WRITE101x Modules</strong><br><p><strong>Specific Write101x modules are RECOMMENDED READING for this course.</strong></p>\n<p>Although these modules will not be assessed directly, they will help you complete all three asessment tasks in this course.</p>\n<p>Please see Blackboard for more information.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>WRITE101x Modules</strong>",
+            "topic_description": "WRITE101x Modules Specific Write101x modules are RECOMMENDED READING for this course. Although these modules will not be assessed directly, they will help you complete all three asessment tasks in this course. Please see Blackboard for more information.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -93,9 +97,9 @@
         {
             "learning_period": "Multiple weeksFrom Week 1 To Week 6(22 Jul - 01 Sep)",
             "activity_type": "Not Timetabled",
-            "topic": "ACE101x Modules 1 & 3ACE10x Modules 1 & 3 are REQUIRED READING, and will be assessed in the final exam.Pleasecomplete both modules before your Week 6 tutorial.see Blackboard for more information.Learning outcomes:L01",
-            "topic_title": "ACE101x Modules 1 & 3",
-            "topic_description": "ACE10x Modules 1 & 3 are REQUIRED READING, and will be assessed in the final exam.\nPlease \n\ncomplete both modules before your Week 6 tutorial.\nsee Blackboard for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ACE101x Modules 1 &amp; 3</strong><br><p><strong>ACE10x Modules 1 &amp; 3 are REQUIRED READING, and will be assessed in the final exam.</strong></p>\n<p><strong>Please </strong></p>\n<ul>\n<li><strong>complete both modules before your Week 6 tutorial.</strong></li>\n<li><strong>see Blackboard for more information.</strong></li>\n</ul>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>ACE101x Modules 1 &amp; 3</strong>",
+            "topic_description": "ACE101x Modules 1 & 3 ACE10x Modules 1 & 3 are REQUIRED READING, and will be assessed in the final exam. Please complete both modules before your Week 6 tutorial. see Blackboard for more information.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -103,9 +107,9 @@
         {
             "learning_period": "Week 1(22 Jul - 28 Jul)",
             "activity_type": "Lecture",
-            "topic": "IntroductionPlease see the Online Learning Module for more information.Learning outcomes:L01",
-            "topic_title": "Introduction",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -113,9 +117,20 @@
         {
             "learning_period": "Week 2(29 Jul - 04 Aug)",
             "activity_type": "Lecture",
-            "topic": "Business correspondencePlease see the Online Learning Module for more information.Learning outcomes:L01, L02",
-            "topic_title": "Business correspondence",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business correspondence</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Business correspondence</strong>",
+            "topic_description": "Business correspondence Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business correspondence</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Business correspondence</strong>",
+            "topic_description": "Business correspondence Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -124,9 +139,20 @@
         {
             "learning_period": "Week 3(05 Aug - 11 Aug)",
             "activity_type": "Lecture",
-            "topic": "Clear writing for BusinessPlease see the Online Learning Module for more information.Learning outcomes:L01, L02",
-            "topic_title": "Clear writing for Business",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clear writing for Business</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Clear writing for Business</strong>",
+            "topic_description": "Clear writing for Business Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clear writing for Business</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Clear writing for Business</strong>",
+            "topic_description": "Clear writing for Business Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -135,9 +161,20 @@
         {
             "learning_period": "Week 4(12 Aug - 18 Aug)",
             "activity_type": "Lecture",
-            "topic": "Communicating through the mediaPLEASE NOTE: Due to theEKKA Public Holiday, the Wednesday lecture this week will be cancelled.If you usually attend the Wednesday lecture, pleaselisten to a lecture recording AND/ORreview the Online Learning Module (OLM)Learning outcomes:L01, L02",
-            "topic_title": "Communicating through the media",
-            "topic_description": "PLEASE NOTE: Due to the EKKA Public Holiday, the Wednesday lecture this week will be cancelled.\n\nIf you usually attend the Wednesday lecture, please \nlisten to a lecture recording AND/OR \nreview the Online Learning Module (OLM)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating through the media</strong><br><p><strong>PLEASE NOTE: Due to the </strong><a href=\"https://www.officeholidays.com/holidays/australia/queensland/ekka-peoples-day\"><strong>EKKA Public Holiday</strong></a><strong>, the Wednesday lecture this week will be cancelled.</strong></p>\n<ul>\n<li>If you usually attend the Wednesday lecture, please </li>\n<li>listen to a lecture recording AND/OR </li>\n<li>review the Online Learning Module (OLM)</li>\n</ul>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Communicating through the media</strong>",
+            "topic_description": "Communicating through the media PLEASE NOTE: Due to the EKKA Public Holiday , the Wednesday lecture this week will be cancelled. If you usually attend the Wednesday lecture, please listen to a lecture recording AND/OR review the Online Learning Module (OLM)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating through the media</strong><br><p><strong>PLEASE NOTE: Due to the </strong><a href=\"https://www.officeholidays.com/holidays/australia/queensland/ekka-peoples-day\"><strong>EKKA Public Holiday</strong></a><strong>, all Wednesday tutorials this week will be cancelled. BUT you will have an opportunity to complete the Tutorial Exercise and submit it to your tutor for feedback (because this Tutorial Exercise is preparing for Assignment 1): </strong></p>\n<ul>\n<li>If you usually attend a Wednesday tutorial, please </li>\n<li>review the Blackboard announcement in Week 3, AND </li>\n<li>check with your tutor in Week 3 </li>\n</ul>\n<p>for more information about how to get feedback on your Tutorial Exercise.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Communicating through the media</strong>",
+            "topic_description": "Communicating through the media PLEASE NOTE: Due to the EKKA Public Holiday , all Wednesday tutorials this week will be cancelled. BUT you will have an opportunity to complete the Tutorial Exercise and submit it to your tutor for feedback (because this Tutorial Exercise is preparing for Assignment 1): If you usually attend a Wednesday tutorial, please review the Blackboard announcement in Week 3, AND check with your tutor in Week 3 for more information about how to get feedback on your Tutorial Exercise.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -146,9 +183,22 @@
         {
             "learning_period": "Week 5(19 Aug - 25 Aug)",
             "activity_type": "Lecture",
-            "topic": "Rapport managementPlease see the Online Learning Module for more information.Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Rapport management",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rapport management</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Rapport management</strong>",
+            "topic_description": "Rapport management Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rapport management:</strong><br><p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Rapport management:</strong>",
+            "topic_description": "Rapport management: Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -159,9 +209,31 @@
         {
             "learning_period": "Week 6(26 Aug - 01 Sep)",
             "activity_type": "Lecture",
-            "topic": "Academic writing for business #1 (Academic genres)Please see the Online Learning Module for more information.Learning outcomes:L01, L03",
-            "topic_title": "Academic writing for business #1 (Academic genres)",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #1 (Academic genres)</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #1 (Academic genres)</strong>",
+            "topic_description": "Academic writing for business #1 (Academic genres) Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #1 (Academic genres)</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #1 (Academic genres)</strong>",
+            "topic_description": "Academic writing for business #1 (Academic genres) Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #2 (Problem-solving)</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #2 (Problem-solving)</strong>",
+            "topic_description": "Academic writing for business #2 (Problem-solving) Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -170,9 +242,9 @@
         {
             "learning_period": "Multiple weeksFrom Week 7 To Week 11(02 Sep - 13 Oct)",
             "activity_type": "Not Timetabled",
-            "topic": "ACE101x Modules 4 & 5ACE10x Modules 4 & 5 are REQUIRED READING, and will be assessed in the final exam.Pleasecomplete both modules before your Week 11 tutorial.see Blackboard for more information.Learning outcomes:L01",
-            "topic_title": "ACE101x Modules 4 & 5",
-            "topic_description": "ACE10x Modules 4 & 5 are REQUIRED READING, and will be assessed in the final exam.\nPlease \n\ncomplete both modules before your Week 11 tutorial.\nsee Blackboard for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ACE101x Modules 4 &amp; 5</strong><br><p><strong>ACE10x Modules 4 &amp; 5 are REQUIRED READING, and will be assessed in the final exam.</strong></p>\n<p><strong>Please </strong></p>\n<ul>\n<li><strong>complete both modules before your Week 11 tutorial.</strong></li>\n<li><strong>see Blackboard for more information.</strong></li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>ACE101x Modules 4 &amp; 5</strong>",
+            "topic_description": "ACE101x Modules 4 & 5 ACE10x Modules 4 & 5 are REQUIRED READING, and will be assessed in the final exam. Please complete both modules before your Week 11 tutorial. see Blackboard for more information.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -180,9 +252,9 @@
         {
             "learning_period": "Week 7(02 Sep - 08 Sep)",
             "activity_type": "Tutorial",
-            "topic": "Academic writing for business #2 (Problem-solving)Please see the Online Learning Module for more information.Learning outcomes:L01, L03",
-            "topic_title": "Academic writing for business #2 (Problem-solving)",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #2 (Problem-solving)</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #2 (Problem-solving)</strong>",
+            "topic_description": "Academic writing for business #2 (Problem-solving) Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -191,9 +263,19 @@
         {
             "learning_period": "Week 8(09 Sep - 15 Sep)",
             "activity_type": "Lecture",
-            "topic": "Multimodal business communication #1:Please see the Online Learning Module for more information.Learning outcomes:L05",
-            "topic_title": "Multimodal business communication #1:",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #1:</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #1:</strong>",
+            "topic_description": "Multimodal business communication #1: Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #1</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #1</strong>",
+            "topic_description": "Multimodal business communication #1 Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L05"
             ]
@@ -201,9 +283,19 @@
         {
             "learning_period": "Week 9(16 Sep - 22 Sep)",
             "activity_type": "Lecture",
-            "topic": "Multimodal business communication #2Please see the Online Learning Module for more information.Please see the Online Learning Module for more information.Learning outcomes:L05",
-            "topic_title": "Multimodal business communication #2",
-            "topic_description": "Please see the Online Learning Module for more information.Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #2</strong><br/><p>Please see the Online Learning Module for more information.Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #2</strong>",
+            "topic_description": "Multimodal business communication #2 Please see the Online Learning Module for more information.Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #2</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #2</strong>",
+            "topic_description": "Multimodal business communication #2 Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L05"
             ]
@@ -211,9 +303,19 @@
         {
             "learning_period": "Week 10(30 Sep - 06 Oct)",
             "activity_type": "Lecture",
-            "topic": "Multimodal business communication #3Please see the Online Learning Module for more information.Learning outcomes:L04",
-            "topic_title": "Multimodal business communication #3",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #3</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #3</strong>",
+            "topic_description": "Multimodal business communication #3 Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #3</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #3</strong>",
+            "topic_description": "Multimodal business communication #3 Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L04"
             ]
@@ -221,9 +323,20 @@
         {
             "learning_period": "Week 11(07 Oct - 13 Oct)",
             "activity_type": "Lecture",
-            "topic": "Academic writing for business #3 (Academic tone)PLEASE NOTE: Due to theKing's Birthday Public Holiday, the Monday lecture this week will be cancelled.If you usually attend the Monday lecture, pleaselisten to a lecture recording AND/ORreview the Online Learning Module (OLM)Learning outcomes:L01, L03",
-            "topic_title": "Academic writing for business #3 (Academic tone)",
-            "topic_description": "PLEASE NOTE: Due to the King's Birthday Public Holiday, the Monday lecture this week will be cancelled.\n\nIf you usually attend the Monday lecture, please\nlisten to a lecture recording AND/OR\nreview the Online Learning Module (OLM)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #3 (Academic tone)</strong><br/><p><strong>PLEASE NOTE: Due to the </strong><a href=\"https://www.abc.net.au/news/2024-06-07/audience-when-is-the-kings-birthday-holiday-day-off/103927280\"><strong>King's Birthday Public Holiday</strong></a><strong>, the Monday lecture this week will be cancelled.</strong></p>\n<ul>\n<li>If you usually attend the Monday lecture, please</li>\n<li>listen to a lecture recording AND/OR</li>\n<li>review the Online Learning Module (OLM)</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #3 (Academic tone)</strong>",
+            "topic_description": "Academic writing for business #3 (Academic tone) PLEASE NOTE: Due to the King's Birthday Public Holiday , the Monday lecture this week will be cancelled. If you usually attend the Monday lecture, please listen to a lecture recording AND/OR review the Online Learning Module (OLM)",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #3 (Academic tone)</strong><br/><p><strong>PLEASE NOTE: Due to the </strong><a href=\"https://www.abc.net.au/news/2024-06-07/audience-when-is-the-kings-birthday-holiday-day-off/103927280\"><strong>King's Birthday Public Holiday</strong></a><strong>, all Monday tutorials this week will be replaced by a \"make-up session.\"</strong></p>\n<ul>\n<li>If you usually attend a Monday tutorial, please</li>\n<li>review the Blackboard announcement in Week 10, AND</li>\n<li>check with your tutor in Week 10</li>\n</ul>\n<p>for more information about the \"make-up session.\"</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #3 (Academic tone)</strong>",
+            "topic_description": "Academic writing for business #3 (Academic tone) PLEASE NOTE: Due to the King's Birthday Public Holiday , all Monday tutorials this week will be replaced by a \"make-up session.\" If you usually attend a Monday tutorial, please review the Blackboard announcement in Week 10, AND check with your tutor in Week 10 for more information about the \"make-up session.\"",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -232,9 +345,21 @@
         {
             "learning_period": "Week 12(14 Oct - 20 Oct)",
             "activity_type": "Lecture",
-            "topic": "Ethics & business communicationPlease see the Online Learning Module for more information.Learning outcomes:L02, L03, L05",
-            "topic_title": "Ethics & business communication",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics &amp; business communication</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Ethics &amp; business communication</strong>",
+            "topic_description": "Ethics & business communication Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics &amp; business communication</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Ethics &amp; business communication</strong>",
+            "topic_description": "Ethics & business communication Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -244,9 +369,20 @@
         {
             "learning_period": "Week 13(21 Oct - 27 Oct)",
             "activity_type": "Lecture",
-            "topic": "Crisis communicationPlease see the Online Learning Module for more information.Learning outcomes:L02, L03",
-            "topic_title": "Crisis communication",
-            "topic_description": "Please see the Online Learning Module for more information.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crisis communication</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Crisis communication</strong>",
+            "topic_description": "Crisis communication Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crisis communication</strong><br/><p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Crisis communication</strong>",
+            "topic_description": "Crisis communication Please see the Online Learning Module for more information.",
             "learning_outcomes": [
                 "L02",
                 "L03"
