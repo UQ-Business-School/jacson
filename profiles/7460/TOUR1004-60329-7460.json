@@ -1,0 +1,322 @@
+{
+    "course_title": "Economics for Tourism, Hospitality & Events",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR1004-60329-7460",
+    "full_course_code": "TOUR1004-60329-7460",
+    "course_code": "TOUR1004",
+    "class_code": "60329",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand key economic principles as they apply to the tourism sector, including hospitality and events industries"
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse the options available to tourism, hospitality and event organisations under different market structures"
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate the effects of economic conditions and change on tourism, hospitality and event sectors"
+        },
+        {
+            "number": "LO4.",
+            "description": "Interpret the economic contribution and impact of tourism, hospitality and event activities to the broader economy"
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate evidenced based arguments and strategic recommendations to stakeholders through teamwork"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Test bank exercises",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20% Individual </dd>",
+            "due_date": "<dd><p> 29/07/2024 - 6/10/2024</p>\n<p>\n</p><p>Weekly from Week 2 to Week 10.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Performance",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The test-bank exercises, consisting of 8 chapters, are designed to assist students with self-practice and self-learning. Students can choose which chapters they want to complete and submit. Multiple attempts per chapter are allowed.</p>\n<p>Students will be awarded 4 points upon completing one chapter (provided more than 80% of the questions have been answered correctly). A maximum of 20 points for this assessment in the final grade is awarded if students complete at least five chapters throughout the semester.</p>\n<p>A test bank, consisting of practical questions that integrate economic concepts and tourism issues, is adopted to assist students with self-practice and self-learning. It includes (1) basic questions that allow students to better comprehend the theory and concepts, and (2) advanced applied questions that discuss the impacts of COVID-19, sustainability, and global mega trends on tourism, businesses, and policies.</p>\n<p>Students need to engage with the test bank weekly, starting from week 2 to week 10. Each weekly test bank, consisting of 10 multiple-choice questions and two to three open-ended questions, is designed to align with the lecture taught that week. This allows students to review the concepts and test their knowledge by working with the questions. Correct answers will be provided once students submit theirs.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please see BB for details</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Individual </dd>",
+            "due_date": "<dd><p> 30/09/2024 2:00 pm</p>\n<p>\n</p><p>During the lecture time in Week 10.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The mid-semester exam is scheduled for week 10, including 10-15 multiple-choice questions and 4-5 open-ended questions. It is an in-person exam scheduled during the lecture time (12 pm - 2 pm). The exam will be invigilated by the lecturer and two tutors.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please follow the guidelines on BB.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Tourism industry economic presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Team </dd>",
+            "due_date": "<dd><p> 22/10/2024 - 24/10/2024</p>\n<p>\n</p><p>At tutorials during Week 13</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project requires students to work as a team to apply economic principles to a practical tourism issue. It assesses (1) how much they have learned from the economic concepts and (2) their ability to apply them in addressing issues. This is a significant project and requires substantial work to deliver a satisfying output.</p>\n<p>A speaker will present a talk on group dynamics, team appreciation, and conflict resolution prior to the presentation. Peer evaluation will be used to assess the relative contribution of each member at the end of the semester.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please follow the guidelines on BB.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to economics and tourism</strong><br><p>Explain the syllabus and walk through the basic definition of economics</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to economics and tourism</strong>",
+            "topic_description": "Introduction to economics and tourism Explain the syllabus and walk through the basic definition of economics",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The tourism market and products</strong><br><p>Explain the key characteristics of tourism markets</p></br></p></div></td>",
+            "topic_title": "<strong>The tourism market and products</strong>",
+            "topic_description": "The tourism market and products Explain the key characteristics of tourism markets",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to assessments</strong><br/><p>Discuss assessments and requirements</p></p></div></td>",
+            "topic_title": "<strong>Introduction to assessments</strong>",
+            "topic_description": "Introduction to assessments Discuss assessments and requirements",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Demand concepts</strong><br/><p>Explain the demand curve and factors that shift demand curve</p></p></div></td>",
+            "topic_title": "<strong>Demand concepts</strong>",
+            "topic_description": "Demand concepts Explain the demand curve and factors that shift demand curve",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Demand concepts</strong><br/></p></div></td>",
+            "topic_title": "<strong>Demand concepts</strong>",
+            "topic_description": "Demand concepts",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Supply concepts</strong><br/><p>Explain the supply curve and factors that influence supply.</p></p></div></td>",
+            "topic_title": "<strong>Supply concepts</strong>",
+            "topic_description": "Supply concepts Explain the supply curve and factors that influence supply.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Supply concepts</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>Supply concepts</strong>",
+            "topic_description": "Supply concepts Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Market equilibrium</strong><br/><p>Explain how market forces determine price and quantity</p></p></div></td>",
+            "topic_title": "<strong>Market equilibrium</strong>",
+            "topic_description": "Market equilibrium Explain how market forces determine price and quantity",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Market equilibrium</strong><br/></p></div></td>",
+            "topic_title": "<strong>Market equilibrium</strong>",
+            "topic_description": "Market equilibrium",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Market structure</strong><br/><p>Explain the four market structures and the strategies</p></p></div></td>",
+            "topic_title": "<strong>Market structure</strong>",
+            "topic_description": "Market structure Explain the four market structures and the strategies",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Market structure</strong><br/></p></div></td>",
+            "topic_title": "<strong>Market structure</strong>",
+            "topic_description": "Market structure",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economic impact of tourism</strong><br/><p>Explain how tourism impacts a destination via different mechanisms.</p></p></div></td>",
+            "topic_title": "<strong>Economic impact of tourism</strong>",
+            "topic_description": "Economic impact of tourism Explain how tourism impacts a destination via different mechanisms.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economic impact of tourism</strong><br/></p></div></td>",
+            "topic_title": "<strong>Economic impact of tourism</strong>",
+            "topic_description": "Economic impact of tourism",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economic assessment of events</strong><br/><p>Explain tools for assessing the value of events</p></p></div></td>",
+            "topic_title": "<strong>Economic assessment of events</strong>",
+            "topic_description": "Economic assessment of events Explain tools for assessing the value of events",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economic assessment of events</strong><br/><p>Group presentation</p></p></div></td>",
+            "topic_title": "<strong>Economic assessment of events</strong>",
+            "topic_description": "Economic assessment of events Group presentation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Environmental impact of tourism</strong><br/></p></div></td>",
+            "topic_title": "<strong>Environmental impact of tourism</strong>",
+            "topic_description": "Environmental impact of tourism",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Environmental impact of tourism</strong><br/><p>Group Presentation</p></p></div></td>",
+            "topic_title": "<strong>Environmental impact of tourism</strong>",
+            "topic_description": "Environmental impact of tourism Group Presentation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-class exam</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-class exam</strong>",
+            "topic_description": "In-class exam",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 3 discussion and consultation</strong><br/></p></div></td>",
+            "topic_title": "<strong>Assignment 3 discussion and consultation</strong>",
+            "topic_description": "Assignment 3 discussion and consultation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No class - pulic holiday</strong><br/><p>Explain the definition of sustainability and economic interventions.</p>\n<p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>No class - pulic holiday</strong>",
+            "topic_description": "No class - pulic holiday Explain the definition of sustainability and economic interventions. King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability</strong><br/></p></div></td>",
+            "topic_title": "<strong>Sustainability</strong>",
+            "topic_description": "Sustainability",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability</strong><br/></p></div></td>",
+            "topic_title": "<strong>Sustainability</strong>",
+            "topic_description": "Sustainability",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability</strong><br/></p></div></td>",
+            "topic_title": "<strong>Sustainability</strong>",
+            "topic_description": "Sustainability",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course review &amp; summary</strong><br/><p>Provide a summary of all topics covered in the semester.</p></p></div></td>",
+            "topic_title": "<strong>Course review &amp; summary</strong>",
+            "topic_description": "Course review & summary Provide a summary of all topics covered in the semester.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Group presentation (Assignment 3)</strong><br/><p>Consultation for the individual assessment</p></p></div></td>",
+            "topic_title": "<strong>Group presentation (Assignment 3)</strong>",
+            "topic_description": "Group presentation (Assignment 3) Consultation for the individual assessment",
+            "learning_outcomes": []
+        }
+    ]
+}
