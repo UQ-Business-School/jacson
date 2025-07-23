@@ -1,0 +1,388 @@
+{
+    "course_title": "Principles of Tourism, Hospitality and Events",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR1000-60327-7460",
+    "full_course_code": "TOUR1000-60327-7460",
+    "course_code": "TOUR1000",
+    "class_code": "60327",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "clearly define tourism, hospitality and event management"
+        },
+        {
+            "number": "LO2.",
+            "description": "comprehend and report on the inter-related nature of tourism, hospitality and events"
+        },
+        {
+            "number": "LO3.",
+            "description": "understand and explain the concepts, evolution and impacts of tourism, hospitality and events globally"
+        },
+        {
+            "number": "LO4.",
+            "description": "synthesise and communicate information on a particular topic from the body of knowledge on tourism, hospitality, and events"
+        },
+        {
+            "number": "LO5.",
+            "description": "demonstrate academic literacy and ethical scholarship, and appreciate how this applies to future studies."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessment 1a: Tourism Plan Analysis",
+            "special_indicators": [],
+            "weighting": "<dd>20% 500 words </dd>",
+            "due_date": "<dd><p> 29/08/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>One of the more crucial responsibilities in tourism, hospitality and events is making these attractive to those who are meant to enjoy them. In this assessment, you will assume the role of a <strong>destination manager of a regional destination</strong>; in this role, you work for a destination management organisation (DMO). As such, you are required to build and analyse a Tourism Plan for a target market segment.</p>\n<p>For this assessment, you will make use of an AI generator (such as ChatGPT, Microsoft Bing, perplexity.ai or Google Bard) and general research. Your target segment and regional destination will be allocated in Tutorial Week 3.</p>\n<p>This assessment comprises two parts:</p>\n<p>1.      Tourism Plan. Using an AI generator, use the following prompt to build a Tourism Plan for your target market segment. Your plan must include a hospitality special experience (e.g., fine dining at a unique hospitality establishment) and/or an event. You are encouraged to refine and modify this prompt to generate a plan that is useful for your analysis.</p>\n<p><strong>Prompt: </strong><em>Create a 3-day tourism itinerary for [target segment] in [regional destination]. </em></p>\n<p>2.      Feasibility analysis. Research your regional destination and explain whether the generated Tourism Plan is <strong><em>feasible</em></strong> – that is, can this plan be carried out? This should be supported by information from the regional destination’s official website, as well as broader research using resources such as maps, flight information, reputable organisations’ websites, etc.</p>\n<p>Some of the questions you may need to consider in conducting a feasibility analysis: Do the suggested elements exist? Are the travel distances reasonable within the timeframe suggested? Does it provide sufficient specifics (e.g., names of attractions/restaurants) to be viable? If you used this plan, what other information would you need to make it a reality that is currently missing?</p>\n<p><br/></p>\n<p>All references for this assessment should be in APA 7th referencing style, a guide for which is available in UQ Library (<a href=\"https://guides.library.uq.edu.au/referencing/apa7\">https://guides.library.uq.edu.au/referencing/apa7</a>). At the end of your plan, you must cite the AI generator that you have utilised to generate the plan using APA 7th (<a href=\"https://guides.library.uq.edu.au/c.php?g=920809&amp;p=6972574\">https://guides.library.uq.edu.au/c.php?g=920809&amp;p=6972574</a>).</p>\n<p>A report template is available for general reference. All submissions should include a cover page, comprising your name, student ID number, the final prompt used for your assessment, the AI generator used, and your submission word count. Your word count is made up of <strong>Section 2 (feasibility analysis) </strong>of your submission; the plan itself will not be included in your word count, nor will it be considered in your Turnitin Similarity score. Turnitin Similarity scores should be kept below 20% (excluding results from the AI-generated plan).</p>\n<p>(<em>Note: This task has been designed to be challenging, authentic and complex. Whilst students are encouraged to use AI technologies in Assessment 1a, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em>)</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted via Turnitin on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assessment 1b: Tourism Plan Improvement",
+            "special_indicators": [],
+            "weighting": "<dd>40% 1,200 words </dd>",
+            "due_date": "<dd><p> 3/10/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Following on from your analysis of the Tourism Plan in Assessment 1a, you will be required to further analyse and improve on that plan for your target market segment. For this assessment, you will make use of academic research and your analysis skills.  </p>\n<p>This assessment comprises three parts:</p>\n<p>1.      Suitability analysis: Research your target segment using <strong>peer-reviewed academic research journal articles. </strong>Using these research journal articles as support, discuss whether the Tourism Plan would be suitable for your target segment. You should provide a summary of what the academic research says is attractive to your target segment, then compare it to the Tourism Plan.</p>\n<p>[600 words]</p>\n<p>2.      Suggested improvements: Based on your analysis in the Suitability Analysis, suggest improvements to the Tourism Plan so that it will be more attractive to your target segment. You should provide between three to five suggestions for improvement, including detailed justification for these suggestions based on the research done in the Suitability Analysis above.</p>\n<p>[600 words]</p>\n<p>3.      Improved plan: These improvements should be incorporated into the original Tourism Plan, resulting in an Improved Plan that strengthens its attractiveness to the target segment. Highlight the suggested improvements to make them easily distinguishable from the original Tourism Plan (e.g., use <strong>bold</strong> or <em>italic</em> font to show your changes).</p>\n<p><br/></p>\n<p>All references for this assessment should be in APA 7th referencing style, a guide for which is available in UQ Library (<a href=\"https://guides.library.uq.edu.au/referencing/apa7\">https://guides.library.uq.edu.au/referencing/apa7</a>). At the end of your plan, you must cite the AI generator that you have utilised to generate the plan using APA 7th (<a href=\"https://guides.library.uq.edu.au/c.php?g=920809&amp;p=6972574\">https://guides.library.uq.edu.au/c.php?g=920809&amp;p=6972574</a>).</p>\n<p>A report template is available for general reference. All submissions should include a cover page, comprising your name, student ID number and your submission word count. Your word count is made up of <strong>Section 1 &amp; 2</strong> of your submission; the plan itself will not be included in your word count, nor will it be considered in your Turnitin Similarity score. Turnitin Similarity scores should be kept below 20% (excluding results from the AI-generated plan). </p>\n<p><em>(This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.)</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted via Turnitin on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assessment 2: Destination Pitch",
+            "special_indicators": [],
+            "weighting": "<dd>40% 8 minutes </dd>",
+            "due_date": "<dd><p> 4/11/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment builds on your work in Assessment 1b (Tourism Plan Improvement), using the same target segment, regional destination, and your Improved Plan. </p>\n<p>As the <strong>destination manager</strong>, your job is to engage with key stakeholders to attract support, investment, and visitors to your region. In the current worldwide tourism boom, your Destination Management Organisation (DMO) recognises an opportunity to drive economic growth, lead destination development, and welcome visitors to your region. You also realise that competition among regional destinations for visitors is high and you have limited organisational resources to develop your tourism product and market reach.</p>\n<p>Therefore, your DMO needs to convince key tourism government stakeholders (such as Tourism Australia, Tourism &amp; Events Queensland, Tourism VIC/NSW/NT, the relevant State Government, etc.) of the opportunities your region offers to your target segment. These government stakeholders need to see benefit in (a) directing resources to your region; and (b) aiding you in promoting your region’s destination advantages to potential visitors.</p>\n<p>Your task is to create a video pitch based on the same target segment, regional destination, and Improved Plan from Assessment 1b. This video should clearly identify:</p>\n<p>1.      Your understanding of destination competitiveness and the regional destination’s unique proposition(s), making use of the Destination Mix to highlight 3-6 unique propositions;</p>\n<p>2.      Your understanding of the target segment and its interests as it relates to your regional destination; and</p>\n<p>3.      The particular experience/s you offer to your target segment through your Improved Plan. </p>\n<p>You should include a closing statement to your audience (the tourism government stakeholder), specifying the resource(s) you are requesting from them to boost your reach into this target segment. You should also be very clear what the <strong>call to action</strong> is, and how this action will complement your regional destination’s readiness to welcome visitors.</p>\n<p><br/></p>\n<p>This assignment requires you to create an <strong>8-minute video presentation recording</strong> as you would present it to the audience. You can use Microsoft Powerpoint, Canva or other presentation design aids to help you create a convincing and cohesive presentation. </p>\n<p>A sample template is available for general reference. Your submission must be in the form of a video that can be uploaded to Blackboard (commonly in the .mp4 format), showing your presentation and you delivering the presentation throughout. You may use Zoom for this recording (instructions: https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/blackboard-assignments/recording-video-assignments-zoom). You may also use other recording methods, as long as they show your presentation and you delivering the presentation, and can be uploaded as a video.</p>\n<p>You will need to submit your video recording via the submission link on Blackboard. Submission instructions for videos can be found <a href=\"https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/blackboard-assignments/submit-video-assignment-echovideo-original\">here</a> (https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/blackboard-assignments/submit-video-assignment-echovideo-original).</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You will need to submit your video recording via the submission link on Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to TH&amp;E Industry</strong><br><p>This week kicks off our lecture series for TOUR1000. We will introduce the foundational definitions and concepts around tourism, hospitality and event industries, as well as their interconnectedness.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Introduction to TH&amp;E Industry</strong>",
+            "topic_description": "Introduction to TH&E Industry This week kicks off our lecture series for TOUR1000. We will introduce the foundational definitions and concepts around tourism, hospitality and event industries, as well as their interconnectedness.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to TOUR1000</strong><br><p><strong>&lt;Tutorials start in Week 1 for this course&gt; </strong></p>\n<p>We will develop anchoring knowledge and experiences that will be referred to through the semester as you progress in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to TOUR1000</strong>",
+            "topic_description": "Introduction to TOUR1000 <Tutorials start in Week 1 for this course> We will develop anchoring knowledge and experiences that will be referred to through the semester as you progress in this course.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourism &amp; the destination</strong><br><p>Tourist, destination, origin and transit - these are terms you've probably encountered in your travels. What do these mean in the academic context and how do they relate to each other? In this week's lecture, we'll explore these concepts in greater detail. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tourism &amp; the destination</strong>",
+            "topic_description": "Tourism & the destination Tourist, destination, origin and transit - these are terms you've probably encountered in your travels. What do these mean in the academic context and how do they relate to each other? In this week's lecture, we'll explore these concepts in greater detail.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Economic impacts of TH&amp;E and Assessments</strong><br><p>In this week's tutorial, we'll go through the assessments you'll need to complete for this course. We'll also undertake an exercise to contemplate the sizeable economic impacts of TH&amp;E on economies.</p></br></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Economic impacts of TH&amp;E and Assessments</strong>",
+            "topic_description": "Economic impacts of TH&E and Assessments In this week's tutorial, we'll go through the assessments you'll need to complete for this course. We'll also undertake an exercise to contemplate the sizeable economic impacts of TH&E on economies.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The destination</strong><br><p>In this week, our lecture will focus primarily on destinations and what is done to manage them. What is the destination mix and how does it impact how attractive a destination is to potential visitors? Who are the stakeholders involved in destination management and why does destination management matter?</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>The destination</strong>",
+            "topic_description": "The destination In this week, our lecture will focus primarily on destinations and what is done to manage them. What is the destination mix and how does it impact how attractive a destination is to potential visitors? Who are the stakeholders involved in destination management and why does destination management matter?",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Target segments &amp; getting started</strong><br><p>In this week, the destination and target segment allocations for your assessments in this course will take place in tutorial, alongside a genAI demonstration. This tutorial will be crucial to your successful completion of all the assessments for this course.</p></br></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Target segments &amp; getting started</strong>",
+            "topic_description": "Target segments & getting started In this week, the destination and target segment allocations for your assessments in this course will take place in tutorial, alongside a genAI demonstration. This tutorial will be crucial to your successful completion of all the assessments for this course.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The tourist</strong><br><p>Tourism cannot exist without tourists. This week, we'll cover tourists, their actions and their motivations. Understanding motivations, in particular, will aid your understanding of target segments and form a fundamental part of your assessments.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>The tourist</strong>",
+            "topic_description": "The tourist Tourism cannot exist without tourists. This week, we'll cover tourists, their actions and their motivations. Understanding motivations, in particular, will aid your understanding of target segments and form a fundamental part of your assessments.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorials in Week 4 - Ekka Public Holiday</strong><br><p>There will be no tutorials in Week 4 for this course in Sem 2, 2024.</p></br></p></div></td>",
+            "topic_title": "<strong>No tutorials in Week 4 - Ekka Public Holiday</strong>",
+            "topic_description": "No tutorials in Week 4 - Ekka Public Holiday There will be no tutorials in Week 4 for this course in Sem 2, 2024.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is hospitality?</strong><br><p>We experience hospitality in its different forms in our everyday lives. How do we make people feel welcome, and how has the industry that creates this welcome transformed into its various forms that we know of today? In this lecture, we will explore the fundamental concepts of hospitality.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>What is hospitality?</strong>",
+            "topic_description": "What is hospitality? We experience hospitality in its different forms in our everyday lives. How do we make people feel welcome, and how has the industry that creates this welcome transformed into its various forms that we know of today? In this lecture, we will explore the fundamental concepts of hospitality.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How to search for information</strong><br><p>This week's tutorial focus on leading all students on the journey to find the right information.</p></br></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>How to search for information</strong>",
+            "topic_description": "How to search for information This week's tutorial focus on leading all students on the journey to find the right information.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hospitality and the inhospitable</strong><br><p>The hospitality product has evolved in recent times. This lecture explores what we now consider hospitality and how the inhospitable can be found in subtle ways to make environments un/desirable to different groups of people. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Hospitality and the inhospitable</strong>",
+            "topic_description": "Hospitality and the inhospitable The hospitality product has evolved in recent times. This lecture explores what we now consider hospitality and how the inhospitable can be found in subtle ways to make environments un/desirable to different groups of people.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The changing face of hospitality</strong><br><p>The progress of technology marches on and changes many aspect of our lives; hospitality is no exception. In this tutorial, we will explore how new technologies have impacted the way we perceive and experience hospitality, and how these cumulatively affect what we find acceptable.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>The changing face of hospitality</strong>",
+            "topic_description": "The changing face of hospitality The progress of technology marches on and changes many aspect of our lives; hospitality is no exception. In this tutorial, we will explore how new technologies have impacted the way we perceive and experience hospitality, and how these cumulatively affect what we find acceptable.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Events</strong><br><p>Have you attended concerts and music festivals? Taken part in a fun run or a serious marathon? Have you attended meetings and exhibitions? These are all different types of events, which we will explore in this week's lecture. We'll look at different ways of categorising events and what this means for event studies.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Events</strong>",
+            "topic_description": "Events Have you attended concerts and music festivals? Taken part in a fun run or a serious marathon? Have you attended meetings and exhibitions? These are all different types of events, which we will explore in this week's lecture. We'll look at different ways of categorising events and what this means for event studies.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Targeting markets</strong><br><p>Using what we learnt about tourists in lecture earlier in the semester, we'll do a deeper dive into target segments and what they want from TH&amp;E experiences.</p></br></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Targeting markets</strong>",
+            "topic_description": "Targeting markets Using what we learnt about tourists in lecture earlier in the semester, we'll do a deeper dive into target segments and what they want from TH&E experiences.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dimensions of events</strong><br><p>Events impact many different parts of our lives. In this lecture, we'll take a step back and look at how events impact society and the environment.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Dimensions of events</strong>",
+            "topic_description": "Dimensions of events Events impact many different parts of our lives. In this lecture, we'll take a step back and look at how events impact society and the environment.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Event components</strong><br/><p>How do events attract attendees and keep them interested? This week's tutorial will use the concept of event components to understand the component mixes that attract different segments of attendees with different motivations.</p>\n<p>We will also focus on organising ideas in your upcoming assessment.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Event components</strong>",
+            "topic_description": "Event components How do events attract attendees and keep them interested? This week's tutorial will use the concept of event components to understand the component mixes that attract different segments of attendees with different motivations. We will also focus on organising ideas in your upcoming assessment.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiences in TH&amp;E</strong><br/><p>TH&amp;E products are no longer just about the physical component of what is offered; a large part of memorability in TH&amp;E is in how these occasions are enjoyed and what they leave with the visitor or attendee. As we move into the experience economy, let's explore the role experiences play in TH&amp;E.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Experiences in TH&amp;E</strong>",
+            "topic_description": "Experiences in TH&E TH&E products are no longer just about the physical component of what is offered; a large part of memorability in TH&E is in how these occasions are enjoyed and what they leave with the visitor or attendee. As we move into the experience economy, let's explore the role experiences play in TH&E.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inclusivity audit </strong><br/><p>As we move towards an understanding of how the world is designed around needs, TH&amp;E has a key role to play in ensuring that places, spaces and events are made accessible to people of a broad range of abilities. In this tutorial, we will undertake a real-world assignment in determining a destination's inclusivity and improving it.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Inclusivity audit </strong>",
+            "topic_description": "Inclusivity audit As we move towards an understanding of how the world is designed around needs, TH&E has a key role to play in ensuring that places, spaces and events are made accessible to people of a broad range of abilities. In this tutorial, we will undertake a real-world assignment in determining a destination's inclusivity and improving it.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Innovations in TH&amp;E </strong><br/><p>As times change and expectations are modified, TH&amp;E must innovate to keep with the times. At the same time, innovations can drastically change people's expectations of what is delivered in TH&amp;E. In this lecture, we'll explore the formats that have innovated in TH&amp;E as well as the distribution systems that have changed over time. </p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Innovations in TH&amp;E </strong>",
+            "topic_description": "Innovations in TH&E As times change and expectations are modified, TH&E must innovate to keep with the times. At the same time, innovations can drastically change people's expectations of what is delivered in TH&E. In this lecture, we'll explore the formats that have innovated in TH&E as well as the distribution systems that have changed over time.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pitching workshop </strong><br/><p>In this workshop, you will learn the skills that will help you develop content that will convince your pitch audience to provide you with what you need to develop your destination.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Pitching workshop </strong>",
+            "topic_description": "Pitching workshop In this workshop, you will learn the skills that will help you develop content that will convince your pitch audience to provide you with what you need to develop your destination.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transport</strong><br/><p>Transport is a crucial component of TH&amp;E. In this lecture, we will explore the multiple modes and means of transport that impact TH&amp;E and the kinds of policy decisions that affect the movement and distribution of visitors. </p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Transport</strong>",
+            "topic_description": "Transport Transport is a crucial component of TH&E. In this lecture, we will explore the multiple modes and means of transport that impact TH&E and the kinds of policy decisions that affect the movement and distribution of visitors.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pitching Activities</strong><br/><p>Following on from last week's pitching workshop, this tutorial will put your pitching skills to use, and help you develop more related pitching skills to enhance your ability to convince your audience. </p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Pitching Activities</strong>",
+            "topic_description": "Pitching Activities Following on from last week's pitching workshop, this tutorial will put your pitching skills to use, and help you develop more related pitching skills to enhance your ability to convince your audience.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Risk &amp; Crisis in TH&amp;E</strong><br/><p>While the COVID-19 pandemic remains fresh in our minds, it is hardly the only crisis that TH&amp;E industries have to be prepared for. In this lecture, we will take a critical look at the risks involved in TH&amp;E and the crises that could impact the industries. </p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Risk &amp; Crisis in TH&amp;E</strong>",
+            "topic_description": "Risk & Crisis in TH&E While the COVID-19 pandemic remains fresh in our minds, it is hardly the only crisis that TH&E industries have to be prepared for. In this lecture, we will take a critical look at the risks involved in TH&E and the crises that could impact the industries.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Being innovative iin TH&amp;E</strong><br/><p>Innovation requires thinking outside the box, so in this tutorial, you will practise how changing form and function can be crucial to being innovative in the TH&amp;E industries.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Being innovative iin TH&amp;E</strong>",
+            "topic_description": "Being innovative iin TH&E Innovation requires thinking outside the box, so in this tutorial, you will practise how changing form and function can be crucial to being innovative in the TH&E industries.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics &amp; the Role of Government</strong><br/><p>Government policies and grants can impact the way TH&amp;E industries behave and make choices. In this lecture, we will explore ethics and how it applies to TH&amp;E industries, while understanding how incentives and barriers can be set up by the government to impact these industries. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Ethics &amp; the Role of Government</strong>",
+            "topic_description": "Ethics & the Role of Government Government policies and grants can impact the way TH&E industries behave and make choices. In this lecture, we will explore ethics and how it applies to TH&E industries, while understanding how incentives and barriers can be set up by the government to impact these industries.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Refining your pitch</strong><br/><p>In your final tutorial session for the semester, you will have consultations that are specific to refining your pitch for the final assessment.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Refining your pitch</strong>",
+            "topic_description": "Refining your pitch In your final tutorial session for the semester, you will have consultations that are specific to refining your pitch for the final assessment.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
