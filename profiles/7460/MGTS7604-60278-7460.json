@@ -1,4 +1,8 @@
 {
+    "course_title": "International Human Resource Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7604-60278-7460",
     "full_course_code": "MGTS7604-60278-7460",
     "course_code": "MGTS7604",
@@ -33,16 +37,16 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "12/09/2024 - 19/09/2024",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 12/09/2024 - 19/09/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "Form: 1 open-book exam to be completed individually; 25 multiple choice questions.Medium: Exclusively via the Inspera platform; to be completed in-person during class time.Timing:Trial Run - Scheduled for August 8 (in Week 3). Topics covered: 3 sample questions revolving around Chapter 1 and 2 content. Duration: 15 minutes. NB. This trial exam does not count towards your final mark. It is a trial, to ensure everyone is familiar with the interface and work through any technological challenges ahead of the exam in Week 8.Mid-Semester Exam - Scheduled for September 12 (in Week 8). Topics covered: 25 questions on Chapter 1, 2, 5, 6, 7, and 8. Duration: 45 minutes.Alternative Mid-Semester Exam - Students who are unable to attend and/or unable to log into the mid-semester exam in Week 8, due to any circumstance, are automatically eligible for the alternative mid-semester exam. The mark achieved on this exam will replace the mark of the missed quiz (which, by default, is zero). This exam is not to be taken by those who have already completed the exam in Week 8 and are not satisfied with their mark. As such, it does not override a previously achieved mark. The alternative exam is scheduled for September 19 (in Week 9) and also covers 25 questions across Chapter 1, 2, 5, 6, 7, and 8. The questions are different to the Week 8 exams, albeit with the same degree of difficulty. If this date presents a conflict for you, contact the course coordinator at your earliest convenience.Latearrivals:Beginning either exam late does not make students eligible for an alternative quiz. Once you log in, you must complete the quiz. Make the most of the time you have left.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Form</strong>: 1 open-book exam to be completed individually; 25 multiple choice questions.</p>\n<p><strong>Medium</strong>: Exclusively via the Inspera platform; to be completed in-person during class time.</p>\n<p><strong>Timing</strong>:</p>\n<p>Trial Run - Scheduled for August 8 (in Week 3). Topics covered: 3 sample questions revolving around Chapter 1 and 2 content. Duration: 15 minutes. NB. This trial exam does not count towards your final mark. It is a trial, to ensure everyone is familiar with the interface and work through any technological challenges ahead of the exam in Week 8.</p>\n<p>Mid-Semester Exam - Scheduled for September 12 (in Week 8). Topics covered: 25 questions on Chapter 1, 2, 5, 6, 7, and 8. Duration: 45 minutes. </p>\n<p>Alternative Mid-Semester Exam - Students who are unable to attend and/or unable to log into the mid-semester exam in Week 8, due to any circumstance, are automatically eligible for the alternative mid-semester exam. The mark achieved on this exam will replace the mark of the missed quiz (which, by default, is zero). This exam is not to be taken by those who have already completed the exam in Week 8 and are not satisfied with their mark. As such, it does not override a previously achieved mark. The alternative exam is scheduled for September 19 (in Week 9) and also covers 25 questions across Chapter 1, 2, 5, 6, 7, and 8. The questions are different to the Week 8 exams, albeit with the same degree of difficulty. If this date presents a conflict for you, contact the course coordinator at your earliest convenience.</p>\n<p><strong>Late</strong> <strong>arrivals: </strong>Beginning either exam late does not make students eligible for an alternative quiz. Once you log in, you must complete the quiz. Make the most of the time you have left. </p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -53,16 +57,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "20/09/2024 5:00 pm",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 20/09/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "The team consulting report is a written comprehensive assessment expecting student teams to select, analyze, and address a contemporary human resource management challenge in an emerging market context.The report covers Themes 1, 2, and 3 put forward in the course.Please see Blackboard for further description and expectations.A peer assessment follows the submission of this assessment, which may impact your overall score for this assessment item.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit the report through Turnitin located in the Blackboard Assessments link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team consulting report is a written comprehensive assessment expecting student teams to select, analyze, and address a contemporary human resource management challenge in an emerging market context.</p>\n<p>The report covers Themes 1, 2, and 3 put forward in the course.</p>\n<p>Please see Blackboard for further description and expectations.</p>\n<p>A peer assessment follows the submission of this assessment, which may impact your overall score for this assessment item.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit the report through Turnitin located in the Blackboard Assessments link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -73,25 +77,25 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "35%",
-            "due_date": "16/10/2024 5:00 pm",
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 16/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "Theindividualconsulting presentation requires each student to present on a human resource management challenge in an emerging market context. Each individual's presentation is related to their team consulting report.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The<strong> individual </strong>consulting presentation requires each student to present on a human resource management challenge in an emerging market context. Each individual's presentation is related to their team consulting report.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Introduction to CourseWelcome & Chapter 1Learning outcomes:L01, L02",
-            "topic_title": "Introduction to Course",
-            "topic_description": "Welcome & Chapter 1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Course</strong><br><p>Welcome &amp; Chapter 1</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Course</strong>",
+            "topic_description": "Introduction to Course Welcome & Chapter 1",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -100,9 +104,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Cultural Competence in Global HRChapter 2Learning outcomes:L01, L02",
-            "topic_title": "Cultural Competence in Global HR",
-            "topic_description": "Chapter 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cultural Competence in Global HR</strong><br><p>Chapter 2</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Cultural Competence in Global HR</strong>",
+            "topic_description": "Cultural Competence in Global HR Chapter 2",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -111,9 +115,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Global Talent Identification and SelectionChapter 5 - Part ALearning outcomes:L01, L02",
-            "topic_title": "Global Talent Identification and Selection",
-            "topic_description": "Chapter 5 - Part A",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Talent Identification and Selection</strong><br/><p>Chapter 5 - Part A</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Global Talent Identification and Selection</strong>",
+            "topic_description": "Global Talent Identification and Selection Chapter 5 - Part A",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -122,9 +126,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Global Talent Identification and SelectionChapter 5 - Part BLearning outcomes:L01, L02",
-            "topic_title": "Global Talent Identification and Selection",
-            "topic_description": "Chapter 5 - Part B",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Talent Identification and Selection</strong><br/><p>Chapter 5 - Part B</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Global Talent Identification and Selection</strong>",
+            "topic_description": "Global Talent Identification and Selection Chapter 5 - Part B",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -133,9 +137,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Global Performance and Career ManagementChapter 6Learning outcomes:L01, L02",
-            "topic_title": "Global Performance and Career Management",
-            "topic_description": "Chapter 6",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Performance and Career Management</strong><br/><p>Chapter 6</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Global Performance and Career Management</strong>",
+            "topic_description": "Global Performance and Career Management Chapter 6",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -144,9 +148,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Global Training and DevelopmentChapter 7Learning outcomes:L01, L02",
-            "topic_title": "Global Training and Development",
-            "topic_description": "Chapter 7",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Training and Development</strong><br/><p>Chapter 7</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Global Training and Development</strong>",
+            "topic_description": "Global Training and Development Chapter 7",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -155,9 +159,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Global CompensationChapter 8Learning outcomes:L01, L02",
-            "topic_title": "Global Compensation",
-            "topic_description": "Chapter 8",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Compensation</strong><br/><p>Chapter 8</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Global Compensation</strong>",
+            "topic_description": "Global Compensation Chapter 8",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -166,9 +170,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Workshop",
-            "topic": "Team Consulting ProjectTeam Project Progress Consultations + Mid-Semester Exam (school based)Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Team Consulting Project",
-            "topic_description": "Team Project Progress Consultations + Mid-Semester Exam (school based)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Consulting Project</strong><br/><p>Team Project Progress Consultations + Mid-Semester Exam (school based)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Team Consulting Project</strong>",
+            "topic_description": "Team Consulting Project Team Project Progress Consultations + Mid-Semester Exam (school based)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -179,9 +183,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Workshop",
-            "topic": "Team Consulting ProjectTeam Project Progress Consultations + Alternative Mid-Semester Exam (school based)Learning outcomes:L01, L02, L03, L04",
-            "topic_title": "Team Consulting Project",
-            "topic_description": "Team Project Progress Consultations + Alternative Mid-Semester Exam (school based)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Consulting Project</strong><br/><p>Team Project Progress Consultations + Alternative Mid-Semester Exam (school based)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Team Consulting Project</strong>",
+            "topic_description": "Team Consulting Project Team Project Progress Consultations + Alternative Mid-Semester Exam (school based)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -192,17 +196,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Workshop",
-            "topic": "Individual Presentation WorkshopIndividual Presentation WorkshopLearning outcomes:L01, L02, L03",
-            "topic_title": "Individual Presentation Workshop",
-            "topic_description": "Individual Presentation Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Individual Presentation Workshop</strong><br/><p>Individual Presentation Workshop</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Individual Presentation Workshop</strong>",
+            "topic_description": "Individual Presentation Workshop Individual Presentation Workshop",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -212,9 +216,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Workshop",
-            "topic": "Developing Your Global CareerGlobal Career Development WorkshopLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Developing Your Global Career",
-            "topic_description": "Global Career Development Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing Your Global Career</strong><br/><p>Global Career Development Workshop</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Developing Your Global Career</strong>",
+            "topic_description": "Developing Your Global Career Global Career Development Workshop",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -225,9 +229,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Workshop",
-            "topic": "Consulting Project PresentationsVideo demonstration of individual consulting project contentLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Consulting Project Presentations",
-            "topic_description": "Video demonstration of individual consulting project content",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consulting Project Presentations</strong><br/><p>Video demonstration of individual consulting project content</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Consulting Project Presentations</strong>",
+            "topic_description": "Consulting Project Presentations Video demonstration of individual consulting project content",
             "learning_outcomes": [
                 "L01",
                 "L02",
