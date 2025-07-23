@@ -1,0 +1,289 @@
+{
+    "course_title": "Accounting and Business Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "Brisbane City",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7804-22492-7520",
+    "full_course_code": "ACCT7804-22492-7520",
+    "course_code": "ACCT7804",
+    "class_code": "22492",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use financial terminology and accounting principles to read and interpret financial reports."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse revenues and costs to critically evaluate and improve performance."
+        },
+        {
+            "number": "LO3.",
+            "description": "Individually and in teams, evaluate and compare investment options in ambiguous and/or uncertain contexts."
+        },
+        {
+            "number": "LO4.",
+            "description": "Communicate the outcomes of your analysis to diverse stakeholders."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Online Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 18/03/2025 8:00 pm</p>\n<p> 15/04/2025 8:00 pm</p>\n<p> 20/05/2025 8:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>3 Online Quizzes. focused on </p>\n<ul>\n<li>Financial Terminology</li>\n<li>Management Accounting</li>\n</ul>\n<p><strong>Schedule:</strong></p>\n<ul>\n<li><strong>Quiz 1:</strong> Week 4</li>\n<li><strong>Quiz 2:</strong> Week 8</li>\n<li><strong>Quiz 3:</strong> Week 12</li>\n</ul>\n<p>Each quiz allows up to <strong>three attempts</strong>.</p>\n<p><strong>Best Score</strong> out of the three attempts will be recorded.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Financial Projections for Startups",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 11/04/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Groups will form in Week 4.</strong></p>\n<p>•\tReview, analyse and compare an entity to a listed (or publicly available) entity</p>\n<p>•\tMake a recommendation of whether to invest in the company and why</p>\n<p>•\tPresent and submit your analysis as a slide deck with speaker notes</p>\n<p>•\tPresented live in-class + questions (20 mins total)</p>\n<p>•\tAll need to be prepared to answer questions</p>\n<p><strong>AI STATEMENT</strong></p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Financial Analysis and Valuation",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 20/05/2025</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Using an enterprise of your choice, or using a provided fictional case, in Excel: </p>\n<p>• Prepare projected 5-year proforma financial statements based on relevant assumptions </p>\n<p>• Prepare a sensitivity analysis showing the impact of variations in your key assumptions </p>\n<p>• Calculate 6-8 financial ratios that demonstrate the financial health of the enterprise</p>\n<p>• Prepare a breakeven analysis for the enterprise</p>\n<p>Prepare a short-written report:</p>\n<p>• Explaining how you determined which assumptions were most relevant and how you estimated the assumptions</p>\n<p>• What the five-year outlook is for the venture including any funding may they need to source and when.</p>\n<p>• Make a recommendation as to whether a person should invest in this enterprise.</p>\n<p>• Approximate word count: 2,000 words</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted in Turnitin via Blackboard Assessments in PDF format only.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Accounting </strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to Accounting </strong>",
+            "topic_description": "Introduction to Accounting",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Balance Sheet</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Balance Sheet</strong>",
+            "topic_description": "Balance Sheet",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Income Statement</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Income Statement</strong>",
+            "topic_description": "Income Statement",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - Balance sheet and Income Statement</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - Balance sheet and Income Statement</strong>",
+            "topic_description": "Tutorial 1 - Balance sheet and Income Statement",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cash Flow Statement</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Cash Flow Statement</strong>",
+            "topic_description": "Cash Flow Statement",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2 - Cash Flow Statement</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2 - Cash Flow Statement</strong>",
+            "topic_description": "Tutorial 2 - Cash Flow Statement",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The link between the three statements in financial projections (budgeting)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>The link between the three statements in financial projections (budgeting)</strong>",
+            "topic_description": "The link between the three statements in financial projections (budgeting)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 - Financial Projections</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 3 - Financial Projections</strong>",
+            "topic_description": "Tutorial 3 - Financial Projections",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Statement Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Financial Statement Analysis</strong>",
+            "topic_description": "Financial Statement Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Valuation</strong>",
+            "topic_description": "Valuation",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Analysis and Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Financial Analysis and Valuation</strong>",
+            "topic_description": "Financial Analysis and Valuation",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Financial Analysis and Valuation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Financial Analysis and Valuation</strong>",
+            "topic_description": "Tutorial 4: Financial Analysis and Valuation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No Lecture. In-Semester Break</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No Lecture. In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cost behaviour and Break-Even Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Cost behaviour and Break-Even Analysis</strong>",
+            "topic_description": "Cost behaviour and Break-Even Analysis",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5 - Cost Behaviour and Break-Even Point</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 5 - Cost Behaviour and Break-Even Point</strong>",
+            "topic_description": "Tutorial 5 - Cost Behaviour and Break-Even Point",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Costing and Analysing Profitability of Products and Services</strong><br/></p></div></td>",
+            "topic_title": "<strong>Costing and Analysing Profitability of Products and Services</strong>",
+            "topic_description": "Costing and Analysing Profitability of Products and Services",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6 - Costing and Analysing Profitability of Products and Services</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 6 - Costing and Analysing Profitability of Products and Services</strong>",
+            "topic_description": "Tutorial 6 - Costing and Analysing Profitability of Products and Services",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Governance and ESG reporting</strong><br/></p></div></td>",
+            "topic_title": "<strong>Governance and ESG reporting</strong>",
+            "topic_description": "Governance and ESG reporting",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Controlling Responsibility Centres and Transfer Prices</strong><br/></p></div></td>",
+            "topic_title": "<strong>Controlling Responsibility Centres and Transfer Prices</strong>",
+            "topic_description": "Controlling Responsibility Centres and Transfer Prices",
+            "learning_outcomes": []
+        }
+    ]
+}
