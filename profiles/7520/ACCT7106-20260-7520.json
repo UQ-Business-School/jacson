@@ -1,0 +1,356 @@
+{
+    "course_title": "Financial Statement Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7106-20260-7520",
+    "full_course_code": "ACCT7106-20260-7520",
+    "course_code": "ACCT7106",
+    "class_code": "20260",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Undertake industry and competitive strategy analysis."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand why and how to reformulate financial statements to facilitate equity valuation and financial statement analysis."
+        },
+        {
+            "number": "LO3.",
+            "description": "Undertake financial ratio analysis to determine the drivers of profitability and growth and to assess accounting quality."
+        },
+        {
+            "number": "LO4.",
+            "description": "Prepare pro forma forecasts of the financial statements based on sales forecasts, growth rates, and ratios."
+        },
+        {
+            "number": "LO5.",
+            "description": "Provide an intrinsic price estimate for a stock using the appropriate valuation model and formulate a buy-sell recommendation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Financial Statement Analysis Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 7/04/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project requires students to complete a detailed financial statement analysis of an Australian listed company.</p>\n<p>In broad terms, the required analysis follows the content of the <strong>first five classes:</strong></p>\n<ul>\n<li>Reformulation of the four financial statements</li>\n<li>Analysis of financial ratios</li>\n</ul>\n<p>Note also:</p>\n<ul>\n<li>Detailed instructions will be provided on Learn.UQ (Blackboard).</li>\n<li>Students will be randomly assigned a company to analyse.</li>\n<li>This is an individual assessment.</li>\n<li>You must prepare a written report and provide your supporting workings in Excel. Excel work must reflect correct financial modelling conventions, which will be discussed in the class.</li>\n<li>Forecasting, valuation and accounting quality analysis will not be required for this project.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit your write-up and Excel workings through Learn.UQ (Blackboard). See the Project Document on Learn.UQ (Blackboard).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exam questions will address practical and conceptual issues covered over the full course.</p>\n<p>The exam is an <strong>on-campus, closed book, and paper-based</strong> exam invigilated by UQ appointed invigilators.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1 - Introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Lecture 1 - Introduction</strong>",
+            "topic_description": "Lecture 1 - Introduction",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 1 - Introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Workshop 1 - Introduction</strong>",
+            "topic_description": "Workshop 1 - Introduction",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2 - Accounting Reformulation I</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Lecture 2 - Accounting Reformulation I</strong>",
+            "topic_description": "Lecture 2 - Accounting Reformulation I",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 2 - Accounting Reformulation I</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Workshop 2 - Accounting Reformulation I</strong>",
+            "topic_description": "Workshop 2 - Accounting Reformulation I",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3 - Accounting Reformulation II</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Lecture 3 - Accounting Reformulation II</strong>",
+            "topic_description": "Lecture 3 - Accounting Reformulation II",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 3 - Accounting Reformulation II</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Workshop 3 - Accounting Reformulation II</strong>",
+            "topic_description": "Workshop 3 - Accounting Reformulation II",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4 - Accounting Reformulation III</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Lecture 4 - Accounting Reformulation III</strong>",
+            "topic_description": "Lecture 4 - Accounting Reformulation III",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 4 - Accounting Reformulation III</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Workshop 4 - Accounting Reformulation III</strong>",
+            "topic_description": "Workshop 4 - Accounting Reformulation III",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5 - Ratio Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Lecture 5 - Ratio Analysis</strong>",
+            "topic_description": "Lecture 5 - Ratio Analysis",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 5 - Ratio Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Workshop 5 - Ratio Analysis</strong>",
+            "topic_description": "Workshop 5 - Ratio Analysis",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6 - Valuation &amp; Forecasting I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 6 - Valuation &amp; Forecasting I</strong>",
+            "topic_description": "Lecture 6 - Valuation & Forecasting I",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 6 - Valuation &amp; Forecasting I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 6 - Valuation &amp; Forecasting I</strong>",
+            "topic_description": "Workshop 6 - Valuation & Forecasting I",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7 - Valuation &amp; Forecasting II</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7 - Valuation &amp; Forecasting II</strong>",
+            "topic_description": "Lecture 7 - Valuation & Forecasting II",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 7 - Valuation &amp; Forecasting II</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 7 - Valuation &amp; Forecasting II</strong>",
+            "topic_description": "Workshop 7 - Valuation & Forecasting II",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8 - Valuation &amp; Forecasting III</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8 - Valuation &amp; Forecasting III</strong>",
+            "topic_description": "Lecture 8 - Valuation & Forecasting III",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 8 - Valuation &amp; Forecasting III</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 8 - Valuation &amp; Forecasting III</strong>",
+            "topic_description": "Workshop 8 - Valuation & Forecasting III",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9 - Valuation &amp; Forecasting IV</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9 - Valuation &amp; Forecasting IV</strong>",
+            "topic_description": "Lecture 9 - Valuation & Forecasting IV",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Workshop</strong><br/><p>No workshop due to a public holiday on 5 May, 2025 (Labour Day). Check Blackboard for more information.</p></p></div></td>",
+            "topic_title": "<strong>No Workshop</strong>",
+            "topic_description": "No Workshop No workshop due to a public holiday on 5 May, 2025 (Labour Day). Check Blackboard for more information.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Lecture</strong><br/><p>No lecture due to a public holiday on 5 May, 2025 (Labour Day). Check Blackboard for more information.</p></p></div></td>",
+            "topic_title": "<strong>No Lecture</strong>",
+            "topic_description": "No Lecture No lecture due to a public holiday on 5 May, 2025 (Labour Day). Check Blackboard for more information.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 9 - Valuation &amp; Forecasting IV</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 9 - Valuation &amp; Forecasting IV</strong>",
+            "topic_description": "Workshop 9 - Valuation & Forecasting IV",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10 - Accounting Quality I</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Lecture 10 - Accounting Quality I</strong>",
+            "topic_description": "Lecture 10 - Accounting Quality I",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 10 - Accounting Quality I</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Workshop 10 - Accounting Quality I</strong>",
+            "topic_description": "Workshop 10 - Accounting Quality I",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11 - Accounting Quality II</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Lecture 11 - Accounting Quality II</strong>",
+            "topic_description": "Lecture 11 - Accounting Quality II",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 11 - Accounting Quality II</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Workshop 11 - Accounting Quality II</strong>",
+            "topic_description": "Workshop 11 - Accounting Quality II",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12 - Summary and Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 12 - Summary and Revision</strong>",
+            "topic_description": "Lecture 12 - Summary and Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
