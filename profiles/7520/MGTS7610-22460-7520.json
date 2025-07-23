@@ -1,0 +1,428 @@
+{
+    "course_title": "Management Communication",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7610-22460-7520",
+    "full_course_code": "MGTS7610-22460-7520",
+    "course_code": "MGTS7610",
+    "class_code": "22460",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Express your opinions clearly by using words and sentence structures efficiently."
+        },
+        {
+            "number": "LO2.",
+            "description": "Communicate with colleagues and customers in a polite and effective way."
+        },
+        {
+            "number": "LO3.",
+            "description": "Make a convincing argument by structuring your ideas coherently and persuasively."
+        },
+        {
+            "number": "LO4.",
+            "description": "Speak confidently and persuasively to an audience."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use visual aids and digital technology to engage the audience."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Business writing portfolio",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 2/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Portfolio, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment task, you will create a portfolio of written documents suited to different business situations (email, letter, media release) AND a Critical Reflection on your own writing).</p>\n<p><strong>IMPORTANT INFORMATION:</strong></p>\n<p><strong>1. You MAY use Artificial Intelligence (AI) - including Grammarly, DEEPL, ChatGPT, etc. - when preparing this assignment. </strong></p>\n<p><strong>2. BUT </strong></p>\n<ol>\n<li><strong>you MUST clearly declare your use (or non-use) of AI on the assignment Cover Sheet. </strong><em>Failure to declare your use (or non-use) of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST include a FULL TRANSCRIPT of your interactions with all forms of AI. </strong>Please see the Assignment Instructions posted on Blackboard for more detail. Consult your tutor if you have any doubts about what counts as \"AI\" and/or a \"full transcript.\" <em>Failure to include a full transcript will affect your grade and may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST reflect critically on your use of AI in the Critical Reflection. </strong>Please see the Assignment Instructions posted on Blackboard for more detail.<strong> </strong><em>Failure to reflect critically on your use of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST be prepared to discuss your assignment in-person with course staff, if asked to do so.</strong></li>\n</ol>\n<p><strong>3. IF YOU DON'T complete ALL of the steps (a) - (c) above, the maximum grade you can receive for this assignment will be 4 out of 7.</strong></p>\n<ul>\n<li>Course staff will NOT chase up missing AI documentation.</li>\n<li>You will NOT be allowed to submit (a) - (c) after the assignment deadline, if you forget these steps.</li>\n</ul>\n<p><strong>4. Do NOT change the set question. <em>Assignments that do not answer the set question(s) will receive a grade of zero (0) for the whole assignment</em>.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>1. You will submit this assessment via Turnitin (on Blackboard). </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Conference Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 14/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Presentation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment task, you will create a 5-minute video presentation recommending a solution to a problem caused by businesses in a specific industry, and write a Critical Reflection on your video. Please see the Assignment Instructions posted on Blackboard for more detail.</p>\n<p><strong>IMPORTANT INFORMATION:</strong></p>\n<p><strong>1. You MAY use Artificial Intelligence (AI) - including Grammarly, DEEPL, ChatGPT, etc. - when preparing this assignment. </strong></p>\n<p><strong>2. BUT </strong></p>\n<ol>\n<li><strong>you MUST clearly declare your use (or non-use) of AI on the assignment Cover Sheet. </strong><em>Failure to declare your use (or non-use) of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST include a FULL TRANSCRIPT of your interactions with all forms of AI. </strong>Please see the Assignment Instructions posted on Blackboard for more detail. Consult your tutor if you have any doubts about what counts as \"AI\" and/or a \"full transcript.\" <em>Failure to include a full transcript will affect your grade and may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST reflect critically on your use of AI in the Critical Reflection. </strong>Please see the Assignment Instructions posted on Blackboard for more detail.<strong> </strong><em>Failure to reflect critically on your use of AI may constitute student misconduct under the Student Code of Conduct. </em></li>\n<li><strong>you MUST be prepared to discuss your assignment in-person with course staff, if asked to do so.</strong></li>\n</ol>\n<p><strong>3. IF YOU DON'T complete ALL of the steps (a) - (c) above, the maximum grade you can receive for this assignment will be 4/7.</strong></p>\n<ul>\n<li>Course staff will NOT chase up missing AI documentation.</li>\n<li>You will NOT be allowed to submit (a) - (c) after the assignment deadline, if you forget these steps.</li>\n</ul>\n<p><strong>4. Do NOT change the set question. <em>Assignments that do not answer the set question(s) will receive a grade of zero (0) for the whole assignment</em>.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>1. You will submit this assessment via Turnitin (on Blackboard). </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>The final exam is a closed-book, handwritten exam. It will be held in-person, on-campus at a time schedule by the university.</strong></p>\n<p><strong>The exam will assess </strong></p>\n<ul>\n<li><strong>Regular course content presented in lectures, tutorials and/or Online Learning Modules (OLMs), AND </strong></li>\n<li><strong>ACE101x modules 1, 3, 4 and 5, which are REQUIRED READING for this course.</strong></li>\n</ul>\n<p><strong>Course staff will guide you about the types of questions on the exam BUT you will have to do your own independent study.</strong></p>\n<p>Please see the Assignment Instructions posted on Blackboard for more detail.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ACE101x Modules 1 &amp; 3</strong><br><p><strong>ACE10x Modules 1 &amp; 3 are REQUIRED READING, and will be assessed in the final exam.</strong></p>\n<p><strong>Please </strong></p>\n<ul>\n<li><strong>complete both modules before your Week 6 tutorial.</strong></li>\n<li><strong>see Blackboard for more information.</strong></li>\n</ul>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>ACE101x Modules 1 &amp; 3</strong>",
+            "topic_description": "ACE101x Modules 1 & 3 ACE10x Modules 1 & 3 are REQUIRED READING, and will be assessed in the final exam. Please complete both modules before your Week 6 tutorial. see Blackboard for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WRITE101x Modules</strong><br><p><strong>Specific Write101x modules are RECOMMENDED READING for this course.</strong></p>\n<p>Although these modules will not be assessed directly, they will help you complete all three asessment tasks in this course.</p>\n<p>Please see Blackboard for more information.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>WRITE101x Modules</strong>",
+            "topic_description": "WRITE101x Modules Specific Write101x modules are RECOMMENDED READING for this course. Although these modules will not be assessed directly, they will help you complete all three asessment tasks in this course. Please see Blackboard for more information.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>Introduction to the course: introduction to communication theory.</p>\n<p>Please see the Online Learning Module for more information.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Introduction to the course: introduction to communication theory. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business correspondence</strong><br/><p>Introduction to business correspondence.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Business correspondence</strong>",
+            "topic_description": "Business correspondence Introduction to business correspondence. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business correspondence</strong><br/><p>Business letters and emails.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Business correspondence</strong>",
+            "topic_description": "Business correspondence Business letters and emails.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clear writing for Business</strong><br/><p>Audience, relevance theory and clear writing for business.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Clear writing for Business</strong>",
+            "topic_description": "Clear writing for Business Audience, relevance theory and clear writing for business. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clear writing for Business</strong><br/><p>Clear writing, effective sentences, projection and academic integrity.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Clear writing for Business</strong>",
+            "topic_description": "Clear writing for Business Clear writing, effective sentences, projection and academic integrity.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating through the media</strong><br/><p>Journalistic writing, media releases and assessment.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Communicating through the media</strong>",
+            "topic_description": "Communicating through the media Journalistic writing, media releases and assessment. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating through the media</strong><br/><p>Media release structure, animating sources and assignment review.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Communicating through the media</strong>",
+            "topic_description": "Communicating through the media Media release structure, animating sources and assignment review.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rapport management</strong><br/><p>Rapport management, modality, persuasive language and critical reflections.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Rapport management</strong>",
+            "topic_description": "Rapport management Rapport management, modality, persuasive language and critical reflections. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rapport management:</strong><br/><p>Hedges and boosters, modal verbs, persuasive language and critical reflections.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Rapport management:</strong>",
+            "topic_description": "Rapport management: Hedges and boosters, modal verbs, persuasive language and critical reflections.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #1 (Academic genres)</strong><br/><p>Shared repertoire and genre, conferences, academic genres, IMRD articles and argumentative essays.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #1 (Academic genres)</strong>",
+            "topic_description": "Academic writing for business #1 (Academic genres) Shared repertoire and genre, conferences, academic genres, IMRD articles and argumentative essays. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #1 (Academic genres)</strong><br/><p>Academic genres: purposes and stages.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #1 (Academic genres)</strong>",
+            "topic_description": "Academic writing for business #1 (Academic genres) Academic genres: purposes and stages.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 11",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ACE101x Modules 4 &amp; 5</strong><br/><p><strong>ACE10x Modules 4 &amp; 5 are REQUIRED READING, and will be assessed in the final exam.</strong></p>\n<p><strong>Please </strong></p>\n<ul>\n<li><strong>complete both modules before your Week 11 tutorial.</strong></li>\n<li><strong>see Blackboard for more information.</strong></li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>ACE101x Modules 4 &amp; 5</strong>",
+            "topic_description": "ACE101x Modules 4 & 5 ACE10x Modules 4 & 5 are REQUIRED READING, and will be assessed in the final exam. Please complete both modules before your Week 11 tutorial. see Blackboard for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #2 (Problem-solving)</strong><br/><p>Problem-solving papers, amplification subtypes and using sources.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #2 (Problem-solving)</strong>",
+            "topic_description": "Academic writing for business #2 (Problem-solving) Problem-solving papers, amplification subtypes and using sources. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #2 (Problem-solving)</strong><br/><p>The structure of problem-solving papers.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #2 (Problem-solving)</strong>",
+            "topic_description": "Academic writing for business #2 (Problem-solving) The structure of problem-solving papers.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #1:</strong><br/><p>Multimodal communication, reading images and the appeal genre.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #1:</strong>",
+            "topic_description": "Multimodal business communication #1: Multimodal communication, reading images and the appeal genre.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #1</strong><br/><p><strong>Good Friday Public Holiday - Friday 18 April 2025</strong> - Check Blackboard for announcements about affected classes.</p>\n<p>Multimodal communication: organising information, positioning the viewer and organisational identity.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #1</strong>",
+            "topic_description": "Multimodal business communication #1 Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes. Multimodal communication: organising information, positioning the viewer and organisational identity.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #2</strong><br/><p>Webpages as multimodal communication and PPT slide design.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #2</strong>",
+            "topic_description": "Multimodal business communication #2 Webpages as multimodal communication and PPT slide design. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #2</strong><br/><p>Elements of effective PPT slide design.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #2</strong>",
+            "topic_description": "Multimodal business communication #2 Elements of effective PPT slide design.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #3</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p>\n<p>Spoken presentations and gestures.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #3</strong>",
+            "topic_description": "Multimodal business communication #3 Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes. Spoken presentations and gestures. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multimodal business communication #3</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p>\n<p>Presentations and body language.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Multimodal business communication #3</strong>",
+            "topic_description": "Multimodal business communication #3 Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes. Presentations and body language.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #3 (Academic tone)</strong><br/><p>Lexical bundles, academic vocabulary and assessment overview.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #3 (Academic tone)</strong>",
+            "topic_description": "Academic writing for business #3 (Academic tone) Lexical bundles, academic vocabulary and assessment overview. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Academic writing for business #3 (Academic tone)</strong><br/><p>Academic writing for business: referencing, paraphrasing and summarising.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Academic writing for business #3 (Academic tone)</strong>",
+            "topic_description": "Academic writing for business #3 (Academic tone) Academic writing for business: referencing, paraphrasing and summarising.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics &amp; business communication</strong><br/><p>CSR reporting, CEO statements &amp; cohesion.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Ethics &amp; business communication</strong>",
+            "topic_description": "Ethics & business communication CSR reporting, CEO statements & cohesion. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics &amp; business communication</strong><br/><p>Analysing CEO statements and cohesion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Ethics &amp; business communication</strong>",
+            "topic_description": "Ethics & business communication Analysing CEO statements and cohesion.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crisis communication</strong><br/><p>Crisis communication, corporate apologies and workplace conversations.</p>\n<p>Please see the Online Learning Module for more information.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Crisis communication</strong>",
+            "topic_description": "Crisis communication Crisis communication, corporate apologies and workplace conversations. Please see the Online Learning Module for more information.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crisis communication</strong><br/><p>Corporate apologies.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Crisis communication</strong>",
+            "topic_description": "Crisis communication Corporate apologies.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
