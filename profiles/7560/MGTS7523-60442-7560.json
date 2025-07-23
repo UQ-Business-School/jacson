@@ -1,0 +1,235 @@
+{
+    "course_title": "System Dynamics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7523-60442-7560",
+    "full_course_code": "MGTS7523-60442-7560",
+    "course_code": "MGTS7523",
+    "class_code": "60442",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the feedback processes that characterise complex problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse complex problems using Causal Loop Diagrams."
+        },
+        {
+            "number": "LO3.",
+            "description": "Collaboratively and independently formulate systems-informed solutions for complex problems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply the principles and tools of systems thinking and system dynamics to manage multi-disciplinary problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Present systems thinking outcomes to lead stakeholders in ethical decision-making."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Systems thinking report proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 22/08/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a 1-2 page written proposal submitted for the Team project (Systems Thinking presentation). </p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted through Blackboard - only one person per team (i.e. one team member) is required to submit this proposal</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Systems Thinking Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 15/09/2025 1:00 pm</p>\n<p>\n</p><p>The presentations will occur in-class during the seminar period for this subject.</p>\n<p>Technical reports for are to be submitted prior to the presentation via Blackboard</p>\n<p><br/></p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students, in groups (3-4 students per group), are to present an in-class oral presentation (5 minutes duration) that showcases the outcomes of their research into addressing a 'dynamic problem'. The presentation will be done using power point and accompanied by an oral presentation by at least two of the group members. The target audience for the presentation are managerial-level stakeholders who need to make decisions based on the information that presented to them in the presentation but do not have knowledge of systems thinking.</p>\n<p>Each Team will also submit via Blackboard an accompanying technical report (5 pages max excluding title page, reference list, and appendices) for their presentation. This report will outline the technical details, methodological steps, and associated research that they carried out in developing their presentation. The target audience for the written report is a technical working group that has a good understanding of the technical issues associated with the problem.</p>\n<p>This presentation will be an extension of the Systems Thinking Proposal assessment submitted in week 4. Feedback provided by the teaching staff on the proposals will need to be integrated into this assessment item.</p>\n<p>The presentation will draw upon the first two steps of the Systems Method (Sterman, 2000; Module 2) that is outlined as part of this course i.e. (i) Problem Articulation and (ii) Dynamic Hypothesis.</p>\n<p>TECHNICAL REPORT: Groups will be provided with a template that outlines the sections required in the report. This tech report is worth 15% of the total mark for this assessment.</p>\n<p>PRESENTATION: Groups will prepare a 5 minute oral presentation using Powerpoint. Note that at least 2 two team members must present (but it is not a requirement that all team members present). The presentation is worth 15% of the total</p>\n<p>PEER ASSESSMENT:</p>\n<p>In order to obtain a passing grade in this course, all assessment items must be genuinely attempted and submitted.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission consists of 1 written technical report. Only one submission is required per group.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-class Model Design Challenge",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 13/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual task. At the start of class (week 13), students will be provided with a template (A3) outlining a system dynamics modelling challenge. Students will be required to scribe their solutions to the challenge directly on the template using a pen (biro) and submit this to the course teaching team before the end of class. </p>\n<p>This system dynamics modelling challenge will require drawing on aspects from all 10 course modules that are accessible through UQ Extend, and content covered during the classroom component of this subject. The challenge will include drawing a causal loop digram (CLD) based on a narrative around a dynamic problem, identifying a system archetype associated with this problem, and coming up with a strategy to fix this problem. Students will have the duration of the week 13 in-class workshop to complete this challenge. </p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Additional information will be provided in due course.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students to submit their assessment template to the teaching team before the end of the workshop period scheduled for this course.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>There is no late submission option for this assessment item as it occurs in the classroom at a specific date and time. A deferred option is available. </p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "System Dynamics Modelling Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 31/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your task is to use the instructions provided in the assignment sheet to build system dynamic models (in STELLA Architect software) to answer associated questions. Students will also be required to use an existing system dynamics model to develop a strategy for addressing a problem highlighted by this existing model.</p>\n<p>The assignment sheet will be made available on the course Blackboard site. Answers to these questions are to be provided as a written document (word or pdf).</p>\n<p>In order to obtain a passing grade in this course, all assessment items must be genuinely attempted and submitted.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment is to be submitted electronically via the course Blackboard site. Submissions via email or in hardcopy will not be permitted. The name of the file submitted should contain your full name (e.g. John_Smith_MGTS7523_Assignment_3). Please submit in Microsoft Word format. Legal Declaration: By submitting your work via this website, you formally declare that (1) it is your own original work, and no part of the work has been copied from any other source or person except where due acknowledgement is made; (2) no part of the work has been previously submitted for assessment in this or any other institution; and (3) you have read the UQ Academic Integrity and Plagiarism Policy (http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct) and understand its implications.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Systems Thinking Introduction</strong><br><p>In week 1, there will be an overview of the course, including assessment and software requirements. There will be an introduction to the field of system dynamics and the philosophy of using this approach for managing complex problems. </p>\n<p>We will cover the \"Macquarie Island\" and \"pDu Pont\" cases as an entry point to thinking in systems.  </p>\n<p>Exercise - We will unpack the Macquarie Island case using the UQ Cases app.</p></br></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Systems Thinking Introduction</strong>",
+            "topic_description": "Systems Thinking Introduction In week 1, there will be an overview of the course, including assessment and software requirements. There will be an introduction to the field of system dynamics and the philosophy of using this approach for managing complex problems. We will cover the \"Macquarie Island\" and \"pDu Pont\" cases as an entry point to thinking in systems. Exercise - We will unpack the Macquarie Island case using the UQ Cases app.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Systems Method</strong><br><p>In this seminar, we will introduce Sterman's \"Systems Method\" and Senge's \"Ice-berg\" model</p>\n<p>Exercise - We will use the \"Lobster Game\" as an example of illustrating the first step of the Systems Method (problem articulation). We will then develop an Iceberg model for the \"Lobster Game\"</p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Systems Method</strong>",
+            "topic_description": "Systems Method In this seminar, we will introduce Sterman's \"Systems Method\" and Senge's \"Ice-berg\" model Exercise - We will use the \"Lobster Game\" as an example of illustrating the first step of the Systems Method (problem articulation). We will then develop an Iceberg model for the \"Lobster Game\"",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Causal Loop Modelling</strong><br><p>In this seminar, we will introduce the concept of Causal Loop Diagrams (CLD) as step 2 of Sterman's \"Systems method\". This will include the importance of naming variables correctly, allocating polarities, and identifying causality.</p>\n<p>Activity: We will be using Vensim PLE software to develop our first CLDs - for this, we will revisit the \"Lobster Game\" from week 2. Students will present their observations from the Lobster Game activity to each other.</p></br></p></div></td>",
+            "topic_title": "<strong>Causal Loop Modelling</strong>",
+            "topic_description": "Causal Loop Modelling In this seminar, we will introduce the concept of Causal Loop Diagrams (CLD) as step 2 of Sterman's \"Systems method\". This will include the importance of naming variables correctly, allocating polarities, and identifying causality. Activity: We will be using Vensim PLE software to develop our first CLDs - for this, we will revisit the \"Lobster Game\" from week 2. Students will present their observations from the Lobster Game activity to each other.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Structure and Behaviour of Dynamic Systems</strong><br/><p>In this seminar we will be taking a close look at the fundamental systems thinking principle that links systems structure with observed systems behaviour. This provides further insight into Sterman's \"systems Method\", specifically step 2. We will also be looking at the recent emergence, and opportunities (and challenges) of using AI to develop causal loop diagrams </p>\n<p>Exercise - We will look at the concept of 'Policy Resistance' through a case that looks at Traffic Congestion.</p></p></div></td>",
+            "topic_title": "<strong>Structure and Behaviour of Dynamic Systems</strong>",
+            "topic_description": "Structure and Behaviour of Dynamic Systems In this seminar we will be taking a close look at the fundamental systems thinking principle that links systems structure with observed systems behaviour. This provides further insight into Sterman's \"systems Method\", specifically step 2. We will also be looking at the recent emergence, and opportunities (and challenges) of using AI to develop causal loop diagrams Exercise - We will look at the concept of 'Policy Resistance' through a case that looks at Traffic Congestion.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>System Archetypes</strong><br/><p>This is the final instalment of the systems thinking component of this subject. For this seminar we will look at 'System Archetypes' and how they can be used to help kick-start the process of developing a causal loop diagram, or used to summarise (and simplify) an existing causal loop diagram. </p>\n<p>We will be overviewing the following system archetypes and how they might relate to systems of interest: Fixes that Fail; Shifting the Burden; Limits to Growth; Eroding Goals; Escalation; Success to the Successful; Tragedy of the Commons </p>\n<p>Activity - we will play the multiplayer game 'Sustainable Fish SD', which is based on the Tragedy of the Commons archetype. This provides an immersive and experiential way of learning about one of the most important archetypes.</p></p></div></td>",
+            "topic_title": "<strong>System Archetypes</strong>",
+            "topic_description": "System Archetypes This is the final instalment of the systems thinking component of this subject. For this seminar we will look at 'System Archetypes' and how they can be used to help kick-start the process of developing a causal loop diagram, or used to summarise (and simplify) an existing causal loop diagram. We will be overviewing the following system archetypes and how they might relate to systems of interest: Fixes that Fail; Shifting the Burden; Limits to Growth; Eroding Goals; Escalation; Success to the Successful; Tragedy of the Commons Activity - we will play the multiplayer game 'Sustainable Fish SD', which is based on the Tragedy of the Commons archetype. This provides an immersive and experiential way of learning about one of the most important archetypes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stock and Flow Models</strong><br/><p>In this seminar, we transition from systems thinking to system dynamics modelling. The first step is to get acquainted with the software that we will be using to develop our models (Stella Architect software). The teaching team will give a demonstration of how to use Stella Architecture to create a simple population model (population models are often central to challenges that are addressed using system dynamics). </p>\n<p>Activity: We will build and run a simple population model.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Stock and Flow Models</strong>",
+            "topic_description": "Stock and Flow Models In this seminar, we transition from systems thinking to system dynamics modelling. The first step is to get acquainted with the software that we will be using to develop our models (Stella Architect software). The teaching team will give a demonstration of how to use Stella Architecture to create a simple population model (population models are often central to challenges that are addressed using system dynamics). Activity: We will build and run a simple population model.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dynamic of stocks and flows</strong><br/><p>In this seminar, we will look at how system dynamics simulation models can be used for group-level decision making. The importance of understanding how different stocks and flows within a system will be experienced through participating in the Climate Interactive's \"En-ROADS\" simulation. </p>\n<p>Activity: En-ROADS simulation</p></p></div></td>",
+            "topic_title": "<strong>Dynamic of stocks and flows</strong>",
+            "topic_description": "Dynamic of stocks and flows In this seminar, we will look at how system dynamics simulation models can be used for group-level decision making. The importance of understanding how different stocks and flows within a system will be experienced through participating in the Climate Interactive's \"En-ROADS\" simulation. Activity: En-ROADS simulation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team presentations</strong><br/><p>Teams will present in class the outcomes of their research into addressing a 'dynamic problem' for the systems thinking project.</p></p></div></td>",
+            "topic_title": "<strong>Team presentations</strong>",
+            "topic_description": "Team presentations Teams will present in class the outcomes of their research into addressing a 'dynamic problem' for the systems thinking project.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dynamics of Simple Structures</strong><br/><p>In this seminar, we will look at the dynamics of simple structures. This will be exemplified by building a simple supply-demand-pricing model. The ability to build and understand a simple model that can capture the dynamics of price signals is an important capability for students. </p>\n<p>Activity: Build a simple economics stock and flow model using Stella Architect</p></p></div></td>",
+            "topic_title": "<strong>Dynamics of Simple Structures</strong>",
+            "topic_description": "Dynamics of Simple Structures In this seminar, we will look at the dynamics of simple structures. This will be exemplified by building a simple supply-demand-pricing model. The ability to build and understand a simple model that can capture the dynamics of price signals is an important capability for students. Activity: Build a simple economics stock and flow model using Stella Architect",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IN-SEMESTER BREAK</strong><br/></p></div></td>",
+            "topic_title": "<strong>IN-SEMESTER BREAK</strong>",
+            "topic_description": "IN-SEMESTER BREAK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public holiday (King's Birthday)</strong><br/><p><strong>Kings Birthday Public Holiday - Monday 6 October 2025</strong> - Check Blackboard for announcements about affected classes.</p>\n<p>Note that this public holiday only affects the seminar - course content will still be available via UQ Extend.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Public holiday (King's Birthday)</strong>",
+            "topic_description": "Public holiday (King's Birthday) Kings Birthday Public Holiday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes. Note that this public holiday only affects the seminar - course content will still be available via UQ Extend.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-class Model Design Challenge</strong><br/><p>The In-class Model Design Challenge occurs during this class - see the assessment section of the course profile for detail</p></p></div></td>",
+            "topic_title": "<strong>In-class Model Design Challenge</strong>",
+            "topic_description": "In-class Model Design Challenge The In-class Model Design Challenge occurs during this class - see the assessment section of the course profile for detail",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dimensionless Multipliers; Value-add of models</strong><br/><p>In this seminar, we will be looking at the power (and the problem) of including fuzzy cause-effect relationships in system dynamics models using dimensionless multipliers. We will also explore the use of model interfaces and how these can provide value for your model, and used to better communicate your models to end-users (stakeholders)</p>\n<p>Exercise - Revisit our economics model from week 9 and build a user interface that allows a potential non-modeller to use your model</p></p></div></td>",
+            "topic_title": "<strong>Dimensionless Multipliers; Value-add of models</strong>",
+            "topic_description": "Dimensionless Multipliers; Value-add of models In this seminar, we will be looking at the power (and the problem) of including fuzzy cause-effect relationships in system dynamics models using dimensionless multipliers. We will also explore the use of model interfaces and how these can provide value for your model, and used to better communicate your models to end-users (stakeholders) Exercise - Revisit our economics model from week 9 and build a user interface that allows a potential non-modeller to use your model",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Material and Information Delays</strong><br/><p>In this seminar we will start with an overview of how material and information delays can influence the dynamics of a system e.g. what happens if you need to make a decision when the information that you use to make your decision is no longer relevant (i.e. old information)?</p>\n<p>As an extension of the content from the previous week, we will continue to look at how we can make our simulation models more palatable for non-modellers (stakeholders), including understanding design elements that help (rather than hinder) its usefulness for intended end-users.</p></p></div></td>",
+            "topic_title": "<strong>Material and Information Delays</strong>",
+            "topic_description": "Material and Information Delays In this seminar we will start with an overview of how material and information delays can influence the dynamics of a system e.g. what happens if you need to make a decision when the information that you use to make your decision is no longer relevant (i.e. old information)? As an extension of the content from the previous week, we will continue to look at how we can make our simulation models more palatable for non-modellers (stakeholders), including understanding design elements that help (rather than hinder) its usefulness for intended end-users.",
+            "learning_outcomes": []
+        }
+    ]
+}
