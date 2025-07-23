@@ -1,0 +1,334 @@
+{
+    "course_title": "Product Strategy & Development",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7505-60454-7560",
+    "full_course_code": "MKTG7505-60454-7560",
+    "course_code": "MKTG7505",
+    "class_code": "60454",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the key stages of new product and service development and strategies to effectively handle such stages."
+        },
+        {
+            "number": "LO2.",
+            "description": "In a group setting, critically evaluate new product and service development approaches using NPD/NSD concepts and frameworks."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand how successful real-world firms manage new product and service development processes to remain competitive in highly competitive markets."
+        },
+        {
+            "number": "LO4.",
+            "description": "In a group setting, develop the ability and skills to select and use the appropriate level, style and means of communication."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand and critically apply ethics, public liability and broader environmental considerations in NPD/NSD."
+        },
+        {
+            "number": "LO6.",
+            "description": "Gain a deeper understanding of the most recent value-adding innovations in key areas of new product/service development."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Major Project: New product concept presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 25/08/2025</p>\n<p>\n</p><p>Student presentations will commence this week.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This oral presentation is the first part of the major project.</p>\n<p>Student groups will present their new product/service concepts to a panel of assessors to gain feedback on the suitability of their concepts in terms of specified criteria to proceed to the next stage of the major project i.e., concept testing of the new product/service concept with real world customers.</p>\n<p>This is a 'shark tank' style pitch in which student groups will convincingly argue that their concept conforms to specified requirements and will add substantial value to targeted consumers.</p>\n<p>A detailed guide will be provided on Blackboard.</p>\n<p><strong>Peer assessment:</strong> For this assessment, all student groups must undertake a peer assessment as per specified form. This form will be provided on Blackboard. All completed forms must be separately uploaded on to the specified Blackboard link.</p>\n<p>In the event a group is in dispute on the individual contribution of group members for the submission of this assessment by the specified date as per submission guide, marks will be apportioned based on the peer assessment outcome. Such disputes should be reported to the Course Coordinator within two days of submission of the assessment.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Will be provided on Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 15/09/2025 5:00 pm</p>\n<p>\n</p><p>During class time. More information to follow. </p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The rationale of this piece of assessment is to keep up to date with the concepts and frameworks in NPD/NSD. For students to have an accurate and clearer understanding of the frameworks and strategies, the basic concepts must be first understood. This understanding will be critically important for managing all other assessments effectively.</p>\n<p>Therefore, this is an important milestone in this course.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Will be provided on Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Major project: Concept testing report (video)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 17/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Creative Production/ Exhibition, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this group assessment, student groups will undertake a concept test survey for their new product service concept with potential consumers. The respondents for the survey can be real world consumers outside the class in order to achieve greater variety in responses and real world insights to your new product/service concept.</p>\n<p>Your group will analyse survey data and report your observations/recommendations on the feasibility of the new concept to take it to the next stage of the new product/service development process. The survey will adhere to the ethical requirements for such studies stipulated by the University of Queensland. You must address specific instructions for each stage of the testing process that will be provided on Blackboard.</p>\n<p><strong>Your report will be a videographic presentation of the final report.</strong> Your group will be provided with detailed guidelines about this assessment during early weeks of the semester. Failure to submit this assessment by the due date will result in late penalties being applied.</p>\n<p>Important information:</p>\n<p>1. This assessment will challenge <strong>your groups' collective creativity</strong>. It will also be a great opportunity to apply your technology knowledge to solve an important consumer problem that will create added value to them.</p>\n<p>In that spirit, you are advised, not try to copy the concepts that have been developed by students in previous years. We are keeping a registry of previous years' product/service.</p>\n<p>2. Changes to groups and to your chosen product concept after the oral presentation are not desirable as such will hinder the progress of your project. In such event express written permission must be sought <em>and</em> obtained from the course coordinator. Do not assume that you can change your product concept or group without obtaining permission.</p>\n<p>It is your responsibility to inform the course coordinator if there are any group difficulties and to seek alternative group membership.</p>\n<p><strong>Peer assessment:</strong> For this assessment, all student groups must undertake a peer assessment as per specified form. This form will be provided on Blackboard. All completed forms must be attached to the assessment submission as an Appendix.</p>\n<p>In the event a group is in dispute on the individual contribution of group members for the submission of this assessment by the specified date as per submission guide, marks will be apportioned based on the peer assessment outcome.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>Submission:</strong> Videographic presentation to be submitted to Turnitin on the specified date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Type</strong>: Individual, invigilated examination.</p>\n<p><strong>Due Date:</strong> During the Examination Period.</p>\n<p><strong>Format</strong>: Short essay</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course overview and assessment</strong><br/><p><strong>Course overview:</strong> Basic product/service innovation concepts, innovation as a source of competitive advantage, marketing input in the NPD/NSD process Course activities and assessment briefing---formation of groups</p>\n<p><strong>Readings/Ref: </strong>Crawford &amp; Di (Chapters 1,2).</p></p></div></td>",
+            "topic_title": "<strong>Course overview and assessment</strong>",
+            "topic_description": "Course overview and assessment Course overview: Basic product/service innovation concepts, innovation as a source of competitive advantage, marketing input in the NPD/NSD process Course activities and assessment briefing---formation of groups Readings/Ref: Crawford & Di (Chapters 1,2).",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Opportunity identification and selection</strong><br/><p>Idea generation, Sources of new product/service ideas, the market driven vs market driving debate in product and service strategy, emergent BOP markets.</p>\n<p>TUTORIALS STARTING THIS WEEK. </p>\n<p><strong>Readings/Ref:</strong> Crawford &amp; Di (Chapters 1,3)</p></p></div></td>",
+            "topic_title": "<strong>Opportunity identification and selection</strong>",
+            "topic_description": "Opportunity identification and selection Idea generation, Sources of new product/service ideas, the market driven vs market driving debate in product and service strategy, emergent BOP markets. TUTORIALS STARTING THIS WEEK. Readings/Ref: Crawford & Di (Chapters 1,3)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1</strong><br/><p>Group formation</p>\n<p>Class discussion/ Group exercise</p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Tutorial 1</strong>",
+            "topic_description": "Tutorial 1 Group formation Class discussion/ Group exercise",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Concept generation</strong><br><p>Extending the identified market opportunities to generate new product/service concepts - finding and solving customer problems, what constitutes a new product/service concept.</p>\n<p><strong>Readings/Ref:</strong> Crawford &amp; Di (Chapters 1,2,3,4)</p></br></p></div></td>",
+            "topic_title": "<strong>Concept generation</strong>",
+            "topic_description": "Concept generation Extending the identified market opportunities to generate new product/service concepts - finding and solving customer problems, what constitutes a new product/service concept. Readings/Ref: Crawford & Di (Chapters 1,2,3,4)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/><p>Class discussion</p>\n<p>New product concept development</p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2 Class discussion New product concept development",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Concept project evaluation</strong><br><p>Concept evaluation system - a critical stage in NPD/NSD. Concept testing (customer-focused)procedure and full-screen (technical-commercial evaluation) process </p>\n<p>NEW PRODUCT CONCEPT (GROUP) DUE THIS WEEK</p>\n<p><strong>Readings/Ref</strong>: Crawford &amp; Di (Chapters 8, 9, 10)</p></br></p></div></td>",
+            "topic_title": "<strong>Concept project evaluation</strong>",
+            "topic_description": "Concept project evaluation Concept evaluation system - a critical stage in NPD/NSD. Concept testing (customer-focused)procedure and full-screen (technical-commercial evaluation) process NEW PRODUCT CONCEPT (GROUP) DUE THIS WEEK Readings/Ref : Crawford & Di (Chapters 8, 9, 10)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p>\n<p>Class discussion</p>\n<p>New product concept to be finalised in consultation with the tutor. Prepare for oral presentaion.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3 Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes. Class discussion New product concept to be finalised in consultation with the tutor. Prepare for oral presentaion.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sales forecasting and product protocol</strong><br/><p>Product and service pricing, sales forecasting for new products, ATAR model, product protocol, voice of the customer (VOC). </p>\n<p>ORAL PRESENTATIONS (GROUP) STARTING THIS WEEK.</p>\n<p><strong>Readings/Ref: </strong>Crawford &amp; Di (Chapters 8,11,12)</p></p></div></td>",
+            "topic_title": "<strong>Sales forecasting and product protocol</strong>",
+            "topic_description": "Sales forecasting and product protocol Product and service pricing, sales forecasting for new products, ATAR model, product protocol, voice of the customer (VOC). ORAL PRESENTATIONS (GROUP) STARTING THIS WEEK. Readings/Ref: Crawford & Di (Chapters 8,11,12)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/><p>Class discussion</p>\n<p>New product concept - oral presentations (Group) starting this week at tutorials. </p></p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4 Class discussion New product concept - oral presentations (Group) starting this week at tutorials.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design and team building issues</strong><br/><p>Design and team building: Product/service design issues, universal principles, marketing input in product and service design, organizational design issues and team building</p>\n<p>MAJOR PROJECT SUBMISSION GUIDE - DISCUSSION</p>\n<p><strong>Readings/Ref: </strong>Crawford &amp; Di (chapter 13, 14); Lovelock ( chapter 3)</p></p></div></td>",
+            "topic_title": "<strong>Design and team building issues</strong>",
+            "topic_description": "Design and team building issues Design and team building: Product/service design issues, universal principles, marketing input in product and service design, organizational design issues and team building MAJOR PROJECT SUBMISSION GUIDE - DISCUSSION Readings/Ref: Crawford & Di (chapter 13, 14); Lovelock ( chapter 3)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/><p>Class discussion</p>\n<p>New product concept - oral presentations (Group)</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5 Class discussion New product concept - oral presentations (Group)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Product use testing</strong><br/><p>Product use testing and NSD process, how NSD differs from NPD; Why Product use testing (PUT), methods, arguments for/against PUT.</p>\n<p><strong>Readings/Ref</strong>: Lovelock (chapter 3), Crawford &amp; Di (chapter 15).</p></p></div></td>",
+            "topic_title": "<strong>Product use testing</strong>",
+            "topic_description": "Product use testing Product use testing and NSD process, how NSD differs from NPD; Why Product use testing (PUT), methods, arguments for/against PUT. Readings/Ref : Lovelock (chapter 3), Crawford & Di (chapter 15).",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/><p>Class discussion </p>\n<p>New product concept - oral presentations (Group)</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6 Class discussion New product concept - oral presentations (Group)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester exam during class time</strong><br/><p>IN-SEMESTER EXAM (INDIVIDUAL) DUE  ON 09/09/2024.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester exam during class time</strong>",
+            "topic_description": "In-Semester exam during class time IN-SEMESTER EXAM (INDIVIDUAL) DUE  ON 09/09/2024.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/><p>Class discussion</p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7 Class discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Competing on services</strong><br><p>Services blueprinting and positioning, Service-based competitive strategy, Strategic service development for gaining positional advantages in competitive markets, managing customer experience. No text chapter - readings provided on Blackboard.</p>\n<p>MAJOR PROJECT SUBMISSION PROGRESS REVIEW + WORKSHOP</p>\n<p><strong>Readings/Ref</strong>: Lovelock (chapter 3) + Readings.</p></br></p></div></td>",
+            "topic_title": "<strong>Competing on services</strong>",
+            "topic_description": "Competing on services Services blueprinting and positioning, Service-based competitive strategy, Strategic service development for gaining positional advantages in competitive markets, managing customer experience. No text chapter - readings provided on Blackboard. MAJOR PROJECT SUBMISSION PROGRESS REVIEW + WORKSHOP Readings/Ref : Lovelock (chapter 3) + Readings.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/><p>Class discussion</p>\n<p>Refining new product concept - Survey planning and launch.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8 Class discussion Refining new product concept - Survey planning and launch.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/><p>No classes.</p></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break No classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>New product/service launch</strong><br/><p>Revisiting strategic goals, strategic platforms, strategic marketing issues, planning and execution of the launch effort</p>\n<p><strong>Readings/Ref:</strong> Crawford &amp; Di (16,17,19).</p></p></div></td>",
+            "topic_title": "<strong>New product/service launch</strong>",
+            "topic_description": "New product/service launch Revisiting strategic goals, strategic platforms, strategic marketing issues, planning and execution of the launch effort Readings/Ref: Crawford & Di (16,17,19).",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/><p>Class discussion</p>\n<p>Major project submission review.</p>\n<p><strong>King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.</strong></p></p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9 Class discussion Major project submission review. King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>High-tech product marketing strategy</strong><br/><p>Characteristics of high-tech products, Innovation diffusion theories, 'crossing-the-chasm', entrepreneurial marketing strategies to reach mainstream markets -- no text chapter -- readings provided on blackboard.</p>\n<p>MAJOR PROJECT - CONCEPT TESTING VIDEO (GROUP) DUE THIS WEEK.</p>\n<p><strong>Readings/Ref:</strong> Not in Textbook. Extra readings will be provided.</p>\n<p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>High-tech product marketing strategy</strong>",
+            "topic_description": "High-tech product marketing strategy Characteristics of high-tech products, Innovation diffusion theories, 'crossing-the-chasm', entrepreneurial marketing strategies to reach mainstream markets -- no text chapter -- readings provided on blackboard. MAJOR PROJECT - CONCEPT TESTING VIDEO (GROUP) DUE THIS WEEK. Readings/Ref: Not in Textbook. Extra readings will be provided. King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p>\n<p>Class discussion</p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10 King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes. Class discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public liability, ethical and legal issues</strong><br><p>A cycle of concerns in product/service marketing, product liability and sustainability initiatives.</p>\n<p><strong>Readings/Ref:</strong> Crawford &amp; Di (Chapters 20)</p></br></p></div></td>",
+            "topic_title": "<strong>Public liability, ethical and legal issues</strong>",
+            "topic_description": "Public liability, ethical and legal issues A cycle of concerns in product/service marketing, product liability and sustainability initiatives. Readings/Ref: Crawford & Di (Chapters 20)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/><p>Class discussion</p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11 Class discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course review and final exam guide</strong><br><p>Revisiting the course content and final exam guide. </p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Course review and final exam guide</strong>",
+            "topic_description": "Course review and final exam guide Revisiting the course content and final exam guide.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12</strong><br><p>Class discussion</p></br></p></div></td>",
+            "topic_title": "<strong>Tutorial 12</strong>",
+            "topic_description": "Tutorial 12 Class discussion",
+            "learning_outcomes": []
+        }
+    ]
+}
