@@ -1,4 +1,8 @@
 {
+    "course_title": "Financial Management",
+    "study_period": "Sem 2 2024",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7805-60245-7460",
     "full_course_code": "FINM7805-60245-7460",
     "course_code": "FINM7805",
@@ -32,16 +36,16 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Assessment 1: In-Semester Exam",
             "special_indicators": [],
-            "weighting": "30%",
-            "due_date": "29/10/2024Released at 6pm Tuesday 29th and Due 9pm Tuesday 29th.",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/10/2024</p>\n<p>\n</p><p>Released at 6pm Tuesday 29th and Due 9pm Tuesday 29th.</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Examination, Tutorial/ Problem Set",
-            "task_description": "This assessment will consist of a problem set that students will be required to complete and submit through Blackboard.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit your completed exam to the Turnitin Submission Point",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment will consist of a problem set that students will be required to complete and submit through Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your completed exam to the Turnitin Submission Point</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -52,16 +56,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "15/11/2024 5:30 pm",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 15/11/2024 5:30 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Product/ Design",
-            "task_description": "The team case study will involve the evaluation and analysis of financial data to form recommendations based on a scenario outlined in the case study. The assignment will involve analysis of financial data in an Australian context.The assignment is to be completed in assigned teams of up to 4 students.Each team will prepare a Excel analysis and a report.These will be submitted electronically via TurnItIn.Full details, and relevant materials, will be provided on the course Blackboard site.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team case study will involve the evaluation and analysis of financial data to form recommendations based on a scenario outlined in the case study. The assignment will involve analysis of financial data in an Australian context.</p>\n<p>The assignment is to be completed in assigned teams of up to 4 students.</p>\n<p>Each team will prepare a Excel analysis and a report.</p>\n<p>These will be submitted electronically via TurnItIn.</p>\n<p>Full details, and relevant materials, will be provided on the course Blackboard site.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -72,51 +76,138 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "40%",
-            "due_date": "4/11/2024 - 5/11/2024From12pm on Monday 4thNovember 2024. The assessment is due at12pm on Tuesday 5thNovember 2024 (AEST).",
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 5/11/2024</p>\n<p>\n</p><p>From <strong>12pm on Monday 4</strong><strong>th</strong><strong> November 2024</strong>. The assessment is due at <strong>12pm on Tuesday 5</strong><strong>th</strong><strong> November 2024 (AEST)</strong>.  </p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Essay/ Critique, Tutorial/ Problem Set",
-            "task_description": "Final assessment involving project sets and business analysis application.Read full task descriptionHide full task description",
-            "submission_guidelines": "You must submit to the Submission Point by the due date",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Final assessment involving project sets and business analysis application.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit to the Submission Point by the due date</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Workshop",
-            "topic": "Maths refresher workshopMonday 14/10:Refresher on key maths concepts used in this courseLearning outcomes:L02",
-            "topic_title": "Maths refresher workshop",
-            "topic_description": "Monday 14/10: Refresher on key maths concepts used in this course",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maths refresher workshop</strong><br><p><strong>Monday 14/10:</strong> Refresher on key maths concepts used in this course</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Maths refresher workshop</strong>",
+            "topic_description": "Maths refresher workshop Monday 14/10: Refresher on key maths concepts used in this course",
             "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 1</strong><br><p><strong>Wednesday 16/10</strong></p>\n<p><strong>Session 1</strong> <strong>8:00 - 12:00 -</strong> <strong>Time Value of Money</strong></p>\n<ul>\n<li>Course introduction, the objective of the firm; the time value of money; decisions; annuities, mortgages, other day to day financial decisions.</li>\n</ul>\n<p><strong>Session 2</strong> <strong>13:00 - 16:00 -</strong> <strong>Valuation of Mortgages and Bonds.</strong></p>\n<ul>\n<li>Valuation of debt.</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Seminar 1</strong>",
+            "topic_description": "Seminar 1 Wednesday 16/10 Session 1 8:00 - 12:00 - Time Value of Money Course introduction, the objective of the firm; the time value of money; decisions; annuities, mortgages, other day to day financial decisions. Session 2 13:00 - 16:00 - Valuation of Mortgages and Bonds. Valuation of debt.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>REVISION of seminars 1 &amp; 2</strong><br><p><strong>Friday 18/10:</strong> Tutorial problems</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>REVISION of seminars 1 &amp; 2</strong>",
+            "topic_description": "REVISION of seminars 1 & 2 Friday 18/10: Tutorial problems",
+            "learning_outcomes": [
+                "L01",
                 "L02"
             ]
         },
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "The Capital Asset Pricing ModelMonday 21/10Session 18:00 - 12:00 -Setting up investment portfolios and developing the Capital Asset Pricing Model.Session 113:00 - 16:00 -Understanding the trade-off between Beta risk and return.Learning outcomes:L02, L04",
-            "topic_title": "The Capital Asset Pricing Model",
-            "topic_description": "Monday 21/10\nSession 1 8:00 - 12:00 - Setting up investment portfolios and developing the Capital Asset Pricing Model. \nSession 1 13:00 - 16:00 - Understanding the trade-off between Beta risk and return.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Capital Asset Pricing Model</strong><br/><p><strong>Monday 21/10</strong></p>\n<p><strong>Session 1</strong> <strong>8:00 - 12:00 - </strong>Setting up investment portfolios and developing the Capital Asset Pricing Model. </p>\n<p><strong>Session 1</strong> 13<strong>:00 - 16:00 - </strong>Understanding the trade-off between Beta risk and return.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>The Capital Asset Pricing Model</strong>",
+            "topic_description": "The Capital Asset Pricing Model Monday 21/10 Session 1 8:00 - 12:00 - Setting up investment portfolios and developing the Capital Asset Pricing Model. Session 1 13 :00 - 16:00 - Understanding the trade-off between Beta risk and return.",
             "learning_outcomes": [
                 "L02",
                 "L04"
             ]
         },
         {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stocks and Bonds</strong><br/><p><strong>Tuesday 22/10:</strong> Valuation of equity and debt securities</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Stocks and Bonds</strong>",
+            "topic_description": "Stocks and Bonds Tuesday 22/10: Valuation of equity and debt securities",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WACC and company valuation</strong><br/><p><strong>Thursday 24/10</strong></p>\n<p>WACC estimation and the value of a firm.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>WACC and company valuation</strong>",
+            "topic_description": "WACC and company valuation Thursday 24/10 WACC estimation and the value of a firm.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project evaluation</strong><br/><p><strong>Friday 25/10:</strong> Project evaluation and applications</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Project evaluation</strong>",
+            "topic_description": "Project evaluation Friday 25/10: Project evaluation and applications",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Leverage and capital structureMonday 28/10:Examine how Companies Set Capital StructureLearning outcomes:L02, L03, L04",
-            "topic_title": "Leverage and capital structure",
-            "topic_description": "Monday 28/10: Examine how Companies Set Capital Structure",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leverage and capital structure</strong><br/><p><strong>Monday 28/10: </strong>Examine how Companies Set Capital Structure</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Leverage and capital structure</strong>",
+            "topic_description": "Leverage and capital structure Monday 28/10: Examine how Companies Set Capital Structure",
             "learning_outcomes": [
                 "L02",
                 "L03",
                 "L04"
             ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Risk and return, and CAPM</strong><br/><p><strong>Wednesday 30/10:</strong> Tutorial covering risk and return, portfolio diversification, and CAPM</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Risk and return, and CAPM</strong>",
+            "topic_description": "Tutorial Risk and return, and CAPM Wednesday 30/10: Tutorial covering risk and return, portfolio diversification, and CAPM",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Derivatives and Risk Management</strong><br/><p><strong>Thursday 31/10</strong></p>\n<p>Learn how companies manage risk and what strategies they use to hedge risk</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Derivatives and Risk Management</strong>",
+            "topic_description": "Derivatives and Risk Management Thursday 31/10 Learn how companies manage risk and what strategies they use to hedge risk",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Risk and Return</strong><br/><p><strong>Friday 1/11:</strong> Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.</p></p></div></td>",
+            "topic_title": "<strong>Introduction to Risk and Return</strong>",
+            "topic_description": "Introduction to Risk and Return Friday 1/11: Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.",
+            "learning_outcomes": []
         }
     ]
 }
