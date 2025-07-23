@@ -1,4 +1,8 @@
 {
+    "course_title": "Advanced Studies in International Business",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/IBUS4301-60257-7460",
     "full_course_code": "IBUS4301-60257-7460",
     "course_code": "IBUS4301",
@@ -36,16 +40,16 @@
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Research Proposal Development",
             "special_indicators": [],
-            "weighting": "50%",
-            "due_date": "4/11/2024 4:00 pm",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 4/11/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Thesis",
-            "task_description": "Each student is required to write a research proposal on an International Business (IB) topic. You will not conduct the actual project.You will focus on a puzzle or a research question in IB that interests you, and you will structure a full proposal on how you would conduct this research project, should your ever engage in it.The research may be theoretical or empirical in nature, but should make a clear novel contribution to the international business literature.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each student is required to write a research proposal on an International Business (IB) topic. You will not conduct the actual project.</p>\n<p>You will focus on a puzzle or a research question in IB that interests you, and you will structure a full proposal on how you would conduct this research project, should your ever engage in it.</p>\n<p>The research may be theoretical or empirical in nature, but should make a clear novel contribution to the international business literature.</p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -64,40 +68,40 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "30%",
-            "due_date": "Block 1:  Week 2 - Week 3Block 2:  Week 4 - Week 5Block 3:  Week 6 - Week 7Block 4:  Week 8 - Week 9Block 5:  Week 10 - Week 11Block 6:  Week 12 - Week 13Review due prior to discussion session of each Block",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Block 1:  Week 2 - Week 3</p>\n<p>Block 2:  Week 4 - Week 5</p>\n<p>Block 3:  Week 6 - Week 7</p>\n<p>Block 4:  Week 8 - Week 9</p>\n<p>Block 5:  Week 10 - Week 11</p>\n<p>Block 6:  Week 12 - Week 13</p>\n<p>\n</p><p>Review due prior to discussion session of each Block</p></dd>",
             "learning_objectives": "L01, L02, L03, L06",
             "mode": "Oral, Written",
             "category": "Essay/ Critique, Participation/ Student contribution, Presentation",
-            "task_description": "This course is structured into six blocks of two weeks with theory presented in the first week and application of theory to firm strategy following in the second week.The first week of each block will be presented by the Lecturer in this course.In the second week, the class activity will be guided by student participation with oversight by the Lecturer.In each of these six weeks, a student (or more than one, depending on enrolment numbers) will direct the class activity as the class draws strategy implications from the theory presented in the previous week.Students will be peer-assessed in each of these six group sessions.In addition, the Lecturer will assess each student according to participation, insight and final strategy outcomes.To prepare for the class discussion, each student will submit a 400 word review of one manuscript recommended on the topic.The Lecturer will assess each manuscript submitted.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This course is structured into six blocks of two weeks with theory presented in the first week and application of theory to firm strategy following in the second week.</p>\n<p>The first week of each block will be presented by the Lecturer in this course.</p>\n<p>In the second week, the class activity will be guided by student participation with oversight by the Lecturer.</p>\n<p>In each of these six weeks, a student (or more than one, depending on enrolment numbers) will direct the class activity as the class draws strategy implications from the theory presented in the previous week.</p>\n<p>Students will be peer-assessed in each of these six group sessions.</p>\n<p>In addition, the Lecturer will assess each student according to participation, insight and final strategy outcomes.</p>\n<p>To prepare for the class discussion, each student will submit a 400 word review of one manuscript recommended on the topic.</p>\n<p>The Lecturer will assess each manuscript submitted.  </p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Research Manuscript Review",
             "special_indicators": [],
-            "weighting": "20%",
-            "due_date": "25/10/2024 4:00 pm",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Essay/ Critique",
-            "task_description": "You are required to review critically an article that has been published in the Journal of International Business Studies.The article will be assigned in the third week of lecture.This piece of assessment must be independently completed.Drawing upon the readings you have been presented through this course, you will assess the contemporaneity, the strengths and the shortcomings of the article. You might even have thoughts on how this article might be improved.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able toapply for an extension.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to review critically an article that has been published in the Journal of International Business Studies.</p>\n<p>The article will be assigned in the third week of lecture.</p>\n<p>This piece of assessment must be independently completed.  </p>\n<p>Drawing upon the readings you have been presented through this course, you will assess the contemporaneity, the strengths and the shortcomings of the article. You might even have thoughts on how this article might be improved.  </p>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Introduction to and Evolution of the IB fieldIn this first seminar, we will explain the international business (IB) research field, and discuss the development and evolution of this field. We also discuss the meaning and importance of theory and its application.Learning outcomes:L01, L06",
-            "topic_title": "Introduction to and Evolution of the IB field",
-            "topic_description": "In this first seminar, we will explain the international business (IB) research field, and discuss the development and evolution of this field. We also discuss the meaning and importance of theory and its application.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to and Evolution of the IB field</strong><br><p>In this first seminar, we will explain the international business (IB) research field, and discuss the development and evolution of this field. We also discuss the meaning and importance of theory and its application.</p></br></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Introduction to and Evolution of the IB field</strong>",
+            "topic_description": "Introduction to and Evolution of the IB field In this first seminar, we will explain the international business (IB) research field, and discuss the development and evolution of this field. We also discuss the meaning and importance of theory and its application.",
             "learning_outcomes": [
                 "L01",
                 "L06"
@@ -106,9 +110,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Internationalisation Process TheoryWe introduce a core theory in IB - The Uppsala Internationalisation process model. In the 1970s, Swedish scholars from The University of Uppsala first introduced the internationalisation process model which has been elaborated regularly. We focus on discussing two papers, the original published in 1977 and a more recent one.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Internationalisation Process Theory",
-            "topic_description": "We introduce a core theory in IB - The Uppsala Internationalisation process model. In the 1970s, Swedish scholars from The University of Uppsala first introduced the internationalisation process model which has been elaborated regularly. We focus on discussing two papers, the original published in 1977 and a more recent one.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internationalisation Process Theory</strong><br/><p>We introduce a core theory in IB - The Uppsala Internationalisation process model. In the 1970s, Swedish scholars from The University of Uppsala first introduced the internationalisation process model which has been elaborated regularly. We focus on discussing two papers, the original published in 1977 and a more recent one.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internationalisation Process Theory</strong>",
+            "topic_description": "Internationalisation Process Theory We introduce a core theory in IB - The Uppsala Internationalisation process model. In the 1970s, Swedish scholars from The University of Uppsala first introduced the internationalisation process model which has been elaborated regularly. We focus on discussing two papers, the original published in 1977 and a more recent one.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -119,9 +123,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Team Based Learning",
-            "topic": "Strategy Implications of IP theoryStudent led group discussion.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Strategy Implications of IP theory",
-            "topic_description": "Student led group discussion.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy Implications of IP theory</strong><br/><p>Student led group discussion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy Implications of IP theory</strong>",
+            "topic_description": "Strategy Implications of IP theory Student led group discussion.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -132,9 +136,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Internalisation theory and Eclectic ParadigmIn this seminar, we focus on theory of the MNE and the Eclectic Paradigm of International Production. The Eclectic Paradigm explains why firms undertake production across borders to become MNEs.Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Internalisation theory and Eclectic Paradigm",
-            "topic_description": "In this seminar, we focus on theory of the MNE and the Eclectic Paradigm of International Production. The Eclectic Paradigm explains why firms undertake production across borders to become MNEs.\nRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internalisation theory and Eclectic Paradigm</strong><br/><p>In this seminar, we focus on theory of the MNE and the Eclectic Paradigm of International Production. The Eclectic Paradigm explains why firms undertake production across borders to become MNEs.</p>\n<p><strong>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internalisation theory and Eclectic Paradigm</strong>",
+            "topic_description": "Internalisation theory and Eclectic Paradigm In this seminar, we focus on theory of the MNE and the Eclectic Paradigm of International Production. The Eclectic Paradigm explains why firms undertake production across borders to become MNEs. Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -145,9 +149,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Team Based Learning",
-            "topic": "Strategy Implications of Internalisation TheoryStudent led group discussion.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Strategy Implications of Internalisation Theory",
-            "topic_description": "Student led group discussion.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy Implications of Internalisation Theory</strong><br/><p>Student led group discussion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy Implications of Internalisation Theory</strong>",
+            "topic_description": "Strategy Implications of Internalisation Theory Student led group discussion.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -158,9 +162,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Transaction Cost TheoryThe third theory we introduce is Williamsonian TCE. TCE is a classic economics theory which has been widely used across different fields. We discuss two papers from Williamson.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Transaction Cost Theory",
-            "topic_description": "The third theory we introduce is Williamsonian TCE. TCE is a classic economics theory which has been widely used across different fields. We discuss two papers from Williamson.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transaction Cost Theory</strong><br/><p>The third theory we introduce is Williamsonian TCE. TCE is a classic economics theory which has been widely used across different fields. We discuss two papers from Williamson.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Transaction Cost Theory</strong>",
+            "topic_description": "Transaction Cost Theory The third theory we introduce is Williamsonian TCE. TCE is a classic economics theory which has been widely used across different fields. We discuss two papers from Williamson.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -171,9 +175,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Team Based Learning",
-            "topic": "Strategy Implications of Transaction Cost TheoryStudent led group discussion.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Strategy Implications of Transaction Cost Theory",
-            "topic_description": "Student led group discussion.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy Implications of Transaction Cost Theory</strong><br/><p>Student led group discussion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy Implications of Transaction Cost Theory</strong>",
+            "topic_description": "Strategy Implications of Transaction Cost Theory Student led group discussion.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -184,9 +188,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Institutional TheoryInstitutional theory focuses on the importance of context and the environment which are key in IB. Institutional theory emphasises institutions directly shaping firms' strategies. We will discuss various aspects of institutions and how these impact firm behaviours.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Institutional Theory",
-            "topic_description": "Institutional theory focuses on the importance of context and the environment which are key in IB. Institutional theory emphasises institutions directly shaping firms' strategies. We will discuss various aspects of institutions and how these impact firm behaviours.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Institutional Theory</strong><br/><p>Institutional theory focuses on the importance of context and the environment which are key in IB. Institutional theory emphasises institutions directly shaping firms' strategies. We will discuss various aspects of institutions and how these impact firm behaviours.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Institutional Theory</strong>",
+            "topic_description": "Institutional Theory Institutional theory focuses on the importance of context and the environment which are key in IB. Institutional theory emphasises institutions directly shaping firms' strategies. We will discuss various aspects of institutions and how these impact firm behaviours.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -197,9 +201,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Team Based Learning",
-            "topic": "Strategy Implications of Institutional TheoryStudent led group discussion.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Strategy Implications of Institutional Theory",
-            "topic_description": "Student led group discussion.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy Implications of Institutional Theory</strong><br/><p>Student led group discussion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy Implications of Institutional Theory</strong>",
+            "topic_description": "Strategy Implications of Institutional Theory Student led group discussion.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -210,17 +214,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Resource-Based View - Dynamic Capabilities ViewThe resource-based view and dynamic capabilities emphasise firm heterogeneity. Firms' advantages and performance vary even when they are in the same industry and the same institutional environment. We will discuss the key assumptions and logics from RBV and the dynamic capabilities view.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Resource-Based View - Dynamic Capabilities View",
-            "topic_description": "The resource-based view and dynamic capabilities emphasise firm heterogeneity. Firms' advantages and performance vary even when they are in the same industry and the same institutional environment. We will discuss the key assumptions and logics from RBV and the dynamic capabilities view.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Resource-Based View - Dynamic Capabilities View</strong><br/><p>The resource-based view and dynamic capabilities emphasise firm heterogeneity. Firms' advantages and performance vary even when they are in the same industry and the same institutional environment. We will discuss the key assumptions and logics from RBV and the dynamic capabilities view.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Resource-Based View - Dynamic Capabilities View</strong>",
+            "topic_description": "Resource-Based View - Dynamic Capabilities View The resource-based view and dynamic capabilities emphasise firm heterogeneity. Firms' advantages and performance vary even when they are in the same industry and the same institutional environment. We will discuss the key assumptions and logics from RBV and the dynamic capabilities view.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -231,9 +235,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Team Based Learning",
-            "topic": "Strategy Implications of RBV - Dynamic CapabilitesStudent led group discussion.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Strategy Implications of RBV - Dynamic Capabilites",
-            "topic_description": "Student led group discussion.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy Implications of RBV - Dynamic Capabilites</strong><br/><p>Student led group discussion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy Implications of RBV - Dynamic Capabilites</strong>",
+            "topic_description": "Strategy Implications of RBV - Dynamic Capabilites Student led group discussion.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -244,9 +248,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Global Value Chain TheoryThe Global Factory and Externalisation. It is critical for firms to utilise location advantages and spread risks through building global value chain participation. We will discuss the global value chain perspective and how MNEs build and manage participation in global value chains.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Global Value Chain Theory",
-            "topic_description": "The Global Factory and Externalisation. It is critical for firms to utilise location advantages and spread risks through building global value chain participation. We will discuss the global value chain perspective and how MNEs build and manage participation in global value chains.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Global Value Chain Theory</strong><br/><p>The Global Factory and Externalisation. It is critical for firms to utilise location advantages and spread risks through building global value chain participation. We will discuss the global value chain perspective and how MNEs build and manage participation in global value chains.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Global Value Chain Theory</strong>",
+            "topic_description": "Global Value Chain Theory The Global Factory and Externalisation. It is critical for firms to utilise location advantages and spread risks through building global value chain participation. We will discuss the global value chain perspective and how MNEs build and manage participation in global value chains.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -257,9 +261,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Team Based Learning",
-            "topic": "Strategy Implications of Global Value Chain TheoryStudent led group discussion.Learning outcomes:L02, L03, L04, L05",
-            "topic_title": "Strategy Implications of Global Value Chain Theory",
-            "topic_description": "Student led group discussion.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy Implications of Global Value Chain Theory</strong><br/><p>Student led group discussion.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy Implications of Global Value Chain Theory</strong>",
+            "topic_description": "Strategy Implications of Global Value Chain Theory Student led group discussion.",
             "learning_outcomes": [
                 "L02",
                 "L03",
