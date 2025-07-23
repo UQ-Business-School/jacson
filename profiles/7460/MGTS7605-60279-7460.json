@@ -1,4 +1,8 @@
 {
+    "course_title": "Performance Leadership",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7605-60279-7460",
     "full_course_code": "MGTS7605-60279-7460",
     "course_code": "MGTS7605",
@@ -37,16 +41,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "50% 30% Individual 20% Team",
-            "due_date": "5/08/2024 - 21/10/2024",
+            "weighting": "<dd>50% 30% Individual 20% Team </dd>",
+            "due_date": "<dd><p> 5/08/2024 - 21/10/2024</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "Team Formation:At the start of the semester, you will be randomly assigned to a team. Teams are formed by the instructor and you will not have the option to choose your peers. The composition of teams will remain constant throughout the semester, promoting stable group dynamics and consistent collaboration.Quiz Structure and Schedule:Each week, you will take a quiz based on the course content. The quizzes will be conducted in two modes: individually and then as a team.Weeks 1-2:Quizzes will be formative (ungraded) and serve as practice to familiarize you with the quiz format and course content.Weeks 3-13:Quizzes will be summative (graded) and will significantly influence your final grade.During class each week you will complete an individual quiz. Later in that same class you will complete a team quiz on the same material. The team and individual quizzes will contain identical questions.Scoring and Grades:Individual Quizzes:Your performance in these quizzes will account for 30% of your semester grade.Team Quizzes:These will contribute 20% to your semester grade. The combined score from individual and team quizzes makes up 50% of your final grade.It is expected that team quiz scores will generally be higher than individual scores, reflecting effective communication and collaboration within teams.Teamwork and Collaboration:Success in team quizzes requires not only a thorough understanding of the course content but also effective communication skills. You will need to discuss quiz answers with your team members, apply course concepts in real-time, and convince your peers of the correct answers, mirroring real-world professional scenarios.Conflict Resolution:In the event of disagreements during team quizzes, groups will need to employ negotiation strategies discussed in the course. Leveraging HR concepts to manage group dynamics effectively is an integral part of the learning process and will enhance your practical understanding of the course material.AI tools and technologies are prohibited in this assessment and any detected use will be considered misconduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Individual and group quizzes will be submitted via BlackBoard.",
-            "deferral_or_extension": "You may be able todefer this exam.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Team Formation:</strong> At the start of the semester, you will be randomly assigned to a team. Teams are formed by the instructor and you will not have the option to choose your peers. The composition of teams will remain constant throughout the semester, promoting stable group dynamics and consistent collaboration.</p>\n<p><strong>Quiz Structure and Schedule:</strong> Each week, you will take a quiz based on the course content. The quizzes will be conducted in two modes: individually and then as a team.</p>\n<ul>\n<li><strong>Weeks 1-2:</strong> Quizzes will be formative (ungraded) and serve as practice to familiarize you with the quiz format and course content.</li>\n<li><strong>Weeks 3-13:</strong> Quizzes will be summative (graded) and will significantly influence your final grade.</li>\n<li>During class each week you will complete an individual quiz. Later in that same class you will complete a team quiz on the same material. The team and individual quizzes will contain identical questions.</li>\n</ul>\n<p><strong>Scoring and Grades:</strong></p>\n<ul>\n<li><strong>Individual Quizzes:</strong> Your performance in these quizzes will account for 30% of your semester grade.</li>\n<li><strong>Team Quizzes:</strong> These will contribute 20% to your semester grade. The combined score from individual and team quizzes makes up 50% of your final grade.</li>\n<li>It is expected that team quiz scores will generally be higher than individual scores, reflecting effective communication and collaboration within teams.</li>\n</ul>\n<p><strong>Teamwork and Collaboration:</strong> Success in team quizzes requires not only a thorough understanding of the course content but also effective communication skills. You will need to discuss quiz answers with your team members, apply course concepts in real-time, and convince your peers of the correct answers, mirroring real-world professional scenarios.</p>\n<p><strong>Conflict Resolution:</strong> In the event of disagreements during team quizzes, groups will need to employ negotiation strategies discussed in the course. Leveraging HR concepts to manage group dynamics effectively is an integral part of the learning process and will enhance your practical understanding of the course material.</p>\n<p><strong>AI tools and technologies are prohibited in this assessment and any detected use will be considered misconduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Individual and group quizzes will be submitted via BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -57,25 +61,25 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "50% 40% Team 10% Individual",
-            "due_date": "4/11/2024 2:00 pm",
+            "weighting": "<dd>50% 40% Team 10% Individual </dd>",
+            "due_date": "<dd><p> 4/11/2024 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Product/ Artefact/ Multimedia",
             "category": "Presentation",
-            "task_description": "Task Description:For this assessment, you will present an evaluation and design of a Performance Management System. This is a group project where you'll create and submit a pre-recorded video presentation,not to exceed 15 minutes in duration. In this presentation, your group will use concepts from the entire course to evaluate and design a performance management system within an organization that aligns fundamental management theory, organizational goals, and ethical principles. You must also evaluate the impact of this performance management system on employee motivation, engagement, and organizational performance. Your designed system should optimize performance management while integrating technology, data analytics, and best practices. You are also encouraged to include any other relevant topics you deem essential to make a persuasive case.This task emphasizes collaborative effort and it is crucial that all team members contribute meaningfully to the presentation. Your teamwork on this assessment will contribute 40% to your semester grade, and individual contributions will be separately measured using peer evaluation, accounting for 10% of your semester grade. This presentation is not just about presenting facts; it's about working as a team to effectively communicate a comprehensive and convincing argument.This task has been designed to be challenging, authentic, and complex.AI tools and technologies are prohibited in this assessment and any detected use will be considered academic misconduct.Additional Clarifications:1. Scope and Objective:- The evaluation and design of the Performance Management System is not limited to a specific type of organization; it can be corporate, non-profit, government, etc.- Through analysis of the performance management system, teams should identify which concepts from the course to emphasize, based on the time available for the presentation.2. Presentation Details:*** All team members are required to present in the video. Voice-over only is not permitted.- Student teams can determine the best format for their pre-recorded video presentations (e.g., PowerPoint slides, live demonstration, animated video).- The presentation should be entirely focused on a real-life example or case study. It should not be designed on a fictional account of an organization or a completely fictional/made-up performance management system.-Teams must seek permission from the instructor for their choice of organization to evaluate in this assessment.3. Group Collaboration:- The peer evaluation process will be established by students during the course using course concepts.- Expectations for the \"meaningful contribution\" of each team member will be determined by students during the semester using course concepts.4. Evaluation Criteria:- A separate grading rubric will be used to assess the quality of the presentation. Students should refer to this rubric when producing their presentation.- Video presentations should be submitted via Blackboard.Read full task descriptionHide full task description",
-            "submission_guidelines": "The project must be submitted electronically via a Turn-It-In link in the Assessment section of BlackBoard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Task Description:</strong></p>\n<p>For this assessment, you will present an evaluation and design of a Performance Management System. This is a group project where you'll create and submit a pre-recorded video presentation, <strong>not to exceed 15 minutes in duration</strong>. In this presentation, your group will use concepts from the entire course to evaluate and design a performance management system within an organization that aligns fundamental management theory, organizational goals, and ethical principles. You must also evaluate the impact of this performance management system on employee motivation, engagement, and organizational performance. Your designed system should optimize performance management while integrating technology, data analytics, and best practices. You are also encouraged to include any other relevant topics you deem essential to make a persuasive case.</p>\n<p>This task emphasizes collaborative effort and it is crucial that all team members contribute meaningfully to the presentation. Your teamwork on this assessment will contribute 40% to your semester grade, and individual contributions will be separately measured using peer evaluation, accounting for 10% of your semester grade. This presentation is not just about presenting facts; it's about working as a team to effectively communicate a comprehensive and convincing argument.</p>\n<p>This task has been designed to be challenging, authentic, and complex. <strong>AI tools and technologies are prohibited in this assessment and any detected use will be considered academic misconduct.</strong></p>\n<p><strong>Additional Clarifications:</strong></p>\n<p><strong>1. Scope and Objective:</strong></p>\n<p>  - The evaluation and design of the Performance Management System is not limited to a specific type of organization; it can be corporate, non-profit, government, etc.</p>\n<p>  - Through analysis of the performance management system, teams should identify which concepts from the course to emphasize, based on the time available for the presentation.</p>\n<p><strong>2. Presentation Details:</strong></p>\n<p>*** All team members are required to present in the video. Voice-over only is not permitted.</p>\n<p>  - Student teams can determine the best format for their pre-recorded video presentations (e.g., PowerPoint slides, live demonstration, animated video).</p>\n<p>  - The presentation should be entirely focused on a real-life example or case study. It should not be designed on a fictional account of an organization or a completely fictional/made-up performance management system.</p>\n<p>-Teams must seek permission from the instructor for their choice of organization to evaluate in this assessment.</p>\n<p><strong>3. Group Collaboration:</strong></p>\n<p>  - The peer evaluation process will be established by students during the course using course concepts.</p>\n<p>  - Expectations for the \"meaningful contribution\" of each team member will be determined by students during the semester using course concepts.</p>\n<p><strong>4. Evaluation Criteria:</strong></p>\n<p>  - A separate grading rubric will be used to assess the quality of the presentation. Students should refer to this rubric when producing their presentation.</p>\n<p>  - Video presentations should be submitted via Blackboard.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project must be submitted electronically via a Turn-It-In link in the Assessment section of BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Introduction & Overview: Welcome to the role!Learning outcomes:L02, L04",
-            "topic_title": "Introduction & Overview: Welcome to the role!",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction &amp; Overview: Welcome to the role!</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Introduction &amp; Overview: Welcome to the role!</strong>",
+            "topic_description": "Introduction & Overview: Welcome to the role!",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -84,9 +88,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Performance Management in ContextLearning outcomes:L01, L02, L04",
-            "topic_title": "Performance Management in Context",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Management in Context</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Performance Management in Context</strong>",
+            "topic_description": "Performance Management in Context",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -96,9 +100,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Performance Management ProcessLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Performance Management Process",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Management Process</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Performance Management Process</strong>",
+            "topic_description": "Performance Management Process",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -109,9 +113,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Seminar",
-            "topic": "Performance Management and Strategic PlanningRoyal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L02",
-            "topic_title": "Performance Management and Strategic Planning",
-            "topic_description": "Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Management and Strategic Planning</strong><br><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Performance Management and Strategic Planning</strong>",
+            "topic_description": "Performance Management and Strategic Planning Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L02"
             ]
@@ -119,9 +123,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Defining Performance and Choosing a Measurement ApproachLearning outcomes:L01, L03",
-            "topic_title": "Defining Performance and Choosing a Measurement Approach",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Defining Performance and Choosing a Measurement Approach</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Defining Performance and Choosing a Measurement Approach</strong>",
+            "topic_description": "Defining Performance and Choosing a Measurement Approach",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -130,9 +134,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Measuring Results and BehaviorsLearning outcomes:L02, L03",
-            "topic_title": "Measuring Results and Behaviors",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measuring Results and Behaviors</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Measuring Results and Behaviors</strong>",
+            "topic_description": "Measuring Results and Behaviors",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -141,9 +145,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Performance AnalyticsLearning outcomes:L02, L03",
-            "topic_title": "Performance Analytics",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Performance Analytics</strong>",
+            "topic_description": "Performance Analytics",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -152,9 +156,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Rolling Out the Performance Management SystemLearning outcomes:L02, L03",
-            "topic_title": "Rolling Out the Performance Management System",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rolling Out the Performance Management System</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Rolling Out the Performance Management System</strong>",
+            "topic_description": "Rolling Out the Performance Management System",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -163,9 +167,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Performance Management and Employee DevelopmentLearning outcomes:L02",
-            "topic_title": "Performance Management and Employee Development",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Management and Employee Development</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Performance Management and Employee Development</strong>",
+            "topic_description": "Performance Management and Employee Development",
             "learning_outcomes": [
                 "L02"
             ]
@@ -173,17 +177,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Performance Management LeadershipAttendance MandatoryLearning outcomes:L01, L02, L03",
-            "topic_title": "Performance Management Leadership",
-            "topic_description": "Attendance Mandatory",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Management Leadership</strong><br/><p>Attendance Mandatory</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Performance Management Leadership</strong>",
+            "topic_description": "Performance Management Leadership Attendance Mandatory",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -193,9 +197,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Performance Management, Rewards, and the LawLearning outcomes:L02, L03",
-            "topic_title": "Performance Management, Rewards, and the Law",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Management, Rewards, and the Law</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Performance Management, Rewards, and the Law</strong>",
+            "topic_description": "Performance Management, Rewards, and the Law",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -204,9 +208,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Team Performance ManagementLearning outcomes:L02, L03",
-            "topic_title": "Team Performance Management",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Performance Management</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Team Performance Management</strong>",
+            "topic_description": "Team Performance Management",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -215,9 +219,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "Implementing a Performance Management SystemLearning outcomes:L02, L03",
-            "topic_title": "Implementing a Performance Management System",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Implementing a Performance Management System</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Implementing a Performance Management System</strong>",
+            "topic_description": "Implementing a Performance Management System",
             "learning_outcomes": [
                 "L02",
                 "L03"
