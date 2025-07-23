@@ -1,0 +1,145 @@
+{
+    "course_title": "Strategy: From Design to Practice",
+    "study_period": "Summer 2024",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7803-80090-7480",
+    "full_course_code": "MGTS7803-80090-7480",
+    "course_code": "MGTS7803",
+    "class_code": "80090",
+    "semester_code": "7480",
+    "semester_details": "Summer Semester, 2024 (18/11/2024 - 21/12/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify key strategic challenges for business management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically analyse current strategic management theories and concepts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Deploy appropriate tools to determine industry structure and competitive dynamics."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and assess an organisation's competitive strategy."
+        },
+        {
+            "number": "LO5.",
+            "description": "Provide valuable input to a team-based approach to formulate strategy at business and corporate levels."
+        },
+        {
+            "number": "LO6.",
+            "description": "Rigorously defend your strategic analysis and recommendations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team written report and team oral presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>50% (30% Written Report, 20% Presentation) </dd>",
+            "due_date": "<dd><p>Written Report - Due Prior to Presentation 20/11/2024 9:00 am</p>\n<p>Presentation - During Class 20/11/2024</p>\n<p>\n</p><p>Team reports to submitted prior to presentations commence, no later than the start of class. Presentations will be held during class time.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this activity your team will analyse the strategy of two organisations of your choice and provide your recommendations for each of them for dealing with their strategic challenges in the future. The analysis should be summarised in a written report, maximum of 2,000 words (plus exhibits) and your team will also deliver an oral ppt presentation to the class, following the guidelines for this activity. Each student teams will be scheduled to present during one of the seminars. </p>\n<p>For full details please refer to the course Blackboard site. </p>\n<p><strong>Peer Review:</strong> Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of the lecturer as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please upload to Blackboard only one report/presentation per team.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Case Simulation Reflection Report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 28/11/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The reflection report is based on your performance of a live business case (online simulation), which will be run during a seminar.</p>\n<p>You will be assessed on your reflection in response to three guiding reflective tasks, i.e., setting a strategy and objectives, reflections on your strategy execution and performance in relation to the objectives, and proposed changes to the strategy/objectives and/or execution.</p>\n<p>The document should have a maximum length of 2,000 words, but you have the option to attach figures, tables or slides that may be necessary to support your analysis. </p>\n<p>Refer to the course Blackboard site for full details.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit through Turnitin in the Blackboard Assessment section.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 1 - Friday 15/11/2024</strong><br><p><strong>Session 1 - What is Strategy?</strong> Course Introduction &amp; Basic concepts in strategy</p>\n<p><strong>Session 2 - Internal Analysis. </strong>Employing strategic resources to create and sustain a competitive advantage</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Day 1 - Friday 15/11/2024</strong>",
+            "topic_description": "Day 1 - Friday 15/11/2024 Session 1 - What is Strategy? Course Introduction & Basic concepts in strategy Session 2 - Internal Analysis. Employing strategic resources to create and sustain a competitive advantage",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 2 - Saturday 16/11/2024</strong><br><p><strong>Session 1 - External &amp; Industry Analysis.</strong> Understanding the macro environment, your industry and competitors</p>\n<p><strong>Session 2 - Business Level Strategy. </strong>We investigate Business Unit level strategy</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Day 2 - Saturday 16/11/2024</strong>",
+            "topic_description": "Day 2 - Saturday 16/11/2024 Session 1 - External & Industry Analysis. Understanding the macro environment, your industry and competitors Session 2 - Business Level Strategy. We investigate Business Unit level strategy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 3 - Sunday 17/11/2024</strong><br/><p><strong>Session 1 - Corporate Level Strategy.</strong> Creating value through effective corporate parenting</p>\n<p><strong>Session 2 - Designing a Growth Strategy. </strong>How to achieve growth through innovation and disruption</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Day 3 - Sunday 17/11/2024</strong>",
+            "topic_description": "Day 3 - Sunday 17/11/2024 Session 1 - Corporate Level Strategy. Creating value through effective corporate parenting Session 2 - Designing a Growth Strategy. How to achieve growth through innovation and disruption",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 4 - Wednesday 20/11/2024</strong><br/><p><strong>Session 1 - Presentations. </strong>In class presentations - see Assessment Details.</p>\n<p><strong>Session 2 - Global Strategy.</strong> Process of internationalisation and globalisation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Day 4 - Wednesday 20/11/2024</strong>",
+            "topic_description": "Day 4 - Wednesday 20/11/2024 Session 1 - Presentations. In class presentations - see Assessment Details. Session 2 - Global Strategy. Process of internationalisation and globalisation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 5 - Thursday 21/11/2024</strong><br/><p><strong>Session 1 - Managing Strategy Implementation.</strong> Translating strategy into action</p>\n<p><strong>Session 2 - Strategic Leadership &amp; Strategic Change. </strong>Strategic leadership &amp; strategic change seminar topic. Students will work on an online case simulation (a unique scenario) to apply concepts from this topic.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Day 5 - Thursday 21/11/2024</strong>",
+            "topic_description": "Day 5 - Thursday 21/11/2024 Session 1 - Managing Strategy Implementation. Translating strategy into action Session 2 - Strategic Leadership & Strategic Change. Strategic leadership & strategic change seminar topic. Students will work on an online case simulation (a unique scenario) to apply concepts from this topic.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
