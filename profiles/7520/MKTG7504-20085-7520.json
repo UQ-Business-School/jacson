@@ -1,0 +1,432 @@
+{
+    "course_title": "Service Strategy",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7504-20085-7520",
+    "full_course_code": "MKTG7504-20085-7520",
+    "course_code": "MKTG7504",
+    "class_code": "20085",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop an understanding of the role of service design and delivery in firm competitive strategy."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the significance of service quality focus in all aspects of service design and delivery."
+        },
+        {
+            "number": "LO3.",
+            "description": "In a group setting, develop a comprehensive understanding of customer expectations and role of the customer in designing effective service strategies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Comprehend the role of service employees in effective service-based value delivery."
+        },
+        {
+            "number": "LO5.",
+            "description": "In a group setting, synthesise service marketing concepts with operations management and human resources in the design and management of service organisations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Critical analysis of service strategy case study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> Week 4 - Week 13</p>\n<p>\n</p><p>Starting week four, student groups will be presenting their assigned case study analysis during class</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, using case studies, student groups will examine and critically evaluate how the service strategy is managed in real world business organizations. Student groups will be assigned a selected set of case studies that are aligned with seminar topics. In the analysis, students are required to use service strategy concepts and frameworks that were discussed in class and come up with observations and recommendations on how service strategy of the firm can be improved.  A detailed guide will be provided on Blackboard. Presenters must do their best get the class involved following the presentation.</p>\n<p><strong>Peer assessment:</strong> For this assessment, all student groups must undertake a peer assessment as per specified form. This form will be provided on Blackboard. All completed forms must be attached to the assessment submission as an Appendix.</p>\n<p>In the event a group is in dispute on the individual contribution of group members in preparation of the assessment marks will be apportioned based on the outcome of the peer assessment.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>All assessment tasks in this course prohibit the use of AI. Assessment tasks evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>ONE electronic copy is to be submitted to Turn-It In as a Word document, and is to be submitted by the due time and date.\n</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The mid-semester exam will be a 'concept check' to ensure that students have gained a clear understanding of service strategy concepts and frameworks that were discussed in class. This knowledge will be critically important for students to use such concepts and frameworks in other assessments in the course. </p>\n<p>The exam will be conducted in person and arranged by the Central exams. Students will complete the exam on the assigned date. More instructions to follow.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>All assessment tasks in this course prohibit the use of AI. Assessment tasks evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Major Project - Service strategy analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 23/05/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project report involves studying and critically analysing the service strategy of a service organisation using service strategy concepts and frameworks that were discussed in the course.</p>\n<p>Guidelines for selecting the service firm are;</p>\n<ol>\n<li>Must be well-established with over several years of existence</li>\n<li>Must have a properly developed and functional website through which the firm make sales to customers</li>\n<li>A smaller service firm will be better for this assessment as such firms generally have service strategy issues that may interest you. Larger service firms generally have established service processes with frequent service quality controls and you may not find any issues to study and report! </li>\n<li>The owner/managers must be willing to be interviewed by you. Normally smaller service firms would like external help to understand their issues and recommendations for service enhancement. You may promise them to provide your completed/assessed report or recommendations. </li>\n</ol>\n<p>If you have any doubt about the firm you have selected, talk to the course coordinator early in the semester. </p>\n<p><strong>OVERVIEW</strong></p>\n<ul>\n<li>You are required to complete a written report that illustrates how the key concepts/frameworks from the course are applied to focal service firm.</li>\n<li>The purpose of this report is two-fold:</li>\n<li>First, it allows you to apply various concepts introduced during the semester.</li>\n<li>Second, it allows you to acquire a deeper understanding of one particular service firm and the industry in which it operates (hopefully one you are interested in and/or hope to work in).</li>\n</ul>\n<p><strong>Content of the Report</strong></p>\n<p>The following eight sections (listed below) are to help you demonstrate your <strong>understanding of the concepts</strong> from class and <strong>ability to apply them to the chosen service firm</strong>. This project gives you the opportunity to <strong>critically analyse</strong> the service offering of a firm and <strong>make recommendations for improvements and how to close any gaps that were identified</strong>.</p>\n<p>You must include the following sections in the main body of your report. The points listed in the sections below offer a <strong>framework</strong> for the content of each of the sections (i.e., you do not need to answer each question sequentially - the questions are a guide for you to think about what should be included in the section).</p>\n<p><strong>1. Industry Analysis</strong></p>\n<ul>\n<li>Analyse the industry that the firm is operating in, from a services marketing perspective e.g. current trends, competitive, social &amp; technological forces (think broadly).</li>\n<li>Where would you locate this industry on the “tangibility” spectrum? Why?</li>\n<li>What are the unique services marketing challenges this industry faces?</li>\n</ul>\n<p><strong>2. The Service Offering and The Customer Gap</strong></p>\n<ul>\n<li><em>Briefly</em> introduce the firm (provide a very short background).</li>\n<li>Describe and critically analyse the firm’s service you have chosen (use services marketing theory and concepts as well as secondary research sources).</li>\n<li>Who is the intended target market (the customer) of the firm's service?</li>\n<li>Include a brief discussion of \"The Customer Gap\" (this could be based on your personal experience).</li>\n<li>How well does the company understand customer expectations of service quality?</li>\n<li>How well does the company understand customer perceptions of service quality?</li>\n</ul>\n<p><strong>3. Service Provider Gap 1: Listening Gap</strong></p>\n<ul>\n<li><strong>Market Research Orientation</strong></li>\n<li>Are the amount and type of market research that has been undertaken, adequate to understand customer expectations of service?</li>\n<li>Does the company use this information in decisions about service provision?</li>\n<li><strong>Upward Communication</strong></li>\n<li>Do managers and customers interact enough for management to know what customers expect?</li>\n<li>Do contact people tell management what customers expect?</li>\n<li><strong>Relationship Focus</strong></li>\n<li>To what extent does the company understand the expectations of different customer segments?</li>\n<li>To what extent does the company focus on relationships with customers rather than transactions?</li>\n<li><strong>Service Recovery</strong></li>\n<li>How effective are the service recovery efforts of the organisation?</li>\n<li>How well does the organisation plan for service failures?</li>\n</ul>\n<p><strong>4. Service Provider Gap 2: Service Design and Standards Gap</strong></p>\n<ul>\n<li><strong>Systematic Service Design</strong></li>\n<li>Discuss service development/design as it pertains to your firm's service.</li>\n<li>How effective is the company’s service development process?</li>\n<li>What new service innovations have been introduced in this firm/industry? (Use appropriate illustrations and/or examples.)</li>\n<li>Discuss the success/failure of this/these innovation(s).</li>\n<li><strong>Presence of Customer-Defined Standards</strong></li>\n<li>Discuss customer defined service standards as they pertain to your firm's service</li>\n<li>How effective are the company’s service standards?</li>\n<li>Are they defined to correspond to customer expectations?</li>\n<li>How effective is the process for setting and tracking service quality goals?</li>\n<li><strong>Appropriate Physical Evidence and the Servicescape</strong></li>\n<li>Are the company’s physical facilities, equipment, and other tangibles appropriate to the service-offering?</li>\n<li>Are the company’s physical facilities, equipment, and other tangibles attractive and effective?</li>\n<li>What role does physical evidence and the service-scape play? (Using images may be helpful here.)</li>\n<li>How might the service-scape be used as a source of competitive advantage?</li>\n</ul>\n<p><strong>5. Service Provider Gap 3: Service Performance Gap</strong></p>\n<ul>\n<li><strong>Effective Human Resource Policies</strong></li>\n<li>How effectively does the company recruit, hire, train, compensate, and empower employees?</li>\n<li>Is service quality delivery consistent across employees, teams, units, and branches?</li>\n<li>What are the roles of employees in co-producing the service?</li>\n<li><strong>Effective Role Fulfilment by Customers</strong></li>\n<li>What are the roles of customers in co-producing the service?</li>\n<li>Do customers understand their roles and responsibilities?</li>\n<li><strong>Effective Alignment with Service Intermediaries</strong></li>\n<li>If relevant, discuss service delivery channels including intermediaries and electronic channels.</li>\n<li>How well are service intermediaries aligned with the company?</li>\n<li>Is service quality delivery consistent across the outlets?</li>\n<li><strong>Alignment of Demand and Capacity</strong></li>\n<li>Discuss how this firm may be managing demand and capacity.</li>\n<li>How well is the company able to match supply with demand fluctuations?</li>\n</ul>\n<p><strong>6. Service Provider Gap 4: Communication Gap</strong></p>\n<ul>\n<li><strong>Integrated Services Marketing Communications</strong></li>\n<li>Analyse and discuss service marketing communications as they pertain to the firm's service.</li>\n<li>How well does the company communicate to customers about what will be provided to them?</li>\n<li>Does the company avoid overpromising and overselling?</li>\n<li>How well do different parts of the organisation communicate with each other, so that service quality equals what is promised?</li>\n<li><strong>Pricing</strong></li>\n<li>Analyse and discuss pricing of the firm's service.</li>\n<li>Is the company careful not to price so high that customer expectations are raised?</li>\n<li>Does the company price in line with customer perceptions of value?</li>\n</ul>\n<p><strong>7. Service Quality Outcomes: Customer Satisfaction &amp; Customer Loyalty &amp; Profits</strong></p>\n<ul>\n<li>Discuss customer satisfaction and service quality as it pertains to the firm's service.</li>\n<li>Which types of customers are loyal to this firm? Why?</li>\n</ul>\n<p><strong>8. Services Marketing Recommendations</strong></p>\n<ul>\n<li><strong>Based on your analysis</strong>, what are the strengths and weaknesses of this firm’s service and services marketing approach?</li>\n<li><strong>Based on your analysis</strong>, what opportunities and threats do you see for this service firm?</li>\n<li><strong>Based on your analysis</strong>, what recommendations would you provide to the firm for future success?</li>\n</ul>\n<p><strong>Report Format:</strong></p>\n<ul>\n<li><strong>Cover Page</strong> (not included in the word count)</li>\n<li><strong>Executive Summary</strong>, typically 1 page, (single line spacing, Times New Roman font) outlining the key points contained in the report, and importantly what problems you uncovered during your analysis of the service firm, and what key recommendations/strategies are you making? Dot points can be used in this section (<strong>not</strong> included in the word count)</li>\n<li><strong>Table of Contents</strong> (not included in the word count). (Single line spacing, Times New Roman font). Immediately following the Executive Summary should be a table of contents for your report. You may put the report together in any order you like, provided there is some logical reasoning (apparent to the reader) for the sequence you have chosen.</li>\n<li><strong>Main Body of the Report</strong>. (1 1/2 line spacing, Times New Roman font). You are expected to include each of the above eight sections in the report. You should revise each section, as necessary, as you develop the final report. The main body of the report should include an Introduction that sets up what is going to be discussed in the later pages.</li>\n<li><strong>Conclusion</strong>. (1 1/2 line spacing, Times New Roman font). The report should end with a brief Conclusion section that ties the entire project together and reveals major insights gained during the research process about your chosen service firm and industry.</li>\n<li><strong>References</strong> (<strong>not </strong>included in word count). (Single line spacing, Times New Roman font, in alphabetical order of first authors last name). You need to reference your work or ideas - at least 20, preferably nearer 30. Lecture notes should NOT be included in the reference list; the lecture notes are based on the course text book and academic sources.</li>\n<li><strong>Appendices</strong> (<strong>not</strong> included in the word count).</li>\n</ul>\n<p><strong>Word limit:</strong> 3500 words</p>\n<p><strong>Format:</strong> Report format</p>\n<p><strong>Research:</strong> Note that you are expected to use academic and industry/news references. You need to, at the very least, include key theory and models discussed in class/textbook, and also synthesise academic and industry secondary research, to obtain a passing grade.</p>\n<p><strong>Peer assessment:</strong> For this assessment, all student groups must undertake a peer assessment as per specified form. This form will be provided on Blackboard. All completed forms must be attached to the assessment submission as an Appendix.</p>\n<p>In the event a group is in dispute on the individual contribution of group members for the submission of this assessment by the specified date as per submission guide, marks will be apportioned based on the peer assessment outcome.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>All assessment tasks in this course prohibit the use of AI. Assessment tasks evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>One electronic copy is to be submitted to Turn-It In, and is to be submitted by the due time and date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Instructions: </strong>You will select THREE (3) out of FIVE (5) questions to answer. Answers will be short essay type and should be 300-400 words long. Answers will be assessed on coverage of relevant issues and depth of analysis. Bullet points responses without appropriate details will be awarded only partial marks.  </p>\n<p><strong>AI Statement:</strong></p>\n<p><em>All assessment tasks in this course prohibit the use of AI. Assessment tasks evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(1) Introduction: Competing on services</strong><br><p>Course context: Why services are a core element in firm competitive strategy, Service-dominant Logic (SDL); Focus on service quality, Course expectations; Assessment - Major project (group)<br/><br/>Parasuraman, A., Zeithaml, V. A., &amp; Berry, L. L. (1985). A conceptual model of service quality and its implications for future research. Journal of Marketing, 49 (4), 41-50.<br/>Lusch, R. F., Vargo, S. L., &amp; O'Brien, M. (2007). Competing through service: Insights from service-dominant logic. Journal of Retailing, 83 (1), 5-18.<br/>[Formation of groups for assessments and tutorial activities discussion]</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>(1) Introduction: Competing on services</strong>",
+            "topic_description": "(1) Introduction: Competing on services Course context: Why services are a core element in firm competitive strategy, Service-dominant Logic (SDL); Focus on service quality, Course expectations; Assessment - Major project (group) Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1985). A conceptual model of service quality and its implications for future research. Journal of Marketing, 49 (4), 41-50. Lusch, R. F., Vargo, S. L., & O'Brien, M. (2007). Competing through service: Insights from service-dominant logic. Journal of Retailing, 83 (1), 5-18. [Formation of groups for assessments and tutorial activities discussion]",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(2) Gaps model and Customer service Expectations</strong><br><p>Introducing the gaps model of service quality, gaps framework and closing the gaps, factors influencing customer expectations and issues. Tam, J. L. M. (2005). Examining the dynamics of consumer expectations in a Chinese context. Journal of Business Research, 58, 777-786.<br/>Parasuraman, A., Zeithaml, V. A., &amp; Berry, L. L. (1985). A conceptual model of service quality and its implications for future research. Journal of Marketing, 49 (4), 41-50.<br/>Additional Reading; Case Study: Zappos.com: Clothing, Customer Service, and Company Culture<br/>[Tutorial: Sample case study discussion]</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>(2) Gaps model and Customer service Expectations</strong>",
+            "topic_description": "(2) Gaps model and Customer service Expectations Introducing the gaps model of service quality, gaps framework and closing the gaps, factors influencing customer expectations and issues. Tam, J. L. M. (2005). Examining the dynamics of consumer expectations in a Chinese context. Journal of Business Research, 58, 777-786. Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1985). A conceptual model of service quality and its implications for future research. Journal of Marketing, 49 (4), 41-50. Additional Reading; Case Study: Zappos.com: Clothing, Customer Service, and Company Culture [Tutorial: Sample case study discussion]",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sample case study discussion and discussion questions.</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Sample case study discussion and discussion questions.</strong>",
+            "topic_description": "Sample case study discussion and discussion questions.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(3) Service perceptions and Service Research</strong><br><p>Customer perceptions, satisfaction and service encounters, understanding customer requirements through research, elements of an effective research program <br/>Chapter 4 &amp; 5 Additional Reading; <br/>[Tutorial: Sample case study discussion]</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>(3) Service perceptions and Service Research</strong>",
+            "topic_description": "(3) Service perceptions and Service Research Customer perceptions, satisfaction and service encounters, understanding customer requirements through research, elements of an effective research program Chapter 4 & 5 Additional Reading; [Tutorial: Sample case study discussion]",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sample case study discussion 2 and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Sample case study discussion 2 and discussion questions</strong>",
+            "topic_description": "Sample case study discussion 2 and discussion questions",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(4) Building Customer Relationships</strong><br><p>Relationship value of customers, relationship development strategies and challenges<br/>Chapter 6 <br/>Palmatier, R. W., Dant, R. P.; Grewal, D., &amp; Evans, K. R. (2006). Factors influencing the effectiveness of relationship marketing: A meta-analysis. Journal of Marketing, 70 (4), 136-153.<br/>[Case study presentations starting this week]</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>(4) Building Customer Relationships</strong>",
+            "topic_description": "(4) Building Customer Relationships Relationship value of customers, relationship development strategies and challenges Chapter 6 Palmatier, R. W., Dant, R. P.; Grewal, D., & Evans, K. R. (2006). Factors influencing the effectiveness of relationship marketing: A meta-analysis. Journal of Marketing, 70 (4), 136-153. [Case study presentations starting this week]",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(5) Service Recovery</strong><br><p>Impact of service failure and recovery and service recovery strategies - fixing the customer and the problem<br/>Sivakumar, K., Li, M., &amp; Dong, B. (2014). Service quality: The impact of frequency, timing, proximity, and sequence of failures and delights. Journal of Marketing, 78 (1), 41-58.<br/>Maxham III, J. G., &amp; Netemeyer, R. G. (2003). Firms reap what they sow: The effects of shared values and perceived organizational justice on customers' evaluations of complaint handling. Journal of Marketing, 67 (1), 46-62.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>(5) Service Recovery</strong>",
+            "topic_description": "(5) Service Recovery Impact of service failure and recovery and service recovery strategies - fixing the customer and the problem Sivakumar, K., Li, M., & Dong, B. (2014). Service quality: The impact of frequency, timing, proximity, and sequence of failures and delights. Journal of Marketing, 78 (1), 41-58. Maxham III, J. G., & Netemeyer, R. G. (2003). Firms reap what they sow: The effects of shared values and perceived organizational justice on customers' evaluations of complaint handling. Journal of Marketing, 67 (1), 46-62.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(6) Service Innovation/Design and standards</strong><br><p>Challenges of service innovation, types and stages of new service development (NSD), service blueprinting and customer defined service standards<br/>Scheuing, E.E. and Johnson, E.M. (1989b), ﾓA proposed model for new service developmentﾔ,Journal of Services Marketing, 3 (2), pp. 25-34. Hogan, S. J., Soutar, G. N., McColl-Kennedy, J. R., &amp; Sweeney, J. C. (2011). Reconceptualizing professional service firm innovation capability: Scale development. Industrial Marketing Management, 40 (8), 1264-1273.<br/>Business Research, 66(8), 1085ﾖ1097.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>(6) Service Innovation/Design and standards</strong>",
+            "topic_description": "(6) Service Innovation/Design and standards Challenges of service innovation, types and stages of new service development (NSD), service blueprinting and customer defined service standards Scheuing, E.E. and Johnson, E.M. (1989b), ﾓA proposed model for new service developmentﾔ,Journal of Services Marketing, 3 (2), pp. 25-34. Hogan, S. J., Soutar, G. N., McColl-Kennedy, J. R., & Sweeney, J. C. (2011). Reconceptualizing professional service firm innovation capability: Scale development. Industrial Marketing Management, 40 (8), 1264-1273. Business Research, 66(8), 1085ﾖ1097.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Exam</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In-Semester Exam</strong>",
+            "topic_description": "In-Semester Exam",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(7) Physical Evidence and the Servicescape</strong><br><p>Types of servicescapes, strategic roles of servicescape and guidelines for physical evidence strategy <br/>Tombs, A., &amp; McColl-Kennedy, J. R. (2003). Social servicescape conceptual model. Marketing Theory, 3 (4), 447-475.<br/>Additional Reading; Case Study: People, Service, and Profit at Jyske Bank<br/>[Major project submission and marking criteria discussion]</p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>(7) Physical Evidence and the Servicescape</strong>",
+            "topic_description": "(7) Physical Evidence and the Servicescape Types of servicescapes, strategic roles of servicescape and guidelines for physical evidence strategy Tombs, A., & McColl-Kennedy, J. R. (2003). Social servicescape conceptual model. Marketing Theory, 3 (4), 447-475. Additional Reading; Case Study: People, Service, and Profit at Jyske Bank [Major project submission and marking criteria discussion]",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br><p><strong>Good Friday Public Holiday - Friday 18 April 2025</strong> - Check Blackboard for announcements about affected classes.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(8) Employeesﾒ Role in Service Delivery</strong><br><p>service culture and critical role of service employees, strategies for delivering service quality through people<br/>Lusch, R. F., Vargo, S. L., &amp; O'Brien, M. (2007). Competing through service: Insights from service-dominant logic. Journal of Retailing, 83 (1), 5-18.<br/>Additional Reading; Case Study: Merrill Lynch: Supernova</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>(8) Employeesﾒ Role in Service Delivery</strong>",
+            "topic_description": "(8) Employeesﾒ Role in Service Delivery service culture and critical role of service employees, strategies for delivering service quality through people Lusch, R. F., Vargo, S. L., & O'Brien, M. (2007). Competing through service: Insights from service-dominant logic. Journal of Retailing, 83 (1), 5-18. Additional Reading; Case Study: Merrill Lynch: Supernova",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(9) Customersﾒ Role in Service Delivery</strong><br><p>Importance of customer, customer roles and customer participation in service design/delivery<br/><br/>McColl-Kennedy, J. R., Hogan, S. J., Witell, L.. &amp; Snyder, H. (2017). Cocreative customer practices: Effects of health care customer value cocreation practices on well-being. Journal of Business Research, 70 (55-66).<br/>McColl-Kennedy, J. R., Snyder, H., Elg, M., Witell, L., Helkkula, A., Hogan, S. J., &amp; Anderson, L. (2017). The changing role of the health care customer: Review, synthesis and research agenda. Journal of Service Management, 28 (1), 2-33.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>(9) Customersﾒ Role in Service Delivery</strong>",
+            "topic_description": "(9) Customersﾒ Role in Service Delivery Importance of customer, customer roles and customer participation in service design/delivery McColl-Kennedy, J. R., Hogan, S. J., Witell, L.. & Snyder, H. (2017). Cocreative customer practices: Effects of health care customer value cocreation practices on well-being. Journal of Business Research, 70 (55-66). McColl-Kennedy, J. R., Snyder, H., Elg, M., Witell, L., Helkkula, A., Hogan, S. J., & Anderson, L. (2017). The changing role of the health care customer: Review, synthesis and research agenda. Journal of Service Management, 28 (1), 2-33.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(10) Managing Demand and Capacity</strong><br><p>Lack inventory capability, capacity constraints and strategies to match capacity with demand patterns </p>\n<p>Pullman, M., &amp; Rodgers, S. (2010). Capacity management for hospitality and tourism: A review of current approaches. International Journal of Hospitality Management, 29, 177-187.</p>\n<p>Corsten, H., &amp; Stuhlmann, S. (1998). Capacity management in service organisations. Technovation, 18 (3), 163-178.</p>\n<p>Additional Reading; Case Study: JetBlue: High Flying Airline Melts Down in Ice Storm</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>(10) Managing Demand and Capacity</strong>",
+            "topic_description": "(10) Managing Demand and Capacity Lack inventory capability, capacity constraints and strategies to match capacity with demand patterns Pullman, M., & Rodgers, S. (2010). Capacity management for hospitality and tourism: A review of current approaches. International Journal of Hospitality Management, 29, 177-187. Corsten, H., & Stuhlmann, S. (1998). Capacity management in service organisations. Technovation, 18 (3), 163-178. Additional Reading; Case Study: JetBlue: High Flying Airline Melts Down in Ice Storm",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(12) Managing Service Promises: IMC &amp; Pricing</strong><br><p>Need for integrated service marketing communication, strategies to match services</p>\n<p>Berry, L. L., &amp; Yadav, M. S. (1996). Capture and communicate value in the pricing of services. Sloan Management Review, 37 (4), 41-51.</p>\n<p>Additional Reading; Case Study: Michelin Fleet Solutions: From Selling Tires to Selling Kilometres.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>(12) Managing Service Promises: IMC &amp; Pricing</strong>",
+            "topic_description": "(12) Managing Service Promises: IMC & Pricing Need for integrated service marketing communication, strategies to match services Berry, L. L., & Yadav, M. S. (1996). Capture and communicate value in the pricing of services. Sloan Management Review, 37 (4), 41-51. Additional Reading; Case Study: Michelin Fleet Solutions: From Selling Tires to Selling Kilometres.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Presentations and discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Case Study Presentations and discussion questions</strong>",
+            "topic_description": "Case Study Presentations and discussion questions",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(13) Course review and final exam review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>(13) Course review and final exam review</strong>",
+            "topic_description": "(13) Course review and final exam review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion questions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Discussion questions</strong>",
+            "topic_description": "Discussion questions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
