@@ -1,0 +1,274 @@
+{
+    "course_title": "Technology and Innovation Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS3309-60321-7460",
+    "full_course_code": "TIMS3309-60321-7460",
+    "course_code": "TIMS3309",
+    "class_code": "60321",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand why diversity is important for innovations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Clearly articulate and defend why and how technology and innovation contribute to the competitive advantage and longevity of organisations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate potential strategies for action in the realm of organisational innovation and/or speculate as to others' motivations and strategies in this regard."
+        },
+        {
+            "number": "LO4.",
+            "description": "Have a broad-based, working understanding of how an innovation moves from an idea to a commercial outcome."
+        },
+        {
+            "number": "LO5.",
+            "description": "Articulate an integrated approach (from conception of the idea, to marketing, sales, and control systems) that would underpin the development and diffusion of a technology and innovation in the marketplace."
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate a thorough understanding of aspects of innovation management by analysing the history and activities of a real-world innovative business in terms of these aspects."
+        },
+        {
+            "number": "LO7.",
+            "description": "Be able to discuss ethics and sustainability in innovation settings in both a team and individual capacity."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly short essay response",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 29/07/2024 - 30/09/2024</p>\n<p>\n</p><p>Weekly prior to class, starting in Week 2</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<h4><strong>Weekly short essay response</strong></h4>\n<p>Individual; 8 Short Responses</p>\n<p><strong>Task Description:</strong></p>\n<p>Each week you will submit a short response demonstrating your knowledge and critical reflections of the weekly resources including one reading and one case study. To do so, you <strong>will be provided with a template where you can insert your responses. </strong>There are 8 weeks requiring the completion of this task from Week 2 to Week 10, excluding Week 6 where students are submitting their group assessment. The 8 essays will count towards your final grade (5% each, a total of 40%). Students will have the opportunity to submit ONE make-up essay in Week 11 (due October 8th, 22:00)</p>\n<p>The responses to each week’s essay will be covered during the corresponding Seminar, for example, during the Seminar of Week 1 we will cover the contents needed to respond to the first response which is due before the lecture of Week 2. Consequently, during the seminars, students will be guided through the completion of their essays. Moreover, the concepts identified in the weekly essays should be incorporated in Assessment 3 (final report).</p>\n<p><strong>Reference wordcount:</strong></p>\n<p>The completion of each essay should take approximately 30 mins of work and require no more than one-page of writing to answer, around 500 words.</p>\n<p><strong>Essay template:</strong></p>\n<p>For example, you might be asked to read Melissa Schilling’s chapter on types of innovation, watch a video of Tim Harford discussing the history of the electric dynamo, and then;</p>\n<p>1.   Identify ONE concept from the reading (complete prior to each week’s class)</p>\n<p>2.   Develop ONE idea demonstrating the application of this concept to the corresponding case study (complete prior each week’s class).</p>\n<p>3.   Elaborate ONE short argument explaining your perspective on a specific question based on the seminar’s learnings and team discussion (reflections, observations, refinement of your responses).</p>\n<p><strong>Submission: </strong></p>\n<p>All assignments are to be electronically submitted through the Blackboard Assessment link (Turnitin) within the Assessments section (Assessment 2). This assessment provides regular low-stakes opportunities to get feedback on your comprehension of the course material as well as accrue marks that will contribute to 40% of your final grade. We will also be drawing on this work to drive our in-class discussions and you will be required to incorporate the learnings from these activities in your Assessment 3.</p>\n<p><strong><em>Can you use Artificial Intelligence (AI) for this assignment?</em></strong></p>\n<ol>\n<li>No. You will have opportunities to use AI in this course, but not for this particular assignment. We expect you to elaborate on your own ideas and learning insights each week.</li>\n</ol>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>UQ Students: Please access the profile from <a href=\"https://learn.uq.edu.au/\">Learn.UQ</a> or <a href=\"https://www.sinet.uq.edu.au/\">mySI-net</a> to access marking criteria held in this profile.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignments are to be electronically submitted through the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Innovation case study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 4/11/2024 10:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<h4><strong>INNOVATION CASE STUDY</strong></h4>\n<p><br/></p>\n<p><strong>Task Description:</strong></p>\n<p>The assignment is to write a 2,000-word (+-10%) report based on your knowledge of technology and innovation management applied to an Australian corporate innovation context.</p>\n<p>This report has two parts, each should be approximately 1,000 words.</p>\n<p><br/></p>\n<p><strong>PART A – Innovation challenges and opportunities. </strong>You will use secondary and/or primary sources of research to introduce an Australian corporate entrepreneurship case. Based on your learnings through this course, you will provide an analysis of the venture's:</p>\n<p>a)     Key resources</p>\n<p>b)    Competitive environment and key industry dynamics</p>\n<p>c)     Type of innovation pursued, and technologies involved.</p>\n<p> </p>\n<p><strong>PART B – Strategies and future recommendations.</strong> Based on your learnings from the readings and cases throughout the semester, you will:</p>\n<p>d)    Identify and explain THREE potential paths for future growth and scaling, and</p>\n<p>e)     Recommend one of these strategies providing justification of your choice.</p>\n<p> </p>\n<p>In summary, you will combine what you have learned in the course with your own original research to:</p>\n<ol>\n<li>Use concepts from the course to describe the characteristics, challenges, and opportunities of an existing venture trying to succeed in the technological innovation space, including in-text citations.</li>\n<li>Use the learnings from the cases reviewed in class to identify potential strategies for innovation management that can be deemed successful for that specific industry and context.</li>\n<li>Use the learnings from the cases reviewed in class to identify the limitations of the strategies identified. Altogether, you will provide a recommendation for the venture to continue forward.</li>\n</ol>\n<p><strong> </strong></p>\n<p><strong><em>Can you use Artificial Intelligence (AI) for this assignment?</em></strong></p>\n<p>You do not have to but certainly can use AI to support you completing this assessment task as long as you adhere to the following rules:</p>\n<ol>\n<li>You are responsible for everything you publish. Keep in mind that AI often makes information and references up and that it also often omits critical information. So, don't trust AI and only use it to support you in writing about real-world examples that you either know by heart or where you can verify the information.</li>\n<li>You must clearly reference any use of AI each time you use it. Please include an additional paragraph at the end of your assessment outlining what you used AI for and describing the prompts you used. Failure to reference AI use is in violation of academic honesty policies and may constitute student misconduct under the Student Code of Conduct. </li>\n</ol>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>UQ Students: Please access the profile from <a href=\"https://learn.uq.edu.au/\">Learn.UQ</a> or <a href=\"https://www.sinet.uq.edu.au/\">mySI-net</a> to access marking criteria held in this profile.</p>\n<p><br/></p>\n<p><strong>Submission:</strong></p>\n<p>Reports must be uploaded via Turnitin in the relevant link in the Assessment section of Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Reports must be uploaded via Turnitin in the relevant link in the Assessment section of Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Team Photo Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20% Group </dd>",
+            "due_date": "<dd><p> 26/08/2024 - 26/08/2024</p>\n<p>\n</p><p>After submission, you may be asked to share parts of the presentation or your insights with the class.</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation, Poster, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<h4><strong>Team Photo Presentation</strong></h4>\n<p><br/></p>\n<p><strong>Responsible Innovation</strong></p>\n<p>The task for this assignment is to create a presentation describing a technological innovation and challenges associated with managing its development, including ethical and sustainability considerations. It should mostly consist of self-generated images (i.e.: photos, diagrams) and one-page description. Students may be asked to share their presentations with the class on the due date.</p>\n<p>The photo essay should be structured as follows:</p>\n<p><strong>Part 1:</strong> Find an image of an innovation that a random person on the street would not be aware of (e.g. don't tell us about your iPhone!). In the presentation, briefly describe the innovation, what is innovative about it, and its importance. Use 2-3 images to illustrate enabling technologies that had to be in place in order for this innovation to create value.</p>\n<p><strong>Part 2:</strong> Use 2-3 images to show winners and losers from this innovation.</p>\n<p><strong>Part 3:</strong> Use 2-4 images of the challenges associated with managing this innovation’s development and/or deployment, including ethical and sustainability considerations. </p>\n<p>You will be asked to complete a peer assessment for this activity. You will have to upload your presentation to Blackboard before commencement of class on August 26th (8:00am) in a PDF format including the one-page description.</p>\n<p><strong><em>Can you use Artificial Intelligence (AI) for this assignment?</em></strong></p>\n<p> You do not have to but certainly can use AI to support you completing this assessment task as long as you adhere to the following rules:</p>\n<ol>\n<li>You are responsible for everything you publish. Keep in mind that AI often makes information and references up and that it also often omits critical information. So, don't trust AI and only use it to support you in writing about real-world examples that you either know by heart or where you can verify the information.</li>\n<li>You must clearly reference any use of AI each time you use it. Please include an additional paragraph at the end of your assessment outlining what you used AI for and describing the prompts you used. Failure to reference AI use is in violation of academic honesty policies and may constitute student misconduct under the Student Code of Conduct. </li>\n</ol>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>UQ Students: Please access the profile from <a href=\"https://learn.uq.edu.au/\">Learn.UQ</a> or <a href=\"https://www.sinet.uq.edu.au/\">mySI-net</a> to access marking criteria held in this profile.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You will have to upload your presentation to Blackboard before the commencement of class on August 26th (8:00 am) in a PDF format including the one-page description. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is innovation and why does it matter?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L06</p></div></td>",
+            "topic_title": "<strong>What is innovation and why does it matter?</strong>",
+            "topic_description": "What is innovation and why does it matter?",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sources of innovation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Sources of innovation</strong>",
+            "topic_description": "Sources of innovation",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Types and patterns of innovation</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Types and patterns of innovation</strong>",
+            "topic_description": "Types and patterns of innovation",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The diffusion of innovation</strong><br><p>Public Holiday - Pre-Recorded Seminar</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>The diffusion of innovation</strong>",
+            "topic_description": "The diffusion of innovation Public Holiday - Pre-Recorded Seminar",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Competitive advantage and innovation</strong><br><p>Here we'll look at how innovation timing (e.g. first-mover advantage)and mechanisms for isolating innovation from imitation.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L06</p></div></td>",
+            "topic_title": "<strong>Competitive advantage and innovation</strong>",
+            "topic_description": "Competitive advantage and innovation Here we'll look at how innovation timing (e.g. first-mover advantage)and mechanisms for isolating innovation from imitation.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Innovation through collaboration</strong><br><p>This week we'll be learning about the role of collaboration in innovation.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Innovation through collaboration</strong>",
+            "topic_description": "Innovation through collaboration This week we'll be learning about the role of collaboration in innovation.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The origins of innovation strategy</strong><br/><p>Here we'll explore the role of theory building and serendipity in the generation of an innovation strategy.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>The origins of innovation strategy</strong>",
+            "topic_description": "The origins of innovation strategy Here we'll explore the role of theory building and serendipity in the generation of an innovation strategy.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mobilising resources for innovation</strong><br/><p>Here we'll cover strategies and practices innovators use to fund innovation. This will range from fundings sources through to how to successfully pitch an innovation idea for outside funding or senior executive buy-in.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Mobilising resources for innovation</strong>",
+            "topic_description": "Mobilising resources for innovation Here we'll cover strategies and practices innovators use to fund innovation. This will range from fundings sources through to how to successfully pitch an innovation idea for outside funding or senior executive buy-in.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Profiting from innovation</strong><br/><p>Here we'll look at how an organisation's complementary assets, knowledge-base, and deployment of isolating mechanisms influences its ability to profit from innovation.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Profiting from innovation</strong>",
+            "topic_description": "Profiting from innovation Here we'll look at how an organisation's complementary assets, knowledge-base, and deployment of isolating mechanisms influences its ability to profit from innovation.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organising for innovation</strong><br/><p>Here we'll look at the structures and routines organisations use to orchestrate their innovation process.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Organising for innovation</strong>",
+            "topic_description": "Organising for innovation Here we'll look at the structures and routines organisations use to orchestrate their innovation process.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing the innovation process</strong><br/><p>Here we'll look at how organisations can improve their ability to generate and select ideas for innovation.</p>\n<p><strong>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Managing the innovation process</strong>",
+            "topic_description": "Managing the innovation process Here we'll look at how organisations can improve their ability to generate and select ideas for innovation. King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leading innovation teams</strong><br/><p>Here we'll look at common challenges encountered when leading innovation teams and how best to manage them.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Leading innovation teams</strong>",
+            "topic_description": "Leading innovation teams Here we'll look at common challenges encountered when leading innovation teams and how best to manage them.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operationalising your innovation strategy</strong><br/><p>Here we'll discuss the practical challenges associated with implementing an innovation strategy and common sources of failure.</p></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Operationalising your innovation strategy</strong>",
+            "topic_description": "Operationalising your innovation strategy Here we'll discuss the practical challenges associated with implementing an innovation strategy and common sources of failure.",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
