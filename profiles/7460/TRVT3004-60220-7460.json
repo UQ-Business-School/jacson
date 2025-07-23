@@ -1,0 +1,355 @@
+{
+    "course_title": "Strategic Management of Tourism & Events",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TRVT3004-60220-7460",
+    "full_course_code": "TRVT3004-60220-7460",
+    "course_code": "TRVT3004",
+    "class_code": "60220",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply key concepts and processes from the strategic management field to tourism and events organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Collaboratively evaluate strategies both at the micro (organisation) level and the macro (destination) level."
+        },
+        {
+            "number": "LO3.",
+            "description": "Undertake scenario planning in the tourism and events context to develop a future focus."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply an understanding of leadership theories, business practices and related ethics in appraising real world issues and events."
+        },
+        {
+            "number": "LO5.",
+            "description": "Reflect on your own skills and abilities as a future leader in the tourism and events industry."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1 Strategic Analysis Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 20/08/2024 - 22/08/2024</p>\n<p>\n</p><p>This assessment will take place during the scheduled tutorial times for this course.</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>BEDA (Brisbane Economic Development Agency) is the destination marketing organisation (DMO) for Brisbane. Conduct and present a strategic analysis of the micro internal and macro external operating environment for Brisbane as a tourist destination, including strategic recommendations for success in the current environment.</p>\n<p>Presentation: Present the analysis and recommendations in class, with feedback provided by classmates in hypothetical roles as the senior management of the tourism or event organisation Maximum 15 minutes per group.</p>\n<p>Peer Assessment Factor for this assessment: Conducted online, at the conclusion of all presentations (% fulfilment of individual role x actual mark awarded to group)</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2 Scenario Planning Report",
+            "special_indicators": [],
+            "weighting": "<dd>40% Individual, 2,500 words </dd>",
+            "due_date": "<dd><p> 20/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this report you will receive a brief scenario of what the travel and tourism industry might look like in 2032, when Brisbane will be hosting the Olympic and Paralympic Games.</p>\n<p>Propose a present-day strategy for Brisbane as a tourist destination that will allow tourism and events in Brisbane to thrive in this scenario. Include how the strategic recommendations from Assessment 1 need to change.</p>\n<p>You should reference the megatrends discussed in this course (technological, economic, societal and environmental changes) in your report.</p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3 Reflective Leadership",
+            "special_indicators": [],
+            "weighting": "<dd>30% Individual, 1500-2000 words </dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L04, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In Weeks 1 and 2, you will be asked to reflect on yourself as a leader in the tourism and events industry. Questions to consider include: What kinds of personal goals will you pursue? What kinds of organisational goals will you pursue? This is a formative part of the assessment. This early formative reflection informs the summative Week 13 reflection task, which requires you to reflect on four questions about your future as a leader in the tourism and events industry in 2032:</p>\n<p>1. What is your vision for the tourism and/or events industry in 2032?</p>\n<p>2. What kinds of leadership goals are you likely to pursue based on this vision?</p>\n<p>3. Have there been any changes to how you perceive yourself as a leader since your reflections in Weeks 1 and 2?</p>\n<p>4. How do you intend to apply knowledge learnt from this course into your work life?</p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction and Overview</strong><br><p>Topics include: introduction to the course, overview of strategic management in tourism and events</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction and Overview</strong>",
+            "topic_description": "Introduction and Overview Topics include: introduction to the course, overview of strategic management in tourism and events",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Context for tourism and events</strong><br/><p>Topics include: environmental scanning; feasibility analyses; making strategic choices</p></p></div></td>",
+            "topic_title": "<strong>Strategic Context for tourism and events</strong>",
+            "topic_description": "Strategic Context for tourism and events Topics include: environmental scanning; feasibility analyses; making strategic choices",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to course</strong><br/><p>Includes: overview of assessment items and contexts; Brisbane 2032 Olympics Masterplan; reflective writing activity</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to course</strong>",
+            "topic_description": "Introduction to course Includes: overview of assessment items and contexts; Brisbane 2032 Olympics Masterplan; reflective writing activity",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Envisioning the future</strong><br/><p>Topics include: future studies; scenario planning; backcasting</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Envisioning the future</strong>",
+            "topic_description": "Envisioning the future Topics include: future studies; scenario planning; backcasting",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Environmental scanning</strong><br/><p>Includes: introduction to Brisbane Economic Development Agency; internal and external environmental scanning activity</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Environmental scanning</strong>",
+            "topic_description": "Environmental scanning Includes: introduction to Brisbane Economic Development Agency; internal and external environmental scanning activity",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Megatrends 1 - technological and economic change</strong><br/><p>Topics include: VR/XR; AI; cybersecurity; geopolitics and global financial systems</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Megatrends 1 - technological and economic change</strong>",
+            "topic_description": "Megatrends 1 - technological and economic change Topics include: VR/XR; AI; cybersecurity; geopolitics and global financial systems",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Visions of 2032</strong><br/><p>Includes: what will life and travel be like in 2032 </p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Visions of 2032</strong>",
+            "topic_description": "Visions of 2032 Includes: what will life and travel be like in 2032",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Megatrends 2 -Societal and environmental change</strong><br/><p>Topics include: population growth; health and ageing; generational change; climate change; carbon footprint</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Megatrends 2 -Societal and environmental change</strong>",
+            "topic_description": "Megatrends 2 -Societal and environmental change Topics include: population growth; health and ageing; generational change; climate change; carbon footprint",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 1 - Oral Presentation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Assessment 1 - Oral Presentation</strong>",
+            "topic_description": "Assessment 1 - Oral Presentation",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tourists of the future</strong><br/><p>Topics include: smart tourism; virtual tourism; solo travellers</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tourists of the future</strong>",
+            "topic_description": "Tourists of the future Topics include: smart tourism; virtual tourism; solo travellers",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scenario planning and backcasting</strong><br/><p>Includes: developing strategic plans for tourism destinations under a future scenario</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Scenario planning and backcasting</strong>",
+            "topic_description": "Scenario planning and backcasting Includes: developing strategic plans for tourism destinations under a future scenario",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Paris 2024 Olympics and Paralympics Case Study 1</strong><br/><p>Online case study module examining accessibility and inclusion strategies at the Paris 2024 Olympic and Paralympic Games</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Paris 2024 Olympics and Paralympics Case Study 1</strong>",
+            "topic_description": "Paris 2024 Olympics and Paralympics Case Study 1 Online case study module examining accessibility and inclusion strategies at the Paris 2024 Olympic and Paralympic Games",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The impact of megatrends</strong><br/><p>Includes: technological, environmental and social change activities</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>The impact of megatrends</strong>",
+            "topic_description": "The impact of megatrends Includes: technological, environmental and social change activities",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Paris 2024 Olympics and Paralympics Case Study 2</strong><br/><p>Online case study module examining the legacy strategy for the Paris 2024 Olympic and Paralympic Games</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Paris 2024 Olympics and Paralympics Case Study 2</strong>",
+            "topic_description": "Paris 2024 Olympics and Paralympics Case Study 2 Online case study module examining the legacy strategy for the Paris 2024 Olympic and Paralympic Games",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Personalising tourist experiences</strong><br/><p>Includes: customisation and personalisation of airlines, hotels  and attractions</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Personalising tourist experiences</strong>",
+            "topic_description": "Personalising tourist experiences Includes: customisation and personalisation of airlines, hotels  and attractions",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic outcomes</strong><br/><p>Topics include: mega-event legacy; urban regeneration</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Strategic outcomes</strong>",
+            "topic_description": "Strategic outcomes Topics include: mega-event legacy; urban regeneration",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Event legacy</strong><br/><p>Includes: critical review of past Olympic legacies</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Event legacy</strong>",
+            "topic_description": "Event legacy Includes: critical review of past Olympic legacies",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semester break</strong>",
+            "topic_description": "Mid-Semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Leadership</strong><br/><p>Topics include: leadership theories; professionalism &amp; ethics; motivation.  </p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategic Leadership</strong>",
+            "topic_description": "Strategic Leadership Topics include: leadership theories; professionalism & ethics; motivation.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Know yourself as a leader</strong><br/><p>Includes: self reflection on leadership style</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Know yourself as a leader</strong>",
+            "topic_description": "Know yourself as a leader Includes: self reflection on leadership style",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Change</strong><br/><p>Topics include: drivers and contexts for change; change management styles</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Managing Change</strong>",
+            "topic_description": "Managing Change Topics include: drivers and contexts for change; change management styles",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Change management in organisations</strong><br/><p>Includes: change management styles and drivers</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Change management in organisations</strong>",
+            "topic_description": "Change management in organisations Includes: change management styles and drivers",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Culture and communications for leaders</strong><br/><p> Topics include: communication channels; perceptions; organisational culture; cross-cultural communications</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Culture and communications for leaders</strong>",
+            "topic_description": "Culture and communications for leaders Topics include: communication channels; perceptions; organisational culture; cross-cultural communications",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Negotiation and conflict resolution</strong><br/><p>Includes: conflict styles and negotiation activity</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Negotiation and conflict resolution</strong>",
+            "topic_description": "Negotiation and conflict resolution Includes: conflict styles and negotiation activity",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Review of Strategic Management in Tourism and Events</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong> Review of Strategic Management in Tourism and Events</strong>",
+            "topic_description": "Review of Strategic Management in Tourism and Events",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consultations on Assignment 3</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Consultations on Assignment 3</strong>",
+            "topic_description": "Consultations on Assignment 3",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
