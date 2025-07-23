@@ -1,0 +1,431 @@
+{
+    "course_title": "Tools and Techniques for Business Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7301-20328-7520",
+    "full_course_code": "MGTS7301-20328-7520",
+    "course_code": "MGTS7301",
+    "class_code": "20328",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply commonly used rational analytical tools to real-world business problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply commonly used business studio design tools to real-world business problems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Synthesise and evaluate complex findings in an effective way."
+        },
+        {
+            "number": "LO4.",
+            "description": "Examine a complicated business environment as part of a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe and discuss the ethical context of business decisions and situation analysis."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Strategic analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 31/03/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Presentation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During workshops, students will have the chance to discuss cases using specific strategic analytical tools covered each week. Students are highly encouraged to read the cases, actively participate in discussions, and deliberate how these tools and techniques can be practically applied. Students must then submit an 8-minute individual presentation (recorded in Teams or Zoom) that provides senior management with their strategic insights for the company in question, using the relevant strategy tools and techniques. The presentation should include a PowerPoint presentation with the camera on, and integrate digital copies of workshop deliberations e.g. pictures of worksheets in their presentation.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge to synthesize insights from lecture concepts and workshop activities. Students are advised that the use of AI technologies to develop insights about the relevance of strategy tools and techniques to the particular case may be a helpful starting point. However the assessment evaluates student's abilities to present their insights in a compelling manner, drawing upon and integrating workshop insights in a unique and reflective manner. The wholesale use of AI in this presentation may therefore constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Business Tools For Making Decisions",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 9/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be asked to form in teams of six (6) and role play a 'business design studio' which presents critical analysis and a strategic recommendation to a company. This 15-minute group meeting must be recorded as a Teams or Zoom meeting with each member's camera on. In the business design studio, the group is expected to draw upon three (3) tools and techniques from the available five (5) tools- GE Matrix, VRIN, BCG, Balanced Scorecard, and Strategy Diamond and justify, using a 'strategy as narrative' perspective, why these tools have been chosen as the most relevant tools and techniques for the case study company in question.</p>\n<p>At the end of the assessment task, all team members will be required to complete a peer assessment of each other's performance and contribution to the assessment. Instructions for how to do this will be provided in class.</p>\n<p><strong>AI Statement</strong></p>\n<p>Students are advised that the use of AI technologies to develop responses is a good starting point to help generate insights about the use of tools and techniques to their particular case. However the uncritical use of AI is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final assessment will be an invigilated, in-person exam where students will be asked to develop and justify a 'best practices' strategic response using tools and techniques introduced in the course. The examination requires students to familiarise themselves with the facts of a business case that will be made available seven (7) days before the exam and answer a number of questions relating to this case study. Students will be given more information about how to analyse the business case and to develop answers to the examination questions towards the end of the semester.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge to analyse business case studies and synthesize insights in a practical and strategic manner. Students may use  generative Artificial Intelligence (AI) as a preliminary step in the analysis of the business case provided. However students are advised that the uncritical use of AI technologies to develop their 'best practice' responses will not meet the academic threshold of the assessment task and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and strategic thinking - SWOT </strong><br/><p>This lecture will provide you with a brief history of the tools for business analysis we will cover in this course. The course syllabus and assessment will also be outlined. You will also be introduced to the concepts of rational analytical tools, strategic thinking, and critical thinking, with an explanation of how these are used in business. We will start the course with the SWOT analysis. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Overview and strategic thinking - SWOT </strong>",
+            "topic_description": "Course Overview and strategic thinking - SWOT This lecture will provide you with a brief history of the tools for business analysis we will cover in this course. The course syllabus and assessment will also be outlined. You will also be introduced to the concepts of rational analytical tools, strategic thinking, and critical thinking, with an explanation of how these are used in business. We will start the course with the SWOT analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External business analysis- SWOT </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>External business analysis- SWOT </strong>",
+            "topic_description": "External business analysis- SWOT",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis- PESTLE</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>External analysis- PESTLE</strong>",
+            "topic_description": "External analysis- PESTLE",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis- PESTLE </strong><br/><p>In this workshop, students will be introduced to PESTLE (external)  as a very useful starting point to analyse the external environment of a firm. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>External analysis- PESTLE </strong>",
+            "topic_description": "External analysis- PESTLE In this workshop, students will be introduced to PESTLE (external)  as a very useful starting point to analyse the external environment of a firm.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External business environment analysis - Porters 5 Forces </strong><br/><p>In this lecture, you'll be provided with a powerful tool and frameworks commonly used for external analysis - the Porter's 5 Forces model.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>External business environment analysis - Porters 5 Forces </strong>",
+            "topic_description": "External business environment analysis - Porters 5 Forces In this lecture, you'll be provided with a powerful tool and frameworks commonly used for external analysis - the Porter's 5 Forces model.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External business environment analysis - Porter's 5 Forces </strong><br/><p>In this workshop, you will apply Porters 5 Forces to the case study and use your findings to make decisions on behalf of the organisation.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>External business environment analysis - Porter's 5 Forces </strong>",
+            "topic_description": "External business environment analysis - Porter's 5 Forces In this workshop, you will apply Porters 5 Forces to the case study and use your findings to make decisions on behalf of the organisation.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External business environment analysis - Stakeholder analysis framework </strong><br/><p>In this lecture, you will be introduced to the stakeholder analysis tools and frameworks, in terms of stakeholder salience, stakeholder management, impression management, with an explanation of how this is used in strategic analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>External business environment analysis - Stakeholder analysis framework </strong>",
+            "topic_description": "External business environment analysis - Stakeholder analysis framework In this lecture, you will be introduced to the stakeholder analysis tools and frameworks, in terms of stakeholder salience, stakeholder management, impression management, with an explanation of how this is used in strategic analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External business environment analysis- Stakeholder analysis application </strong><br/><p>In this workshop, we will explore the stakeholder analysis tools and apply it to a case study organisation. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>External business environment analysis- Stakeholder analysis application </strong>",
+            "topic_description": "External business environment analysis- Stakeholder analysis application In this workshop, we will explore the stakeholder analysis tools and apply it to a case study organisation.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal capability analysis tools- VRIN/ VRIO</strong><br/><p>In this lecture, you will be provided with an in-depth history of VRIN Resources and Capabilities Analysis. Where did it come from? Why did it suit its times? And how has it subsequently been critiqued? We will also introduce some other relevant tools and frameworks about firms' internal resources and capabilities, such as value chain framework.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internal capability analysis tools- VRIN/ VRIO</strong>",
+            "topic_description": "Internal capability analysis tools- VRIN/ VRIO In this lecture, you will be provided with an in-depth history of VRIN Resources and Capabilities Analysis. Where did it come from? Why did it suit its times? And how has it subsequently been critiqued? We will also introduce some other relevant tools and frameworks about firms' internal resources and capabilities, such as value chain framework.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Application of the Internal capability analysis tools - VRIN</strong><br/><p>In this workshop, you will apply VRIN Resources and Capabilities analysis to the case study, and use your findings to make decisions on behalf of a case study organisation</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Application of the Internal capability analysis tools - VRIN</strong>",
+            "topic_description": "Application of the Internal capability analysis tools - VRIN In this workshop, you will apply VRIN Resources and Capabilities analysis to the case study, and use your findings to make decisions on behalf of a case study organisation",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal business analysis- BCG Matrix, GE Matrix, and 3 Horizons </strong><br/><p>In this lecture, you will be introduced to the tools and frameworks commonly used to analyze and decide corporate level strategies, such as BCG and brief reference to the three horizon model</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internal business analysis- BCG Matrix, GE Matrix, and 3 Horizons </strong>",
+            "topic_description": "Internal business analysis- BCG Matrix, GE Matrix, and 3 Horizons In this lecture, you will be introduced to the tools and frameworks commonly used to analyze and decide corporate level strategies, such as BCG and brief reference to the three horizon model",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal business analysis- BCG Matrix, GE Matrix, and 3 Horizons </strong><br/><p>In this workshop, students will be given a case study, where the BCG matrix will be used and applied to analyze and decide on corporate level strategy.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Internal business analysis- BCG Matrix, GE Matrix, and 3 Horizons </strong>",
+            "topic_description": "Internal business analysis- BCG Matrix, GE Matrix, and 3 Horizons In this workshop, students will be given a case study, where the BCG matrix will be used and applied to analyze and decide on corporate level strategy.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal business analysis - Balanced Scorecard </strong><br/><p>A lecture will be provided to explain the details and development of Balanced Scorecard.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internal business analysis - Balanced Scorecard </strong>",
+            "topic_description": "Internal business analysis - Balanced Scorecard A lecture will be provided to explain the details and development of Balanced Scorecard.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal business analysis- Balanced Scorecard </strong><br/><p>In this workshop, you will analyse a given business case based on the Balanced Scorecard. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Internal business analysis- Balanced Scorecard </strong>",
+            "topic_description": "Internal business analysis- Balanced Scorecard In this workshop, you will analyse a given business case based on the Balanced Scorecard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal business analysis- Strategy Diamond </strong><br/><p>In this lecture, you will be introduced to the Strategy Diamond which is an example of a business level strategy and the tools and frameworks commonly used to analyze business level strategy</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Internal business analysis- Strategy Diamond </strong>",
+            "topic_description": "Internal business analysis- Strategy Diamond In this lecture, you will be introduced to the Strategy Diamond which is an example of a business level strategy and the tools and frameworks commonly used to analyze business level strategy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester break</strong>",
+            "topic_description": "In-Semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to \"The inexorable growth of Walmart?' case study</strong><br/><p>In this workshop, we will introduce you to a complex case study of strategic decision-making and implementation challenges </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to \"The inexorable growth of Walmart?' case study</strong>",
+            "topic_description": "Introduction to \"The inexorable growth of Walmart?' case study In this workshop, we will introduce you to a complex case study of strategic decision-making and implementation challenges",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy implementation </strong><br/><p>In this lecture, we will introduce the complexities of strategy implementation with a strong focus on organisational culture and the cultural web tool. Students will be introduced to the 'strategy as narrative' perspective which will be helpful for the 2nd assessment</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Strategy implementation </strong>",
+            "topic_description": "Strategy implementation In this lecture, we will introduce the complexities of strategy implementation with a strong focus on organisational culture and the cultural web tool. Students will be introduced to the 'strategy as narrative' perspective which will be helpful for the 2nd assessment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy in practice- Exploring the limits of rational strategies</strong><br/><p><strong>The Labour Day Public Holiday on Monday 5 May 2025</strong> means there will be no timetabled workshop. </p>\n<p>Instead, students will be provided recorded materials as well as the weekly lecture that explore the limits of rational strategies and identify which stakeholders are often left out of strategic planning. Indigenous perspectives on business will be provided as a way to critique utilitarian growth strategies of firms.</p>\n<p><strong><br/></strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategy in practice- Exploring the limits of rational strategies</strong>",
+            "topic_description": "Strategy in practice- Exploring the limits of rational strategies The Labour Day Public Holiday on Monday 5 May 2025 means there will be no timetabled workshop. Instead, students will be provided recorded materials as well as the weekly lecture that explore the limits of rational strategies and identify which stakeholders are often left out of strategic planning. Indigenous perspectives on business will be provided as a way to critique utilitarian growth strategies of firms.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business crisis </strong><br><p>In this lecture, you will be provided with an understanding of declining firms and the difficulties they face in responding. We will introduce you to the 'social licence to operate'  and how companies can regain trust with stakeholders. We will introduce you to aesthetic pedagogies as an approach to revitalise strategy for declining firms</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Business crisis </strong>",
+            "topic_description": "Business crisis In this lecture, you will be provided with an understanding of declining firms and the difficulties they face in responding. We will introduce you to the 'social licence to operate'  and how companies can regain trust with stakeholders. We will introduce you to aesthetic pedagogies as an approach to revitalise strategy for declining firms",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business crisis turnaround analysis </strong><br/><p>In this workshop, you will analyze a declining firm as a case study and help senior management to consider new ways to approach business strategy. Students will apply aesthetic pedagogies to develop alternative business strategies that better engage stakeholders in the task environment of a company (customers, staff, suppliers) </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Business crisis turnaround analysis </strong>",
+            "topic_description": "Business crisis turnaround analysis In this workshop, you will analyze a declining firm as a case study and help senior management to consider new ways to approach business strategy. Students will apply aesthetic pedagogies to develop alternative business strategies that better engage stakeholders in the task environment of a company (customers, staff, suppliers)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business in turnaround </strong><br/><p>This lecture explores the topic of competitive strategy in context of the Business Model where students will be introduced to Business Model innovation (using the Business Model Canvas). Students will apply aesthetic pedagogies to develop alternative business strategies that better engage stakeholders, or 'key partners' in the contextual environment of a company e.g community, government, lobbyists. </p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Business in turnaround </strong>",
+            "topic_description": "Business in turnaround This lecture explores the topic of competitive strategy in context of the Business Model where students will be introduced to Business Model innovation (using the Business Model Canvas). Students will apply aesthetic pedagogies to develop alternative business strategies that better engage stakeholders, or 'key partners' in the contextual environment of a company e.g community, government, lobbyists.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business in turnaround </strong><br><p>In this workshop, you will apply aesthetic pedagogy to support business in turnaround strategies.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Business in turnaround </strong>",
+            "topic_description": "Business in turnaround In this workshop, you will apply aesthetic pedagogy to support business in turnaround strategies.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scenario planning </strong><br><p>In this lecture, you will be provided with an in-depth history of Scenario Planning and how has it subsequently been developed and critiqued.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Scenario planning </strong>",
+            "topic_description": "Scenario planning In this lecture, you will be provided with an in-depth history of Scenario Planning and how has it subsequently been developed and critiqued.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scenario planning application </strong><br/><p>We will go through all frameworks and tools we have learnt. We discuss the connections and integrations among these tools and frameworks. </p>\n<p>Head to class to receive guidance for your final assessment piece. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Scenario planning application </strong>",
+            "topic_description": "Scenario planning application We will go through all frameworks and tools we have learnt. We discuss the connections and integrations among these tools and frameworks. Head to class to receive guidance for your final assessment piece.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The pyramid of strategy practice and course recap</strong><br/><p>Students will be introduced to the Minto Pyramid as a way to recap the course and be given support and guidance about the final assessment. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>The pyramid of strategy practice and course recap</strong>",
+            "topic_description": "The pyramid of strategy practice and course recap Students will be introduced to the Minto Pyramid as a way to recap the course and be given support and guidance about the final assessment.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
