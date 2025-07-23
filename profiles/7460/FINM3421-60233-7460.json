@@ -1,4 +1,8 @@
 {
+    "course_title": "Fixed Income Analytics and Treasury Management",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3421-60233-7460",
     "full_course_code": "FINM3421-60233-7460",
     "course_code": "FINM3421",
@@ -33,16 +37,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "15% Best 10 of 12",
-            "due_date": "2/08/2024 12:00 pm9/08/2024 12:00 pm16/08/2024 12:00 pm23/08/2024 12:00 pm30/08/2024 12:00 pm6/09/2024 12:00 pm13/09/2024 12:00 pm20/09/2024 12:00 pm4/10/2024 12:00 pm11/10/2024 12:00 pm18/10/2024 12:00 pm25/10/2024 12:00 pm",
+            "weighting": "<dd>15% Best 10 of 12 </dd>",
+            "due_date": "<dd><p> 2/08/2024 12:00 pm</p>\n<p> 9/08/2024 12:00 pm</p>\n<p> 16/08/2024 12:00 pm</p>\n<p> 23/08/2024 12:00 pm</p>\n<p> 30/08/2024 12:00 pm</p>\n<p> 6/09/2024 12:00 pm</p>\n<p> 13/09/2024 12:00 pm</p>\n<p> 20/09/2024 12:00 pm</p>\n<p> 4/10/2024 12:00 pm</p>\n<p> 11/10/2024 12:00 pm</p>\n<p> 18/10/2024 12:00 pm</p>\n<p> 25/10/2024 12:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "Weekly activities run through RiPPLe are designed to test student understanding of the weekly contents. The assessable tasks will consist of a combination of learning resource creation, moderation and practice. Submissions will be due at the end of each teaching week beginning in Week 2 and ending Week 13. The best 10 of 12 submissions will be used to calculate a student's mark, with each worth 1.5% of the course mark. Detailed task specifications will be announced and placed on Blackboard at the required time.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "The submission will be through the RiPPLe application in Blackboard.",
-            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You cannot defer or apply for an extension for this assessment."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Weekly activities run through RiPPLe are designed to test student understanding of the weekly contents. The assessable tasks will consist of a combination of learning resource creation, moderation and practice. Submissions will be due at the end of each teaching week beginning in Week 2 and ending Week 13. The best 10 of 12 submissions will be used to calculate a student's mark, with each worth 1.5% of the course mark. Detailed task specifications will be announced and placed on Blackboard at the required time.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The submission will be through the RiPPLe application in Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -53,16 +57,16 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "25%",
-            "due_date": "4/10/2024 3:00 pm",
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 4/10/2024 3:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "Each team is required to write a credit rating report on an ASX listed company. The students will need to conduct thorough credit risk analysis and assign a credit rating to the company. Students can follow the credit rating methodology of major rating agencies. More detailed instruction will be provided on Blackboard.A Peer Review will be used for feedback purpose. You would need to complete this peer review to receive the final mark for this assessment.The results of the peer feedback may be used to adjust your overall score for this assessment item based on peer reviewed performance.More information about Peer Review is discussed in the Assessment Guideline on Blackboard.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "Submit in the Blackboard Assessment link.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each team is required to write a credit rating report on an ASX listed company. The students will need to conduct thorough credit risk analysis and assign a credit rating to the company. Students can follow the credit rating methodology of major rating agencies. More detailed instruction will be provided on Blackboard.</p>\n<p>A Peer Review will be used for feedback purpose. You would need to complete this peer review to receive the final mark for this assessment.</p>\n<p>The results of the peer feedback may be used to adjust your overall score for this assessment item based on peer reviewed performance.</p>\n<p>More information about Peer Review is discussed in the Assessment Guideline on Blackboard.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit in the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -77,25 +81,25 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "60%",
-            "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "The final exam will be consisting of problem-solving and short-answer questions. All lectures are examinable.This is a 120 minutes exam plus 10 minutes of reading time.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-            "submission_guidelines": "You may be able todefer this exam.",
-            "deferral_or_extension": "You may be able todefer this exam.",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The final exam will be consisting of problem-solving and short-answer questions. All lectures are examinable.</li>\n<li>This is a 120 minutes exam plus 10 minutes of reading time.</li>\n</ul>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
-            "additional_info": "You may be able to\ndefer this exam\n."
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Treasury, Municipal and Corporate BondsLearning outcomes:L01",
-            "topic_title": "Treasury, Municipal and Corporate Bonds",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Treasury, Municipal and Corporate Bonds</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Treasury, Municipal and Corporate Bonds</strong>",
+            "topic_description": "Treasury, Municipal and Corporate Bonds",
             "learning_outcomes": [
                 "L01"
             ]
@@ -103,9 +107,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "Bond Pricing and YieldsLearning outcomes:L02",
-            "topic_title": "Bond Pricing and Yields",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bond Pricing and Yields</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Bond Pricing and Yields</strong>",
+            "topic_description": "Bond Pricing and Yields",
             "learning_outcomes": [
                 "L02"
             ]
@@ -113,9 +117,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Duration and ConvexityLearning outcomes:L01, L02, L04",
-            "topic_title": "Duration and Convexity",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Duration and Convexity</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Duration and Convexity</strong>",
+            "topic_description": "Duration and Convexity",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -125,9 +129,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "Royal Queensland Show Public HolidayLearning outcomes:L01, L02, L03",
-            "topic_title": "Royal Queensland Show Public Holiday",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Royal Queensland Show Public Holiday</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Royal Queensland Show Public Holiday</strong>",
+            "topic_description": "Royal Queensland Show Public Holiday",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -137,9 +141,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "Credit Risk AnalysisLearning outcomes:L01, L02",
-            "topic_title": "Credit Risk Analysis",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Credit Risk Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Credit Risk Analysis</strong>",
+            "topic_description": "Credit Risk Analysis",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -148,9 +152,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "Term structure of Interest RatesLearning outcomes:L01, L02, L04",
-            "topic_title": "Term structure of Interest Rates",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Term structure of Interest Rates</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Term structure of Interest Rates</strong>",
+            "topic_description": "Term structure of Interest Rates",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -160,9 +164,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Bonds with Embedded OptionsLearning outcomes:L02, L03, L04",
-            "topic_title": "Bonds with Embedded Options",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bonds with Embedded Options</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Bonds with Embedded Options</strong>",
+            "topic_description": "Bonds with Embedded Options",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -172,9 +176,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Bond Portfolio Management (I)Learning outcomes:L01, L02, L04",
-            "topic_title": "Bond Portfolio Management (I)",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bond Portfolio Management (I)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Bond Portfolio Management (I)</strong>",
+            "topic_description": "Bond Portfolio Management (I)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -184,9 +188,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Bond Portfolio Management (II)Learning outcomes:L01, L02, L04",
-            "topic_title": "Bond Portfolio Management (II)",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bond Portfolio Management (II)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Bond Portfolio Management (II)</strong>",
+            "topic_description": "Bond Portfolio Management (II)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -196,17 +200,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Interest Rate DerivativesLearning outcomes:L02, L03, L04",
-            "topic_title": "Interest Rate Derivatives",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Derivatives</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Interest Rate Derivatives</strong>",
+            "topic_description": "Interest Rate Derivatives",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -216,9 +220,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Seminar",
-            "topic": "Swaps and Credit Default SwapsLearning outcomes:L02, L03",
-            "topic_title": "Swaps and Credit Default Swaps",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Swaps and Credit Default Swaps</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Swaps and Credit Default Swaps</strong>",
+            "topic_description": "Swaps and Credit Default Swaps",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -227,9 +231,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "Mortgage-Backed SecuritiesLearning outcomes:L02, L03",
-            "topic_title": "Mortgage-Backed Securities",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mortgage-Backed Securities</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Mortgage-Backed Securities</strong>",
+            "topic_description": "Mortgage-Backed Securities",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -238,9 +242,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Seminar",
-            "topic": "RevisionLearning outcomes:L01, L02, L03, L04",
-            "topic_title": "Revision",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision",
             "learning_outcomes": [
                 "L01",
                 "L02",
