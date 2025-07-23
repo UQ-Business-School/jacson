@@ -1,0 +1,369 @@
+{
+    "course_title": "Discourses in Hospitality",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/HOSP3005-60420-7560",
+    "full_course_code": "HOSP3005-60420-7560",
+    "course_code": "HOSP3005",
+    "class_code": "60420",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the development of hospitality concept and how hospitality might be considered as a lens through which we can investigate the world around us, including managerial practices."
+        },
+        {
+            "number": "LO2.",
+            "description": "Articulate the distinction between, and evolution from, domestic to commercial hospitality."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop a critical cognisance of the relationships between hospitality, society, politics and community."
+        },
+        {
+            "number": "LO4.",
+            "description": "Recognise, identify and distinguish between the complex and wide-ranging sectors of the hospitality industry."
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically evaluate contemporary issues and ethical dilemmas confronting the hospitality industry professional."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique, Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be required to take a closed-book, in-semester exam. The exam will consist of short essay questions, covering content from Weeks 1-6. Further details will be provided via Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Reflective Vlog",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 31/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Creative Production/ Exhibition, Performance, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task requires you to record a 15-minute YouTube video in which you critically discuss a hospitality issue that you have personally experienced. The video should be reflective, demonstrating your in-depth understanding of the issue, relevant course concepts, as well as your personal experience and worldview. You will be required to submit the link to your YouTube video for assessment.</p>\n<p>Further details will be provided via Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Instructions for submitting the link will be provided via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Course overview; history of hospitality; definition of key concepts</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Course overview; history of hospitality; definition of key concepts",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hospitality and Its Discourses</strong><br/><p>Discourses definition; layers of meaning; examples of discourses; hospitality V service</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Hospitality and Its Discourses</strong>",
+            "topic_description": "Hospitality and Its Discourses Discourses definition; layers of meaning; examples of discourses; hospitality V service",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Welcome &amp; Introduction+ Assessment Details</strong><br/><p>Recap on the course approach; the importance of critical thinking; outline of assessment; Q&amp;A on assessment</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Welcome &amp; Introduction+ Assessment Details</strong>",
+            "topic_description": "Welcome & Introduction+ Assessment Details Recap on the course approach; the importance of critical thinking; outline of assessment; Q&A on assessment",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Domains of Hospitality</strong><br/><p>The three domains of hospitality; private hospitality; social hospitality; commercial hospitality</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Domains of Hospitality</strong>",
+            "topic_description": "Domains of Hospitality The three domains of hospitality; private hospitality; social hospitality; commercial hospitality",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Essay writing</strong><br/><p>How to write a good critical essay; examples of essays </p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Essay writing</strong>",
+            "topic_description": "Essay writing How to write a good critical essay; examples of essays",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Viewpoints of Hospitality</strong><br/><p>Understanding hospitality from different viewpoints (disciplines); the social sciences; influential thinkers</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Viewpoints of Hospitality</strong>",
+            "topic_description": "Viewpoints of Hospitality Understanding hospitality from different viewpoints (disciplines); the social sciences; influential thinkers",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Discussion/Exam practice</strong><br/><p>Exam essay practice</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Assessment Discussion/Exam practice</strong>",
+            "topic_description": "Assessment Discussion/Exam practice Exam essay practice",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hosts and Guests</strong><br/><p>Definition of hosts and guests; good hosts/guests; bad hosts/guests; \"othering'; guest lecture on host-guest relations</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Hosts and Guests</strong>",
+            "topic_description": "Hosts and Guests Definition of hosts and guests; good hosts/guests; bad hosts/guests; \"othering'; guest lecture on host-guest relations",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Host and Guest Experiences + Exam Practice</strong><br/><p>Identifying topical issues in contemporary hospitality; exam practice</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Host and Guest Experiences + Exam Practice</strong>",
+            "topic_description": "Host and Guest Experiences + Exam Practice Identifying topical issues in contemporary hospitality; exam practice",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Welcome and Reciprocity</strong><br/><p>Welcome and reciprocity as principles of hospitality; Couchsurfing case study</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Welcome and Reciprocity</strong>",
+            "topic_description": "Welcome and Reciprocity Welcome and reciprocity as principles of hospitality; Couchsurfing case study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reciprocity </strong><br/><p>Class debate on selected issues; exam preparation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Reciprocity </strong>",
+            "topic_description": "Reciprocity Class debate on selected issues; exam preparation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Obligation and (Un)conditional Hospitality</strong><br/><p>Conditional hospitality; unconditional hospitality; Jacques Derrida; types of hospitality laws; hospitality obligations</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Obligation and (Un)conditional Hospitality</strong>",
+            "topic_description": "Obligation and (Un)conditional Hospitality Conditional hospitality; unconditional hospitality; Jacques Derrida; types of hospitality laws; hospitality obligations",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>(Un)Conditional Hospitality</strong><br/><p>Debating conditional and unconditional hospitality; hospitality and popular culture: Gordon Ramsay, Uncle Roger</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>(Un)Conditional Hospitality</strong>",
+            "topic_description": "(Un)Conditional Hospitality Debating conditional and unconditional hospitality; hospitality and popular culture: Gordon Ramsay, Uncle Roger",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Gender and Hospitality</strong><br/><p>The interplay between gender and hospitality; sex V gender; historical perspectives; occupational segregation in hospitality</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Gender and Hospitality</strong>",
+            "topic_description": "Gender and Hospitality The interplay between gender and hospitality; sex V gender; historical perspectives; occupational segregation in hospitality",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Gender Equity and Beyond + Assessment guidance</strong><br/><p>Class debate: gender in hospitality; guidance on second assessment</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Gender Equity and Beyond + Assessment guidance</strong>",
+            "topic_description": "Gender Equity and Beyond + Assessment guidance Class debate: gender in hospitality; guidance on second assessment",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inclusion and Exclusion</strong><br/><p>Inclusion and exclusion practices in hospitality spaces; best practice examples; challenges and opportunities</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Inclusion and Exclusion</strong>",
+            "topic_description": "Inclusion and Exclusion Inclusion and exclusion practices in hospitality spaces; best practice examples; challenges and opportunities",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inclusion and Exclusion + Assessment Discussion</strong><br/><p>Class debate: inclusion and exclusion scenarios; assessment guidance</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Inclusion and Exclusion + Assessment Discussion</strong>",
+            "topic_description": "Inclusion and Exclusion + Assessment Discussion Class debate: inclusion and exclusion scenarios; assessment guidance",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Other Hospitality Concepts</strong><br/><p>Guest lecture on the role and impact of technology in hospitality; other concepts: performativity, apology, space V place, conceptions of time</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Other Hospitality Concepts</strong>",
+            "topic_description": "Other Hospitality Concepts Guest lecture on the role and impact of technology in hospitality; other concepts: performativity, apology, space V place, conceptions of time",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Spaces and Places in Hospitality + Assessment Discussion</strong><br/><p>Class debate on the sharing economy; AirBnB case study; opportunities; challenges; assessment Q&amp;A</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Spaces and Places in Hospitality + Assessment Discussion</strong>",
+            "topic_description": "Spaces and Places in Hospitality + Assessment Discussion Class debate on the sharing economy; AirBnB case study; opportunities; challenges; assessment Q&A",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Non-human Agents &amp; Hospitality</strong><br/><p>Guest lecture: technology and the guest experience</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Non-human Agents &amp; Hospitality</strong>",
+            "topic_description": "Non-human Agents & Hospitality Guest lecture: technology and the guest experience",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Technology in Hospitality + Assessment Discussion</strong><br/><p>Class debate on robots in hospitality service interactions; assessment guidance</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Technology in Hospitality + Assessment Discussion</strong>",
+            "topic_description": "Technology in Hospitality + Assessment Discussion Class debate on robots in hospitality service interactions; assessment guidance",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessing the Hospitality of Experiences</strong><br/><p>How we assess the hospitality experience; written and unwritten hospitality laws; ethicality; sustainability</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assessing the Hospitality of Experiences</strong>",
+            "topic_description": "Assessing the Hospitality of Experiences How we assess the hospitality experience; written and unwritten hospitality laws; ethicality; sustainability",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reflection + Assessment Discussion</strong><br/><p>Assessment preparation; reflection on key and emerging hospitality issues; notable/inspirational \"Hospitalians\" and their approach to practicing hospitality</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Reflection + Assessment Discussion</strong>",
+            "topic_description": "Reflection + Assessment Discussion Assessment preparation; reflection on key and emerging hospitality issues; notable/inspirational \"Hospitalians\" and their approach to practicing hospitality",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Summary + Consultation</strong><br/><p>Consultation opportunities will be provided. Details on BB.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Summary + Consultation</strong>",
+            "topic_description": "Course Summary + Consultation Consultation opportunities will be provided. Details on BB.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
