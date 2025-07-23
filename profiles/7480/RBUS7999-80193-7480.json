@@ -1,0 +1,100 @@
+{
+    "course_title": "Business Industry Placement",
+    "study_period": "Summer 2024",
+    "location": "St Lucia",
+    "attendance": "Intensive",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS7999-80193-7480",
+    "full_course_code": "RBUS7999-80193-7480",
+    "course_code": "RBUS7999",
+    "class_code": "80193",
+    "semester_code": "7480",
+    "semester_details": "Summer Semester, 2024 (18/11/2024 - 21/12/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop awareness of your graduate attributes and how they may apply in the workplace and enhance employability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Articulate key business practices  within an organisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Acquire practical skills and knowledge toward enhancing your employability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explore the different means by which organisations engage in business practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop the ability to think strategically from the perspective of a manager."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand the professional rigor expected in corporate practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "Have a clear understanding of how graduate attributes contribute to employability skills in a graduate career."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Critical reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 3/01/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will reflect on their personal development resulting from their international immersion experience. This is an essay type assignment in which they will illustrate self-awareness, personal and professional growth, as well as improved understanding of the cultural and business-related complexities in entrepreneurial endeavours.</p>\n<p>The assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to the Learn.UQ site for a detailed assessment task sheet and submission instructions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Video presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 10/01/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will produce a short video presentation (max 4 minutes) about their immersion experience. They will talk about their experience, in particular the complexities and challenges they observed in their encounters with entrepreneurs and community leaders. They will reflect on the challenges they had to overcome and the network connections they were able to build. Finally, they will give account of the knowledge and skills they have gained and their personal growth.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to the Learn.UQ site for a detailed assessment task sheet and submission instructions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 24/01/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will identify and analyse an innovation and/or entrepreneurship issue relevant to their immersion experience. The assessment piece must demonstrate thoughtful application of entrepreneurship and innovation theories. They must conduct research and submit an academic based paper using reviewed academic sources.</p>\n<p>The assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to the Learn.UQ site for a detailed assessment task sheet and submission instructions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
