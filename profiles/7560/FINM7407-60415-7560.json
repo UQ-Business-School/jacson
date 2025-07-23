@@ -1,0 +1,352 @@
+{
+    "course_title": "Financial Institutions and Markets",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7407-60415-7560",
+    "full_course_code": "FINM7407-60415-7560",
+    "course_code": "FINM7407",
+    "class_code": "60415",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and contrast different types of financial institutions and their functions within society, and distinguish the levels of regulation for these institutions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Examine in detail the on and off balance sheet products of financial institutions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Translate the balance sheet activities of financial institutions and select the appropriate risk mitigation techniques to preserve capital or profitability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate through application how  liquidity, interest rate and credit risks can be mitigated for financial institutions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Differentiate financial institution off-balance sheet activities, including securitisation and derivatives, and apply these activities to different scenario settings."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam will be based on the materials covered from Week 1 to Week 5.</p>\n<p>This is a <strong>closed-book, in-class, paper-based, invigilated exam</strong> that consists of 25 multiple choice questions (mix of theory and calculations). </p>\n<p><strong>AI Statement:</strong></p>\n<p>AI use policy: This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Study Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 7/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A case study or scenario will be uploaded under “Assessment” and \"Assignment\" tab. </p>\n<p>Please use this case study or scenario as a background to carefully develop your answers to the questions mentioned in the document titled \"Assignment Instruction\".</p>\n<p>The length of your submission should be 8 pages of text excluding list of references, and figures and tables that may be placed after the list of references. Use 1.5 line spacing, 12 font size ‘Times New Roman’, ‘Normal’ margins, justified paragraphs and page numbering in the bottom right-hand side.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A student needs to upload the write-up in a single \"pdf\" file using \"Case Study Submission Link\" on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final assessment will be based on materials from Week 1 to Week 12. This exam will be a <strong>closed-book, in-person, paper-based, invigilated</strong> exam.</p>\n<p>The exam includes short answers and problem-solving questions.</p>\n<p><strong>AI Statement:</strong></p>\n<p>AI use policy:  This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1: Financial Institutions: Functions and Types</strong><br/></p></div></td>",
+            "topic_title": "<strong>Topic 1: Financial Institutions: Functions and Types</strong>",
+            "topic_description": "Topic 1: Financial Institutions: Functions and Types",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2: Risks of Financial Institutions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 2: Risks of Financial Institutions</strong>",
+            "topic_description": "Topic 2: Risks of Financial Institutions",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Financial Institutions: Functions and Types</strong><br/><p>Tutorial questions must be downloaded from Blackboard. Students must attempt the questions before attending the tutorial session.</p></p></div></td>",
+            "topic_title": "<strong>Tutorial: Financial Institutions: Functions and Types</strong>",
+            "topic_description": "Tutorial: Financial Institutions: Functions and Types Tutorial questions must be downloaded from Blackboard. Students must attempt the questions before attending the tutorial session.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3: Liquidity Risk Management</strong><br/></p></div></td>",
+            "topic_title": "<strong>Topic 3: Liquidity Risk Management</strong>",
+            "topic_description": "Topic 3: Liquidity Risk Management",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Risks of Financial Institutions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial: Risks of Financial Institutions</strong>",
+            "topic_description": "Tutorial: Risks of Financial Institutions",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4: Asset-Liability Management I</strong><br/></p></div></td>",
+            "topic_title": "<strong>Topic 4: Asset-Liability Management I</strong>",
+            "topic_description": "Topic 4: Asset-Liability Management I",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Liquidity Risk Management</strong><br/></p></div></td>",
+            "topic_title": "<strong>Tutorial: Liquidity Risk Management</strong>",
+            "topic_description": "Tutorial: Liquidity Risk Management",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5: Asset-Liability Management II</strong><br/></p></div></td>",
+            "topic_title": "<strong>Topic 5: Asset-Liability Management II</strong>",
+            "topic_description": "Topic 5: Asset-Liability Management II",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Asset-Liability Management I</strong><br/></p></div></td>",
+            "topic_title": "<strong>Tutorial: Asset-Liability Management I</strong>",
+            "topic_description": "Tutorial: Asset-Liability Management I",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6: Credit Risk Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 6: Credit Risk Analysis</strong>",
+            "topic_description": "Topic 6: Credit Risk Analysis",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Asset-Liability Management II</strong><br/></p></div></td>",
+            "topic_title": "<strong>Tutorial: Asset-Liability Management II</strong>",
+            "topic_description": "Tutorial: Asset-Liability Management II",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No lecture - student revision for the in-semester Saturday exam </strong><br/><p>Exam during lecture class.</p></p></div></td>",
+            "topic_title": "<strong>No lecture - student revision for the in-semester Saturday exam </strong>",
+            "topic_description": "No lecture - student revision for the in-semester Saturday exam Exam during lecture class.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorials</strong><br/></p></div></td>",
+            "topic_title": "<strong>No tutorials</strong>",
+            "topic_description": "No tutorials",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 7: Loan Portfolio and Concentration Risk</strong><br/><p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic 7: Loan Portfolio and Concentration Risk</strong>",
+            "topic_description": "Topic 7: Loan Portfolio and Concentration Risk Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Credit Risk Analysis</strong><br/><p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial: Credit Risk Analysis</strong>",
+            "topic_description": "Tutorial: Credit Risk Analysis Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Securitisation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Topic 8: Securitisation</strong>",
+            "topic_description": "Topic 8: Securitisation",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Loan Portfolio and Concentration Risk</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial: Loan Portfolio and Concentration Risk</strong>",
+            "topic_description": "Tutorial: Loan Portfolio and Concentration Risk",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Off-Balance Sheet Activities</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Topic 9: Off-Balance Sheet Activities</strong>",
+            "topic_description": "Topic 9: Off-Balance Sheet Activities",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Securitisation</strong><br/><p>Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial: Securitisation</strong>",
+            "topic_description": "Tutorial: Securitisation Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10: Capital Adequacy Requirement</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 10: Capital Adequacy Requirement</strong>",
+            "topic_description": "Topic 10: Capital Adequacy Requirement",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Off-Balance Sheet Activities</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial: Off-Balance Sheet Activities</strong>",
+            "topic_description": "Tutorial: Off-Balance Sheet Activities",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 11: Special Topic</strong><br/></p></div></td>",
+            "topic_title": "<strong>Topic 11: Special Topic</strong>",
+            "topic_description": "Topic 11: Special Topic",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Capital Adequacy Requirement</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial: Capital Adequacy Requirement</strong>",
+            "topic_description": "Tutorial: Capital Adequacy Requirement",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Revision Lecture</strong><br/></p></div></td>",
+            "topic_title": "<strong>Course Revision Lecture</strong>",
+            "topic_description": "Course Revision Lecture",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial: Special Topic</strong><br/></p></div></td>",
+            "topic_title": "<strong>Tutorial: Special Topic</strong>",
+            "topic_description": "Tutorial: Special Topic",
+            "learning_outcomes": []
+        }
+    ]
+}
