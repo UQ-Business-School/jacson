@@ -1,0 +1,406 @@
+{
+    "course_title": "Business and Society",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7608-20332-7520",
+    "full_course_code": "MGTS7608-20332-7520",
+    "course_code": "MGTS7608",
+    "class_code": "20332",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify political, social and environmental issues as they relate to business."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop professional and effective writing skills."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply multi-disciplinary knowledge to business situations in a local and global environment."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and assess ethical and sustainability considerations in business decision-making and practice."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop the ability to deliver quality business presentations as a member of a group."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 17/03/2025</p>\n<p> 24/03/2025</p>\n<p> 31/03/2025</p>\n<p> 7/04/2025</p>\n<p> 14/04/2025</p>\n<p> 28/04/2025</p>\n<p> 5/05/2025</p>\n<p> 12/05/2025</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Written",
+            "category": "Quiz, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Starting in week 4, at the commencement of each tutorial, students will have the opportunity to complete a quiz. Consisting of 10-15 multi-choice questions, the quiz reflects the issues covered in the weekly textbook reading. Grades will be calculated on the 4 best results for the semester.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit in tutorial</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions are not accepted for in-class assessment. Failure to complete the quiz at the scheduled time will result in a mark of zero for this portion of assessment.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case study analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 17/03/2025</p>\n<p> 24/03/2025</p>\n<p> 31/03/2025</p>\n<p> 7/04/2025</p>\n<p> 14/04/2025</p>\n<p> 28/04/2025</p>\n<p> 5/05/2025</p>\n<p> 12/05/2025</p>\n<p>\n</p><p>Groups need to select one group member each week to submit the assessment online via Blackboard link. Only one submission needs to be made. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique, Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>After completing your textbook reading each week, you must read the case study relevant to the topic. The case studies can be found in the Learning Module in the Learning Resources section on Blackboard.</p>\n<p> In this course, you will be placed into a tutorial for the semester. Within your tutorial, you will be placed into a group for the semester. As a formative learning exercise in weeks 4, 5, 6, 7, 8, 9, 10, and 11, your group can choose to prepare a brief executive summary (500-750 words) relating to the case study. This assessment requires you to only submit four (4) executive summaries for marking over the semester. Whether you choose to prepare an executive summary each week is up to your group to decide. Completing more summaries will be helpful for you in making sure the 4 executive summaries you choose to submit are of a high standard. The questions you need to respond to in your executive summaries relating to the case studies for each week are available in the Learning Module. You will discuss the case study in class with your group and prepare the Executive Summary in class and the group will submit it during the tutorial via Blackboard.</p>\n<p> At the end of each Executive Summary, you will be required to submit details of the contributions of each member of the group. Contributions will be used to adjust students' individual group assignment results.</p>\n<p>Your tutor will provide you with feedback on your submission each week so that you can make improvements where needed in your subsequent submissions. The best 4 marks will contribute towards the final grade for each group.</p>\n<p>In completing this assignment students will have demonstrated their ability to work collaboratively in a group, identify issues in the business and society context, make a professionally written submission, apply multi-disciplinary knowledge, and produce a well-reasoned and evidence-based argument.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit completed assignment via the submission link in the Assessment tab in Blackboard</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will undertake an exam during the exam period at the end of the semester. The exam will consist of a list of 6 short essay questions based on the topics from weeks 2 to 12. You will need to choose and respond in your own handwriting to 4 questions from the list. This is not an open-book exam. You will need to answer the questions using information based on your weekly readings. A good essay will not be based on your opinions as it must include a demonstrated understanding of stakeholder theory, and be based on evidence using examples from the course case studies to support your arguments. A good essay answer will be between 300-500 words long. You must use prose style with well structured sentences and paragraphs. Dot points will not be acceptable. You do not need to provide references but you will need to write using English academic language that is concise and clear for your marker to understand. </p>\n<p>AI Statement</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the Course</strong><br><p>Review the online module: <strong>Introduction to the Course</strong></p>\n<ul>\n<li>Welcome</li>\n<li>Content of course</li>\n<li>Course Assessment</li>\n<li>Tutorial activities</li>\n<li>Business and Society: What does it mean?</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Introduction to the Course</strong>",
+            "topic_description": "Introduction to the Course Review the online module: Introduction to the Course Welcome Content of course Course Assessment Tutorial activities Business and Society: What does it mean?",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporation and its Stakeholders</strong><br/><p>Review the online module: Role of stakeholders in the business and society relationship</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Corporation and its Stakeholders</strong>",
+            "topic_description": "Corporation and its Stakeholders Review the online module: Role of stakeholders in the business and society relationship",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporation and its Stakeholders</strong><br/><p>Tutorial Expectations and Requirements</p>\n<p>Team formation</p>\n<p>Case study example: Santos gets approval for Narrabri gas with conditions</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Corporation and its Stakeholders</strong>",
+            "topic_description": "Corporation and its Stakeholders Tutorial Expectations and Requirements Team formation Case study example: Santos gets approval for Narrabri gas with conditions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Social Responsibility</strong><br/><p>Review the online module: Impact of CSR on business </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Corporate Social Responsibility</strong>",
+            "topic_description": "Corporate Social Responsibility Review the online module: Impact of CSR on business",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Social Responsibility</strong><br/><p>Team finalisation</p>\n<p>Case study practise : Country Road's ethical focus</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Corporate Social Responsibility</strong>",
+            "topic_description": "Corporate Social Responsibility Team finalisation Case study practise : Country Road's ethical focus",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Reputation</strong><br/><p>Review the online module: Impact of Corporate Reputation. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Corporate Reputation</strong>",
+            "topic_description": "Corporate Reputation Review the online module: Impact of Corporate Reputation.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Reputation</strong><br/><p>CASE STUDY: Qantas</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Corporate Reputation</strong>",
+            "topic_description": "Corporate Reputation CASE STUDY: Qantas",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Shareholders and Governance</strong><br/><p>Review the online module: Shareholder Rights and Corporate Governance. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Shareholders and Governance</strong>",
+            "topic_description": "Shareholders and Governance Review the online module: Shareholder Rights and Corporate Governance.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Shareholders and Governance</strong><br/><p>CASE STUDY: Connective brokers.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Shareholders and Governance</strong>",
+            "topic_description": "Shareholders and Governance CASE STUDY: Connective brokers.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics</strong><br/><p>Review the online module: Ethics and Ethical Reasoning. </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Ethics</strong>",
+            "topic_description": "Ethics Review the online module: Ethics and Ethical Reasoning.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics</strong><br/><p>CASE STUDY: Theranos</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Ethics</strong>",
+            "topic_description": "Ethics CASE STUDY: Theranos",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Protection </strong><br/><p>See Blackboard for further details about the In-Semester examination arrangements.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Consumer Protection </strong>",
+            "topic_description": "Consumer Protection See Blackboard for further details about the In-Semester examination arrangements.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Protection</strong><br/><p>Case study: Apple, Amazon &amp; Google</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Consumer Protection</strong>",
+            "topic_description": "Consumer Protection Case study: Apple, Amazon & Google",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing a Diverse Workforce</strong><br/><p>Review online module: Managing a Diverse Workforce</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Managing a Diverse Workforce</strong>",
+            "topic_description": "Managing a Diverse Workforce Review online module: Managing a Diverse Workforce",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing a Diverse Workforce</strong><br/><p>CASE STUDY: Women in Tech.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Managing a Diverse Workforce</strong>",
+            "topic_description": "Managing a Diverse Workforce CASE STUDY: Women in Tech.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing for Sustainability</strong><br/><p>Review the online module: Managing for Sustainability </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Managing for Sustainability</strong>",
+            "topic_description": "Managing for Sustainability Review the online module: Managing for Sustainability",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing for Sustainability</strong><br/><p>CASE STUDY: Fashion has a trash problem</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Managing for Sustainability</strong>",
+            "topic_description": "Managing for Sustainability CASE STUDY: Fashion has a trash problem",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business and Government Relations</strong><br/><p>Review online module: Business and Government Relations </p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Business and Government Relations</strong>",
+            "topic_description": "Business and Government Relations Review online module: Business and Government Relations",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business &amp; Government Relations</strong><br/><p>Please see Blackboard for more details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Business &amp; Government Relations</strong>",
+            "topic_description": "Business & Government Relations Please see Blackboard for more details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business in a globalised world </strong><br/><p>Review online Module</p></p></div></td>",
+            "topic_title": "<strong>Business in a globalised world </strong>",
+            "topic_description": "Business in a globalised world Review online Module",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business in a globalised world</strong><br/><p>Case study Amazon</p></p></div></td>",
+            "topic_title": "<strong>Business in a globalised world</strong>",
+            "topic_description": "Business in a globalised world Case study Amazon",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review course &amp; summary</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Review course &amp; summary</strong>",
+            "topic_description": "Review course & summary",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exam advice and preparation</strong><br/><p>Exam advice and preparation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Exam advice and preparation</strong>",
+            "topic_description": "Exam advice and preparation Exam advice and preparation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
