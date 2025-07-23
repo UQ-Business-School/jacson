@@ -1,0 +1,406 @@
+{
+    "course_title": "Derivatives and Risk Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3405-22457-7520",
+    "full_course_code": "FINM3405-22457-7520",
+    "course_code": "FINM3405",
+    "class_code": "22457",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify different derivative products that are available in the financial market."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the operation of derivatives markets (options, futures, forwards and swaps)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Master the fundamental concepts in pricing derivative instruments using various state-of-the-art techniques."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate how a range of derivative products can be used to hedge and speculate market risk."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work collaboratively in a team to collect and analyse financial/derivative data, and price/evaluate different financial derivatives."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30% (Report 25%; Reflection 5%) </dd>",
+            "due_date": "<dd><p>Group Report 9/05/2025 4:00 pm</p>\n<p>Individual Reflective Piece 13/05/2025 4:00 pm</p>\n<p>Peer Assessment 13/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to work in teams of 4 students for this Team Project.</p>\n<p>The Team Project has three components: a <strong>Report</strong>, a <strong>Reflective Piece</strong> and a compulsory <strong>Peer Assessment Review</strong>.</p>\n<ul>\n<li>The Report is to be submitted to <strong>both</strong> Blackboard and Turnitin. One member per group is to submit the Report on behalf of the team.</li>\n<li>The Reflective Piece is to be submitted to Blackboard. This is an individual submission item.</li>\n<li>The Peer Assessment Review is an individual submission item.</li>\n</ul>\n<p>Your team is required to produce a <strong>Report</strong> on a set of cases using various financial derivatives instruments. The Report should cover computation, theory discussion and hedging suggestions. The Report focuses on examining your critical analytical skills and ability to work with real-life case scenarios. You are expected to undertake a certain amount of research to complete this Report.</p>\n<p>You are also required to complete a <strong>Reflective Piece </strong>and <strong>Peer Assessment Review</strong> individually after your team has submitted the Report. The Peer Assessment Review will be used to compute your final grade on the Report. Completing the Peer Assessment Review is mandatory. If you do not submit a Peer Assessment Review form, you will receive a score of zero on the Report. The Peer Assessment Review will be completed on Blackboard and is integrated into the Blackboard teams.</p>\n<p>Further details about the Team Project will be discussed during the semester.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The In-Semester Exam will be held during the In-Semester Exam period.</li>\n<li>The date will be advised as soon as we are made aware by the university. At this stage, you should keep all these Saturdays free.</li>\n<li>The topics of coverage depend on the date of the exam, and will include topics covered in the course up to the tutorial prior to the exam.</li>\n<li>More details about the In-Semester Exam will be posted on Blackboard.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be a closed-book, in-person, paper based exam held in the end of semester, centrally managed and invigilated exam period, consisting of problem-solving and short-answer questions.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Derivatives</strong><br/><p>Readings:  Hull, Chapter 1 and 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to Derivatives</strong>",
+            "topic_description": "Introduction to Derivatives Readings:  Hull, Chapter 1 and 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Derivatives</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Derivatives</strong>",
+            "topic_description": "Introduction to Derivatives",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Forward and Futures Contracts 1</strong><br/><p>Readings: Hull, Chapter 3 and 5.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Forward and Futures Contracts 1</strong>",
+            "topic_description": "Forward and Futures Contracts 1 Readings: Hull, Chapter 3 and 5.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Forward and Futures Contracts 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Forward and Futures Contracts 1</strong>",
+            "topic_description": "Forward and Futures Contracts 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Forward and Futures Contracts 2</strong><br/><p>Readings:  Hull, Chapter 3 and 5.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Forward and Futures Contracts 2</strong>",
+            "topic_description": "Forward and Futures Contracts 2 Readings:  Hull, Chapter 3 and 5.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Forward and Futures Contracts 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Forward and Futures Contracts 2</strong>",
+            "topic_description": "Forward and Futures Contracts 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 1: Introduction</strong><br/><p>Readings:  Hull, Chapter 10 and 11.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Options 1: Introduction</strong>",
+            "topic_description": "Options 1: Introduction Readings:  Hull, Chapter 10 and 11.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 1: Introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Options 1: Introduction</strong>",
+            "topic_description": "Options 1: Introduction",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 2: Valuation Using the Black-Scholes Model</strong><br/><p>Hull, Chapter 15.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Options 2: Valuation Using the Black-Scholes Model</strong>",
+            "topic_description": "Options 2: Valuation Using the Black-Scholes Model Hull, Chapter 15.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 2: Valuation Using the Black-Scholes Model</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Options 2: Valuation Using the Black-Scholes Model</strong>",
+            "topic_description": "Options 2: Valuation Using the Black-Scholes Model",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 3: The Greeks and Implied Volatility</strong><br/><p>Hull, Chapter 19 and 20.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Options 3: The Greeks and Implied Volatility</strong>",
+            "topic_description": "Options 3: The Greeks and Implied Volatility Hull, Chapter 19 and 20.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 3: The Greeks and Implied Volatility</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Options 3: The Greeks and Implied Volatility</strong>",
+            "topic_description": "Options 3: The Greeks and Implied Volatility",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 4: Trading Strategies</strong><br/><p>Hull, Chapter 12.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Options 4: Trading Strategies</strong>",
+            "topic_description": "Options 4: Trading Strategies Hull, Chapter 12.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 4: Trading Strategies</strong><br/><p><strong>Good Friday Public Holiday - Friday 18 April 2025 </strong>- Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Options 4: Trading Strategies</strong>",
+            "topic_description": "Options 4: Trading Strategies Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 5: Valuation Using Numerical Methods</strong><br/><p>Hull, Chapter 21.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Options 5: Valuation Using Numerical Methods</strong>",
+            "topic_description": "Options 5: Valuation Using Numerical Methods Hull, Chapter 21.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No lecture or tutorials during In-Semester break.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No lecture or tutorials during In-Semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 5: Valuation Using Numerical Methods</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Options 5: Valuation Using Numerical Methods</strong>",
+            "topic_description": "Options 5: Valuation Using Numerical Methods",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 6: Exotic Options</strong><br/><p>Hull, Chapter 26.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Options 6: Exotic Options</strong>",
+            "topic_description": "Options 6: Exotic Options Hull, Chapter 26.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 6: Exotic Options</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Options 6: Exotic Options</strong>",
+            "topic_description": "Options 6: Exotic Options Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Derivatives 1</strong><br/><p>Hull, Chapter 4, 6.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Interest Rate Derivatives 1</strong>",
+            "topic_description": "Interest Rate Derivatives 1 Hull, Chapter 4, 6.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Derivatives 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Interest Rate Derivatives 1</strong>",
+            "topic_description": "Interest Rate Derivatives 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Derivatives 2</strong><br/><p>Hull, Chapter 7.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Interest Rate Derivatives 2</strong>",
+            "topic_description": "Interest Rate Derivatives 2 Hull, Chapter 7.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interest Rate Derivatives 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Interest Rate Derivatives 2</strong>",
+            "topic_description": "Interest Rate Derivatives 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Value at Risk (VaR) and Expected Shortfall (ES)</strong><br/><p>Hull, Chapter 22.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Value at Risk (VaR) and Expected Shortfall (ES)</strong>",
+            "topic_description": "Value at Risk (VaR) and Expected Shortfall (ES) Hull, Chapter 22.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Value at Risk (VaR) and Expected Shortfall (ES)</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Value at Risk (VaR) and Expected Shortfall (ES)</strong>",
+            "topic_description": "Value at Risk (VaR) and Expected Shortfall (ES)",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Lecture</strong><br/><p>Course review lecture.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Revision Lecture</strong>",
+            "topic_description": "Revision Lecture Course review lecture.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
