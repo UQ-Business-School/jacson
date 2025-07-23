@@ -1,0 +1,377 @@
+{
+    "course_title": "International Financial Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7406-20305-7520",
+    "full_course_code": "FINM7406-20305-7520",
+    "course_code": "FINM7406",
+    "class_code": "20305",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate a knowledge of the international monetary system and an ability to calculate and interpret values to various exchange rate problems"
+        },
+        {
+            "number": "LO2.",
+            "description": "Outline and apply theories of international finance which are used by firms to forecast exchange rates"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain foreign exchange exposure and compare instruments and techniques available to manage it"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply theories of international finance to case studies so as to analyse and evaluate and then articulate solutions to real world problems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Compare costs and sources of capital of international and domestic firms"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The closed book exam will comprise <strong>multiple-choice</strong> questions, short answers, and problem solving questions.</p>\n<p><br/></p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 15/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assignment.</p>\n<p>The project requires students to make various international financial decisions. Examples include maximizing portfolio returns, discussing issues related to cryptocurrency, etc.</p>\n<p>Students need to justify the decisions in a written report with supporting quantitative details. The report is to be 2,500 words (+/- 10%).</p>\n<p>The supporting details include excel computation and the underlying theories.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Assessment (In-person)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Final Exam consists of</p>\n<ul>\n<li>Short-answer questions,</li>\n<li>Problem-solving questions,</li>\n<li>Essay questions.</li>\n</ul>\n<p>Further details will be discussed in class. </p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1: Course Intro and The Intl Monetary System</strong><br><p>Globalisation; four major types of exchange rate mechanisms; digital currencies</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1: Course Intro and The Intl Monetary System</strong>",
+            "topic_description": "Topic 1: Course Intro and The Intl Monetary System Globalisation; four major types of exchange rate mechanisms; digital currencies",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction and The Intl Monetary</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Introduction and The Intl Monetary</strong>",
+            "topic_description": "Course Introduction and The Intl Monetary",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2: The Foreign Exchange Market</strong><br/><p>Characteristics of foreign exchange (forex)markets; terminology and calculations for spot and forward forex markets; triangular arbitrage</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 2: The Foreign Exchange Market</strong>",
+            "topic_description": "Topic 2: The Foreign Exchange Market Characteristics of foreign exchange (forex)markets; terminology and calculations for spot and forward forex markets; triangular arbitrage",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Foreign Exchange (Forex) Market</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>The Foreign Exchange (Forex) Market</strong>",
+            "topic_description": "The Foreign Exchange (Forex) Market",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3: International Parity Conditions</strong><br/><p>Five parity conditions:</p>\n<ol>\n<li>Purchasing Power</li>\n<li>Domestic Fisher Effect</li>\n<li>International Fisher Effect</li>\n<li>Forward Rate Unbiasedness</li>\n<li>Interest Rate Parity</li>\n</ol></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Topic 3: International Parity Conditions</strong>",
+            "topic_description": "Topic 3: International Parity Conditions Five parity conditions: Purchasing Power Domestic Fisher Effect International Fisher Effect Forward Rate Unbiasedness Interest Rate Parity",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>International Parity Conditions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>International Parity Conditions</strong>",
+            "topic_description": "International Parity Conditions",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4: Balance of Payments (BOP)</strong><br/><p>Determinants of Exchange Rates II: Five accounts:</p>\n<ol>\n<li>Current</li>\n<li>Capital</li>\n<li>Financial</li>\n<li>Net errors and omissions</li>\n<li>Official reserves. National Income/Macroeconomic Accounting Identities</li>\n</ol></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Topic 4: Balance of Payments (BOP)</strong>",
+            "topic_description": "Topic 4: Balance of Payments (BOP) Determinants of Exchange Rates II: Five accounts: Current Capital Financial Net errors and omissions Official reserves. National Income/Macroeconomic Accounting Identities",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Balance of Payments</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Balance of Payments</strong>",
+            "topic_description": "Balance of Payments",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5: Foreign Currency Derivatives</strong><br/><ol>\n<li>Forex futures and forwards</li>\n<li>Forex options</li>\n<li>Single currency / cross currency interest rate swaps</li>\n</ol></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Topic 5: Foreign Currency Derivatives</strong>",
+            "topic_description": "Topic 5: Foreign Currency Derivatives Forex futures and forwards Forex options Single currency / cross currency interest rate swaps",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign Currency Derivatives</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Foreign Currency Derivatives</strong>",
+            "topic_description": "Foreign Currency Derivatives",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6: Foreign Exchange Exposure 1</strong><br/><p>Transaction and translation exposures; how are they measured?; methods of hedging transaction exposure (financial hedges vs. operational hedges); translation (accounting) exposure</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 6: Foreign Exchange Exposure 1</strong>",
+            "topic_description": "Topic 6: Foreign Exchange Exposure 1 Transaction and translation exposures; how are they measured?; methods of hedging transaction exposure (financial hedges vs. operational hedges); translation (accounting) exposure",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign Exchange Exposure 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Foreign Exchange Exposure 1</strong>",
+            "topic_description": "Foreign Exchange Exposure 1",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 7: Foreign Exchange Exposure II</strong><br/><ol>\n<li>Economic (or Operating) exposure:</li>\n<li>Why and how does it arise?</li>\n<li>How to measure it?</li>\n<li>Methods of hedging Economic Exposure</li>\n<li>Real world examples.</li>\n</ol></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Topic 7: Foreign Exchange Exposure II</strong>",
+            "topic_description": "Topic 7: Foreign Exchange Exposure II Economic (or Operating) exposure: Why and how does it arise? How to measure it? Methods of hedging Economic Exposure Real world examples.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public Holiday</strong><br/><p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Public Holiday</strong>",
+            "topic_description": "Public Holiday Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign Exchange Exposure II</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Foreign Exchange Exposure II</strong>",
+            "topic_description": "Foreign Exchange Exposure II",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Intl Portfolio Theory and Diversification</strong><br/><ol>\n<li>Basics and benefits of international diversification (real and simulated datasets)</li>\n<li>Measuring foreign investment performance</li>\n<li>Home bias puzzle</li>\n</ol></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Topic 8: Intl Portfolio Theory and Diversification</strong>",
+            "topic_description": "Topic 8: Intl Portfolio Theory and Diversification Basics and benefits of international diversification (real and simulated datasets) Measuring foreign investment performance Home bias puzzle",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intl Portfolio Theory and Diversification</strong><br/><p>Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Intl Portfolio Theory and Diversification</strong>",
+            "topic_description": "Intl Portfolio Theory and Diversification Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Sourcing Global Capital &amp; Political Risk</strong><br/><ol>\n<li>Capital Market Segmentation</li>\n<li>Political risk</li>\n<li>Basics of cost of capital in the international context</li>\n<li>International bond and equity markets</li>\n</ol></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Topic 9: Sourcing Global Capital &amp; Political Risk</strong>",
+            "topic_description": "Topic 9: Sourcing Global Capital & Political Risk Capital Market Segmentation Political risk Basics of cost of capital in the international context International bond and equity markets",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sourcing Global Capital &amp; Political Risk</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Sourcing Global Capital &amp; Political Risk</strong>",
+            "topic_description": "Sourcing Global Capital & Political Risk",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10: International Capital Budgeting</strong><br/><ol>\n<li>Evaluating foreign vs. domestic projects</li>\n<li>How do they differ?</li>\n<li>Valuation using parent vs. project cash flows</li>\n</ol></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Topic 10: International Capital Budgeting</strong>",
+            "topic_description": "Topic 10: International Capital Budgeting Evaluating foreign vs. domestic projects How do they differ? Valuation using parent vs. project cash flows",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>International Capital Budgeting</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>International Capital Budgeting</strong>",
+            "topic_description": "International Capital Budgeting",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Lecture/ Special Topics</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Guest Lecture/ Special Topics</strong>",
+            "topic_description": "Guest Lecture/ Special Topics",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Tutorials</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Revision Tutorials</strong>",
+            "topic_description": "Revision Tutorials",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Brief course and exam review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Brief course and exam review</strong>",
+            "topic_description": "Brief course and exam review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
