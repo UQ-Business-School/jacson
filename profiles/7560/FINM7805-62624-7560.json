@@ -1,0 +1,211 @@
+{
+    "course_title": "Financial Management",
+    "study_period": "Sem 2 2025",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7805-62624-7560",
+    "full_course_code": "FINM7805-62624-7560",
+    "course_code": "FINM7805",
+    "class_code": "62624",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (08/10/2025 - 14/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate an understanding of the key global influences and trends shaping the investment management industry."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse problems to formulate and defend solutions, to achieve financial goals and objectives."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply core financial principles and investment management techniques to real world examples and experience."
+        },
+        {
+            "number": "LO4.",
+            "description": "Comprehend the principles of risk within the realm of finance to evaluate and recommend different strategies for mitigating these risks."
+        },
+        {
+            "number": "LO5.",
+            "description": "In teams, complete a portfolio analysis based on available financial data."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Oral Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 24/10/2025</p>\n<p>\n</p><p>During Class</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>The oral presentation consists of a 5 minute presentation followed by 5 minutes of Q&amp;A, which will be held in class.</li>\n<li>You will be assessed on your: (i) written memorandum (i.e., a summary of your financial analysis), (ii) ability to present your key findings, and (iii) ability to answer questions from the audiences.</li>\n<li>If you are unable to attend the oral presentation, you must apply for an extension. Otherwise, penalties will be applied accordingly.</li>\n<li>Further details about oral presentation will be discussed in class and posted to our course Blackboard site.</li>\n</ul>\n<p>In-person assessment not permitting use of AI:</p>\n<ul>\n<li>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</li>\n</ul>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Financial Evaluation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 7/11/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>For this project, you will be in a team of 4 or 5 members.</li>\n<li>Your task will be to undertake security valuation and portfolio analysis.</li>\n<li>Full details, and relevant materials will be provided on the course Blackboard site and discussed in class.</li>\n</ul>\n<p>Peer Review: Group members are expected to contribute equally, fulfilling the tasks agreed on. If there are disagreements in relation to team members' contributions that cannot be resolved, students must bring the problem to the attention of their Course Coordinator as early as possible. Students can elect to undertake a Peer Review process, which can influence the marks of those who do not contribute to group work.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Real-World Financial Problem Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 14/11/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>In this assessment, students are required to identify a real-world financial problem that pertains to the prescribed topic(s) as indicated on the task description page on Blackboard. The selected financial problem should be current, relevant, and associated with a specific firm, industry, or market. The task involves analysing the problem using financial theories and models covered in-class and providing practical recommendations for resolving the issue.</li>\n<li>You will be assessed on the accuracy and clarity of answers.</li>\n<li>More details will be provided on Blackboard prior to the assessment release date.</li>\n</ul>\n<p><strong>AI STATEMENT</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit to the Submission Point by the due date</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maths refresher workshop</strong><br/><p><strong>Monday 13/10:</strong> Refresher on key maths concepts used in this course</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Maths refresher workshop</strong>",
+            "topic_description": "Maths refresher workshop Monday 13/10: Refresher on key maths concepts used in this course",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Value of Money and Bond Valuation</strong><br/><p><strong>Wednesday 15/10</strong></p>\n<p><strong>Session 1</strong> <strong>8:00 - 12:00 -</strong> <strong>Time Value of Money</strong></p>\n<ul>\n<li>Course introduction, the objective of the firm; the time value of money; decisions; annuities, mortgages, other day to day financial decisions.</li>\n</ul>\n<p><strong>Session 2</strong> <strong>13:00 - 16:00 -</strong> <strong>Valuation of Mortgages and Bonds.</strong></p>\n<ul>\n<li>Valuation of debt.</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Time Value of Money and Bond Valuation</strong>",
+            "topic_description": "Time Value of Money and Bond Valuation Wednesday 15/10 Session 1 8:00 - 12:00 - Time Value of Money Course introduction, the objective of the firm; the time value of money; decisions; annuities, mortgages, other day to day financial decisions. Session 2 13:00 - 16:00 - Valuation of Mortgages and Bonds. Valuation of debt.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Value of Money and Bond Valuation</strong><br/><p><strong>Friday 17/10:</strong> Tutorial problems</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Time Value of Money and Bond Valuation</strong>",
+            "topic_description": "Time Value of Money and Bond Valuation Friday 17/10: Tutorial problems",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stock Valuation and New Project Evaluation I</strong><br/><p><strong>Monday 20/10</strong></p>\n<p><strong>Session 1</strong> <strong>8:00 - 12:00 - </strong>Setting up investment portfolios and developing the Capital Asset Pricing Model.</p>\n<p><strong>Session 1</strong> 13<strong>:00 - 16:00 - </strong>Understanding the trade-off between Beta risk and return.</p></p></div></td>",
+            "topic_title": "<strong>Stock Valuation and New Project Evaluation I</strong>",
+            "topic_description": "Stock Valuation and New Project Evaluation I Monday 20/10 Session 1 8:00 - 12:00 - Setting up investment portfolios and developing the Capital Asset Pricing Model. Session 1 13 :00 - 16:00 - Understanding the trade-off between Beta risk and return.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stock Valuation and New Project Evaluation I</strong><br/><p><strong>Wednesday 22/10:</strong> Valuation of equity and debt securities</p></p></div></td>",
+            "topic_title": "<strong>Stock Valuation and New Project Evaluation I</strong>",
+            "topic_description": "Stock Valuation and New Project Evaluation I Wednesday 22/10: Valuation of equity and debt securities",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>New Project Evaluation II and Oral Presentation</strong><br/><p><strong>Friday 24/10</strong></p>\n<p>WACC estimation and the value of a firm.</p></p></div></td>",
+            "topic_title": "<strong>New Project Evaluation II and Oral Presentation</strong>",
+            "topic_description": "New Project Evaluation II and Oral Presentation Friday 24/10 WACC estimation and the value of a firm.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>New Project Evaluation II and Oral Presentation</strong><br/><p><strong>Monday 27/10:</strong> Project evaluation and applications</p></p></div></td>",
+            "topic_title": "<strong>New Project Evaluation II and Oral Presentation</strong>",
+            "topic_description": "New Project Evaluation II and Oral Presentation Monday 27/10: Project evaluation and applications",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Diversification and CAPM</strong><br/><p><strong>Wednesday 29/10: </strong>Examine how Companies Set Capital Structure</p></p></div></td>",
+            "topic_title": "<strong>Portfolio Diversification and CAPM</strong>",
+            "topic_description": "Portfolio Diversification and CAPM Wednesday 29/10: Examine how Companies Set Capital Structure",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Diversification and CAPM</strong><br/><p><strong>Friday 31/10:</strong> Tutorial covering risk and return, portfolio diversification, and CAPM</p></p></div></td>",
+            "topic_title": "<strong>Portfolio Diversification and CAPM</strong>",
+            "topic_description": "Portfolio Diversification and CAPM Friday 31/10: Tutorial covering risk and return, portfolio diversification, and CAPM",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure, WACC, and Group Assignment</strong><br/><p><strong>Monday 3/11: </strong>Learn how companies manage risk and what strategies they use to hedge risk</p></p></div></td>",
+            "topic_title": "<strong>Capital Structure, WACC, and Group Assignment</strong>",
+            "topic_description": "Capital Structure, WACC, and Group Assignment Monday 3/11: Learn how companies manage risk and what strategies they use to hedge risk",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure, WACC, and Group Assignment</strong><br/><p><strong>Wednesday 5/11:</strong> Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.</p></p></div></td>",
+            "topic_title": "<strong>Capital Structure, WACC, and Group Assignment</strong>",
+            "topic_description": "Capital Structure, WACC, and Group Assignment Wednesday 5/11: Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Derivatives and Revision Lecture</strong><br/><p><strong>Friday 7/11:</strong> Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.</p></p></div></td>",
+            "topic_title": "<strong>Derivatives and Revision Lecture</strong>",
+            "topic_description": "Derivatives and Revision Lecture Friday 7/11: Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Derivatives and Revision</strong><br/><p><strong>Monday 10/11: </strong>Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.</p></p></div></td>",
+            "topic_title": "<strong>Derivatives and Revision</strong>",
+            "topic_description": "Derivatives and Revision Monday 10/11: Statistical review: returns, standard deviations, correlations, and covariances. Elementary understanding of risk and return.",
+            "learning_outcomes": []
+        }
+    ]
+}
