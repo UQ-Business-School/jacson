@@ -1,4 +1,8 @@
 {
+    "course_title": "Business Research Strategy",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS3900-60306-7460",
     "full_course_code": "RBUS3900-60306-7460",
     "course_code": "RBUS3900",
@@ -41,16 +45,16 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "35% Individual Assessment",
-            "due_date": "6/09/2024 5:00 pm",
+            "weighting": "<dd>35% Individual Assessment </dd>",
+            "due_date": "<dd><p> 6/09/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "As a precursor to the final research project, the strategic business research plan will include a detailed written conceptualisation of the business problem facing a client (building upon feedback received for the initial drafts outlined in the topic scoping piece), hypothesis development, identification of what variables will be measured/investigated and what data generation processes will be used, including what measurement issues might be inherent with the types of variables being assessed (a draft copy of a survey or other data generating instrument should be included in the plan). This assignment should not exceed 3,000 words in length. PLEASE NOTE THIS IS A INDIVIDUAL ASSIGNMENTAI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As a precursor to the final research project, the strategic business research plan will include a detailed written conceptualisation of the business problem facing a client (building upon feedback received for the initial drafts outlined in the topic scoping piece), hypothesis development, identification of what variables will be measured/investigated and what data generation processes will be used, including what measurement issues might be inherent with the types of variables being assessed (a draft copy of a survey or other data generating instrument should be included in the plan). This assignment should not exceed 3,000 words in length. PLEASE NOTE THIS IS A INDIVIDUAL ASSIGNMENT</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -61,40 +65,40 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "15% Individual Assessment",
-            "due_date": "10/10/2024 5:00 pm",
+            "weighting": "<dd>15% Individual Assessment </dd>",
+            "due_date": "<dd><p> 10/10/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L03, L04, L05, L06",
             "mode": "Oral, Product/ Artefact/ Multimedia",
             "category": "Presentation",
-            "task_description": "Students will be required to record a 10 minute presentation of a strategic business plan based on the results of analysis techniques covered in class. The presentation will provide a draft of a set of strategic business recommendations for a client that are linked to the analysis conducted. Please upload the presentation or the link to the presentation on blackboard. NOTE: THIS IS AN INDIVIDUAL ASSESSMENT.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard.",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to record a 10 minute presentation of a strategic business plan based on the results of analysis techniques covered in class. The presentation will provide a draft of a set of strategic business recommendations for a client that are linked to the analysis conducted. Please upload the presentation or the link to the presentation on blackboard. NOTE: THIS IS AN INDIVIDUAL ASSESSMENT.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Strategic Business Research Project Report",
             "special_indicators": [],
-            "weighting": "50% Individual Assessment",
-            "due_date": "4/11/2024 5:00 pm",
+            "weighting": "<dd>50% Individual Assessment </dd>",
+            "due_date": "<dd><p> 4/11/2024 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "The project report will document the analysis completed on your own data conducted using the analysis techniques covered in class, as well as draft a set of strategic business recommendations for a client that are tractably linked to the analysis conducted. The report must address the original aims outlined in your strategic business plan and by translating analytics into meaningful insights. In-class workshops towards the end of the semester will focus on analysing and interpreting data, as well as ensuring data is used ethically and objectively. NOTE THIS IS AN INDIVIDUAL ASSESSMENT.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.Read full task descriptionHide full task description",
-            "submission_guidelines": "To be submitted via Blackboard",
-            "deferral_or_extension": "You may be able toapply for an extension.",
-            "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-            "additional_info": "You may be able to\napply for an extension\n."
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project report will document the analysis completed on your own data conducted using the analysis techniques covered in class, as well as draft a set of strategic business recommendations for a client that are tractably linked to the analysis conducted. The report must address the original aims outlined in your strategic business plan and by translating analytics into meaningful insights. In-class workshops towards the end of the semester will focus on analysing and interpreting data, as well as ensuring data is used ethically and objectively. NOTE THIS IS AN INDIVIDUAL ASSESSMENT.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "Course IntroductionChapter 1Learning outcomes:L05",
-            "topic_title": "Course Introduction",
-            "topic_description": "Chapter 1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br/><p>Chapter 1</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Course Introduction</strong>",
+            "topic_description": "Course Introduction Chapter 1",
             "learning_outcomes": [
                 "L05"
             ]
@@ -102,9 +106,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Seminar",
-            "topic": "On the social science traditionChapters 3 and  4 and Readings for week 2Learning outcomes:L01, L05",
-            "topic_title": "On the social science tradition",
-            "topic_description": "Chapters 3 and  4 and Readings for week 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>On the social science tradition</strong><br/><p>Chapters 3 and  4 and Readings for week 2</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>On the social science tradition</strong>",
+            "topic_description": "On the social science tradition Chapters 3 and  4 and Readings for week 2",
             "learning_outcomes": [
                 "L01",
                 "L05"
@@ -113,9 +117,9 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Seminar",
-            "topic": "Thinking strategically about business researchLinking Business Research to Managerial Decision Making -- Assigned Readings.Learning outcomes:L01",
-            "topic_title": "Thinking strategically about business research",
-            "topic_description": "Linking Business Research to Managerial Decision Making -- Assigned Readings.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Thinking strategically about business research</strong><br/><p>Linking Business Research to Managerial Decision Making -- Assigned Readings. </p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Thinking strategically about business research</strong>",
+            "topic_description": "Thinking strategically about business research Linking Business Research to Managerial Decision Making -- Assigned Readings.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -123,9 +127,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Workshop",
-            "topic": "Topic scoping and Literature ReviewChapter 2, 5 and 6Learning outcomes:L02",
-            "topic_title": "Topic scoping and Literature Review",
-            "topic_description": "Chapter 2, 5 and 6",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic scoping and Literature Review</strong><br/><p>Chapter 2, 5 and 6</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic scoping and Literature Review</strong>",
+            "topic_description": "Topic scoping and Literature Review Chapter 2, 5 and 6",
             "learning_outcomes": [
                 "L02"
             ]
@@ -133,9 +137,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Seminar",
-            "topic": "The Research Process -1Chapters 6, 7 and 8Learning outcomes:L02, L04",
-            "topic_title": "The Research Process -1",
-            "topic_description": "Chapters 6, 7 and 8",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Research Process -1</strong><br/><p>Chapters 6, 7 and 8</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>The Research Process -1</strong>",
+            "topic_description": "The Research Process -1 Chapters 6, 7 and 8",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -144,9 +148,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Seminar",
-            "topic": "The Research Process - IIChapters 10, 11Learning outcomes:L02, L04",
-            "topic_title": "The Research Process - II",
-            "topic_description": "Chapters 10, 11",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Research Process - II</strong><br/><p>Chapters 10, 11</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>The Research Process - II</strong>",
+            "topic_description": "The Research Process - II Chapters 10, 11",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -155,9 +159,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
-            "topic": "Data Gathering --  Fieldwork, Observation, Interviews and Focus GroupChapters 12,13 & 14Learning outcomes:L03",
-            "topic_title": "Data Gathering --  Fieldwork, Observation, Interviews and Focus Group",
-            "topic_description": "Chapters 12,13 & 14",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Gathering --  Fieldwork, Observation, Interviews and Focus Group</strong><br/><p>Chapters 12,13 &amp; 14</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Data Gathering --  Fieldwork, Observation, Interviews and Focus Group</strong>",
+            "topic_description": "Data Gathering --  Fieldwork, Observation, Interviews and Focus Group Chapters 12,13 & 14",
             "learning_outcomes": [
                 "L03"
             ]
@@ -165,9 +169,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Seminar",
-            "topic": "Data Gathering -- Surveys and Questionnaires and Attitude MeasurementChapter 15 and 16Learning outcomes:L03",
-            "topic_title": "Data Gathering -- Surveys and Questionnaires and Attitude Measurement",
-            "topic_description": "Chapter 15 and 16",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Gathering -- Surveys and Questionnaires and Attitude Measurement</strong><br/><p>Chapter 15 and 16</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Data Gathering -- Surveys and Questionnaires and Attitude Measurement</strong>",
+            "topic_description": "Data Gathering -- Surveys and Questionnaires and Attitude Measurement Chapter 15 and 16",
             "learning_outcomes": [
                 "L03"
             ]
@@ -175,9 +179,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Seminar",
-            "topic": "Dealing with Data -- Part 1Chapters 17 and 18Learning outcomes:L06",
-            "topic_title": "Dealing with Data -- Part 1",
-            "topic_description": "Chapters 17 and 18",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dealing with Data -- Part 1</strong><br/><p>Chapters 17 and 18</p></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Dealing with Data -- Part 1</strong>",
+            "topic_description": "Dealing with Data -- Part 1 Chapters 17 and 18",
             "learning_outcomes": [
                 "L06"
             ]
@@ -185,17 +189,17 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "In-Semester Break",
-            "topic_title": "In-Semester Break",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "Dealing with Data - Part 2Learning outcomes:L06",
-            "topic_title": "Dealing with Data - Part 2",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dealing with Data - Part 2</strong><br/></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Dealing with Data - Part 2</strong>",
+            "topic_description": "Dealing with Data - Part 2",
             "learning_outcomes": [
                 "L06"
             ]
@@ -203,9 +207,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Workshop",
-            "topic": "Research Report (A3) Data Analysis WorkshopKing's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.Learning outcomes:L04, L06",
-            "topic_title": "Research Report (A3) Data Analysis Workshop",
-            "topic_description": "King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Report (A3) Data Analysis Workshop</strong><br/><p><strong>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Research Report (A3) Data Analysis Workshop</strong>",
+            "topic_description": "Research Report (A3) Data Analysis Workshop King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L04",
                 "L06"
@@ -214,9 +218,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Seminar",
-            "topic": "On translating analytics into meaningful insightsLearning outcomes:L03",
-            "topic_title": "On translating analytics into meaningful insights",
-            "topic_description": "",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>On translating analytics into meaningful insights</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>On translating analytics into meaningful insights</strong>",
+            "topic_description": "On translating analytics into meaningful insights",
             "learning_outcomes": [
                 "L03"
             ]
@@ -224,9 +228,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Lecture",
-            "topic": "Course Revision and OverviewRecorded Lecture with Exam OverviewLearning outcomes:L01, L02, L03, L04, L05, L06",
-            "topic_title": "Course Revision and Overview",
-            "topic_description": "Recorded Lecture with Exam Overview",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Revision and Overview</strong><br/><p>Recorded Lecture with Exam Overview</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Course Revision and Overview</strong>",
+            "topic_description": "Course Revision and Overview Recorded Lecture with Exam Overview",
             "learning_outcomes": [
                 "L01",
                 "L02",
