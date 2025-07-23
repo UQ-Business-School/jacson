@@ -1,0 +1,396 @@
+{
+    "course_title": "Introduction to Management Accounting",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT1102-20244-7520",
+    "full_course_code": "ACCT1102-20244-7520",
+    "course_code": "ACCT1102",
+    "class_code": "20244",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the roles of management and cost accounting"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply costing processes and undertake cost-volume-profit analysis"
+        },
+        {
+            "number": "LO3.",
+            "description": "Work in a group to prepare and professionally communicate a draft budget"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply a basic understanding of performance measurement and balanced scorecards"
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically evaluate ethics cases in management accounting"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Saturday Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p>\n<p>\n</p><p>Centrally timetabled exam</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Activity/ Performance",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>This exam is a closed book, on-campus exam.</strong></p>\n<ul>\n<li>The date and time will be advised to you directly by UQ Exams.</li>\n<li>Topics 1 - 5 will be included.</li>\n<li>There will be a mixture of multiple-choice questions and calculative problems.</li>\n<li><strong>Practice exams and solutions will be available </strong>and students are strongly encouraged to use these materials.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p><em>This assessment task is to be completed in-person with pen/pencil and UQ approved calculator. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> Week 4 Thu - Week 13 Fri</p></dd>",
+            "learning_objectives": "L03",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will work in a group to submit a <strong>Draft Budget</strong> with an <strong>Excel model</strong> and <strong>PowerPoint presentation</strong>.</p>\n<ul>\n<li>Groups <strong>must have 4 students</strong> (no more, no less) from the same tutorial class. Students must arrange themselves into groups. If you need help joining or forming a group please contact your tutor. <strong>There will be a Registration Sheet on Blackboard for students to arrange themselves into groups.</strong></li>\n<li>A <strong>formative feedback</strong> provides time for each group to submit their draft assignment once for feedback for actioning prior to the <strong>final submission date.</strong></li>\n<li>A <strong>peer assessment task</strong> must also be completed for this group assignment - each student will complete a form in which they provide their perception of the relative contribution of each of their group members (whether equal or unequal).</li>\n<li>Groups will make <strong>in-class presentations during tutorials.</strong></li>\n<li>See Topic 7 - Group Assignment<strong> </strong>and the Assessment folder on <strong>Blackboard </strong>for specific assignment information</li>\n</ul>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>See Topic 7 - Group Assignment and Assessment folder on Blackboard for the submission requirements.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The format will be provided on Blackboard.</p>\n<ul>\n<li><strong>Practice final exams and solutions will be available and students are strongly encouraged to use these materials. </strong>These practice exams have the same format and level of difficulty as the actual exam. Included are <strong>Topics 6, 8, 9, 10, 11, 12. All earlier other topics are relevant prerequisites.</strong></li>\n<li><strong>Only Casio FX82 or University approved/labelled calculators</strong> will be allowed.</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<ul>\n<li>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>1. Management and Cost Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>1. Management and Cost Accounting</strong>",
+            "topic_description": "1. Management and Cost Accounting",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Management and Cost Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Management and Cost Accounting</strong>",
+            "topic_description": "Management and Cost Accounting",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>2. Overhead and Job Costing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>2. Overhead and Job Costing</strong>",
+            "topic_description": "2. Overhead and Job Costing",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Overhead and Job Costing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Overhead and Job Costing</strong>",
+            "topic_description": "Overhead and Job Costing",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>3. Cost-Volume-Profit (CVP) Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>3. Cost-Volume-Profit (CVP) Analysis</strong>",
+            "topic_description": "3. Cost-Volume-Profit (CVP) Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cost-Volume-Profit (CVP) Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Cost-Volume-Profit (CVP) Analysis</strong>",
+            "topic_description": "Cost-Volume-Profit (CVP) Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>4. Introduction to Budgets &amp; Responsibility Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>4. Introduction to Budgets &amp; Responsibility Accounting</strong>",
+            "topic_description": "4. Introduction to Budgets & Responsibility Accounting",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction  to Budgets &amp; Responsibility Accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Introduction  to Budgets &amp; Responsibility Accounting</strong>",
+            "topic_description": "Introduction  to Budgets & Responsibility Accounting",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>5. Budgets: Operating Budgets</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>5. Budgets: Operating Budgets</strong>",
+            "topic_description": "5. Budgets: Operating Budgets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Budgets: Operating Budgets</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Budgets: Operating Budgets</strong>",
+            "topic_description": "Budgets: Operating Budgets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>6. Budgets: Financial Statements and Cash</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>6. Budgets: Financial Statements and Cash</strong>",
+            "topic_description": "6. Budgets: Financial Statements and Cash",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Budgets: Financial Statements and Cash</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Budgets: Financial Statements and Cash</strong>",
+            "topic_description": "Budgets: Financial Statements and Cash",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>7. Budgets: Group Assignment</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>7. Budgets: Group Assignment</strong>",
+            "topic_description": "7. Budgets: Group Assignment",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Budgets: Group Assignment</strong><br/><p><strong>Good Friday public holiday</strong> is on 18th April. If your are in a Friday tutorial, please attend any other tutorial during this week, or watch the special tutorial recording on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Budgets: Group Assignment</strong>",
+            "topic_description": "Budgets: Group Assignment Good Friday public holiday is on 18th April. If your are in a Friday tutorial, please attend any other tutorial during this week, or watch the special tutorial recording on Blackboard.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>8. Traditional Overhead Allocation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>8. Traditional Overhead Allocation</strong>",
+            "topic_description": "8. Traditional Overhead Allocation",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester break</strong>",
+            "topic_description": "In-Semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Traditional Overhead Allocation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Traditional Overhead Allocation</strong>",
+            "topic_description": "Traditional Overhead Allocation",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>9. Variance Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>9. Variance Analysis</strong>",
+            "topic_description": "9. Variance Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Variance Analysis</strong><br/><p><strong>Labour Day public holiday - Monday 5th May</strong>. If you are in a Monday tutorial, please watch the special tutorial recording on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Variance Analysis</strong>",
+            "topic_description": "Variance Analysis Labour Day public holiday - Monday 5th May . If you are in a Monday tutorial, please watch the special tutorial recording on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>10. Performance Measurement and Compensation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>10. Performance Measurement and Compensation</strong>",
+            "topic_description": "10. Performance Measurement and Compensation",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Measurement &amp; Compensation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Performance Measurement &amp; Compensation</strong>",
+            "topic_description": "Performance Measurement & Compensation",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>11. Strategy, Balanced Scorecard &amp; Sustainability</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>11. Strategy, Balanced Scorecard &amp; Sustainability</strong>",
+            "topic_description": "11. Strategy, Balanced Scorecard & Sustainability",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategy, Balanced Scorecard &amp; Sustainability</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Strategy, Balanced Scorecard &amp; Sustainability</strong>",
+            "topic_description": "Strategy, Balanced Scorecard & Sustainability",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>12. Ethics in accounting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>12. Ethics in accounting</strong>",
+            "topic_description": "12. Ethics in accounting",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Group assignment In-class Presentations</strong><br/><p>Groups will present their powerpoint slide presentations in their respective tutorial classes. There is no tutorial on the final \"Ethics\" topic, please study this topic as a self-study exercise from the solutions posted to blackboard. </p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Group assignment In-class Presentations</strong>",
+            "topic_description": "Group assignment In-class Presentations Groups will present their powerpoint slide presentations in their respective tutorial classes. There is no tutorial on the final \"Ethics\" topic, please study this topic as a self-study exercise from the solutions posted to blackboard.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>13. Course Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>13. Course Revision</strong>",
+            "topic_description": "13. Course Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
