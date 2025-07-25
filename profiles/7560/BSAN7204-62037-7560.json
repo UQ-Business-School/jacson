@@ -1,0 +1,340 @@
+{
+    "course_title": "Statistical Methods in Business",
+    "study_period": "Sem 2 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7204-62037-7560",
+    "full_course_code": "BSAN7204-62037-7560",
+    "course_code": "BSAN7204",
+    "class_code": "62037",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Exploratory Data Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/08/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.</p>\n<p>This assessment can be completed individually or in a pair. If working as a pair, you will submit a single submission with both names on it. Both members of the pair will receive the same grade for the assessment. </p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Analytics Practice",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 24/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)</p>\n<p>You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Complete via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Technical Report and Stakeholder Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 31/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assignment is for you to work with a complex data set to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:</p>\n<p>• Multiple linear regression</p>\n<p>• Logistic regression and multiple logistic regression</p>\n<p>• Time series</p>\n<p>You will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders</p>\n<p>Your technical report should be around 1000 words. Your presentation should be in the form of a 6-minute video upload, using slides and speaking to camera to communicate a summary of your analysis, conclusions, and potential value for stakeholders. </p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Further details of submission will be provided on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.0 Introduction to business decision making and the role of data</strong><br/><p>Understanding collective organisation as agreement, action and outcomes, and the business context and the importance of data in decision-making.</p>\n<p><strong>Live session:<em> </em></strong>Discussion of the role of statistics in decision making.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise module “Getting started with Statistical Methods”</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.0 Introduction to business decision making and the role of data</strong>",
+            "topic_description": "Module 1.0 Introduction to business decision making and the role of data Understanding collective organisation as agreement, action and outcomes, and the business context and the importance of data in decision-making. Live session: Discussion of the role of statistics in decision making. Self-directed learning: Complete Rise module “Getting started with Statistical Methods”",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.0 Introduction to business decision-making and the role of data</strong><br/><p>An introduction to R.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.0 Introduction to business decision-making and the role of data</strong>",
+            "topic_description": "Module 1.0 Introduction to business decision-making and the role of data An introduction to R.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1 Framing the question</strong><br/><p>How to frame business problems in compelling ways that can be addressed through data analysis.</p>\n<p><strong>Live session:</strong> Discussion of how to turn a problem into an analytical question.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 1.1 Exploring data</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.1 Framing the question</strong>",
+            "topic_description": "Module 1.1 Framing the question How to frame business problems in compelling ways that can be addressed through data analysis. Live session: Discussion of how to turn a problem into an analytical question. Self-directed learning: Complete Rise Module 1.1 Exploring data",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1 Framing the question</strong><br/><p>Perform basic data manipulation, generate summary statistics and univariate data visualisation with ggplot2.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.1 Framing the question</strong>",
+            "topic_description": "Module 1.1 Framing the question Perform basic data manipulation, generate summary statistics and univariate data visualisation with ggplot2.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.2 Introduction to data and exploratory analysis</strong><br/><p>The importance of understanding your data before diving into analysis.</p>\n<p><strong>Live session:</strong> Discussion of why data matters, data quality, and exploratory techniques.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 1.2 Bivariate Data Analysis</p>\n<p>Ekka Show Day - Wednesday 13 August 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.2 Introduction to data and exploratory analysis</strong>",
+            "topic_description": "Module 1.2 Introduction to data and exploratory analysis The importance of understanding your data before diving into analysis. Live session: Discussion of why data matters, data quality, and exploratory techniques. Self-directed learning: Complete Rise Module 1.2 Bivariate Data Analysis Ekka Show Day - Wednesday 13 August 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.2 Introduction to data and exploratory analysis</strong><br/><p>Perform bivariate and multivariate data visualisation with ggplot2.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.2 Introduction to data and exploratory analysis</strong>",
+            "topic_description": "Module 1.2 Introduction to data and exploratory analysis Perform bivariate and multivariate data visualisation with ggplot2.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1 Hypothesis testing in business</strong><br/><p>How to use hypothesis testing to validate or undermine business assumptions.</p>\n<p><strong>Live session:</strong> Discussion of why hypothesis testing is used in business, pitfalls, and applications.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 2.1 Hypothesis testing</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 2.1 Hypothesis testing in business</strong>",
+            "topic_description": "Module 2.1 Hypothesis testing in business How to use hypothesis testing to validate or undermine business assumptions. Live session: Discussion of why hypothesis testing is used in business, pitfalls, and applications. Self-directed learning: Complete Rise Module 2.1 Hypothesis testing",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1 Hypothesis testing in business</strong><br/><p>Practice hypothesis testing for categorical and continuous data.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 2.1 Hypothesis testing in business</strong>",
+            "topic_description": "Module 2.1 Hypothesis testing in business Practice hypothesis testing for categorical and continuous data.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.2 Linear regression as a predictive tool</strong><br/><p>Understanding the limitations and power of regression models.</p>\n<p><strong>Live session:</strong> Discussion of the strengths and pitfalls of simple linear regression and its application in business.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 2.2 Linear regression</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 2.2 Linear regression as a predictive tool</strong>",
+            "topic_description": "Module 2.2 Linear regression as a predictive tool Understanding the limitations and power of regression models. Live session: Discussion of the strengths and pitfalls of simple linear regression and its application in business. Self-directed learning: Complete Rise Module 2.2 Linear regression",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.2 Linear regression as a predictive tool</strong><br/><p>Practice linear regression modelling.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 2.2 Linear regression as a predictive tool</strong>",
+            "topic_description": "Module 2.2 Linear regression as a predictive tool Practice linear regression modelling.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1 Multiple regression and model building</strong><br/><p>How to build models that capture key business variables without overcomplicating the analysis.</p>\n<p><strong>Live session:</strong> Transition from simple to multiple linear regression.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 3.1 Multiple regression</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.1 Multiple regression and model building</strong>",
+            "topic_description": "Module 3.1 Multiple regression and model building How to build models that capture key business variables without overcomplicating the analysis. Live session: Transition from simple to multiple linear regression. Self-directed learning: Complete Rise Module 3.1 Multiple regression",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1 Multiple regression and model building</strong><br/><p>Practice building a linear regression model with multiple predictor variables and assessing the validity of modelling assumptions.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.1 Multiple regression and model building</strong>",
+            "topic_description": "Module 3.1 Multiple regression and model building Practice building a linear regression model with multiple predictor variables and assessing the validity of modelling assumptions.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2 Logistic regression and predicting outcomes</strong><br/><p>Using data to predict categorical outcomes in business scenarios.</p>\n<p><strong>Live session:</strong> Understanding the logistic regression model and evaluating performance.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 3.2 Logistic regression</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.2 Logistic regression and predicting outcomes</strong>",
+            "topic_description": "Module 3.2 Logistic regression and predicting outcomes Using data to predict categorical outcomes in business scenarios. Live session: Understanding the logistic regression model and evaluating performance. Self-directed learning: Complete Rise Module 3.2 Logistic regression",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2 Logistic regression and predicting outcomes</strong><br/><p>Practice building a logistic regression model, assessing its performance and the validity of modelling assumptions.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.2 Logistic regression and predicting outcomes</strong>",
+            "topic_description": "Module 3.2 Logistic regression and predicting outcomes Practice building a logistic regression model, assessing its performance and the validity of modelling assumptions.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3 Time series analysis and forecasting</strong><br/><p>The importance of time series analysis in business forecasting.</p>\n<p><strong>Live session:</strong> Introduction to time series analysis.</p>\n<p><strong>Self-directed learning:</strong> Complete Rise Module 3.3 Time series</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.3 Time series analysis and forecasting</strong>",
+            "topic_description": "Module 3.3 Time series analysis and forecasting The importance of time series analysis in business forecasting. Live session: Introduction to time series analysis. Self-directed learning: Complete Rise Module 3.3 Time series",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3 Time series analysis and forecasting</strong><br/><p>Practice exponential smoothing, seasonal adjustment, and trend forecasting of time series.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 3.3 Time series analysis and forecasting</strong>",
+            "topic_description": "Module 3.3 Time series analysis and forecasting Practice exponential smoothing, seasonal adjustment, and trend forecasting of time series.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.1 Model selection and validation</strong><br/><p>How to select and validate the best model for your business problem.</p>\n<p><strong>Live session:</strong> Discussion of why  model selection matters in business.</p>\n<p><strong>Self-directed learning:</strong> Start Rise Module 4 Model Evaluation</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 4.1 Model selection and validation</strong>",
+            "topic_description": "Module 4.1 Model selection and validation How to select and validate the best model for your business problem. Live session: Discussion of why  model selection matters in business. Self-directed learning: Start Rise Module 4 Model Evaluation",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.1 Model selection and validation</strong><br/><p>Perform stepwise regression based on AIC. Interpret results and select best model for prediction.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 4.1 Model selection and validation</strong>",
+            "topic_description": "Module 4.1 Model selection and validation Perform stepwise regression based on AIC. Interpret results and select best model for prediction.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.2 Integrating AI into business analytics</strong><br/><p>How AI can enhance business analytics by making the analysis process more efficient.</p>\n<p><strong>Live session:</strong> The data science process and the role of AI.</p>\n<p><strong>Self-directed learning: </strong>Complete Rise Module 4 Model Evaluation</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.2 Integrating AI into business analytics</strong>",
+            "topic_description": "Module 4.2 Integrating AI into business analytics How AI can enhance business analytics by making the analysis process more efficient. Live session: The data science process and the role of AI. Self-directed learning: Complete Rise Module 4 Model Evaluation",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.2 Integrating AI into business analytics</strong><br/><p>Understand where and how GenAI tools can be integrated into the data science workflow. Learn to engineer effective prompts for business analytics use cases.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.2 Integrating AI into business analytics</strong>",
+            "topic_description": "Module 4.2 Integrating AI into business analytics Understand where and how GenAI tools can be integrated into the data science workflow. Learn to engineer effective prompts for business analytics use cases.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.3 Communicating results to stakeholders</strong><br/><p>The importance of translating statistical results into actionable business insights.</p>\n<p><strong>Live Session:</strong> Storytelling with data.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.3 Communicating results to stakeholders</strong>",
+            "topic_description": "Module 4.3 Communicating results to stakeholders The importance of translating statistical results into actionable business insights. Live Session: Storytelling with data.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.3 Communicating results to stakeholders</strong><br/><p>Translate statistical model results into plain-language insights and actionable recommendations suitable for a stakeholder audience. Plan and storyboard a short stakeholder presentation, using AI to help draft clear, non-technical messaging and voiceover scripts.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.3 Communicating results to stakeholders</strong>",
+            "topic_description": "Module 4.3 Communicating results to stakeholders Translate statistical model results into plain-language insights and actionable recommendations suitable for a stakeholder audience. Plan and storyboard a short stakeholder presentation, using AI to help draft clear, non-technical messaging and voiceover scripts.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.4 Case study integration and review</strong><br/><p>Integrating everything learned in the course through a comprehensive case study.</p>\n<p><strong>Live session:</strong> Retail sales case study</p>\n<p><strong>Self Directed Learning: </strong>Ensure all Rise modules and analytics practice has been completed.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.4 Case study integration and review</strong>",
+            "topic_description": "Module 4.4 Case study integration and review Integrating everything learned in the course through a comprehensive case study. Live session: Retail sales case study Self Directed Learning: Ensure all Rise modules and analytics practice has been completed.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.4 Case study integration and review</strong><br/><p>A review of some of the statistical approaches covered in the course with a case study.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.4 Case study integration and review</strong>",
+            "topic_description": "Module 4.4 Case study integration and review A review of some of the statistical approaches covered in the course with a case study.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.5 Integrating AI into Business analytics</strong><br/><p>How to keep up with new tools and methods in a rapidly evolving field, while keeping in mind the two core reasons for all quantitative practices: collective organization via agreement and effective action.</p>\n<p><strong>Live session:</strong> The road ahead: Staying Current</p>\n<p><strong>Self-directed learning: </strong>Submit final project and review key learnings.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.5 Integrating AI into Business analytics</strong>",
+            "topic_description": "Module 4.5 Integrating AI into Business analytics How to keep up with new tools and methods in a rapidly evolving field, while keeping in mind the two core reasons for all quantitative practices: collective organization via agreement and effective action. Live session: The road ahead: Staying Current Self-directed learning: Submit final project and review key learnings.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4.5 Integrating AI into Business analytics</strong><br/><p>A review of R.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 4.5 Integrating AI into Business analytics</strong>",
+            "topic_description": "Module 4.5 Integrating AI into Business analytics A review of R.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        }
+    ]
+}
