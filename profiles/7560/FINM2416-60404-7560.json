@@ -48,7 +48,7 @@
             "weighting": "<dd>30%</dd>",
             "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
             "learning_objectives": "L01, L02, L03",
-            "mode": "Activity/ Performance",
+            "mode": "Written",
             "category": "Examination",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>More details about the exam will be posted to our course BB site.</li>\n<li>The in-semester exam date will be advised as soon as we are made aware by the university.  </li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
