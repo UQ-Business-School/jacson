@@ -1,0 +1,368 @@
+{
+    "course_title": "Fundamentals of Advertising",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ADVT7508-60378-7560",
+    "full_course_code": "ADVT7508-60378-7560",
+    "course_code": "ADVT7508",
+    "class_code": "60378",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate understanding of the way different media are used in advertising and explain why particular media and combinations of media are used in advertising campaigns."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify different kinds of advertising and advertising messages, and the reason why they are used (or not) in campaigns."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate understanding of what makes advertising effective, including metrics and tactics for measuring effectiveness."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop practical skills in creative strategy in advertising, examining various creative approaches, appeals and executions used by advertisers."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop competencies in the areas of creativity and written communication."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Ad Critique",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 22/09/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment involves the preparation of an ad critique. <strong>Individually,</strong> you are to choose a recent advertisement (in English, targeted to Australians) and provide a brief overview of the components of chosen ad, and a critique of the effectiveness of the ad.<em> </em>Submission is a 4 x A4 page (maximum) report. <em> </em>Further details about this task will be available in class and on Blackboard.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The ad critique must be submitted electronically to Ultra (Blackboard) by the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Creative Brief and Pitch Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>60% (Brief 40%; Presentation 20%) </dd>",
+            "due_date": "<dd><p> 31/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment involves the preparation of a creative brief for a selected client AND a (recorded) pitch presentation.</p>\n<p>Individually, you are to choose a client and develop a creative brief for the selected client. Further details about this task will be made available in class and on Blackboard.</p>\n<p>The assessment has two components:</p>\n<ol>\n<li>Creative brief. In report format, propose the core components of a creative brief for the selected client (maximum 4 x A4 pages). </li>\n<li>Pitch presentation. Prepare a 5 minute recorded presentation that outlines the core components of the creative brief in a pitch format. Please follow the submission guidelines on Blackboard for the recorded pitch carefully to ensure the assignment is submitted and can be marked.</li>\n</ol>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The creative brief and pitch presentation should be submitted electronically on Blackboard (Ultra) by the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Advertising</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Introduction to Advertising</strong>",
+            "topic_description": "Introduction to Advertising Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Communication Process</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>The Communication Process</strong>",
+            "topic_description": "The Communication Process Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Introduction to Advertising</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong> Introduction to Advertising</strong>",
+            "topic_description": "Introduction to Advertising",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Behaviour and Empowerment</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Consumer Behaviour and Empowerment</strong>",
+            "topic_description": "Consumer Behaviour and Empowerment Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Communication Process</strong><br/><p>Check Blackboard/Ultra announcements for make-up options for tutorials impacted by the Ekka public holiday.  </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>The Communication Process</strong>",
+            "topic_description": "The Communication Process Check Blackboard/Ultra announcements for make-up options for tutorials impacted by the Ekka public holiday.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Insight and Strategy</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Consumer Insight and Strategy</strong>",
+            "topic_description": "Consumer Insight and Strategy Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Behaviour and Empowerment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Consumer Behaviour and Empowerment</strong>",
+            "topic_description": "Consumer Behaviour and Empowerment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creative Strategy</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Creative Strategy</strong>",
+            "topic_description": "Creative Strategy Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consumer Insight and Strategy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Consumer Insight and Strategy</strong>",
+            "topic_description": "Consumer Insight and Strategy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media Strategy and Planning</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Media Strategy and Planning</strong>",
+            "topic_description": "Media Strategy and Planning Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Creative Strategy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Creative Strategy</strong>",
+            "topic_description": "Creative Strategy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media Strategy and Selection</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Media Strategy and Selection</strong>",
+            "topic_description": "Media Strategy and Selection Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media Strategy and Planning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Media Strategy and Planning</strong>",
+            "topic_description": "Media Strategy and Planning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advertising Analytics</strong><br/><p>Pre-recorded lecture.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Advertising Analytics</strong>",
+            "topic_description": "Advertising Analytics Pre-recorded lecture.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Media Strategy and Selection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Media Strategy and Selection</strong>",
+            "topic_description": "Media Strategy and Selection",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>A2 (Creative Brief + Pitch Presentation) Workshop </strong><br/><p>LIVE Zoom lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>A2 (Creative Brief + Pitch Presentation) Workshop </strong>",
+            "topic_description": "A2 (Creative Brief + Pitch Presentation) Workshop LIVE Zoom lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advertising Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Advertising Analytics</strong>",
+            "topic_description": "Advertising Analytics",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Social, Ethical and Regulatory Aspects</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Social, Ethical and Regulatory Aspects</strong>",
+            "topic_description": "Social, Ethical and Regulatory Aspects",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability &amp; Issues for Advertising </strong><br/><p>Check Blackboard/Ultra announcements for make-up option for tutorials impacted by the King's Birthday public holiday.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Sustainability &amp; Issues for Advertising </strong>",
+            "topic_description": "Sustainability & Issues for Advertising Check Blackboard/Ultra announcements for make-up option for tutorials impacted by the King's Birthday public holiday.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measuring Program Effectiveness </strong><br/><p>Pre-recorded lecture mode. </p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Measuring Program Effectiveness </strong>",
+            "topic_description": "Measuring Program Effectiveness Pre-recorded lecture mode.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Social, Ethical and Regulatory Aspects</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Social, Ethical and Regulatory Aspects</strong>",
+            "topic_description": "Social, Ethical and Regulatory Aspects",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Industry Guest Lecturer </strong><br/><p>LIVE Zoom Lecture mode<strong> </strong></p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Industry Guest Lecturer </strong>",
+            "topic_description": "Industry Guest Lecturer LIVE Zoom Lecture mode",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measuring Program Effectiveness</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Measuring Program Effectiveness</strong>",
+            "topic_description": "Measuring Program Effectiveness",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Selling Your Work + Course Review</strong><br/><p>Pre-recorded lecture mode</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Selling Your Work + Course Review</strong>",
+            "topic_description": "Selling Your Work + Course Review Pre-recorded lecture mode",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Drop-in for Final Assessment</strong><br/><p>Attendance is OPTIONAL. Tutorials will be used as a drop-in opportunity to seek final guidance for the Creative Pitch &amp; Brief from your tutor.</p></p></div></td>",
+            "topic_title": "<strong>Drop-in for Final Assessment</strong>",
+            "topic_description": "Drop-in for Final Assessment Attendance is OPTIONAL. Tutorials will be used as a drop-in opportunity to seek final guidance for the Creative Pitch & Brief from your tutor.",
+            "learning_outcomes": []
+        }
+    ]
+}
