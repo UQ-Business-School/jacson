@@ -42,15 +42,15 @@
                 }
             ],
             "weighting": "<dd>25%</dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p>\n<p>\n</p><p>All quizzes will open on their indicated week from 8am Monday and will close at 4pm Friday of their indicated week.</p></dd>",
+            "due_date": "<dd><p>Quiz 1 (Topic 1 &amp; 2) Week 4 Mon - Week 4 Fri</p>\n<p>Quiz 2 (Topic 3 &amp; 4) Week 6 Mon - Week 6 Fri</p>\n<p>Quiz 3 (Topic 5 &amp; 6) Week 8 Mon - Week 8 Fri</p>\n<p>Quiz 4 (Topic 7) Week 9 Mon - Week 9 Fri</p>\n<p>Quiz 5 (Topic 8 &amp; 9) Week 11 Mon - Week 11 Fri</p>\n<p>Quiz 6 (Topic 10 &amp; 11) Week 13 Mon - Week 13 Fri</p>\n<p>\n</p><p>All quizzes will open on their indicated week from 8am Monday and will close at 4pm Friday of their indicated week.</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Quiz",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Assessment Details:</strong></p>\n<ul>\n<li>Topic assessed: Topics 1-11.</li>\n<li>Administration: Blackboard Test.</li>\n<li>6 check-in quizzes with the best 5 used for final result.</li>\n<li>Question types: 10 multiple choice questions. </li>\n<li>Each quiz will be open for 20 minutes.</li>\n<li>Only ONE attempt for each quiz.</li>\n<li>Deferred or supplementary quiz is NOT available.</li>\n<li>Students must ensure their access to a laptop or desktop computer as well as stable internet connection for the duration of this assessment. Do not use a mobile device for this assessment.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
             "late_submission": "<p>No late submission is allowed. The quiz will automatically close at 4pm Friday on each applicable week.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
