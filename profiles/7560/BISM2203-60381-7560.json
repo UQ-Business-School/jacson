@@ -1,0 +1,379 @@
+{
+    "course_title": "Business Process Management",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM2203-60381-7560",
+    "full_course_code": "BISM2203-60381-7560",
+    "course_code": "BISM2203",
+    "class_code": "60381",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate knowledge of Business Process Management and the process lifecycle."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply business process modelling skills using international modelling standards."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply knowledge of process improvement techniques including as part of a team."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse common process bottlenecks and problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate process analysis skills."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Process Modelling",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Milestone 1 28/08/2025 2:00 pm</p>\n<p>Milestone 2 4/09/2025 2:00 pm</p>\n<p>Final Submission 11/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Project, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>For this <strong>individual project,</strong> you are required to model an as-is process using the BPMN modelling notation.</li>\n<li>A narrative of the process (process walkthrough) will be provided for you to interpret and model.</li>\n<li>This assignment will include multiple graded <strong>milestones to be submitted prior </strong>to the final submission date. Feedback on the correct approach will be provided in tutorials after each milestone to assist with learning key techniques, with the assignment grade provided after all components have been submitted.</li>\n<li>Milestone submissions must be made on the due dates, or within 3 days even if an extension has been approved as per UQ's formal process. Any later submissions will not be marked for that component.</li>\n<li>Further details about this project will be discussed in class and posted to our course Blackboard site.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission through Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Team Process Improvement Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>Milestone 1 9/10/2025 2:00 pm</p>\n<p>Milestone 2 16/10/2025 2:00 pm</p>\n<p>Final Submission 23/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>You will be required to work in teams of 4-5 students for this project.</li>\n<li>Based on a provided scenario, your task requires modelling of an as-is process, analysis of the process, and development of improvement recommendations and a related to-be process model.</li>\n<li>This assignment will include graded milestones prior to the final submission date. Feedback on the correct approach will be provided in tutorials after each milestone to assist with learning key techniques, with the assignment grade provided after all components have been submitted.</li>\n<li>Further details about this project will be discussed in class and posted to our course Blackboard site.</li>\n<li>This project, being a team project, will use Group Peer Assessment to ensure all team members have contributed well to the team. </li>\n<li>All team members will evaluate their fellow team members, and this peer evaluation process may affect an individual's mark (ie, it may be that not all team members receive the same mark). Therefore, you are strongly encouraged to incorporate mechanisms that capture evidence about the team process, such as dates/agendas for meetings, fair/agreed allocation of duties, internal team timelines, etc. </li>\n<li>Your peer assessment outcome will moderate your total marks for this assignment.</li>\n<li>A detailed rubric for the project is accessible via Blackboard.</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission through Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your final exam will be a closed-book invigilated and in-person exam. The exam duration will be 2 hours. </p>\n<p>It will be largely based on a mini-case study scenario as described in the text. As such, it will require you to comprehend, assess, analyse and recommend solutions using techniques taught on the course. There will also be multiple choice questions and short answer questions. This is an individual assessment. Academic integrity provisions will be applied. The allocation of marks will be clearly indicated on each question. The exam will cover all course materials.</p>\n<p>Further details will be discussed in class and posted to our course Blackboard website.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Process Management and Business Value</strong><br><p>Introduction to the course and the business process lifecycle.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Business Process Management and Business Value</strong>",
+            "topic_description": "Business Process Management and Business Value Introduction to the course and the business process lifecycle.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>BPM History and Enterprise Capability</strong><br><p>Learn about key ideas that have influenced BPM, and understand the required enterprise capability.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>BPM History and Enterprise Capability</strong>",
+            "topic_description": "BPM History and Enterprise Capability Learn about key ideas that have influenced BPM, and understand the required enterprise capability.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 1 - Process Management &amp; Business Value</strong><br/><p>Introduction to the course and the business process lifecycle.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tute 1 - Process Management &amp; Business Value</strong>",
+            "topic_description": "Tute 1 - Process Management & Business Value Introduction to the course and the business process lifecycle.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Modelling with BPMN</strong><br/><p>Introduction to BPMN modelling using basic constructs</p>\n<p><strong>EKKA Public Holiday - Wednesday 13 August 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Process Modelling with BPMN</strong>",
+            "topic_description": "Process Modelling with BPMN Introduction to BPMN modelling using basic constructs EKKA Public Holiday - Wednesday 13 August 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 2 - BPM History and Enterprise Capability</strong><br/><p>Learn about key ideas that have influenced BPM, and understand the required enterprise capability.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tute 2 - BPM History and Enterprise Capability</strong>",
+            "topic_description": "Tute 2 - BPM History and Enterprise Capability Learn about key ideas that have influenced BPM, and understand the required enterprise capability.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Modelling Practice</strong><br/><p>Put your BPMN skills to practice: hands-on practical session using basic BPMN constructs</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Process Modelling Practice</strong>",
+            "topic_description": "Process Modelling Practice Put your BPMN skills to practice: hands-on practical session using basic BPMN constructs",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 3 -Process Modelling with BPMN</strong><br/><p>Introduction to BPMN modelling using basic constructs</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tute 3 -Process Modelling with BPMN</strong>",
+            "topic_description": "Tute 3 -Process Modelling with BPMN Introduction to BPMN modelling using basic constructs",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Extended Process Modelling</strong><br/><p>Extend your modelling skills with a select set of advanced BPMN constructs</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Extended Process Modelling</strong>",
+            "topic_description": "Extended Process Modelling Extend your modelling skills with a select set of advanced BPMN constructs",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 4 - Process Modelling Practice</strong><br/><p>Put your BPMN skills to practice: hands-on practical session using basic BPMN constructs</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tute 4 - Process Modelling Practice</strong>",
+            "topic_description": "Tute 4 - Process Modelling Practice Put your BPMN skills to practice: hands-on practical session using basic BPMN constructs",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Identification and Process Architectures</strong><br/><p>Learn about Process Architectures and how they are identified/designed.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Process Identification and Process Architectures</strong>",
+            "topic_description": "Process Identification and Process Architectures Learn about Process Architectures and how they are identified/designed.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 5 - Extended Process Modelling</strong><br/><p>Extend your modelling skills with a select set of advanced BPMN constructs</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tute 5 - Extended Process Modelling</strong>",
+            "topic_description": "Tute 5 - Extended Process Modelling Extend your modelling skills with a select set of advanced BPMN constructs",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Discovery and Process Mining</strong><br/><p>Learn about methods used to understand current processes so they can be modelled.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Process Discovery and Process Mining</strong>",
+            "topic_description": "Process Discovery and Process Mining Learn about methods used to understand current processes so they can be modelled.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 6 - Process ID &amp; Process Architectures</strong><br/><p>Learn about Process Architectures and how they are identified/designed.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Tute 6 - Process ID &amp; Process Architectures</strong>",
+            "topic_description": "Tute 6 - Process ID & Process Architectures Learn about Process Architectures and how they are identified/designed.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Qualitative Process Analysis</strong><br/><p>Learn about Lean and how it differs from Six Sigma. Discover value-added analysis &amp; related qualitative analyses. Introduction to group work.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Qualitative Process Analysis</strong>",
+            "topic_description": "Qualitative Process Analysis Learn about Lean and how it differs from Six Sigma. Discover value-added analysis & related qualitative analyses. Introduction to group work.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 7 - Process Discovery and Process Mining</strong><br/><p>Learn about methods used to understand current processes so they can be modelled.</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Tute 7 - Process Discovery and Process Mining</strong>",
+            "topic_description": "Tute 7 - Process Discovery and Process Mining Learn about methods used to understand current processes so they can be modelled.",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quantitative Process Analysis</strong><br/><p>Process Flow Analysis &amp; Simulation</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Quantitative Process Analysis</strong>",
+            "topic_description": "Quantitative Process Analysis Process Flow Analysis & Simulation",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 8 - Qualitative Process Analysis</strong><br/><p>Learn about Lean and how it differs from Six Sigma. Discover value-added analysis &amp; related qualitative analyses. Introduction to group work.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 8 - Qualitative Process Analysis</strong>",
+            "topic_description": "Tute 8 - Qualitative Process Analysis Learn about Lean and how it differs from Six Sigma. Discover value-added analysis & related qualitative analyses. Introduction to group work.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Improvement</strong><br/><p>Process Redesign</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Process Improvement</strong>",
+            "topic_description": "Process Improvement Process Redesign",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 9 - Quantitative Process Analysis</strong><br/><p>Process Flow Analysis &amp; Simulation</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 9 - Quantitative Process Analysis</strong>",
+            "topic_description": "Tute 9 - Quantitative Process Analysis Process Flow Analysis & Simulation",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process Implementation and Monitoring</strong><br/><p>Learn about technical and organisational aspects of process implementation, as well as methods for process monitoring.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Process Implementation and Monitoring</strong>",
+            "topic_description": "Process Implementation and Monitoring Learn about technical and organisational aspects of process implementation, as well as methods for process monitoring.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 10 - Process Improvement</strong><br/><p>Process Redesign</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tute 10 - Process Improvement</strong>",
+            "topic_description": "Tute 10 - Process Improvement Process Redesign",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Industry Guest Lecture: Process Improvement Applied</strong><br/><p>Fascinating, real-life insights and examples of improving business processes - including process digitisation - from a highly experienced BPM practitioner.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Industry Guest Lecture: Process Improvement Applied</strong>",
+            "topic_description": "Industry Guest Lecture: Process Improvement Applied Fascinating, real-life insights and examples of improving business processes - including process digitisation - from a highly experienced BPM practitioner.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 11 - Process Implementation and Monitoring</strong><br/><p>Learn about technical and organisational aspects of process implementation, as well as methods for process monitoring.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Tute 11 - Process Implementation and Monitoring</strong>",
+            "topic_description": "Tute 11 - Process Implementation and Monitoring Learn about technical and organisational aspects of process implementation, as well as methods for process monitoring.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review, Simulation and Exam Preparation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review, Simulation and Exam Preparation</strong>",
+            "topic_description": "Course Review, Simulation and Exam Preparation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 12 - Industry: Process Improvement Applied</strong><br/><p>Fascinating, real-life insights and examples of improving business processes - including process digitisation - from a highly experienced BPM practitioner.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 12 - Industry: Process Improvement Applied</strong>",
+            "topic_description": "Tute 12 - Industry: Process Improvement Applied Fascinating, real-life insights and examples of improving business processes - including process digitisation - from a highly experienced BPM practitioner.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
