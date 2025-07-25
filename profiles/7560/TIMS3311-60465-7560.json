@@ -1,0 +1,174 @@
+{
+    "course_title": "Innovation and Entrepreneurship in Practice",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS3311-60465-7560",
+    "full_course_code": "TIMS3311-60465-7560",
+    "course_code": "TIMS3311",
+    "class_code": "60465",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project or business case proposal presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 11/08/2025 - 18/08/2025</p>\n<p>\n</p><p>Presentations will be scheduled in class time from 5PM on the two dates.</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Individual or team (if WIL is based on working with own startup team) presentation of 10 minutes followed by Q&amp;A.</p>\n<ol>\n<li>Identify and analyse an innovation and/or entrepreneurship issue relevant to your placement: a startup, incubator, accelerator, or business industry partner.</li>\n<li>The assessment piece must demonstrate <strong>thoughtful application of theory to innovation and entrepreneurial, or more specifically, venture creation and growth practice</strong>.</li>\n<li>The <strong>main research objective/s or question/s</strong> must be related to finding a solution to a practical problem or business model innovation issue encountered during the WIL, placement, or own venture that students want to investigate further by applying existing theories and research.</li>\n<li>You will therefore do a brief presentation to outline and <strong>explain your intended topic, objectives, methodology and/or approach as well as the expected outcomes of your major assignment piece</strong> (Report or business case). This will vary in accordance with the nature of the placement that you are undertaking. </li>\n</ol>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In person and slide upload to Blackboard. <strong>Please submit your presentation slides on Blackboard BEFORE you present.</strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Reflective digital diary entries and critical reflection",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 27/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Detailed guidance is provided on Blackboard.</p>\n<p>The purpose of this assessment is to provide you an opportunity to reflect on your learnings and experienced during the placement experience. The reflective entries will determine how well you use acquired knowledge and attributes and your ability to face challenging work tasks. The daily diary entries form the basis for compiling a critical reflection piece. Reflection on experience is useful when learning from diverse observations, ideas and data. Reflection helps to connect new ideas with what we already know. Documenting experiences helps foster reflection, the creation of new insights, and as a result, increase learning. This essay type assignment will enable you to illustrate self-awareness, personal and professional growth, and improved innovation, entrepreneurship and startup practices.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must post at least 5 reflective diary entries on Blackboard during the course of your placement. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project report or business case",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 12/11/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You should consult with the course coordinator early in the semester about your proposed topic to ensure suitability. You will present your proposal for feedback in Assignment 1 (Presentation). </p>\n<p><strong>Task:</strong></p>\n<p>Identify and analyse an innovation and/or entrepreneurship issue relevant to your placement, a startup or incubator/accelerator that you are involved with, build a business case for your own startup, or write a report for a technology commercialisation project. The assessment piece must demonstrate thoughtful application of entrepreneurship and innovation theories or more specifically, venture creation and growth practice. You must conduct research and submit an academic based paper using reviewed academic sources (for placements), write a technology commercialisation report or present a detailed business case (own startups). You must include relevant references to <em>peer-reviewed</em> or other acceptable academic sources such as journals, conference papers, and texts. In the case of technology commercialisation and business cases, you will have to present primary data that you have obtained via experimentation or other data gathering methods.</p>\n<p>It is preferred that you submit work that are closely related to your placement or selected Work Integrated Learning (WIL) option. The main research objective/s or question/s should therefore be related to something that you have encountered during your placement that you want to investigate further by applying existing theories and research. You could, for example, investigate the practical validity of Sarasvathy’s Effectuation Principles and/or Process by critically discussing the application thereof to a case study (a startup that you have worked with during your placement or are currently involved with). I will provide you with an overview and supporting documentation on three entrepreneurial theories (Effectuation, Lean Startup and Design Thinking) that you could apply in various ways to your WIL experience. <strong>Just be very clear on what you want to achieve with your research report and how you would go about (research method – literature review, direct observation, ect.) uncovering insights that would enable you to answer your research questions or attain your research objectives.</strong></p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Orientation Day</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Orientation Day</strong>",
+            "topic_description": "Course Orientation Day",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Placement selection and project topic discussion</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Placement selection and project topic discussion</strong>",
+            "topic_description": "Placement selection and project topic discussion",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Placements</strong><br/><p>Week 10 - King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Placements</strong>",
+            "topic_description": "Placements Week 10 - King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Placement selection, feedback and topic selection</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Placement selection, feedback and topic selection</strong>",
+            "topic_description": "Placement selection, feedback and topic selection",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 1: Project presentations (Presentation)</strong><br/><p>Presentation Schedule will be provided prior to the session. </p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Assessment 1: Project presentations (Presentation)</strong>",
+            "topic_description": "Assessment 1: Project presentations (Presentation) Presentation Schedule will be provided prior to the session.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 1: Project presentations (Continue)</strong><br/><p>Presentation Schedule will be provided prior to the session. </p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assessment 1: Project presentations (Continue)</strong>",
+            "topic_description": "Assessment 1: Project presentations (Continue) Presentation Schedule will be provided prior to the session.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Check-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Project Check-in session</strong>",
+            "topic_description": "Project Check-in session",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 2: Reflective Diary Entries and Critical Reflection as well as Placement feedback and course wrap-up</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assessment 2: Reflective Diary Entries and Critical Reflection as well as Placement feedback and course wrap-up</strong>",
+            "topic_description": "Assessment 2: Reflective Diary Entries and Critical Reflection as well as Placement feedback and course wrap-up",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
