@@ -34,7 +34,7 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "In-Semester exam",
+            "assessment_title": "Exam",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -46,11 +46,11 @@
                 }
             ],
             "weighting": "<dd>50%</dd>",
-            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "due_date": "<dd><p> Week 7</p>\n<p>\n</p><p>The date and time of the exam will be provided via Blackboard.</p></dd>",
             "learning_objectives": "L02, L03, L04, L05",
             "mode": "Written",
-            "category": "Essay/ Critique, Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be required to take a closed-book, in-semester exam. The exam will consist of short essay questions, covering content from Weeks 1-6. Further details will be provided via Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be required to take a closed-book exam. The exam will consist of short essay questions, covering content from Weeks 1-6. Further details will be provided via Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -60,7 +60,7 @@
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Reflective Vlog",
             "special_indicators": [],
-            "weighting": "<dd>50%</dd>",
+            "weighting": "<dd>50% Individual </dd>",
             "due_date": "<dd><p> 31/10/2025 2:00 pm</p></dd>",
             "learning_objectives": "L01, L03, L05",
             "mode": "Oral, Product/ Artefact/ Multimedia",
