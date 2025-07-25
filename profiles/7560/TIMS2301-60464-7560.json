@@ -1,0 +1,276 @@
+{
+    "course_title": "Entrepreneurial Strategy",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS2301-60464-7560",
+    "full_course_code": "TIMS2301-60464-7560",
+    "course_code": "TIMS2301",
+    "class_code": "60464",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the theorical underpinnings of Innovation and Entrepreneurship as academic topics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate strategic decision-making options for entrepreneurs and innovative firms by integrating multiple theoretical approaches to assess resource allocation, capability development, and organisational design choices."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse case studies and business scenarios to identify sources of competitive advantage, assess venture performance, and recommend strategic actions for startups and growth companies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically assess the limitations and applications of different theoretical approaches in and demonstrate awareness of when and how to adapt theoretical frameworks to specific situations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> Week 2 Mon - Week 12 Mon</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Please see Blackboard for full details. There are eight quizzes in total spread across different weeks in the semester. The results from the best four quizzes count towards the final grade. The Quizzes take place at the start of the seminar in Weeks 2, 3, 4, 6, 7, 8, 9, 12. They are based on the assigned reading for that week of the course.</p>\n<p><strong>AI Statement</strong></p>\n<p>The quizzes are completed in class. The use of AI is not permitted when answering each Quiz.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Quizzes are completed in class and to given to the course facilitator for marking.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Case Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 13/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The case analysis is to be conducted in teams in class. It requires students to apply the theoretical concepts covered in the course to analyse the case. Students are provided a structured worksheet to complete to support the analysis of the case before providing their final answer to the question posed. Students are permitted to bring one sheet of paper each to class with notes on the different theories and concepts covered in class. A formative case analysis is done in week 5 of the course to support students' preparation for this assessment.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in preparing for this assessment. Students may not use AI and/or MT in completing this assessment task.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will hand in their answers to either the course facilitator or the course coordinator at the end of the seminar.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination consists of multichoice questions, short answer and an analysis of a case.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br/><p>This seminar is an online recording. It is located under week 1 on learning resources on Blackboard. The aims and expectations for the course are outlined. An overview of the assessment is provided. Students are expected to watch the recording before attending the seminar in week 2.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Introduction</strong>",
+            "topic_description": "Course Introduction This seminar is an online recording. It is located under week 1 on learning resources on Blackboard. The aims and expectations for the course are outlined. An overview of the assessment is provided. Students are expected to watch the recording before attending the seminar in week 2.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Resource Based Theory of the Firm: Building and sustaining a competitive advantage</strong><br/><p>Discover how companies build lasting competitive advantages through their unique resources and capabilities. We'll explore the Resource-Based Theory of the firm through engaging business cases and real-world decision scenarios, then examine how this foundational theory guides strategic thinking in our AI-driven economy. A number of case examples with be covered including Google's reverse-acquihire of Windsurf's senior leadership team followed by Cognition's purchase of Windsurf. Students are expected to familiarise themselves about this recent case by reading media articles about it.</p>\n<p><br/></p>\n<p>To prepare for the seminar, please read:  Barney, J. (1991). Firm resources and sustained competitive advantage. <em>Journal of management</em>, <em>17</em>(1), 99-120. Quiz 1 is based on this assigned reading</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Resource Based Theory of the Firm: Building and sustaining a competitive advantage</strong>",
+            "topic_description": "Resource Based Theory of the Firm: Building and sustaining a competitive advantage Discover how companies build lasting competitive advantages through their unique resources and capabilities. We'll explore the Resource-Based Theory of the firm through engaging business cases and real-world decision scenarios, then examine how this foundational theory guides strategic thinking in our AI-driven economy. A number of case examples with be covered including Google's reverse-acquihire of Windsurf's senior leadership team followed by Cognition's purchase of Windsurf. Students are expected to familiarise themselves about this recent case by reading media articles about it. To prepare for the seminar, please read:  Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of management , 17 (1), 99-120. Quiz 1 is based on this assigned reading",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dynamic Capabilities: Organising for competitive advantage</strong><br><p>Discover how companies reconfigure their resources and capabilities and the skillsets needed to be successful in achieving this. We will unpack dynamic capabilities, what they are and why they are important to have in a rapidly evolving competitive landscape.</p>\n<p><br/></p>\n<p>To prepare for the seminar, please read: Teece, D. J. (2007). Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance. <em>Strategic management journal</em>, <em>28</em>(13), 1319-1350. Quiz 2 is based on this article</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Dynamic Capabilities: Organising for competitive advantage</strong>",
+            "topic_description": "Dynamic Capabilities: Organising for competitive advantage Discover how companies reconfigure their resources and capabilities and the skillsets needed to be successful in achieving this. We will unpack dynamic capabilities, what they are and why they are important to have in a rapidly evolving competitive landscape. To prepare for the seminar, please read: Teece, D. J. (2007). Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance. Strategic management journal , 28 (13), 1319-1350. Quiz 2 is based on this article",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transaction Cost Economics - The make or buy decision</strong><br><p>Should a company make or buy an asset? What should be outsourced and what should be done inhouse? Drawing on Transaction Cost Economics, the strategic decision about which activities a firm should perform and which ones they should outsource is discussed. We will apply the principles from Transaction Costs to a number of strategic decision scenarios to understand the boundary of the firm. The discussion of the Windsurf case will be continued from a Transaction Cost Economics perspective.</p>\n<p><br/></p>\n<p>To prepare for the seminar, please read: Reading: Teece, D. J. (2010). A tribute to Oliver Williamson: Williamson's impact on the theory and practice of management. <em>California Management Review</em>, <em>52</em>(2), 167-176. Quiz 3 is based on this reading.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Transaction Cost Economics - The make or buy decision</strong>",
+            "topic_description": "Transaction Cost Economics - The make or buy decision Should a company make or buy an asset? What should be outsourced and what should be done inhouse? Drawing on Transaction Cost Economics, the strategic decision about which activities a firm should perform and which ones they should outsource is discussed. We will apply the principles from Transaction Costs to a number of strategic decision scenarios to understand the boundary of the firm. The discussion of the Windsurf case will be continued from a Transaction Cost Economics perspective. To prepare for the seminar, please read: Reading: Teece, D. J. (2010). A tribute to Oliver Williamson: Williamson's impact on the theory and practice of management. California Management Review , 52 (2), 167-176. Quiz 3 is based on this reading.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Analysis</strong><br><p>The three perspectives covered so far in the course will be applied to develop a strategy for Vireo Biotech (note Vireo Biotech is a fictional case based on a typical strategic decision faced by early-stage biotech companies). Students have the opportunity to work in their assessment teams to practice analysing the case under the same conditions as the summative assessment later in the semester.</p>\n<p><br/></p>\n<p>Formative team-based case analysis: Vireo Biotech Scaling Strategy in the Genomic Revolution</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Case Analysis</strong>",
+            "topic_description": "Case Analysis The three perspectives covered so far in the course will be applied to develop a strategy for Vireo Biotech (note Vireo Biotech is a fictional case based on a typical strategic decision faced by early-stage biotech companies). Students have the opportunity to work in their assessment teams to practice analysing the case under the same conditions as the summative assessment later in the semester. Formative team-based case analysis: Vireo Biotech Scaling Strategy in the Genomic Revolution",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Open Innovation: Sourcing from the market</strong><br><p>When innovation isn't about building walls—it's about what you can access and orchestrate. Instead of building competitive moats through proprietary R&amp;D and tightly controlled internal capabilities, companies now compete on their ability to tap into distributed innovation networks. This means your competitive advantage increasingly comes from being the best at identifying, integrating, and commercializing external innovations rather than just generating them internally. We will continue the class discussion on Windsurf from an open innovation perspective.</p>\n<p><br/></p>\n<p>To prepare for the seminar, please read: Chesbrough, H. W., &amp; Appleyard, M. M. (2007). Open Innovation and Strategy. <em>California Management Review</em>, <em>50</em>(1), 57-76. <a href=\"https://doi.org/10.2307/41166416\">https://doi.org/10.2307/41166416</a> (Original work published 2007). Quiz 4 is based on this article.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Open Innovation: Sourcing from the market</strong>",
+            "topic_description": "Open Innovation: Sourcing from the market When innovation isn't about building walls—it's about what you can access and orchestrate. Instead of building competitive moats through proprietary R&D and tightly controlled internal capabilities, companies now compete on their ability to tap into distributed innovation networks. This means your competitive advantage increasingly comes from being the best at identifying, integrating, and commercializing external innovations rather than just generating them internally. We will continue the class discussion on Windsurf from an open innovation perspective. To prepare for the seminar, please read: Chesbrough, H. W., & Appleyard, M. M. (2007). Open Innovation and Strategy. California Management Review , 50 (1), 57-76. https://doi.org/10.2307/41166416 (Original work published 2007). Quiz 4 is based on this article.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Models: Creating, delivering and capturing value</strong><br><p>Drawing on business model theory, this seminar cracks the code of value creation and competitive advantage. We will dissect how innovative companies and design their business models and how competitive advantage can be created through model design. We will continue the class discussion on Windsurf from a business model perspective.</p>\n<p><br/></p>\n<p>To prepare for the seminar, please read: Teece, D. J. (2010). Business models, business strategy and innovation. <em>Long range planning</em>, <em>43</em>(2-3), 172-194. Quiz 5 is based on this article</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Business Models: Creating, delivering and capturing value</strong>",
+            "topic_description": "Business Models: Creating, delivering and capturing value Drawing on business model theory, this seminar cracks the code of value creation and competitive advantage. We will dissect how innovative companies and design their business models and how competitive advantage can be created through model design. We will continue the class discussion on Windsurf from a business model perspective. To prepare for the seminar, please read: Teece, D. J. (2010). Business models, business strategy and innovation. Long range planning , 43 (2-3), 172-194. Quiz 5 is based on this article",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bricolage &amp; Effectuation, Real Options reasoning: Doing more with less</strong><br><p>How do companies leverage the resources they have on hand? What are the best strategies to make the most of the resources that easily accessible? We will unpack how companies get started by using what is in front of them</p>\n<p><br/></p>\n<p>To prepare for this seminar read: Baker, T., &amp; Nelson, R. E. (2005). Creating something from nothing: Resource construction through entrepreneurial bricolage. <em>Administrative science quarterly</em>, <em>50</em>(3), 329-366. Quiz 6 is based on this article.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Bricolage &amp; Effectuation, Real Options reasoning: Doing more with less</strong>",
+            "topic_description": "Bricolage & Effectuation, Real Options reasoning: Doing more with less How do companies leverage the resources they have on hand? What are the best strategies to make the most of the resources that easily accessible? We will unpack how companies get started by using what is in front of them To prepare for this seminar read: Baker, T., & Nelson, R. E. (2005). Creating something from nothing: Resource construction through entrepreneurial bricolage. Administrative science quarterly , 50 (3), 329-366. Quiz 6 is based on this article.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>A psychological perspective: Cognitive biases and strategic decision making</strong><br><p>What cognitive biases are innovators and entrepreneurs susceptible to? How does this influence their decision making?</p>\n<p><br/></p>\n<p>To prepare for this seminar read: Thomas, O. (2018). Two decades of cognitive bias research in entrepreneurship: what do we know and where do we go from here?. <em>Management Review Quarterly</em>, <em>68</em>(2), 107-143. Quiz 7 is based on this reading.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>A psychological perspective: Cognitive biases and strategic decision making</strong>",
+            "topic_description": "A psychological perspective: Cognitive biases and strategic decision making What cognitive biases are innovators and entrepreneurs susceptible to? How does this influence their decision making? To prepare for this seminar read: Thomas, O. (2018). Two decades of cognitive bias research in entrepreneurship: what do we know and where do we go from here?. Management Review Quarterly , 68 (2), 107-143. Quiz 7 is based on this reading.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semester break</strong>",
+            "topic_description": "Mid-Semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>King's Birthday Public Holiday</strong><br/><p>There is no formal class this week due to the public holiday. Students should use this week to do additional preparation for the case assessment in week 11.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>King's Birthday Public Holiday</strong>",
+            "topic_description": "King's Birthday Public Holiday There is no formal class this week due to the public holiday. Students should use this week to do additional preparation for the case assessment in week 11.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Class Assessment: team-based case analysis</strong><br/><p>The case analysis is to be conducted in teams in class. It requires students to apply the theoretical concepts covered in the course to analyse the case. Students are provided a structured worksheet to complete to support the analysis of the case before providing their final answer to the question posed. Students are permitted to bring one sheet of paper each to class with notes on the different theories and concepts covered in class. A formative case analysis is done in week 5 of the course to support students' preparation for this assessment.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>In Class Assessment: team-based case analysis</strong>",
+            "topic_description": "In Class Assessment: team-based case analysis The case analysis is to be conducted in teams in class. It requires students to apply the theoretical concepts covered in the course to analyse the case. Students are provided a structured worksheet to complete to support the analysis of the case before providing their final answer to the question posed. Students are permitted to bring one sheet of paper each to class with notes on the different theories and concepts covered in class. A formative case analysis is done in week 5 of the course to support students' preparation for this assessment.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Failure &amp; Setbacks: Sustaining motivation</strong><br/><p>How do entrepreneurs and innovators maintain motivation when they face obstacles and setbacks? The seminar will focus on understanding these strategies and to adopt them. </p>\n<p><br/></p>\n<p>To prepare for this seminar read: Markman, G. D., Baron, R. A., &amp; Balkin, D. B. (2005). Are perseverance and self‐efficacy costless? Assessing entrepreneurs' regretful thinking. <em>Journal of Organizational Behavior: The International Journal of Industrial, Occupational and Organizational Psychology and Behavior</em>, <em>26</em>(1), 1-19. Quiz 8 is based on this reading.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Failure &amp; Setbacks: Sustaining motivation</strong>",
+            "topic_description": "Failure & Setbacks: Sustaining motivation How do entrepreneurs and innovators maintain motivation when they face obstacles and setbacks? The seminar will focus on understanding these strategies and to adopt them. To prepare for this seminar read: Markman, G. D., Baron, R. A., & Balkin, D. B. (2005). Are perseverance and self‐efficacy costless? Assessing entrepreneurs' regretful thinking. Journal of Organizational Behavior: The International Journal of Industrial, Occupational and Organizational Psychology and Behavior , 26 (1), 1-19. Quiz 8 is based on this reading.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course review: Building and maintaining a competitive advantage, integrating pespectives</strong><br><p>The final seminar will provide an overview of the different perspectives discussed in the course for achieving and maintaining competitive advantage.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Course review: Building and maintaining a competitive advantage, integrating pespectives</strong>",
+            "topic_description": "Course review: Building and maintaining a competitive advantage, integrating pespectives The final seminar will provide an overview of the different perspectives discussed in the course for achieving and maintaining competitive advantage.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
