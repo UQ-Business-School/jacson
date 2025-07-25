@@ -75,7 +75,16 @@
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "End of Semester Exam",
-            "special_indicators": [],
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
             "weighting": "<dd>50%</dd>",
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
