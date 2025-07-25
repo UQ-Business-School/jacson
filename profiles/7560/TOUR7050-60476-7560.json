@@ -57,6 +57,10 @@
             "assessment_title": "Tour Critique",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
@@ -77,6 +81,10 @@
             "assessment_title": "Paper on a Special Interest Tourism Type",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
@@ -96,6 +104,10 @@
             "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "Special Interest Tour Design",
             "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
