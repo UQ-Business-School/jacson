@@ -1,0 +1,348 @@
+{
+    "course_title": "Business Research Strategy",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS3900-60456-7560",
+    "full_course_code": "RBUS3900-60456-7560",
+    "course_code": "RBUS3900",
+    "class_code": "60456",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Obtain in-depth knowledge of the principles of business research methods."
+        },
+        {
+            "number": "LO2.",
+            "description": "Prepare written research proposals to articulate a research design in response to a business problem/opportunity."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design research studies that successfully collect information that can be used to support decision making regarding a business problem/opportunity."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically evaluate research designs."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify the ethical issues involved in conducting business research and have an awareness of the consequences (social and economic) of unethical behaviour."
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply relevant statistical techniques in order to make recommendations regarding a business problem/opportunity."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Strategic Business Research Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 5/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As a precursor to the final research project, the strategic business research plan will include a detailed written conceptualisation of the business problem facing a client (building upon feedback received for the initial drafts outlined in the topic scoping piece), hypothesis development, identification of what variables will be measured/investigated and what data generation processes will be used, including what measurement issues might be inherent with the types of variables being assessed (a draft copy of a survey or other data generating instrument should be included in the plan). This assignment should not exceed 3,000 words in length. </p>\n<p>PLEASE NOTE THIS IS A INDIVIDUAL ASSIGNMENT</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Strategic Business Project Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 16/10/2025 10:00 am</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L06",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to make a 6-minute in-person presentation of a strategic business plan based on the results of analysis techniques covered in class. These presentations will take place in the tutorials, in weeks 11, 12 and possibly 13 dependent on the number of students in each tutorial. The presentation should provide a draft of a set of strategic business recommendations for a client that are linked to the analysis conducted. </p>\n<p>PLEASE NOTE: ALL Students are required to upload the presentation deck on blackboard by 10am on the 16th October, 2025.</p>\n<p>NOTE: THIS IS AN INDIVIDUAL ASSESSMENT.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Powerpoint Deck to be submitted via Blackboard. Presentations to be made in the respective tutorials in weeks 11, 12 and 13.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Strategic Business Research Project Report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 31/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project report will document the analysis completed on your own data conducted using the analysis techniques covered in class, as well as draft a set of strategic business recommendations for a client that are tractably linked to the analysis conducted. The report must address the original aims outlined in your strategic business plan and by translating analytics into meaningful insights. In-class workshops towards the end of the semester will focus on analysing and interpreting data, as well as ensuring data is used ethically and objectively. NOTE THIS IS AN INDIVIDUAL ASSESSMENT.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br/><p>Chapter 1 </p>\n<p>Only Lecture</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Course Introduction</strong>",
+            "topic_description": "Course Introduction Chapter 1 Only Lecture",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>On the social science tradition</strong><br/><p>Chapters 3 and 4 and Readings for week 2 (Lecture + Tutorial)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>On the social science tradition</strong>",
+            "topic_description": "On the social science tradition Chapters 3 and 4 and Readings for week 2 (Lecture + Tutorial)",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Social Science Tradition and SPSS</strong><br/><p>Introduction to Social Science</p></p></div></td>",
+            "topic_title": "<strong>Introduction to Social Science Tradition and SPSS</strong>",
+            "topic_description": "Introduction to Social Science Tradition and SPSS Introduction to Social Science",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Thinking strategically about business research</strong><br/><p>Linking Business Research to Managerial Decision Making -- Assigned Readings. (Lecture + Tutorial)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Thinking strategically about business research</strong>",
+            "topic_description": "Thinking strategically about business research Linking Business Research to Managerial Decision Making -- Assigned Readings. (Lecture + Tutorial)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Descriptive Statistics &amp; AI Assessment</strong><br/></p></div></td>",
+            "topic_title": "<strong>Descriptive Statistics &amp; AI Assessment</strong>",
+            "topic_description": "Descriptive Statistics & AI Assessment",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic scoping and Literature Review</strong><br/><p>Chapter 2, 5 and 6 (Lecture + Tutorial)</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Topic scoping and Literature Review</strong>",
+            "topic_description": "Topic scoping and Literature Review Chapter 2, 5 and 6 (Lecture + Tutorial)",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Correlations and Cross-tabulations + Assessment A1 Check-in</strong><br/></p></div></td>",
+            "topic_title": "<strong>Correlations and Cross-tabulations + Assessment A1 Check-in</strong>",
+            "topic_description": "Correlations and Cross-tabulations + Assessment A1 Check-in",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Research Process -1</strong><br/><p>Chapters 6, 7 and 8 (Lecture + Tutorial)</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>The Research Process -1</strong>",
+            "topic_description": "The Research Process -1 Chapters 6, 7 and 8 (Lecture + Tutorial)",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>t-test + Assessment A1 Check in </strong><br/></p></div></td>",
+            "topic_title": "<strong>t-test + Assessment A1 Check in </strong>",
+            "topic_description": "t-test + Assessment A1 Check in",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Research Process - II</strong><br/><p>Chapters 10 and 11 (Lecture and Tutorials)</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>The Research Process - II</strong>",
+            "topic_description": "The Research Process - II Chapters 10 and 11 (Lecture and Tutorials)",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experimental Designs + ANOVAS</strong><br/></p></div></td>",
+            "topic_title": "<strong>Experimental Designs + ANOVAS</strong>",
+            "topic_description": "Experimental Designs + ANOVAS",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Gathering --  Fieldwork, Observation, Interviews and Focus Group</strong><br/><p>Chapters 12,13 &amp; 14 (Lectures and Tutorials)</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Data Gathering --  Fieldwork, Observation, Interviews and Focus Group</strong>",
+            "topic_description": "Data Gathering --  Fieldwork, Observation, Interviews and Focus Group Chapters 12,13 & 14 (Lectures and Tutorials)",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression </strong><br/></p></div></td>",
+            "topic_title": "<strong>Regression </strong>",
+            "topic_description": "Regression",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Gathering -- Surveys and Questionnaires and Attitude Measurement + Assessment A2 Briefing</strong><br/><p>Chapters 15 and 16 (Lecture + Tutorial)</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Data Gathering -- Surveys and Questionnaires and Attitude Measurement + Assessment A2 Briefing</strong>",
+            "topic_description": "Data Gathering -- Surveys and Questionnaires and Attitude Measurement + Assessment A2 Briefing Chapters 15 and 16 (Lecture + Tutorial)",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Survey Design + Assessment A2 Debriefing</strong><br/></p></div></td>",
+            "topic_title": "<strong>Survey Design + Assessment A2 Debriefing</strong>",
+            "topic_description": "Survey Design + Assessment A2 Debriefing",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dealing with Data -- Part 1+ Research Report (A3) Briefing</strong><br/><p>Chapters 17 and 18 (Lecture and Tutorial)</p></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Dealing with Data -- Part 1+ Research Report (A3) Briefing</strong>",
+            "topic_description": "Dealing with Data -- Part 1+ Research Report (A3) Briefing Chapters 17 and 18 (Lecture and Tutorial)",
+            "learning_outcomes": [
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Convert a Survey into an SPSS file </strong><br/></p></div></td>",
+            "topic_title": "<strong>Convert a Survey into an SPSS file </strong>",
+            "topic_description": "Convert a Survey into an SPSS file",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Input Survey Data for Analysis + Assessment A3 Briefing</strong><br/></p></div></td>",
+            "topic_title": "<strong>Input Survey Data for Analysis + Assessment A3 Briefing</strong>",
+            "topic_description": "Input Survey Data for Analysis + Assessment A3 Briefing",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Data Analysis Workshop - 1</strong><br/><p>Workshop</p></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong> Data Analysis Workshop - 1</strong>",
+            "topic_description": "Data Analysis Workshop - 1 Workshop",
+            "learning_outcomes": [
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentations</strong><br/></p></div></td>",
+            "topic_title": "<strong>Presentations</strong>",
+            "topic_description": "Presentations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Report (A3) Debrief + Data Analysis Workshop -- II</strong><br/><p>In-Class workshop and consultations.</p>\n<p>Presentations in Tutorials</p>\n<p><strong>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</strong></p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Research Report (A3) Debrief + Data Analysis Workshop -- II</strong>",
+            "topic_description": "Research Report (A3) Debrief + Data Analysis Workshop -- II In-Class workshop and consultations. Presentations in Tutorials King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>On translating analytics into meaningful insights </strong><br><p>Recorded Lecture</p>\n<p>Presentations in Tutorials (Cont'd)</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>On translating analytics into meaningful insights </strong>",
+            "topic_description": "On translating analytics into meaningful insights Recorded Lecture Presentations in Tutorials (Cont'd)",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentations</strong><br/></p></div></td>",
+            "topic_title": "<strong>Presentations</strong>",
+            "topic_description": "Presentations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Revision and Overview</strong><br/><p>Virtual Lecture</p>\n<p>Presentation in tutorials (Cont'd)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Course Revision and Overview</strong>",
+            "topic_description": "Course Revision and Overview Virtual Lecture Presentation in tutorials (Cont'd)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentations</strong><br/></p></div></td>",
+            "topic_title": "<strong>Presentations</strong>",
+            "topic_description": "Presentations",
+            "learning_outcomes": []
+        }
+    ]
+}
