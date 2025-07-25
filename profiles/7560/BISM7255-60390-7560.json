@@ -1,0 +1,339 @@
+{
+    "course_title": "Business Information Systems Analysis and Design",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7255-60390-7560",
+    "full_course_code": "BISM7255-60390-7560",
+    "course_code": "BISM7255",
+    "class_code": "60390",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the major alternative methodologies (e.g., agile, lean) that are used in developing information systems and decide which methodology to use in a certain context."
+        },
+        {
+            "number": "LO2.",
+            "description": "Prepare and use various information-gathering techniques for eliciting user information requirements and system expectations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Construct and interpret a variety of system description documents, including UML use case, activity, class, sequence, statechart and entity-relationship diagrams, Structured English, as well as screen, form, and report layouts."
+        },
+        {
+            "number": "LO4.",
+            "description": "Communicate effectively and culturally safe, in both written and oral forms, systems specifications, implementation strategies, and design requirements, and be persuasive and culturally appropriate in these presentations."
+        },
+        {
+            "number": "LO5.",
+            "description": "Solve and innovate on practical problems that may emerge in the job roles of Business Analyst and/or Systems Analyst using UML integrated environments and low-code platforms as an individual or as part of a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Analysis and Design UML Modelling with Enterprise Architect Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 12/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will be given a real-world case scenario, and it is the student's task to produce the systems analysis and design documentation for the case scenario by creating UML models. The purpose of the assignment is to develop your ability to justify, analyse, and design software applications using Enterprise Architecture.</p>\n<p>The assignment can be completed individually or in a team of up to 2 students. When working in pairs, students are required to do a peer assessment, which may affect assessment results. Details will be provided on Blackboard.</p>\n<p>Details of the assignment are given on the course's Blackboard site (i.e, the course's Learn.UQ site). </p>\n<p>This assessment is to address at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your ePortfolio.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools. If AI has been used it must be acknowledged.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted via Blackboard assessment link. For details, please refer to the assignment specification on the Blackboard site for the course.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Core Knowledge Test",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 14/10/2025</p>\n<p>\n</p><p>The in-semester exam will run during the seminar time.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Essay/ Critique, Examination, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The online exam will run during your Week 11 seminar, and you’ll complete it on your own device. All materials from week 1-11 are included. Full instructions will be posted on the course’s Blackboard site.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are expected to come to their classroom and use their devices for the assessment.  You also must use the Safe-Browser option.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Software App and Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 10/11/2025 2:00 pm</p>\n<p>\n</p><p>Late submission causes mark reductions.</p></dd>",
+            "learning_objectives": "L01, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Presentation, Product/ Design, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The students are asked to develop an app using a no-code/low-code platform and AI software. Based on the final app, students are asked to write a report about the development.</p>\n<p>The details about the assessment can be found on the course's Blackboard site after the in-semester break.</p>\n<p>In order to pass this assessment and course, a working app must be submitted.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>For details please refer to the assignment specification on the Blackboard site for the course (released after the mid-semester break). </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction and IS Analysis/Design</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Course Introduction and IS Analysis/Design</strong>",
+            "topic_description": "Course Introduction and IS Analysis/Design",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 1 - UML Modelling of Use Case Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tute 1 - UML Modelling of Use Case Diagrams</strong>",
+            "topic_description": "Tute 1 - UML Modelling of Use Case Diagrams",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Decision for ISD </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Strategic Decision for ISD </strong>",
+            "topic_description": "Strategic Decision for ISD",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 2 - UML Modelling of Activity Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 2 - UML Modelling of Activity Diagrams</strong>",
+            "topic_description": "Tute 2 - UML Modelling of Activity Diagrams",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Low-Code Development: Methods and Hands-On Experiences </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to Low-Code Development: Methods and Hands-On Experiences </strong>",
+            "topic_description": "Introduction to Low-Code Development: Methods and Hands-On Experiences",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 3 - UML Modelling of Sequence Diagrams</strong><br/><p>Ekka Public Holiday - Wed, 13 Aug 2025 - Check Blackboard for announcements about affected classes</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 3 - UML Modelling of Sequence Diagrams</strong>",
+            "topic_description": "Tute 3 - UML Modelling of Sequence Diagrams Ekka Public Holiday - Wed, 13 Aug 2025 - Check Blackboard for announcements about affected classes",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Agile ISD methods and practices - Advance</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Agile ISD methods and practices - Advance</strong>",
+            "topic_description": "Agile ISD methods and practices - Advance",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 4 - UML Modelling of Class Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 4 - UML Modelling of Class Diagrams</strong>",
+            "topic_description": "Tute 4 - UML Modelling of Class Diagrams",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capturing the Domain, Identifying Requirements</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Capturing the Domain, Identifying Requirements</strong>",
+            "topic_description": "Capturing the Domain, Identifying Requirements",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 5 - UML Modelling of State Machine Diagrams</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tute 5 - UML Modelling of State Machine Diagrams</strong>",
+            "topic_description": "Tute 5 - UML Modelling of State Machine Diagrams",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Teams and People - Project Management 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Managing Teams and People - Project Management 1</strong>",
+            "topic_description": "Managing Teams and People - Project Management 1",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 6 - Comprehensive UML Case Study</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 6 - Comprehensive UML Case Study</strong>",
+            "topic_description": "Tute 6 - Comprehensive UML Case Study",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Teams and People - Project Management 2</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Managing Teams and People - Project Management 2</strong>",
+            "topic_description": "Managing Teams and People - Project Management 2",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tute 7 - </strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Tute 7 - </strong>",
+            "topic_description": "Tute 7 -",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing Systems - Work Integrated Learning Introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Designing Systems - Work Integrated Learning Introduction</strong>",
+            "topic_description": "Designing Systems - Work Integrated Learning Introduction",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>App Development  - Work Integrated Learning 2</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>App Development  - Work Integrated Learning 2</strong>",
+            "topic_description": "App Development  - Work Integrated Learning 2",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>App Development  - Work Integrated Learning 3</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>App Development  - Work Integrated Learning 3</strong>",
+            "topic_description": "App Development  - Work Integrated Learning 3",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Class exam and Testing Systems</strong><br/><p>During class time, the in-class exam will take place. Please make sure you bring your laptop with you to class.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In-Class exam and Testing Systems</strong>",
+            "topic_description": "In-Class exam and Testing Systems During class time, the in-class exam will take place. Please make sure you bring your laptop with you to class.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>DevOps - Deploying Information Systems and Work Integrated Learning 4</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>DevOps - Deploying Information Systems and Work Integrated Learning 4</strong>",
+            "topic_description": "DevOps - Deploying Information Systems and Work Integrated Learning 4",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13 - Course Summary and Reflection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 13 - Course Summary and Reflection</strong>",
+            "topic_description": "Week 13 - Course Summary and Reflection",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
