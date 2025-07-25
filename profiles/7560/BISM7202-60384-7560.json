@@ -1,0 +1,387 @@
+{
+    "course_title": "Information Systems for Management",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7202-60384-7560",
+    "full_course_code": "BISM7202-60384-7560",
+    "course_code": "BISM7202",
+    "class_code": "60384",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply theoretical knowledge of information systems fundamentals as well as the latest trends in information systems and technology practice in your future careers."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and critically evaluate the impacts (including ethical and sustainability impacts) information systems (including artificial intelligence) have on individuals, organisations, and society as a whole."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate a basic level of knowledge of the different types of information systems such as artificial intelligence and data analytics tools."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the importance of information systems as knowledge, decision and business intelligence tools for managers."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop skills to make informed decisions on the development and installation of new information systems and the upgrade of existing information systems, including the development of spreadsheets to support business decision-making."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "MS Excel Assignment and Reflective Essay",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 27/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A foundational Excel Spreadsheet is provided for students to modify and update to meet the challenges presented in the Case Specification.</p>\n<p>The assignment <strong>MUST</strong> be done individually. The assignment may also include self-learning components that cover content/knowledge not present in the tutorials. It is expected that the student will undertake their own research to master this component.</p>\n<p>Assessment Criteria may include Formulas &amp; Functions, PivotTables, PivotCharts, and Charts, Database &amp; Advanced Functions, What-if Analysis, Solver, General Aspects, Reflections Quality, and other relevant measures. More details will be provided on Blackboard.</p>\n<p>As part of the assignment, students will write an essay and share their reflections on the process of developing the solution.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically (as a compressed file) via the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Invigilated End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assessment covers the content of the lectures and any extra materials provided. This exam will be scheduled by the Examinations Office.</p>\n<p>This exam is a <strong>closed book, invigilated, paper-based exam</strong> as required by UQ and Professional Accounting organisations.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and Introduction</strong><br/><p>IS and your career; Course Overview; Course Assessment; Introduction to the Course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Overview and Introduction</strong>",
+            "topic_description": "Course Overview and Introduction IS and your career; Course Overview; Course Assessment; Introduction to the Course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Introduction to Excel</strong><br/><p>Creating and Formatting a Worksheet</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Introduction to Excel</strong>",
+            "topic_description": "Tutorial 1: Introduction to Excel Creating and Formatting a Worksheet",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital/Shared Economy (DSE) - Introduction</strong><br/><p>Introduction to Electronic Commerce; The Digital Marketplace; Social Media and Social Business; Business Relationships: Working Together.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Digital/Shared Economy (DSE) - Introduction</strong>",
+            "topic_description": "Digital/Shared Economy (DSE) - Introduction Introduction to Electronic Commerce; The Digital Marketplace; Social Media and Social Business; Business Relationships: Working Together.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Formulas and Functions</strong><br/><p>Performing Quantitative Analysis</p>\n<p><strong>Please Note: </strong>Wednesday 13th August is a public holiday. Please check Blackboard announcements for affected students.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Formulas and Functions</strong>",
+            "topic_description": "Tutorial 2: Formulas and Functions Performing Quantitative Analysis Please Note: Wednesday 13th August is a public holiday. Please check Blackboard announcements for affected students.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital/Shared Economy (DSE) - Sharing Economy</strong><br/><p>Social Media in Practice; Business need; Collaborative Commerce; Crowdfunding; Crowdsourcing.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Digital/Shared Economy (DSE) - Sharing Economy</strong>",
+            "topic_description": "Digital/Shared Economy (DSE) - Sharing Economy Social Media in Practice; Business need; Collaborative Commerce; Crowdfunding; Crowdsourcing.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Charts</strong><br/><p>Depicting Data Visually.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Charts</strong>",
+            "topic_description": "Tutorial 3: Charts Depicting Data Visually.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital/Shared Economy - Technology Impacts</strong><br/><p>Innovation - Definition and Context; Assessing the Impact of IT-based Innovations; Digital Disruption; Cloud-based Computing; Virtual Assistants; Pipelines and Digital Platforms</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Digital/Shared Economy - Technology Impacts</strong>",
+            "topic_description": "Digital/Shared Economy - Technology Impacts Innovation - Definition and Context; Assessing the Impact of IT-based Innovations; Digital Disruption; Cloud-based Computing; Virtual Assistants; Pipelines and Digital Platforms",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Datasets and Tables</strong><br/><p>Managing Large Volumes of Data</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Datasets and Tables</strong>",
+            "topic_description": "Tutorial 4: Datasets and Tables Managing Large Volumes of Data",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Process Management(BPM)-Introduction</strong><br/><p>Overview of Business Processes; Business Process Management; Quality Management and Business Processes; Business Process Automation; Artificial Intelligence and Decision Aids</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Business Process Management(BPM)-Introduction</strong>",
+            "topic_description": "Business Process Management(BPM)-Introduction Overview of Business Processes; Business Process Management; Quality Management and Business Processes; Business Process Automation; Artificial Intelligence and Decision Aids",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Subtotals, Pivottables, and PivotCharts</strong><br/><p>Summarising and Analysing</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Subtotals, Pivottables, and PivotCharts</strong>",
+            "topic_description": "Tutorial 5: Subtotals, Pivottables, and PivotCharts Summarising and Analysing",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Process Management (BPM) - Advanced</strong><br/><p>Best Practices and ERP; Introduction to Business Process Modelling.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Business Process Management (BPM) - Advanced</strong>",
+            "topic_description": "Business Process Management (BPM) - Advanced Best Practices and ERP; Introduction to Business Process Modelling.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: What-if Analysis</strong><br/><p>Using Decision-Making Tools</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: What-if Analysis</strong>",
+            "topic_description": "Tutorial 6: What-if Analysis Using Decision-Making Tools",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing Information Systems(IS)-Introduction</strong><br/><p>Information systems development defined; IS development methodologies; Different IS development approaches; The make-or-buy decision.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Developing Information Systems(IS)-Introduction</strong>",
+            "topic_description": "Developing Information Systems(IS)-Introduction Information systems development defined; IS development methodologies; Different IS development approaches; The make-or-buy decision.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Specialised Functions</strong><br/><p>Using Date, Logical, Statistical, Financial Functions</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Specialised Functions</strong>",
+            "topic_description": "Tutorial 7: Specialised Functions Using Date, Logical, Statistical, Financial Functions",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing Information Systems(IS) - Use Cases</strong><br/><p>User stories and Use Case diagrams.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Developing Information Systems(IS) - Use Cases</strong>",
+            "topic_description": "Developing Information Systems(IS) - Use Cases User stories and Use Case diagrams.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8: Additional Specialised Functions</strong><br/><p>Using Text, Database, and Lookup Functions</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8: Additional Specialised Functions</strong>",
+            "topic_description": "Tutorial 8: Additional Specialised Functions Using Text, Database, and Lookup Functions",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing Information Systems(IS)-Agile Method</strong><br/><p>Agile development approaches and eXtreme Programming; An introduction to Scrum.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Developing Information Systems(IS)-Agile Method</strong>",
+            "topic_description": "Developing Information Systems(IS)-Agile Method Agile development approaches and eXtreme Programming; An introduction to Scrum.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Dive Deep and Statistical Functions</strong><br/><p>Review previous tutorials and Analysing Statistics</p>\n<p><strong>Public Holiday - Monday 6 October 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Dive Deep and Statistical Functions</strong>",
+            "topic_description": "Tutorial 9: Dive Deep and Statistical Functions Review previous tutorials and Analysing Statistics Public Holiday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Lecturer - Details TBA</strong><br/></p></div></td>",
+            "topic_title": "<strong>Guest Lecturer - Details TBA</strong>",
+            "topic_description": "Guest Lecturer - Details TBA",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Multiple Sheet Workbook Management</strong><br/><p>Ensuring Quality Control</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Multiple Sheet Workbook Management</strong>",
+            "topic_description": "Tutorial 10: Multiple Sheet Workbook Management Ensuring Quality Control",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Analytics (BA) - Introduction</strong><br/><p>Know what we know? Introduction to analytics; Managing the Data Resource; Decision-making AI systems.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Business Analytics (BA) - Introduction</strong>",
+            "topic_description": "Business Analytics (BA) - Introduction Know what we know? Introduction to analytics; Managing the Data Resource; Decision-making AI systems.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Power Add-Ins</strong><br/><p>Managing Data</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Power Add-Ins</strong>",
+            "topic_description": "Tutorial 11: Power Add-Ins Managing Data",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Analytics(BA)-Ethics, Privacy&amp;Social</strong><br/><p>Data  Wrangling : Garbage In, Garbage Out?; Big Data and Analysis; Data Privacy and Data Breach; Ethics and Society; Future issues.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Business Analytics(BA)-Ethics, Privacy&amp;Social</strong>",
+            "topic_description": "Business Analytics(BA)-Ethics, Privacy&Social Data  Wrangling : Garbage In, Garbage Out?; Big Data and Analysis; Data Privacy and Data Breach; Ethics and Society; Future issues.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12: Exam Preparation + Future Skills: VBA and Macros</strong><br/><p>Develop VBA scripts and macros; Exam Preparation Hints and Tips</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 12: Exam Preparation + Future Skills: VBA and Macros</strong>",
+            "topic_description": "Tutorial 12: Exam Preparation + Future Skills: VBA and Macros Develop VBA scripts and macros; Exam Preparation Hints and Tips",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review &amp; Exam Revision</strong><br/><p>In this lecture we review the course content and undertake various activities and exercises to apply the learned knowledge. We also go over the exam rules and hints and tips for success in the final exam.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review &amp; Exam Revision</strong>",
+            "topic_description": "Course Review & Exam Revision In this lecture we review the course content and undertake various activities and exercises to apply the learned knowledge. We also go over the exam rules and hints and tips for success in the final exam.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
