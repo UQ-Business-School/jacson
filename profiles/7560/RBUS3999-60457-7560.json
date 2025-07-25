@@ -1,0 +1,205 @@
+{
+    "course_title": "Business Industry Placement",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS3999-60457-7560",
+    "full_course_code": "RBUS3999-60457-7560",
+    "course_code": "RBUS3999",
+    "class_code": "60457",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop awareness of your graduate attributes and how they may apply in the workplace and enhance employability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Articulate key aspects of business practices within an organisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Acquire practical skills and knowledge toward enhancing your employability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explore the different means by which organisations engage in business practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop the ability to think strategically from the perspective of a manager."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand the professional rigor expected in corporate practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "Have a clear understanding of how graduate attributes contribute to employability skills in a graduate career."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1. Graduate attributes quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 12/08/2025 - 26/08/2025</p></dd>",
+            "learning_objectives": "L01, L07",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment students will complete a multi-choice quiz that tests their awareness of the UQ Graduate Attributes and how they might be applied to an employability skillset.</p>\n<p>Awareness of and understanding the UQ Graduate Attributes framework complements the subsequent assessments in the following ways:</p>\n<p>·        It provides an additional standard against which students can evaluate their existing skillset.</p>\n<p>·        It helps students understand how even high level (broad) attributes can add value in work settings.</p>\n<p>·        It helps students to identify development areas.</p>\n<p>·        It helps students build a nuanced career narrative.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2. Professional Identity and Value proposition",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>A2.1 LinkedIn profile 29/08/2025 5:00 pm</p>\n<p>A2.2 Video pitch 26/09/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+            "category": "Performance, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, students will demonstrate their ability to define their professional identity and effectively communicate their personal brand and value proposition, in writing as well as orally. They will create a compelling LinkedIn profile, engage with professionally relevant content online, and produce a short video that highlights their unique qualities, personal brand, and professional value. Together, the LinkedIn profile, online engagement, and video will convey who they are as emerging professionals and showcase what they can offer to potential employers or business contacts.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3. Workplace Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>A3.1 Journal entry 2/09/2025 5:00 pm</p>\n<p>A3.2 Viva voce 21/10/2025 9:00 pm</p>\n<p>\n</p><p>Students will schedule their A3.2 <em>viva voce</em> discussion with the lecturer in the weekly seminar timeslot from Week 6 to Week 12.</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06",
+            "mode": "Oral, Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, students will showcase their reflective skills by analysing and reflecting on the business/organisation they observed and engaged with during their placement. Students will critically reflect on the practices, processes, structures and/or people dynamics of the business or organisation they worked in. Their observations will lead them to develop a foundational understanding of how businesses operate, their managerial decision-making, and how they respond to wider industry/economic forces.</p>\n<p>Students will compile a journal reflection focusing on an aspect of the business they operated in. The journal reflection will incorporate thoughts on concepts/theories that deepen their understanding if their focus area.</p>\n<p>The journal reflection will form the basis for an individual <em>viva voce</em> with the lecturer, during which students will orally respond to questions about their placement experience and demonstrate conceptual/theoretical understanding of their observations.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "A4. Professional development plan",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>A4.1 2x forms submit 24/10/2025 5:00 pm</p>\n<p>A4.2 PDP 31/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L07",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, students are required to write a comprehensive and self-reflective Professional Development Plan. Students will evaluate their employability in the context of:</p>\n<ul>\n<li>self-evaluation of their placement performance, </li>\n<li>feedback they receive from supervisors/mentors/colleagues,</li>\n<li>various self-test instruments, </li>\n<li>research into job/industry requirements and trends, as well as</li>\n<li>UQ’s graduate attributes.</li>\n</ul>\n<p>Specific areas for improvement (development areas) will be identified, and a clear action plan to achieve the identified development goals will be developed. The assessment concludes with a strategic perspective of the student's professional identity and long-term career aspirations. They will strategically consider career pathways that align with their goals for both personal and professional growth.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Industry placement with a host organisation</strong><br/><p>80-120 hours placement with an industry host. The placement will give you the opportunity to gain valuable work experience and to connect this experience to the development of a workplace ready skill set.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Industry placement with a host organisation</strong>",
+            "topic_description": "Industry placement with a host organisation 80-120 hours placement with an industry host. The placement will give you the opportunity to gain valuable work experience and to connect this experience to the development of a workplace ready skill set.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 1: Introduction to the Course and the concept of employability</strong><br/><p>The seminar will include:</p>\n<ul>\n<li>Course Profile</li>\n<li>Assessment overview</li>\n<li>Exploring the concept of employability</li>\n<li>UQ WIL opportunities (Employ101x, events &amp; workshops, employability award, etc)</li>\n<li>Professionalism in the workplace</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 1: Introduction to the Course and the concept of employability</strong>",
+            "topic_description": "Seminar 1: Introduction to the Course and the concept of employability The seminar will include: Course Profile Assessment overview Exploring the concept of employability UQ WIL opportunities (Employ101x, events & workshops, employability award, etc) Professionalism in the workplace",
+            "learning_outcomes": [
+                "L01",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 2: Becoming a reflective practitioner</strong><br/><p>During this seminar we will:</p>\n<ul>\n<li>Explore reflective practice</li>\n<li>Discover reflective tools</li>\n<li>Develop reflective writing for professional use</li>\n</ul></p><p><strong>Learning outcomes:</strong> L03, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 2: Becoming a reflective practitioner</strong>",
+            "topic_description": "Seminar 2: Becoming a reflective practitioner During this seminar we will: Explore reflective practice Discover reflective tools Develop reflective writing for professional use",
+            "learning_outcomes": [
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 3: My professional online identity</strong><br/><p>During this seminar we will discuss:</p>\n<ul>\n<li>Social media vis-à-vis professional platforms</li>\n<li>Social media screening</li>\n<li>LinkedIn profile design</li>\n<li>Engaging with content</li>\n</ul></p><p><strong>Learning outcomes:</strong> L02, L03, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 3: My professional online identity</strong>",
+            "topic_description": "Seminar 3: My professional online identity During this seminar we will discuss: Social media vis-à-vis professional platforms Social media screening LinkedIn profile design Engaging with content",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 4: Communicating my professional identity and value proposition</strong><br/><p>During this seminar we will discuss:</p>\n<p>·        The components of your personal narrative and value proposition</p>\n<p>·        Ways to communicate your story</p>\n<p>·        The elements of an ‘elevator pitch’</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 4: Communicating my professional identity and value proposition</strong>",
+            "topic_description": "Seminar 4: Communicating my professional identity and value proposition During this seminar we will discuss: ·        The components of your personal narrative and value proposition ·        Ways to communicate your story ·        The elements of an ‘elevator pitch’",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 5: Professional development plan</strong><br/><p>During this seminar we will discuss:</p>\n<ul>\n<li>Guest speaker on career planning</li>\n<li>Skills and attributes for success</li>\n<li>Measuring skills and attributes</li>\n<li>Developing a Professional Development Plan</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L03, L07</p></div></td>",
+            "topic_title": "<strong>Seminar 5: Professional development plan</strong>",
+            "topic_description": "Seminar 5: Professional development plan During this seminar we will discuss: Guest speaker on career planning Skills and attributes for success Measuring skills and attributes Developing a Professional Development Plan",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-person consultations with the lecturer</strong><br/><p>Students will schedule an in-person consultation with the lecturer for the purpose of the A3.2 <em>viva voce.</em></p>\n<p>The consultations will occur in the weekly seminar timeslot from Week 6 to Week 12.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>In-person consultations with the lecturer</strong>",
+            "topic_description": "In-person consultations with the lecturer Students will schedule an in-person consultation with the lecturer for the purpose of the A3.2 viva voce. The consultations will occur in the weekly seminar timeslot from Week 6 to Week 12.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
