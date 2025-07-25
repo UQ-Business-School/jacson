@@ -70,7 +70,7 @@
             "learning_objectives": null,
             "mode": "Written",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The mid-semester exam is scheduled for week 10, including 10-15 multiple-choice questions and 4-5 open-ended questions. It is an in-person exam scheduled during the lecture time (10am~12pm). The exam will be invigilated by the lecturer and two tutors.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester exam is scheduled for week 10, including 10-15 multiple-choice questions and 4-5 open-ended questions. It is an in-person exam scheduled during the lecture time (10am~12pm). The exam will be invigilated by the lecturer and two tutors.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Please follow the guidelines on BB.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -90,7 +90,7 @@
                 }
             ],
             "weighting": "<dd>45% Team </dd>",
-            "due_date": "<dd><p> 29/10/2025 - 31/10/2025</p>\n<p>\n</p><p>At tutorials during Week 13</p></dd>",
+            "due_date": "<dd><p> Week 13 Wed - Week 13 Fri</p>\n<p>\n</p><p>At tutorials during Week 13</p></dd>",
             "learning_objectives": null,
             "mode": "Oral",
             "category": "Presentation",
