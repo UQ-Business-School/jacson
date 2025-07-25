@@ -79,12 +79,7 @@
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Article Review Report",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                }
-            ],
+            "special_indicators": [],
             "weighting": "<dd>45%</dd>",
             "due_date": "<dd><p> 11/11/2025 2:00 pm</p></dd>",
             "learning_objectives": "L04",
