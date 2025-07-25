@@ -1,0 +1,218 @@
+{
+    "course_title": "Deep Learning for Business",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3212-60196-7560",
+    "full_course_code": "BSAN3212-60196-7560",
+    "course_code": "BSAN3212",
+    "class_code": "60196",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Deep Learning for Business Essay (A1)",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 22/08/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L04",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The use of deep learning methods is increasingly being adopted across various sectors of the economy, and as a result, business and society are likely to undergo significant changes.</p>\n<p>In a 2000-word essay, explore how business and society are likely to respond to these changes and what adaptations they may need to make to thrive in this new environment. Consider both the potential benefits and challenges of deep learning and the ethical considerations that must be considered. In your essay, provide specific examples of how deep learning is currently being used in various industries and speculate on how these applications may evolve in the future.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on BlackBoard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Deep Learning Coding Project Journal (A2)",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 26/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Notebook/ Logbook",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As you complete the five in-class deep learning projects, you are asked to produce a coding project journal that details your experience completing these projects.</p>\n<p>More details about the format, style, etc. will be discussed in class and provided on Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on BlackBoard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Deep Learning Project Proposal (A3)",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 31/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Building upon the ideas and concepts explored in the course and your practical experience with machine learning projects from A2, you will now propose a deep learning project of your own. In a 3000-word project proposal, you should aim to address a significant business challenge or opportunity within a specific industry or field that can be tackled using deep learning methods.</p>\n<p>Your project proposal should include the following sections:</p>\n<ol>\n<li>Introduction: Provide a brief overview of the challenge or opportunity you will be addressing with your proposed project. Explain why this challenge or opportunity is significant and why deep learning methods are well-suited to address it.</li>\n<li>Project Objectives: Define the specific objectives of your project. This should include a clear statement of the problem you will be addressing and the goals you hope to achieve with your deep learning solution.</li>\n<li>Methodology: Describe the deep learning methods you will use to achieve your project objectives. This should include a clear explanation of the algorithms, models, and techniques you will be employing and any data sources you will be using.</li>\n<li>Evaluation: Define the evaluation metrics you will use to assess the effectiveness of your deep learning solution. This should include both quantitative and qualitative metrics, as appropriate.</li>\n<li>Timeline: Provide a detailed timeline for completing your proposed project. This should include specific milestones and deadlines for each phase of the project and any potential roadblocks or challenges you anticipate.</li>\n<li>Conclusion: Summarise your project proposal, including its objectives, methodology, evaluation metrics, and timeline. Discuss the potential impact of your proposed project and how it may contribute to the broader field of deep learning.</li>\n</ol>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on BlackBoard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction and A1 overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Course introduction and A1 overview</strong>",
+            "topic_description": "Course introduction and A1 overview",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Preparation for Deep Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Preparation for Deep Learning</strong>",
+            "topic_description": "Preparation for Deep Learning",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ekka Public Holiday</strong><br/></p></div></td>",
+            "topic_title": "<strong>Ekka Public Holiday</strong>",
+            "topic_description": "Ekka Public Holiday",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep Neural Networks and Autoencoders</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Deep Neural Networks and Autoencoders</strong>",
+            "topic_description": "Deep Neural Networks and Autoencoders",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Concurrent Neural Networks </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Concurrent Neural Networks </strong>",
+            "topic_description": "Concurrent Neural Networks",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recurrent Neural Networks</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Recurrent Neural Networks</strong>",
+            "topic_description": "Recurrent Neural Networks",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transformers</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Transformers</strong>",
+            "topic_description": "Transformers",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep Learning Alternatives</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Deep Learning Alternatives</strong>",
+            "topic_description": "Deep Learning Alternatives",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reviewing the Fundamentals of Deep Learning and A2 finalisation workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Reviewing the Fundamentals of Deep Learning and A2 finalisation workshop</strong>",
+            "topic_description": "Reviewing the Fundamentals of Deep Learning and A2 finalisation workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-semester Break</strong>",
+            "topic_description": "Mid-semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep Learning Project Proposal (A3) briefing</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Deep Learning Project Proposal (A3) briefing</strong>",
+            "topic_description": "Deep Learning Project Proposal (A3) briefing",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generative AI and other real world applications</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Generative AI and other real world applications</strong>",
+            "topic_description": "Generative AI and other real world applications",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep Learning Project (A3) finalisation workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Deep Learning Project (A3) finalisation workshop</strong>",
+            "topic_description": "Deep Learning Project (A3) finalisation workshop",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Recap</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Course Review and Recap</strong>",
+            "topic_description": "Course Review and Recap",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
