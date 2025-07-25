@@ -1,0 +1,386 @@
+{
+    "course_title": "Information Retrieval and Management",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7206-60385-7560",
+    "full_course_code": "BISM7206-60385-7560",
+    "course_code": "BISM7206",
+    "class_code": "60385",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate foundational understanding and/or critical application of data modelling techniques to design robust data structures that address complex business requirements."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand and apply Structured Query Language (SQL) to extract data from relational information systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain and apply principles of data quality assurance and apply techniques such as data cleaning, validation, and integrity enforcement to improve the reliability of organisational data."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and analyse current Information Systems issues and suggest strategic approaches to leveraging business data for competitive advantage."
+        },
+        {
+            "number": "LO5.",
+            "description": "Collaborate effectively in teams and articulate complex information systems concepts through advanced written and oral communication skills."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "AI debate",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> Week 6</p>\n<p>\n</p><p>During tutorial Time.</p>\n<p><br/></p></dd>",
+            "learning_objectives": "L04, L05",
+            "mode": "Oral",
+            "category": "Participation/ Student contribution, Presentation, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objective of this assessment is to evaluate students’ ability to (1) demonstrate understanding of Information Systems issues (2) critically reflect on and articulate the implications of AI for business processes and data use, and (3) engage constructively in informed discourse on the topics. While tutorial discussions will occur in teams, each student will be assessed individualy. Detailed debate motions and preparation guidelines will be posted on Blackboard.</p>\n<p><strong>Preparation:</strong> You may consult AI tools while researching and preparing written notes for the in-class debate. Use of AI tools is prohibited once the live debate begins.</p>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>More information will be released on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Team Project- Database design",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Iteration Session Submission - not graded. 19/09/2025 4:00 pm</p>\n<p>Final Submission 24/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task provides students with the opportunity to demonstrate:</p>\n<ul>\n<li>effective collaboration and teamwork skills;</li>\n<li>demonstrate their understanding of database concepts; and</li>\n<li>their ability to design, develop and implement a well-structured relational database that effectively supports the given case study business requirements</li>\n</ul>\n<p>Students will also be required to demonstrate their knowledge and ability to use SQL. While it is anticipated that the fundamental knowledge and skills will be developed through lecture and tutorial materials, students will be required to undertake additional research to further develop the skills required to successfully complete this assessment task. </p>\n<p>Students are required to submit a professional business report including professional modelling diagrams, supporting documentation and SQL scripts for drawing models (freely available on the Web). SQL scripts are to be created using MySQL Workbench software, which is available on UQ's \"Digital Workspace\" or Virtual Machine and in the BEL labs.</p>\n<p><strong>Iteration Session (Week 8):</strong> Students will submit selected sections of their project by the end of Week 8. During week 9 tutorial, students receive oral comments on their work from their tutor. This iteration submission is for feedback only and is not graded.</p>\n<p><strong>Teamwork: </strong></p>\n<p>Assessment Task 2 will be undertaken in teams of 4-5 students. Team members must be enrolled in the same tutorial class to allow some teamwork to be conducted during tutorials (this is a mandatory requirement and will not be open to negotiation). Students are reminded that a key Learning Objective of this course is the ability to work in teams, and this assessment task directly addresses that Learning Objective. Zero marks will apply if this requirement is not addressed.</p>\n<p><strong>Peer assessment:</strong> </p>\n<p>Students must submit confidential self and peer evaluations to enable assessment of team member contributions. The evaluation process assists the teaching team to understand how each student contributed, and the findings are confidential. The peer evaluation can affect each student's mark for this assignment.</p>\n<p>Assessment guidelines, along with team requirements, the case study description, marking rubric, and specifications will be available under the Assessment link on Blackboard.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submissions must be uploaded through the provided Blackboard links. Please follow the detailed instructions provided on Blackboard for further information.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assessment Task 3 - Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Final Examination will consist of multiple choice, short answer and problem-solving questions based on learning materials presented in lectures, tutorials and the relevant chapters of the textbook from week 1 to week 13 inclusive.</p>\n<p>Further details about the exam will be discussed in lectures and posted to the Blackboard course site.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and Intro to DBMS</strong><br><p>Introduction to database management including traditional file-based systems, the database management system and fundamental database concepts. </p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Course Overview and Intro to DBMS</strong>",
+            "topic_description": "Course Overview and Intro to DBMS Introduction to database management including traditional file-based systems, the database management system and fundamental database concepts.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Entity Relationship Modelling</strong><br><p>Entity relationship modelling is explored in terms of a data driven approach using entity-relationship diagrams including design elements such as entities, relationships, attributes, keys and multiplicity.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Entity Relationship Modelling</strong>",
+            "topic_description": "Entity Relationship Modelling Entity relationship modelling is explored in terms of a data driven approach using entity-relationship diagrams including design elements such as entities, relationships, attributes, keys and multiplicity.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Data &amp; Information; MYSQL prep</strong><br/><p>Difference between data and information; importance of data and information; 3-level architecture; database case study. </p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Data &amp; Information; MYSQL prep</strong>",
+            "topic_description": "Tutorial 1: Data & Information; MYSQL prep Difference between data and information; importance of data and information; 3-level architecture; database case study.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Relational Model</strong><br/><p>Relational model concepts are discussed including specific terminology, keys, views and integrity constraints.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Relational Model</strong>",
+            "topic_description": "Relational Model Relational model concepts are discussed including specific terminology, keys, views and integrity constraints.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Entity Relationship Modelling</strong><br/><p>Identify entities and relationships; review multiplicity and other relevant concepts; ERM practical exercises.</p>\n<p><strong>EKKA Public Holiday - Wednesday 13 August 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Entity Relationship Modelling</strong>",
+            "topic_description": "Tutorial 2: Entity Relationship Modelling Identify entities and relationships; review multiplicity and other relevant concepts; ERM practical exercises. EKKA Public Holiday - Wednesday 13 August 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Structured Query Language (I)</strong><br/><p>Introduction to basic SQL DDL and DML statements.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Structured Query Language (I)</strong>",
+            "topic_description": "Structured Query Language (I) Introduction to basic SQL DDL and DML statements.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3: Relational Modelling</strong><br/><p>Practical exercises and concepts - relations, keys, integrity constraints; create a relational model and relational schema.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 3: Relational Modelling</strong>",
+            "topic_description": "Tutorial 3: Relational Modelling Practical exercises and concepts - relations, keys, integrity constraints; create a relational model and relational schema.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Normalisation</strong><br/><p>Explore how normalisation supports database design and how concepts such as partial, transitive, and functional dependencies enable the logical database design to transition and conform to particular normal forms.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Normalisation</strong>",
+            "topic_description": "Normalisation Explore how normalisation supports database design and how concepts such as partial, transitive, and functional dependencies enable the logical database design to transition and conform to particular normal forms.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: SQL Pactical Exercises</strong><br/><p>SQL practical exercises.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: SQL Pactical Exercises</strong>",
+            "topic_description": "Tutorial 4: SQL Pactical Exercises SQL practical exercises.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AI Debate Week – No Lecture</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>AI Debate Week – No Lecture</strong>",
+            "topic_description": "AI Debate Week – No Lecture",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: In-class AI debate (Assignment 1)</strong><br/><p>This week’s tutorial will be devoted to Assignment 1: an in-class AI debate. </p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: In-class AI debate (Assignment 1)</strong>",
+            "topic_description": "Tutorial 5: In-class AI debate (Assignment 1) This week’s tutorial will be devoted to Assignment 1: an in-class AI debate.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Structured Query Language (II)</strong><br/><p>Exploring aggregation and grouping, and relational operations to enable search conditions and order/grouping of results.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Structured Query Language (II)</strong>",
+            "topic_description": "Structured Query Language (II) Exploring aggregation and grouping, and relational operations to enable search conditions and order/grouping of results.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6: Normalisation exercises</strong><br/><p>Practical exercises on dependencies and normalisation concepts.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 6: Normalisation exercises</strong>",
+            "topic_description": "Tutorial 6: Normalisation exercises Practical exercises on dependencies and normalisation concepts.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Quality and Cleaning</strong><br/><p>Data is a valuable resource and access to accurate, current and informative data is critical to business success. Therefore, data needs to be managed and organised like other business assets.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Data Quality and Cleaning</strong>",
+            "topic_description": "Data Quality and Cleaning Data is a valuable resource and access to accurate, current and informative data is critical to business success. Therefore, data needs to be managed and organised like other business assets.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7:  SQL practices </strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 7:  SQL practices </strong>",
+            "topic_description": "Tutorial 7:  SQL practices",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transaction Management</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Transaction Management</strong>",
+            "topic_description": "Transaction Management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8:  Assignment Iteration feedback and presentations </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8:  Assignment Iteration feedback and presentations </strong>",
+            "topic_description": "Tutorial 8:  Assignment Iteration feedback and presentations",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Warehousing </strong><br/><p>We expand our knowledge of database applications with an introduction to data warehousing and data integration.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Data Warehousing </strong>",
+            "topic_description": "Data Warehousing We expand our knowledge of database applications with an introduction to data warehousing and data integration.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9: Transaction Management </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 9: Transaction Management </strong>",
+            "topic_description": "Tutorial 9: Transaction Management",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Database Security and Control</strong><br/><p>Data is a valuable resource and access to accurate, current and informative data is critical to business success. Therefore, data needs to be managed and organised like other business assets.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Database Security and Control</strong>",
+            "topic_description": "Database Security and Control Data is a valuable resource and access to accurate, current and informative data is critical to business success. Therefore, data needs to be managed and organised like other business assets.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Database Security Pactical Exercises</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Database Security Pactical Exercises</strong>",
+            "topic_description": "Tutorial 10: Database Security Pactical Exercises",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Distributed Database Management Systems</strong><br/><p>We examine distributed DBMSs including concepts, problems, technologies and protocols.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Distributed Database Management Systems</strong>",
+            "topic_description": "Distributed Database Management Systems We examine distributed DBMSs including concepts, problems, technologies and protocols.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11: Team Project</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11: Team Project</strong>",
+            "topic_description": "Tutorial 11: Team Project",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Overview and Big Data &amp; Technologies</strong><br/><p>Exploring why data management technologies and approaches have expanded beyond relational databases and data warehousing.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Overview and Big Data &amp; Technologies</strong>",
+            "topic_description": "Overview and Big Data & Technologies Exploring why data management technologies and approaches have expanded beyond relational databases and data warehousing.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12: Exam consult</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 12: Exam consult</strong>",
+            "topic_description": "Tutorial 12: Exam consult",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
