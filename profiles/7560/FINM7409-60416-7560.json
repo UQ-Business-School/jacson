@@ -48,9 +48,9 @@
             "category": "Examination",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam is held during the normal lecture hours. The Exam covers material from Lectures 1-4 (including tutorials) and contains multiple-choice (a mix of theory and calculations) and problem-solving questions.</p>\n<p>Further details about the Exam will be made available on the Blackboard course site in the week before the Exam.</p>\n<p>Students are required to log in to the Blackboard course site to complete the Exam. Students will have <strong>only one</strong> attempt to finish. You can take the Exam from any location, but we highly recommend choosing a place with a stable internet connection to ensure a smooth experience. </p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Please answer all of the questions in the Blackboard test (MCQs and problem-solving questions) and <strong>SUBMIT your responses by the end time of your exam</strong>.</p>",
-            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -68,13 +68,13 @@
             "weighting": "<dd>30%</dd>",
             "due_date": "<dd><p> 8/10/2025 8:30 am</p></dd>",
             "learning_objectives": "L01, L02",
-            "mode": "Written",
+            "mode": "Product/ Artefact/ Multimedia, Written",
             "category": "Paper/ Report/ Annotation, Project",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assignment. </p>\n<p>In this assignment, students are required to calculate simple financial ratios using a provided Excel template. Further, students are also required to write a short essay (<strong>700 words </strong>maximum) analysing the companies using the calculated ratios. </p>\n<p>Detailed instructions are given in the assignment task sheet to be made available on Blackboard. <strong><em>Please note that this assignment is to be completed individually.</em></strong></p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>The assignment will be submitted electronically using a Blackboard Assessment link and a Blackboard Turnitin link. </p>",
-            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -286,9 +286,9 @@
         {
             "learning_period": "Mid Sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/><p>Mid-semester break from Monday, 29 September to Friday, 3 October. There will be no teaching activities whatsover during this week.</p></p></div></td>",
-            "topic_title": "<strong>Mid-Semester Break</strong>",
-            "topic_description": "Mid-Semester Break Mid-semester break from Monday, 29 September to Friday, 3 October. There will be no teaching activities whatsover during this week.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>There will be no teaching activities during this week.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break There will be no teaching activities during this week.",
             "learning_outcomes": []
         },
         {
