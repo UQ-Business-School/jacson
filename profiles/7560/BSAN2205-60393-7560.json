@@ -1,0 +1,286 @@
+{
+    "course_title": "Machine Learning for Business",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2205-60393-7560",
+    "full_course_code": "BSAN2205-60393-7560",
+    "course_code": "BSAN2205",
+    "class_code": "60393",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and explain the role of machine learning for business."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the key concepts in machine learning for business."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply the methods of machine learning to business."
+        },
+        {
+            "number": "LO4.",
+            "description": "Compare and critically evaluate the methods of machine learning."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate how applications of machine learning can inform and improve business performance."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1 - Project Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 19/09/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This first assessment item is a project proposal outlining the application of machine learning to business. The proposal is an individual and written assessment item. My expectation is students will write proposals in the range of 1,500 to 2,000 words. The proposal should contain several key components.</p>\n<p>1. Background statement</p>\n<p>2. Conceptual development</p>\n<p>3. Variable selection</p>\n<p>4. Methods of analysis/analysis plan</p>\n<p>5. Form of the results</p>\n<p>6. Next steps</p>\n<p>More details of criteria and suggestions for approaching each section of the proposal will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in Word format.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may <strong>appropriately use</strong> AI in completing this assessment task. Students must clearly reference any use of AI <strong>in each instance.</strong></p>\n<p>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2 - In person quiz- online",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 15/10/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an in-person online quiz, meaning you must attend class and complete the quiz during the scheduled session. The quiz will be supervised during the class to ensure academic integrity.</p>\n<p>If you are absent for a valid reason, you may apply for a deferred assessment in accordance with the University’s assessment policy. Please refer to the course ECP or contact the course coordinator for further information.</p>\n<p><strong>Important:</strong> This is a digital assessment. The following late submission penalties apply:</p>\n<ul>\n<li>Less than 5 minutes late: 5% penalty</li>\n<li>Between 5 and less than 15 minutes late: 20% penalty</li>\n<li>More than 15 minutes late: 100% penalty</li>\n</ul>\n<p>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This is an online quiz; however, students must complete it during class time.<strong> </strong>All assessments must be submitted through Blackboard, with detailed submission instructions available on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3 - Project Report and Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 31/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project report is intended as an extension of the project plan. The plan proposed a possible direction for your project – sketching a way to address a binary classification problem. The project report restates key elements of the plan and context, documents the methods and results of your project, and highlights the implications for the client (“the bank”). Note the project report should be prepared and submitted in PowerPoint format (whereas the project plan was in the form of a Word document). Further, you are asked to make a recording of a presentation (presenting your PowerPoint doc) and submit your R script. The project report will likely have the following sections.</p>\n<p>1. Background</p>\n<p>2. Business problem</p>\n<p>3. Proposed solution/method of analysis</p>\n<p>4. Data</p>\n<p>5. Analysis plan</p>\n<p>6. Results and interpretation</p>\n<p>7. Strategy/recommendations</p>\n<p>8. Conclusion/research directions</p>\n<p>More details of criteria and suggestions for approaching each section of the report will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in PowerPoint format and further, record and submit a recording of their presentations.</p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.</em></p>\n<p><em> A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction and A1 Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Introduction and A1 Overview</strong>",
+            "topic_description": "Course Introduction and A1 Overview",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Preparation for Machine Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Preparation for Machine Learning</strong>",
+            "topic_description": "Preparation for Machine Learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public holiday- No class</strong><br/></p></div></td>",
+            "topic_title": "<strong>Public holiday- No class</strong>",
+            "topic_description": "Public holiday- No class",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Linear Regression</strong>",
+            "topic_description": "Linear Regression",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Logistic Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Logistic Regression</strong>",
+            "topic_description": "Logistic Regression",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Time Series Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Time Series Analysis</strong>",
+            "topic_description": "Time Series Analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tree-Based Methods</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tree-Based Methods</strong>",
+            "topic_description": "Tree-Based Methods",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Support Vector Machines and A2 Overview</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Support Vector Machines and A2 Overview</strong>",
+            "topic_description": "Support Vector Machines and A2 Overview",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ensemble Methods</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Ensemble Methods</strong>",
+            "topic_description": "Ensemble Methods",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clustering</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Clustering</strong>",
+            "topic_description": "Clustering",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Project Workshop</strong>",
+            "topic_description": "Project Workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Association Rule Learning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Association Rule Learning</strong>",
+            "topic_description": "Association Rule Learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>13. Course Revision and A3 Preparation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>13. Course Revision and A3 Preparation</strong>",
+            "topic_description": "13. Course Revision and A3 Preparation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
