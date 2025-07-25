@@ -1,0 +1,296 @@
+{
+    "course_title": "International Business Operations",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/IBUS3310-60209-7560",
+    "full_course_code": "IBUS3310-60209-7560",
+    "course_code": "IBUS3310",
+    "class_code": "60209",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply fundamental theories and perspectives to analyse diverse foreign operation modes."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate the strengths and limitations of various foreign operation modes to make informed choices for internationalisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Adapt foreign operation strategies in response to changing internal and external circumstances."
+        },
+        {
+            "number": "LO4.",
+            "description": "Collaborate effectively to develop practical solutions to complex problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Implement foreign operation methods in a socially responsible and culturally sensitive manner."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Case Study Presentation & Evaluations",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> Week 3 - Week 13</p>\n<p>\n</p><p>Each team will be allocated a week to present during their tutorial</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be placed in to teams. Each team will be allocated a week to present a case study during their tutorial.</p>\n<p>The assigned case study will be made available in the week prior to the team presentation and the case study is based on the previous weeks lecture topic.</p>\n<p>Students are required to work together in their team to solve the case and answer any assigned case questions. Students in their presentation will provide a brief overview of the case and apply key course concepts and theory to assist with solving the case/answering the questions. Teams need to engage their audience with their delivery and relevant questions/activities. Presentation slides must be submitted prior to the time of the presentation date.</p>\n<p><strong>Please Note: </strong>The presentation will be recorded for marking purposes per UQ policy.</p>\n<p>Full assessment task description is available on the course blackboard site in the Assessment section.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Teams will present case study during their tutorial and submit the presentation slides via the online submission link on the course Blackboard site in the same week as their assigned presentation.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Company analysis",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 31/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will write and submit a business report. Students are expected to conduct a real-business case analysis on foreign operation method. Students select an international firm, then critically analyze, discuss, and evaluate the chosen firm's foreign operation methods in multiple countries, and provide recommendations on how the firm can further improve their foreign operations from strategy and implementation levels by applying course concepts and secondary research.</p>\n<p>A minimum of 10 authoritative, relevant references must be included.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In person invigilated open-book assessment",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 10/11/2025 - 17/11/2025</p>\n<p>\n</p><p>This assessment will be scheduled by the school and run for 48 hours during the examination period.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The short essay style questions focus on testing your understanding and insights to date in this course. Apply critical thinking and use of illustrative examples where possible. Each question will require an essay-style response. Responses provided in bullet points without the appropriate detail will be awarded only partial marks. </p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Overview and fundamental theories</strong><br/></p></div></td>",
+            "topic_title": "<strong>Course Overview and fundamental theories</strong>",
+            "topic_description": "Course Overview and fundamental theories",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Franchising</strong><br/><ul>\n<li>Week 2 lecture content summary</li>\n<li>Interactive activities</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Franchising</strong>",
+            "topic_description": "Franchising Week 2 lecture content summary Interactive activities",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Franchising</strong><br/></p></div></td>",
+            "topic_title": "<strong>Franchising</strong>",
+            "topic_description": "Franchising",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Licensing</strong><br/><ul>\n<li>Week 3 lecture content summary</li>\n<li>In-class case discussion and analysis</li>\n</ul>\n<p><strong>EKKA Public Holiday - Wednesday 13 August 2025</strong> - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>Licensing</strong>",
+            "topic_description": "Licensing Week 3 lecture content summary In-class case discussion and analysis EKKA Public Holiday - Wednesday 13 August 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Licensing</strong><br/></p></div></td>",
+            "topic_title": "<strong>Licensing</strong>",
+            "topic_description": "Licensing",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Management contracts</strong><br/><ul>\n<li>Week 4 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Management contracts</strong>",
+            "topic_description": "Management contracts Week 4 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Management contracts</strong><br/></p></div></td>",
+            "topic_title": "<strong>Management contracts</strong>",
+            "topic_description": "Management contracts",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>International outsourcing</strong><br/><ul>\n<li>Week 5 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>International outsourcing</strong>",
+            "topic_description": "International outsourcing Week 5 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>International outsourcing</strong><br/></p></div></td>",
+            "topic_title": "<strong>International outsourcing</strong>",
+            "topic_description": "International outsourcing",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project operations</strong><br/><ul>\n<li>Week 6 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Project operations</strong>",
+            "topic_description": "Project operations Week 6 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project operations</strong><br/></p></div></td>",
+            "topic_title": "<strong>Project operations</strong>",
+            "topic_description": "Project operations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exporting</strong><br/><ul>\n<li>Week 7 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Exporting</strong>",
+            "topic_description": "Exporting Week 7 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exporting</strong><br/></p></div></td>",
+            "topic_title": "<strong>Exporting</strong>",
+            "topic_description": "Exporting",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Alliance</strong><br/></p></div></td>",
+            "topic_title": "<strong>Alliance</strong>",
+            "topic_description": "Alliance",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Alliance</strong><br/><ul>\n<li>Week 8 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Alliance</strong>",
+            "topic_description": "Alliance Week 8 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign direct investment</strong><br/></p></div></td>",
+            "topic_title": "<strong>Foreign direct investment</strong>",
+            "topic_description": "Foreign direct investment",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign direct investment</strong><br/><ul>\n<li>Week 9 lecture summary</li>\n<li>Case analysis</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Foreign direct investment</strong>",
+            "topic_description": "Foreign direct investment Week 9 lecture summary Case analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester break </strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester break </strong>",
+            "topic_description": "In-Semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mode switching and stretching strategies</strong><br/><ul>\n<li>Week 10 lecture summary</li>\n<li>Case analysis</li>\n</ul>\n<p><strong>Kings Birthday Public Holiday - Monday 6 October 2025</strong> - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic_title": "<strong>Mode switching and stretching strategies</strong>",
+            "topic_description": "Mode switching and stretching strategies Week 10 lecture summary Case analysis Kings Birthday Public Holiday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mode switching and stretching strategies</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mode switching and stretching strategies</strong>",
+            "topic_description": "Mode switching and stretching strategies",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mode combination and mode flexibility</strong><br/><ul>\n<li>Week 11 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Mode combination and mode flexibility</strong>",
+            "topic_description": "Mode combination and mode flexibility Week 11 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mode combination and mode flexibility</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mode combination and mode flexibility</strong>",
+            "topic_description": "Mode combination and mode flexibility",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign operation modes in digital world </strong><br/><ul>\n<li>Week 12 lecture summary</li>\n<li>Case analysis and discussion</li>\n</ul></p></div></td>",
+            "topic_title": "<strong>Foreign operation modes in digital world </strong>",
+            "topic_description": "Foreign operation modes in digital world Week 12 lecture summary Case analysis and discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foreign operation modes in digital world </strong><br/></p></div></td>",
+            "topic_title": "<strong>Foreign operation modes in digital world </strong>",
+            "topic_description": "Foreign operation modes in digital world",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision of course content</strong><br/><p>Revision of all topics</p></p></div></td>",
+            "topic_title": "<strong>Revision of course content</strong>",
+            "topic_description": "Revision of course content Revision of all topics",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision of course content</strong><br/></p></div></td>",
+            "topic_title": "<strong>Revision of course content</strong>",
+            "topic_description": "Revision of course content",
+            "learning_outcomes": []
+        }
+    ]
+}
