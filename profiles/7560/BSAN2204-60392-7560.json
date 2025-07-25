@@ -1,0 +1,407 @@
+{
+    "course_title": "Methods of Business Analytics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2204-60392-7560",
+    "full_course_code": "BSAN2204-60392-7560",
+    "course_code": "BSAN2204",
+    "class_code": "60392",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and explain the role of R for business analytics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the basic concepts used in R for managing and manipulating data."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply R for basic business analytics tasks, including data visualisation and predictive analytics/forecasting."
+        },
+        {
+            "number": "LO4.",
+            "description": "Compare and critically evaluate competing methods of business analytics."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate how business analytics can inform and improve managerial decision making."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Data Exploration Report (A1)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 12/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The <strong>Data Exploration Report (A1)</strong> will document the process of using R to explore a subset of the Million Song Dataset (MSD) using descriptive and visual methods of analysis. The descriptive methods should include measures of central tendency for continuous variables, measures of counts/proportions for categorial variables and bivariate statistics. The visual methods should include univariate and bivariate graphs.</p>\n<p>Students must <strong>echo all R code</strong> used to generate their report and provide concise plain-text commentary explaining the R syntax and functions used (i.e., all code related to reading, processing and structuring the dataset, and code related to descriptive and visual methods of analysis). Additionally, the plain-text sections should further highlight the key insights that emerge from the descriptive and visual methods of analysis.</p>\n<p>The Data Exploration Report (A1) must be written using <strong>R Markdown</strong> and submitted as a rendered <strong>HTML file (*.html)</strong>.</p>\n<p>The marking rubric will include criteria to assess the quality of the analysis, document presentation and adherence to submission guidelines.</p>\n<p>A full briefing of the Data Exploration Report (A1) will be provided in class during lectures and tutorials which will outline the suggested document structure, length requirements, and submission guidelines.</p>\n<p><strong>AI Statement</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit as a <strong>.html file</strong> to Turnitin submission link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Predictive Analytics Report (A2)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 17/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The <strong>Predictive Analytics Report (A2)</strong> will extend the analysis presented in the Data Exploration Report (A1). The predictive analytics will comprise using a multiple linear regression model to estimate the drivers of song hotness within a subset of the Million Song Dataset (MSD). Attempts should be made to improve the model by dealing with missing data, nonlinearity, and interactions amongst the input variables. The report should conclude with an evaluation of the model, providing a critical assessment of its usefulness for prediction using model validation.</p>\n<p>Students must <strong>echo selected R code</strong>, limited only to the code relevant to the methods predictive analytics processes (model fitting, handling missing data, evaluating model performance). For these code sections, students must provide concise plain-text commentary explaining the analytical rationale and interpretation of results (i.e., not the R code syntax or functions used). Code related to reading, processing and structuring the dataset should not be echoed to the rendered Predictive Analytics Report (A2).</p>\n<p>The Predictive Analytics Report (A2) must be written using <strong>R Markdown</strong> and submitted as a rendered <strong>HTML file (*.html)</strong>.</p>\n<p>The marking rubric will include criteria to assess the quality of the analysis, document presentation and adherence to submission guidelines.</p>\n<p>A full briefing of the Predictive Analytics Report (A2) will be provided in class during lectures and tutorials, which will outline the suggested document structure, length requirements, and submission guidelines.</p>\n<p><strong>AI Statement</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit as a <strong>.html file</strong> to Turnitin submission link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Practical Demonstration (A3)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> Exam week 1 - Exam week 2</p>\n<p>\n</p><p>The Practical Demonstration (A3) will be scheduled during the Examination Period</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Examination, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Practical Demonstration (A3) is an <strong>observed form of assessment</strong>. Students will receive a dataset and a briefing written in the form of an email from a hypothetical business analytics colleague/client asking for \"request for a quick data summary and analysis\". The task requires students to produce a minimally formatted report using <strong>R Markdown</strong> under observation that includes descriptive statistics, visualisations, a regression model with concise interpretations using the data provided. Students must complete their response to the client briefing under observation within the time constraint of an examination setting.</p>\n<p>To mirror the tools and challenges of a professional work setting, students will be permitted to access the Internet and use AI tools during the assessment time to assist in the completion of the assessment. This assessment evaluates practical skills related to data exploration and predictive analytics, adaptability, and proficiency in using real-world tools under time constraints.</p>\n<p>A full briefing of the Practical Demonstration (A3) will be provided in class during lectures and tutorials which will outline the suggested response structure, length, and submission guidelines. The Week 12 and 13 lectures and tutorial will cover a review of the topics relevant to the Practical Demonstration (A3).</p>\n<p>This Practical Demonstration (A3) must be written using R Markdown and submitted as a rendered <strong>HTML file (*.html)</strong> before the end of the examination time.</p>\n<p>The marking rubric will include criteria to assess the quality of the analysis, report presentation and adherence to submission guidelines.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The finalised .html file must submitted by the end of the examination session.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction: Methods of Business Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction: Methods of Business Analytics</strong>",
+            "topic_description": "Introduction: Methods of Business Analytics",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Software: R and R Studio</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Software: R and R Studio</strong>",
+            "topic_description": "Introduction to Software: R and R Studio",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Tutorials</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Tutorials</strong>",
+            "topic_description": "Introduction to Tutorials",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Briefing: Data Exploration Report (A1)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Assignment Briefing: Data Exploration Report (A1)</strong>",
+            "topic_description": "Assignment Briefing: Data Exploration Report (A1)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical: Using Software: R and R Studio</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Practical: Using Software: R and R Studio</strong>",
+            "topic_description": "Practical: Using Software: R and R Studio",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business Analytics Reports: Introduction to R Markdown</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Business Analytics Reports: Introduction to R Markdown</strong>",
+            "topic_description": "Business Analytics Reports: Introduction to R Markdown",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion: Data Exploration Report (A1)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Discussion: Data Exploration Report (A1)</strong>",
+            "topic_description": "Discussion: Data Exploration Report (A1)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploratory Analysis: Describing and Visualising Data</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Exploratory Analysis: Describing and Visualising Data</strong>",
+            "topic_description": "Exploratory Analysis: Describing and Visualising Data",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical: Using R Markdown</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical: Using R Markdown</strong>",
+            "topic_description": "Practical: Using R Markdown",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Briefing: Predictive Analytics Report (A2)</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assignment Briefing: Predictive Analytics Report (A2)</strong>",
+            "topic_description": "Assignment Briefing: Predictive Analytics Report (A2)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical: Describing and Visualising Data in R</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practical: Describing and Visualising Data in R</strong>",
+            "topic_description": "Practical: Describing and Visualising Data in R",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Predictive Analytics: Introduction to Regression Modelling</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Predictive Analytics: Introduction to Regression Modelling</strong>",
+            "topic_description": "Predictive Analytics: Introduction to Regression Modelling",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion: Predictive Analytics Report (A2)</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Discussion: Predictive Analytics Report (A2)</strong>",
+            "topic_description": "Discussion: Predictive Analytics Report (A2)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Building Smarter Models: Dealing with Missing Data, Nonlinearity, and Interactions</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Building Smarter Models: Dealing with Missing Data, Nonlinearity, and Interactions</strong>",
+            "topic_description": "Building Smarter Models: Dealing with Missing Data, Nonlinearity, and Interactions",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical: Using Regression in R</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practical: Using Regression in R</strong>",
+            "topic_description": "Practical: Using Regression in R",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Evaluating Models: Assessing the Usefulness of Predictive Models</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Evaluating Models: Assessing the Usefulness of Predictive Models</strong>",
+            "topic_description": "Evaluating Models: Assessing the Usefulness of Predictive Models",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical: Dealing with Missing Data, Nonlinearity, and Interactions in R</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practical: Dealing with Missing Data, Nonlinearity, and Interactions in R</strong>",
+            "topic_description": "Practical: Dealing with Missing Data, Nonlinearity, and Interactions in R",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No live-lecture this week</strong><br/><p>Monday Public Holiday (06/10/2025)</p></p></div></td>",
+            "topic_title": "<strong>No live-lecture this week</strong>",
+            "topic_description": "No live-lecture this week Monday Public Holiday (06/10/2025)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical: Model Validation and Prediction in R</strong><br/><p>No Monday tutorials this week</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practical: Model Validation and Prediction in R</strong>",
+            "topic_description": "Practical: Model Validation and Prediction in R No Monday tutorials this week",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Briefing: Practical Demonstration (A3)</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assignment Briefing: Practical Demonstration (A3)</strong>",
+            "topic_description": "Assignment Briefing: Practical Demonstration (A3)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop: Predictive Analytics Report (A2) Finalisation/Troubleshooting</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop: Predictive Analytics Report (A2) Finalisation/Troubleshooting</strong>",
+            "topic_description": "Workshop: Predictive Analytics Report (A2) Finalisation/Troubleshooting",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review of Topics: Data Exploration and Predictive Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Review of Topics: Data Exploration and Predictive Analytics</strong>",
+            "topic_description": "Review of Topics: Data Exploration and Predictive Analytics",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion: Practical Demonstration (A3)</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Discussion: Practical Demonstration (A3)</strong>",
+            "topic_description": "Discussion: Practical Demonstration (A3)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Reflection and Future Business Analytics Pathways</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course Reflection and Future Business Analytics Pathways</strong>",
+            "topic_description": "Course Reflection and Future Business Analytics Pathways",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practice Session: Practical Demonstration (A3)</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Practice Session: Practical Demonstration (A3)</strong>",
+            "topic_description": "Practice Session: Practical Demonstration (A3)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        }
+    ]
+}
