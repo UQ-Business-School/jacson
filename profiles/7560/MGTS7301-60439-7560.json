@@ -114,9 +114,9 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis- PESTLE &amp; SWOT</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
-            "topic_title": "<strong>External analysis- PESTLE &amp; SWOT</strong>",
-            "topic_description": "External analysis- PESTLE & SWOT",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis – PESTLE &amp; SWOT</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>External analysis – PESTLE &amp; SWOT</strong>",
+            "topic_description": "External analysis – PESTLE & SWOT",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -163,9 +163,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis - Porters 5 Forces</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
-            "topic_title": "<strong>External analysis - Porters 5 Forces</strong>",
-            "topic_description": "External analysis - Porters 5 Forces",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis – Porters 5 Forces</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>External analysis – Porters 5 Forces</strong>",
+            "topic_description": "External analysis – Porters 5 Forces",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -175,9 +175,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis- PESTLE &amp; SWOT </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
-            "topic_title": "<strong>External analysis- PESTLE &amp; SWOT </strong>",
-            "topic_description": "External analysis- PESTLE & SWOT",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis – PESTLE &amp; SWOT </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>External analysis – PESTLE &amp; SWOT </strong>",
+            "topic_description": "External analysis – PESTLE & SWOT",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -187,9 +187,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis - Stakeholder analysis framework</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>External analysis - Stakeholder analysis framework</strong>",
-            "topic_description": "External analysis - Stakeholder analysis framework",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis – Stakeholder analysis framework</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>External analysis – Stakeholder analysis framework</strong>",
+            "topic_description": "External analysis – Stakeholder analysis framework",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -200,9 +200,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis - Porters 5 Forces</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>External analysis - Porters 5 Forces</strong>",
-            "topic_description": "External analysis - Porters 5 Forces",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis – Porters 5 Forces</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>External analysis – Porters 5 Forces</strong>",
+            "topic_description": "External analysis – Porters 5 Forces",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -213,9 +213,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis- VRIN</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Internal analysis- VRIN</strong>",
-            "topic_description": "Internal analysis- VRIN",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis – VRIN</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internal analysis – VRIN</strong>",
+            "topic_description": "Internal analysis – VRIN",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -226,9 +226,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis - Stakeholder analysis framework</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>External analysis - Stakeholder analysis framework</strong>",
-            "topic_description": "External analysis - Stakeholder analysis framework",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>External analysis – Stakeholder analysis framework</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>External analysis – Stakeholder analysis framework</strong>",
+            "topic_description": "External analysis – Stakeholder analysis framework",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -239,9 +239,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis- Strategy Diamond and The Balanced Scorecard</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
-            "topic_title": "<strong>Internal analysis- Strategy Diamond and The Balanced Scorecard</strong>",
-            "topic_description": "Internal analysis- Strategy Diamond and The Balanced Scorecard",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis – Strategy Diamond and The Balanced Scorecard</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Internal analysis – Strategy Diamond and The Balanced Scorecard</strong>",
+            "topic_description": "Internal analysis – Strategy Diamond and The Balanced Scorecard",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -252,9 +252,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis- VRIN</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Internal analysis- VRIN</strong>",
-            "topic_description": "Internal analysis- VRIN",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis – VRIN</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Internal analysis – VRIN</strong>",
+            "topic_description": "Internal analysis – VRIN",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -265,9 +265,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis- BCG Matrix, GE Matrix, and 3 Horizons</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
-            "topic_title": "<strong>Internal analysis- BCG Matrix, GE Matrix, and 3 Horizons</strong>",
-            "topic_description": "Internal analysis- BCG Matrix, GE Matrix, and 3 Horizons",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis – BCG Matrix, GE Matrix, and 3 Horizons</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Internal analysis – BCG Matrix, GE Matrix, and 3 Horizons</strong>",
+            "topic_description": "Internal analysis – BCG Matrix, GE Matrix, and 3 Horizons",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -278,9 +278,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis- Strategy Diamond and the Balanced Scorecard</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
-            "topic_title": "<strong>Internal analysis- Strategy Diamond and the Balanced Scorecard</strong>",
-            "topic_description": "Internal analysis- Strategy Diamond and the Balanced Scorecard",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Internal analysis – Strategy Diamond and the Balanced Scorecard</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Internal analysis – Strategy Diamond and the Balanced Scorecard</strong>",
+            "topic_description": "Internal analysis – Strategy Diamond and the Balanced Scorecard",
             "learning_outcomes": [
                 "L01",
                 "L02",
