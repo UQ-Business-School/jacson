@@ -1,0 +1,268 @@
+{
+    "course_title": "Technology and Innovation Management",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS3309-60221-7560",
+    "full_course_code": "TIMS3309-60221-7560",
+    "course_code": "TIMS3309",
+    "class_code": "60221",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse key innovation and entrepreneurship theories, models, and practicesacross sectors."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply innovation toolsto design, implement, and evaluate innovation strategies that support organisational competitiveness and long-term and shared value creation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Engage diverse stakeholders in participatory and open innovation,identifying systems dynamics and interdependencies across ecosystems, markets, and policy contexts."
+        },
+        {
+            "number": "LO4.",
+            "description": "Formulate and communicate integrated innovation strategies,from ideation through development, finance, marketing, and stakeholder management, with attention to commercialisation and sustainable impact."
+        },
+        {
+            "number": "LO5.",
+            "description": "Working collaboratively as a team to address innovation challenges in dynamic environments, including how diversity and ethics shape innovation outcomes."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual e-Portfolio",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/08/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week from Weeks 1 to 5 you will work with your peers in a team-based setting during the Seminars using a Process Oriented Guided Inquiry Learning (POGIL) methodology. A POGIL methodology allows students to identify relevant theoretical concepts and apply them to real world cases through guided questions. As an outcome of POGIL-based activities, students will be able to develop a critical view on innovation cases by embracing different roles and integrating those views at the end of the activity. This activity takes between 45-60 minutes and is followed by a class discussion.</p>\n<p>Assessment 1 requires students to prepare an e-Portfolio consisting of:</p>\n<p>1.     <strong>Evidence of the work prepared during at least 4 of the 5 POGIL sessions conducted between Weeks 1-5, highlighting the aspects that were found most relevant</strong>. As a class team, you will be provided with a template where you can insert your responses.<strong> </strong>Acceptable evidence of this work are pictures of the worked template, pictures of whiteboard discussions, diagrams or other figures developed in collaboration with other students during the seminar. Please note that teams will be randomly formed during each seminar, so there is no need to work with the same group in each class (no formal teams will be organised).</p>\n<p><strong>2.     A 1500-word summary of the key insights learned from the perspective of innovation management applied to a new given case study. </strong>Based on the work conducted in class, students will identify and elaborate on 3 key learnings associated with managing technology and innovation, that derive from the integration of the POGIL activities. In other words, students should avoid outlining one idea per seminar, but to interconnect their learnings and formulate insightful lessons. Each of these three ideas must be explained using a given case as an example (what is, why is it important, how is this applicable to the given case study and what are their limitations).</p>\n<p>In preparation for the seminar POGIL activities, students must review the materials and resources provided for the analysis of a case study, including:</p>\n<p>a) One theoretical reading (often a book chapter),</p>\n<p>b) One case study.</p>\n<p>For example, you might be asked to read Melissa Schilling’s chapter on types of innovation, watch a video of Tim Harford discussing the history of the electric dynamo.</p>\n<p>Please note that the contents to prepare for each POGIL activity will be covered during the corresponding Seminar, for example, during the Seminar of Week 1 we will cover the contents needed to respond to the POGIL activity. Consequently, during the seminars students will be guided through the completion of their team responses.</p>\n<p>This assessment provides weekly opportunities to get feedback on your comprehension of the course material that will contribute to 30% of your final grade.</p>\n<p><strong>Reference wordcount: </strong></p>\n<p>The e-Portfolio must include a 1500-word summary (+-10%) excluding references.</p>\n<p>Additionally, the portfolio may include up to 300 words to highlight the outcomes of the in-class discussions, associated to the evidence provided (i.e.: legends, summarizing statements, etc.)</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>Students will be required to create an e-Portfolio in Blackboard and submit electronically through the Blackboard Assessment link (Turnitin) within the Assessments section (Assessment 1).</strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Innovation Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 7/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In groups of 5-6 students, you will write a 3,000-word (+-10%) report based on your knowledge of technology and innovation management applied to a case study chosen among three options available in Blackboard.</p>\n<p>In particular, the report will be focused on the challenges of innovation adoption for the selected case study and provide recommendations for the innovation moving forward. Importantly, to justify the given recommendations, the team will conduct primary research (for example, a survey or interviews) to assess the likelihood of technological adoption and implications for different stakeholders.</p>\n<p>Examples of suitable case studies would be:</p>\n<ul>\n<li><strong>Intuition Robotics: An AI Companion for Older Adults</strong></li>\n<li><strong>Building Innovation at VINCI</strong></li>\n</ul>\n<p>This report has two parts: PART A is a critical assessment, and PART B contains a summary of the research conducted and recommendations for future growth. Part A should be around 1,000 words, and Part B should be around 2,000 words. Overall, the report should be 3,000 words (+-10%), plus references and supporting figures such as tables, diagrams, etc., which can be located in appendices.</p>\n<p><strong>PART A – 1,000 words. </strong>Based on a selected case study and your learnings through this course, you will provide a critical assessment of:</p>\n<p>a)     The type of innovation pursued, key resources and technologies involved.</p>\n<p>b)    Competitive environment, stakeholders and key industry dynamics</p>\n<p>c)     Innovation adoption, including key limitations such as ethical, socio-economic, environmental or other relevant considerations.</p>\n<p><strong>PART B – 2,000 words. Primary research and future recommendations.</strong> Based on the key issues identified in the critical assessment (PART A) and the cases reviewed in class, you will:</p>\n<p>d)    Identify and explain TWO potential paths for future growth and scaling</p>\n<p>e)     Design, conduct and summarise the results of one research experiment to understand the implications for different stakeholders of both paths for future growth. This experiment can be quantitative (a survey), or qualitative (interviews).</p>\n<p>f)     Based on the experiment results and your learnings from this course, recommend one strategy, justifying your choice.</p>\n<p>In summary, you will combine what you have learned in the course with your own original research to:</p>\n<ol>\n<li>Use concepts from the course to describe the characteristics, challenges and opportunities of an existing venture trying to succeed in the technological innovation space, including in-text citations.</li>\n<li>Use the learnings from the cases reviewed in class to identify potential strategies for innovation management that can be deemed successful for that specific industry and context.</li>\n<li>Collect and analyse new data to validate/complement/challenge the assumptions made from theoretical frameworks. Altogether, you will provide a recommendation for the venture to continue forward.</li>\n</ol>\n<p><strong><em>Can you use Artificial Intelligence (AI) for this assignment?</em></strong></p>\n<p>You do not have to, but certainly can use AI to support you in completing this assessment task as long as you adhere to the following rules:</p>\n<ol>\n<li>You are responsible for everything you publish. Keep in mind that AI often makes up information and references up and that it also often omits critical information. So, don't trust AI and only use it to support you in writing about real-world examples that you either know by heart or where you can verify the information.</li>\n<li>You must clearly reference any use of AI each time you use it. Please include an additional paragraph at the end of your assessment outlining what you used AI for and describing the prompts you used. Failure to reference AI use is in violation of academic honesty policies and may constitute student misconduct under the Student Code of Conduct. </li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Further details of the exam type, duration and format will be published in Blackboard by Week 10.</p>\n<p><strong>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is innovation and why does it matter?</strong><br/><p>We introduce the course contents, methodologies and assessments. In addition, we introduce innovation management, its key concepts and distinctive characteristics.</p>\n<p>Workshop activities include the revision of a case study in preparation for Assessment 1.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>What is innovation and why does it matter?</strong>",
+            "topic_description": "What is innovation and why does it matter? We introduce the course contents, methodologies and assessments. In addition, we introduce innovation management, its key concepts and distinctive characteristics. Workshop activities include the revision of a case study in preparation for Assessment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sources of innovation</strong><br/><p>We discuss different types of innovation sources and their implication for innovation management. At a macro-level, we discuss the concept of innovation systems.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 1.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Sources of innovation</strong>",
+            "topic_description": "Sources of innovation We discuss different types of innovation sources and their implication for innovation management. At a macro-level, we discuss the concept of innovation systems. We apply these concepts to a case study in preparation for Assessment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Types and patterns of innovation</strong><br/><p>We introduce conceptualisations aimed at the categorisation of innovation into different types and frameworks that explain patterns over time, based on technological development. These frameworks include the concept of technological paradigms.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 1.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Types and patterns of innovation</strong>",
+            "topic_description": "Types and patterns of innovation We introduce conceptualisations aimed at the categorisation of innovation into different types and frameworks that explain patterns over time, based on technological development. These frameworks include the concept of technological paradigms. We apply these concepts to a case study in preparation for Assessment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The diffusion of innovation</strong><br/><p>We discuss the challenges and opportunities of innovation adoption through the theoretical lens of innovation diffusion, including technological readiness and network effects.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 1.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>The diffusion of innovation</strong>",
+            "topic_description": "The diffusion of innovation We discuss the challenges and opportunities of innovation adoption through the theoretical lens of innovation diffusion, including technological readiness and network effects. We apply these concepts to a case study in preparation for Assessment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Competitive advantage and innovation</strong><br/><p>We look at competitive advantage including innovation timing (e.g. first-mover advantage)and mechanisms for isolating innovation from imitation and their implications for innovation management.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 1.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Competitive advantage and innovation</strong>",
+            "topic_description": "Competitive advantage and innovation We look at competitive advantage including innovation timing (e.g. first-mover advantage)and mechanisms for isolating innovation from imitation and their implications for innovation management. We apply these concepts to a case study in preparation for Assessment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The origins of innovation strategy </strong><br/><p>We explore the role of theory building and serendipity in the generation of an innovation strategy.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>The origins of innovation strategy </strong>",
+            "topic_description": "The origins of innovation strategy We explore the role of theory building and serendipity in the generation of an innovation strategy. We apply these concepts to a case study in preparation for Assessment 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Innovation through collaboration</strong><br/><p>This week we'll be learning about the role of collaboration in innovation, including the concept of open innovation.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Innovation through collaboration</strong>",
+            "topic_description": "Innovation through collaboration This week we'll be learning about the role of collaboration in innovation, including the concept of open innovation. We apply these concepts to a case study in preparation for Assessment 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mobilising resources for innovation</strong><br/><p>Here we'll cover strategies and practices innovators use to fund innovation. This will range from fundings sources through to how to successfully pitch an innovation idea for outside funding or senior executive buy-in.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Mobilising resources for innovation</strong>",
+            "topic_description": "Mobilising resources for innovation Here we'll cover strategies and practices innovators use to fund innovation. This will range from fundings sources through to how to successfully pitch an innovation idea for outside funding or senior executive buy-in. We apply these concepts to a case study in preparation for Assessment 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Profiting from innovation</strong><br/><p>Here we'll look at how an organisation's complementary assets, knowledge-base, and deployment of isolating mechanisms influences its ability to profit from innovation.</p>\n<p>We apply these concepts to a case study in preparation for Assessment 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Profiting from innovation</strong>",
+            "topic_description": "Profiting from innovation Here we'll look at how an organisation's complementary assets, knowledge-base, and deployment of isolating mechanisms influences its ability to profit from innovation. We apply these concepts to a case study in preparation for Assessment 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester break</strong>",
+            "topic_description": "In-semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organising for innovation (King's Birthday Public Holiday)</strong><br/><p>Here we'll look at the structures and routines organisations use to orchestrate their innovation process.</p>\n<p><strong>King's Birthday - Monday 6 October 2025 - Resources will be provided in Blackboard for self-guided learning.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Organising for innovation (King's Birthday Public Holiday)</strong>",
+            "topic_description": "Organising for innovation (King's Birthday Public Holiday) Here we'll look at the structures and routines organisations use to orchestrate their innovation process. King's Birthday - Monday 6 October 2025 - Resources will be provided in Blackboard for self-guided learning.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing the innovation process</strong><br/><p>Here we'll look at how organisations can improve their ability to generate and select ideas for innovation. The seminar may include guest speakers in preparation for the final exam.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Managing the innovation process</strong>",
+            "topic_description": "Managing the innovation process Here we'll look at how organisations can improve their ability to generate and select ideas for innovation. The seminar may include guest speakers in preparation for the final exam.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Leading innovation teams</strong><br><p>Here we'll look at common challenges encountered when leading innovation teams and how best to manage them. The seminar may include guest speakers in preparation for the final exam.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Leading innovation teams</strong>",
+            "topic_description": "Leading innovation teams Here we'll look at common challenges encountered when leading innovation teams and how best to manage them. The seminar may include guest speakers in preparation for the final exam.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operationalising your innovation strategy</strong><br/><p>Here we'll discuss the practical challenges associated with implementing an innovation strategy and common sources of failure and we wrap up the contents of the course in preparation for the final exam.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Operationalising your innovation strategy</strong>",
+            "topic_description": "Operationalising your innovation strategy Here we'll discuss the practical challenges associated with implementing an innovation strategy and common sources of failure and we wrap up the contents of the course in preparation for the final exam.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
