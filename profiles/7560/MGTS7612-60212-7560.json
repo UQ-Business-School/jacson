@@ -37,6 +37,10 @@
             "assessment_title": "In-Class Quiz (Individual)",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 },
@@ -53,7 +57,7 @@
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week, from Week 2 to Week 12, you will complete a weekly quiz during the seminar. The quizzes are summative (graded). You will complete these quizzes individually. </p>\n<p><strong>Details:</strong></p>\n<p>Format: Online quiz submitted individually during your scheduled seminars</p>\n<p>Assessment: The best 6 out of 10 submissions will count toward your final mark for this assessment. </p>\n<p><strong>Attendance requirement:</strong></p>\n<p>You must attend the seminar in person to receive a grade for that week’s quiz. No mark will be awarded if you are absent.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You will complete the quizzes on Blackboard during seminar, with a specified time frame.</p>",
             "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
-            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "late_submission": "<p>Late submission is not allowed. </p>",
             "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
@@ -63,10 +67,14 @@
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
                     "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
                 }
             ],
             "weighting": "<dd>40%</dd>",
-            "due_date": "<dd><p> Week 2 Wed - Week 12 Wed</p></dd>",
+            "due_date": "<dd><p> Week 2 Wed - Week 12 Wed</p>\n<p>\n</p><p>During Class</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Written",
             "category": "Portfolio",
@@ -91,7 +99,7 @@
             ],
             "weighting": "<dd>30%</dd>",
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
-            "learning_objectives": null,
+            "learning_objectives": "L01, L03, L04",
             "mode": "Written",
             "category": "Examination, Practical/ Demonstration",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This capstone assessment is designed to test your ability to apply and integrate Recruitment and Selection theories, frameworks, and concepts to a real-world scenario. It serves as a culmination of your learning throughout the course and will require critical analysis, synthesis, and application of course content.</p>\n<p>You will be presented with a case study at the beginning of Week 12, which you are encouraged to read and reflect on in advance. During the exam, you will receive a set of focal questions related to the case. You will have 2 hours to complete your responses in a short-answer essay format, drawing on your cumulative understanding of course topics.</p>\n<p>This is an individual, semi closed-book assessment. You may bring:</p>\n<ul>\n<li>A printed copy of the case study (without annotations or any handwritten/typed notes)</li>\n<li>One A4-sized page of notes (handwritten or printed, one side only)</li>\n</ul>\n<p>No other learning materials (e.g., textbooks, lecture notes, or digital devices) are permitted during the assessment. You are expected to work individually and uphold the highest standards of academic integrity.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
@@ -215,10 +223,12 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Specialist staffing campaigns</strong><br/><p>TBA</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Specialist staffing campaigns</strong><br/><p>TBA</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
             "topic_title": "<strong>Specialist staffing campaigns</strong>",
             "topic_description": "Specialist staffing campaigns TBA",
-            "learning_outcomes": []
+            "learning_outcomes": [
+                "L01"
+            ]
         },
         {
             "learning_period": "Week 11",
