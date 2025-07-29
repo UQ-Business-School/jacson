@@ -1,0 +1,409 @@
+{
+    "course_title": "Responsible Management for the Global Economy",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS3610-60524-7560",
+    "full_course_code": "MGTS3610-60524-7560",
+    "course_code": "MGTS3610",
+    "class_code": "60524",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate a comprehensive understanding of leadership and management theory."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply theoretical principles to develop a socially responsible perspective that considers the longer-term sustainability of the organisation as well as the society in which it operates."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate an understanding of challenges faced by leaders in a global management context."
+        },
+        {
+            "number": "LO4.",
+            "description": "Show an ability to critically evaluate leadership dilemmas from an ethical perspective."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate an ability to work in a team environment and help contribute to collective team output."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Stakeholder Simulation Reflection (individual)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Simulation 29/08/2025 5:00 pm</p>\n<p>Reflection 12/09/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students reflect on the case experience in week 7 – up to one page on what were the challenges, what worked, what didn’t, what are the key learnings.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Team Project Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 17/10/2025 - 24/10/2025</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students team up in groups of 4 to 5. Teams will select a company case on responsible management and prepare a PPT presentation as a 5-10 minute video recording on their findings. A set of guiding questions will be provided in week 2.</p>\n<p>Peer Evaluation will be offered.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Reflection Paper",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 14/11/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are asked to ‘connect the dots’ of the course by reflecting (a) on their key learnings, (b) on how the various themes of the course are connected, and (c) what this means – in their view – for a comprehensive perspective on responsible management for the global economy. 2000 words.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial in Week One (1)</strong><br/></p></div></td>",
+            "topic_title": "<strong>No tutorial in Week One (1)</strong>",
+            "topic_description": "No tutorial in Week One (1)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction: Responsible Management</strong><br/><p>- How management shapes the global economy<br/>\n- The grand challenges   for corporations and the world<br/>\n- Business for good?<br/>\n- System thinking for a fractured world</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Introduction: Responsible Management</strong>",
+            "topic_description": "Introduction: Responsible Management - How management shapes the global economy - The grand challenges   for corporations and the world - Business for good? - System thinking for a fractured world",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Challenge of Diversity and Inclusion</strong><br><p>-The diversity challenge<br/>\n-When is different and when is different wrong?<br/>\n-From difference to inclusion</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>The Challenge of Diversity and Inclusion</strong>",
+            "topic_description": "The Challenge of Diversity and Inclusion -The diversity challenge -When is different and when is different wrong? -From difference to inclusion",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 2</strong><br><p>Google &amp; Levi s case studies</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 2</strong>",
+            "topic_description": "Tutorial Week 2 Google & Levi s case studies",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responsible management of AI (Dr Caitlin Curtis)</strong><br><p>Ethics and AI - Digital stewardship - Digital governance - Trust in AI</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Responsible management of AI (Dr Caitlin Curtis)</strong>",
+            "topic_description": "Responsible management of AI (Dr Caitlin Curtis) Ethics and AI - Digital stewardship - Digital governance - Trust in AI",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 3</strong><br><p>Unilever s path to sustainability</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 3</strong>",
+            "topic_description": "Tutorial Week 3 Unilever s path to sustainability",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Power of purpose</strong><br><p>- Why purpose matters<br/>\n- B-corps, Coop s, and the emergence of a purpose economy<br/>\n- The idea of good dividends<br/>\n- How managers think about the purpose of the firm</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>The Power of purpose</strong>",
+            "topic_description": "The Power of purpose - Why purpose matters - B-corps, Coop s, and the emergence of a purpose economy - The idea of good dividends - How managers think about the purpose of the firm",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 4</strong><br><p>Patagonia case study</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 4</strong>",
+            "topic_description": "Tutorial Week 4 Patagonia case study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managing stakeholders for the global economy</strong><br><p>- Stakeholder management   a comprehensive view<br/>\n- Principles of stakeholder dialogue<br/>\n- Managing stakeholder conflict<br/>\n- Managing stakeholders for the global economy</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Managing stakeholders for the global economy</strong>",
+            "topic_description": "Managing stakeholders for the global economy - Stakeholder management   a comprehensive view - Principles of stakeholder dialogue - Managing stakeholder conflict - Managing stakeholders for the global economy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 5</strong><br><p>Prendo stakeholder simulation</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 5</strong>",
+            "topic_description": "Tutorial Week 5 Prendo stakeholder simulation",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Business and human rights</strong><br><p>- Business &amp; human rights   an ethical perspective<br/>\n- The company as a citizen: Should global corporations act as agents of justice?<br/>\n- The ethical tragedy of modern slavery<br/>\n- Political CSR   a shared responsibility</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Business and human rights</strong>",
+            "topic_description": "Business and human rights - Business & human rights   an ethical perspective - The company as a citizen: Should global corporations act as agents of justice? - The ethical tragedy of modern slavery - Political CSR   a shared responsibility",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 6</strong><br><p>Shell Nigeria &amp; modern slavery case studies</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 6</strong>",
+            "topic_description": "Tutorial Week 6 Shell Nigeria & modern slavery case studies",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responsible leadership</strong><br><p>- The idea and foundations of responsible leadership<br/>\n- The dark side of leadership<br/>\n- the roles model of responsible leadership<br/>\n- The leader as steward</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Responsible leadership</strong>",
+            "topic_description": "Responsible leadership - The idea and foundations of responsible leadership - The dark side of leadership - the roles model of responsible leadership - The leader as steward",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 7</strong><br><p>Anita Roddick</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 7</strong>",
+            "topic_description": "Tutorial Week 7 Anita Roddick",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responsible decision-making</strong><br><p>- WEIRD managers and other biases<br/>\n- the problem of ethical blindness<br/>\n- Moral silence and the problem of weak will<br/>\n- Why managers need moral imagination</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Responsible decision-making</strong>",
+            "topic_description": "Responsible decision-making - WEIRD managers and other biases - the problem of ethical blindness - Moral silence and the problem of weak will - Why managers need moral imagination",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 8</strong><br><p>Challenger launch case study</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 8</strong>",
+            "topic_description": "Tutorial Week 8 Challenger launch case study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Team project sessions</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong> Team project sessions</strong>",
+            "topic_description": "Team project sessions",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team project sessions</strong><br><p>In week 3 teams gather to select a topic for the team presentations (MNCs). Students team up in groups of 4 to 5. Teams will select a company case on responsible management and prepare a PPT presentation as a video recording on their findings. A set of guiding questions will be provided in week 2</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Team project sessions</strong>",
+            "topic_description": "Team project sessions In week 3 teams gather to select a topic for the team presentations (MNCs). Students team up in groups of 4 to 5. Teams will select a company case on responsible management and prepare a PPT presentation as a video recording on their findings. A set of guiding questions will be provided in week 2",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br><p>No Tutorial this week.</p></br></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No Tutorial this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responsible innovation</strong><br><p>- What is responsible innovation?<br/>\n- From first to second-order solutions<br/>\n- Risk management for the global economy<br/>\n- Responsible management in the circular economy<br/>\nMonday 2 October - King's Birthday Public Holiday - Pre-recorded lecture.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Responsible innovation</strong>",
+            "topic_description": "Responsible innovation - What is responsible innovation? - From first to second-order solutions - Risk management for the global economy - Responsible management in the circular economy Monday 2 October - King's Birthday Public Holiday - Pre-recorded lecture.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 10</strong><br><p>Interface &amp; Veja case studies<br/>\nMonday 2 October - King's Birthday public holiday - please attend alternate Tutorial this week only.</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 10</strong>",
+            "topic_description": "Tutorial Week 10 Interface & Veja case studies Monday 2 October - King's Birthday public holiday - please attend alternate Tutorial this week only.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Social Responsibility and ESG</strong><br><p>- The history and idea of corporate social responsibility<br/>\n- A full-range view of corporate responsibility<br/>\n- For what, and to whom, is a manager responsible?<br/>\n- Responsible governance</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Corporate Social Responsibility and ESG</strong>",
+            "topic_description": "Corporate Social Responsibility and ESG - The history and idea of corporate social responsibility - A full-range view of corporate responsibility - For what, and to whom, is a manager responsible? - Responsible governance",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 11</strong><br><p>Weaponized deep fakes case study</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 11</strong>",
+            "topic_description": "Tutorial Week 11 Weaponized deep fakes case study",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Respect &amp; responsibility   an Indigenous perspective</strong><br><p>- Decolonizing management &amp; CSR<br/>\n- on the importance of new vistas<br/>\n- Responsible management from an Indigenous perspective<br/>\n- On living in the future s past</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Respect &amp; responsibility   an Indigenous perspective</strong>",
+            "topic_description": "Respect & responsibility   an Indigenous perspective - Decolonizing management & CSR - on the importance of new vistas - Responsible management from an Indigenous perspective - On living in the future s past",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 12</strong><br><p>Case study tbd.</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 12</strong>",
+            "topic_description": "Tutorial Week 12 Case study tbd.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responsible management for sustainable futures</strong><br><p>- Responsible management &amp; climate change<br/>\n- On the true meaning of sustainability<br/>\n- Intergenerational justice<br/>\n- Sustainable management practices</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Responsible management for sustainable futures</strong>",
+            "topic_description": "Responsible management for sustainable futures - Responsible management & climate change - On the true meaning of sustainability - Intergenerational justice - Sustainable management practices",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Week 13</strong><br><p>Industry guest from Aurecon: Dr Belinda Wade</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial Week 13</strong>",
+            "topic_description": "Tutorial Week 13 Industry guest from Aurecon: Dr Belinda Wade",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
