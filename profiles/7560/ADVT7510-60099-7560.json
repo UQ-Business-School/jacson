@@ -9,7 +9,28 @@
     "class_code": "60099",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate understanding of the role of social media in the overall marketing strategy for the business."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically evaluate the effectiveness of various social media platforms and strategies."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain different metrics and ways to measure performance to achieve tactics."
+        },
+        {
+            "number": "LO4.",
+            "description": "Design and implement a portfolio with various social media marketing strategies and/or tactics."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify, analyse and resolve social marketing management issues and risks."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
