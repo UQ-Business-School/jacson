@@ -9,7 +9,28 @@
     "class_code": "60453",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Define, illustrate and critically analyse the cognitive, behavioural and cultural theories that inform an understanding of consumer behaviour."
+        },
+        {
+            "number": "LO2.",
+            "description": "Appreciate and evaluate the range of theories that can be applied to understanding aspects of consumers values, personality, learning, buying decision-making, gender, lifestyles, social class and consumption culture."
+        },
+        {
+            "number": "LO3.",
+            "description": "Complete a research project that demonstrates creativity and an ability to apply theory, and present research that informs a contemporary understanding of consumer behaviour relevant to marketing management."
+        },
+        {
+            "number": "LO4.",
+            "description": "Effectively work within a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate effective communication abilities in making consumer and marketing decisions."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
