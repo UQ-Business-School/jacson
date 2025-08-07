@@ -1,0 +1,190 @@
+{
+    "course_title": "Geotechnical Design and Implementation",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MINE6121-60083-7560",
+    "full_course_code": "MINE6121-60083-7560",
+    "course_code": "MINE6121",
+    "class_code": "60083",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Critically evaluate geological, structural, and geotechnical data collection techniques and interpret results to inform rock mass characterisation."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop and apply advanced geotechnical models and software tools to inform slope stability assessments and design decisions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and optimize open pit slope and waste dump geometries by integrating geotechnical parameters, stability criteria, and economic constraints."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess and interpret data from advanced slope monitoring systems and instrumentation to detect instability indicators and inform proactive geotechnical decision-making."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate the impact of groundwater and surface water on slope stability and design effective dewatering systems."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyse mechanisms of rockfalls and structure dominant slope instabilities, apply predictive and mitigation techniques, and formulate remediation strategies."
+        },
+        {
+            "number": "LO7.",
+            "description": "Critically review existing geotechnical risk assessment frameworks used by Australian mining companies and develop risk management plans to address slope instability through case studies."
+        },
+        {
+            "number": "LO8.",
+            "description": "Design geotechnically stable open pit and water dump closure plans that meet regulatory standards."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Brief",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 29/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be required to submit a brief using the uploaded template (maximum three pages, including everything).</p>\n<p>The project brief provides basic information about your slope design and management project and is expected to include the following information:</p>\n<ul>\n<li><strong>Introduction:</strong> Provide a brief description of the operation you have selected, as well as the basic geological and mining settings</li>\n<li><strong>Problem statement:</strong> Provide context on a selected task (e.g., is it a new slope or an improvement to an existing slope). Consultation with your colleagues and supervisors is expected</li>\n<li><strong>Project Objectives:</strong> Outline the main objectives of this project</li>\n<li><strong>Project scope and methodology: </strong>Outline the scope (or tasks) of the design project and briefly describe the approach required to achieve the key objectives. Also, describe the required resources (e.g., data collection and software requirements) to conduct this project</li>\n<li><strong>Project timeline: </strong>propose the timeline for each of the project objectives</li>\n<li><strong>Project risks:</strong> Briefly identify the risks to successfully completing this project within the required timeframe and any mitigation strategies that can be put in place</li>\n</ul>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em> A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em> To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via turn-it-in on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Progress update - slide pack",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 20/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the reporting of progress via a brief slide pack (PowerPoint or PDF presentation) of no more than 20 slides covering the following elements:</p>\n<ul>\n<li>Background description</li>\n<li>Progress vs plan</li>\n<li>Results to date</li>\n<li>Remaining challenges and mitigation plan</li>\n<li>Conclusions and completion plan</li>\n</ul>\n<p>In this update, you will highlight the milestones reached so far and identify any challenges or hurdles encountered and strategies to address them. This assessment provides an opportunity to provide feedback and guidance prior to the completion and submission of the final report.</p>\n<p> Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em> A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em> To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final report presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 10/11/2025 9:00 am</p>\n<p>\n</p><p>The presentation session will run from 9:00 AM to 5:00 PM. Individual time slots for each student will be announced once enrolment is finalised.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this component, you will be required to prepare a 12-minute online presentation followed by 5-minute questions on the scheduled presentation day. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants and industry representatives.</p>\n<p>This presentation should include the following:</p>\n<ul>\n<li>Introduction with a brief description of the project</li>\n<li>Description of methodology</li>\n<li>Results and analysis</li>\n<li>Reflection on mine closure from a geotechnical perspective</li>\n<li>Conclusions and recommendations</li>\n</ul>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em> To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 17/11/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A final report of no more than 20 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to:</p>\n<ul>\n<li>A one-page executive summary</li>\n<li>Background of the selected operation</li>\n<li>Description of your project scope and tasks</li>\n<li>Description of methodology</li>\n<li>Results and analysis</li>\n<li>Slope monitoring strategies</li>\n<li>Key geotechnical risks and management plans</li>\n<li>Mine closure considerations</li>\n<li>Final conclusions and recommendations</li>\n<li>Relevant references and appendices</li>\n</ul>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em> A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em> To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via turn-it-in on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Revision week(15 Sep - 09 Nov)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self paced online modules </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Self paced online modules </strong>",
+            "topic_description": "Self paced online modules",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Kick-off workshop</strong><br/><p>The one-day workshop is scheduled for 16 September at the UQ St Lucia campus. </p>\n<p>It will include an introduction to the course (e.g. structure and assessments), presentations from industry representatives, interactive exercises, and lab tours.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Kick-off workshop</strong>",
+            "topic_description": "Kick-off workshop The one-day workshop is scheduled for 16 September at the UQ St Lucia campus. It will include an introduction to the course (e.g. structure and assessments), presentations from industry representatives, interactive exercises, and lab tours.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 9 To Revision week(22 Sep - 09 Nov)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online one hour drop-in Q&amp;A sessions </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Online one hour drop-in Q&amp;A sessions </strong>",
+            "topic_description": "Online one hour drop-in Q&A sessions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Revision week(03 Nov - 09 Nov)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Presentation</strong><br/><p>The one-day online seminar is scheduled for 15 November, starting at 9:00 AM. Each student will have 15 minutes to present their work, followed by 5 minutes of questions from the audience, including lecturers and industry representatives. A detailed schedule will be provided closer to the start of the course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Online Presentation</strong>",
+            "topic_description": "Online Presentation The one-day online seminar is scheduled for 15 November, starting at 9:00 AM. Each student will have 15 minutes to present their work, followed by 5 minutes of questions from the audience, including lecturers and industry representatives. A detailed schedule will be provided closer to the start of the course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
