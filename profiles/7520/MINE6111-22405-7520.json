@@ -1,0 +1,143 @@
+{
+    "course_title": "Principles of Fleet Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MINE6111-22405-7520",
+    "full_course_code": "MINE6111-22405-7520",
+    "course_code": "MINE6111",
+    "class_code": "22405",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify operational safety and health issues for truck/shovel fleet operations on the basis of recent industry case studies."
+        },
+        {
+            "number": "LO2.",
+            "description": "Assess contemporary mining operations in the context of established truck/shovel operating principles."
+        },
+        {
+            "number": "LO3.",
+            "description": "Calculate key performance metrics for truck/shovel fleet operations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply the theory of constraints to truck/shovel operations."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop continuous improvement initiatives for truck/shovel fleet management."
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply life cycle costing principles to shovel/truck operations."
+        },
+        {
+            "number": "LO7.",
+            "description": "Evaluate truck/shovel operations in the context of sustainability principles."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Continuous Improvement project brief",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 6/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project brief involves a scoping study for a Continuous Improvement (CI) project related to a Truck/Shovel fleet at your operation. Opportunities for CI may come from discussions with truck/shovel operators, dispatchers and/or maintainers, or analysis of time usage and production data. If you are not in an operational setting, time usage data from a real case study will be made available to you. You are required to submit a two-page project brief outlining the scope of your intended CI project. In particular, this will estimate the value and ease of capture of the improvement idea. The project brief should cover:</p>\n<ul>\n<li><strong>Description of opportunity:</strong> What is the performance gap that you have identified for improvement? Provide a brief description of the evidence available (e.g. benchmark data) to support this gap.</li>\n<li><strong>Value proposition:</strong> What is the potential to close the performance gap (e.g. completely solve, partially solve) and what benefits (financial, safety, sustainability) will this bring across the fleet?</li>\n<li><strong>Project evidence and methodology: </strong>What data do you require to support evidence of the performance gap? How you intend to collect and process this data? What potential solutions exist to close the performance gap? What is your estimate of the technical and implementation risks associated with this range of solutions?</li>\n<li><strong>Ease of capture:</strong> Provide a brief evaluation of the technical and project feasibility of your preferred solution. What risks are involved in implementing the change and how can these be managed?</li>\n<li><strong>Project Plan:</strong> Prepare a Gantt chart for the implementation of your CI project. Include project review and sign-off points.</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission to Turnitin via Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Progress update presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 26/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the reporting of progress via a PowerPoint presentation of no more than 10 minutes covering the following elements:</p>\n<ul>\n<li>Description of CI project </li>\n<li>Progress vs Plan</li>\n<li>Results to date</li>\n<li>Preliminary conclusions and way forward</li>\n</ul>\n<p>In this presentation you will highlighting the milestones reached so far and identify any challenges or hurdles encountered and strategies to address them. This presentation will be an opportunity to offer feedback and guidance for the successful completion of the project.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT for ideation - in particular for generating solutions to the identified performance gap - in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via Teams. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Report Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 13/06/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this component you will be required to prepare a 10 minute presentation to be delivered during the workshop online. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants.</p>\n<p>This presentation should include the following:</p>\n<ul>\n<li>Introduction with a brief description of the CI project (i.e. details of fleet evaluated and performance gap identified)</li>\n<li>Description of methodology and assumptions</li>\n<li>Results of evaluation and proposed improvements</li>\n<li>Summary of an implementation plan including an estimation of resource requirements for implementation and a Gantt chart highlighting key activities and sign offs required.</li>\n<li>Conclusions and recommendations</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT for ideation - in particular for generating solutions to the identified performance gap - in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be delivered during the online workshop.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 20/06/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A final report of no more than 10 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to:</p>\n<ul>\n<li>A one-page executive summary</li>\n<li>Introduction with a brief description of the operation and fleet activities implemented.</li>\n<li>Description the selected CI project</li>\n<li>Description of CI value proposition and ease of capture assumptions.</li>\n<li>Results of data evaluation and improvement recommendations</li>\n<li>Implementation plan (included resource requirements and Gantt chart)</li>\n<li>Final conclusions and recommendations</li>\n<li>Relevant references and appendices</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT for ideation - in particular for generating solutions to the identified performance gap - in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission to Turnitin via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Kick-Off Seminar </strong><br/><p>Wednesday, 16 April 2025.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Kick-Off Seminar </strong>",
+            "topic_description": "Kick-Off Seminar Wednesday, 16 April 2025.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop</strong><br/><p>One-day workshop on Wednesday 16 April.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Workshop</strong>",
+            "topic_description": "Workshop One-day workshop on Wednesday 16 April.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
