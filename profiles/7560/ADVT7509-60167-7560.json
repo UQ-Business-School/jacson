@@ -9,7 +9,28 @@
     "class_code": "60167",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the role of the creative team in campaign development and how creative advertising concepts are developed in response to client and creative briefs."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and critique creative strategies to assess the effectiveness of advertising campaigns, through identifying strengths and weaknesses in message strategy and execution styles."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand how to access and use creative thinking and apply that to practical idea generation and other processes involved in contemporary creative production and development."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop skills in idea generation, conceptualisation, design and production to develop impactful creative advertisements and promotional content for a variety of media-matched delivery platforms."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate an understanding of strategic implications in the creative development process, to achieve strategic creative message objectives."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
