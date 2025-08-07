@@ -9,7 +9,24 @@
     "class_code": "62716",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (30/06/2025 - 23/08/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse data utilising widely used analytics methods and tools."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design robust financial models using various programming languages."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement a process to validate and audit financial models while being able to interpret the meaning and robustness of model outputs."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate core collaborative competencies needed to work effectively in a team."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
