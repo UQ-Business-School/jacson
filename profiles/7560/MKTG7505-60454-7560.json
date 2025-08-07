@@ -50,7 +50,7 @@
                 }
             ],
             "weighting": "<dd>10%</dd>",
-            "due_date": "<dd><p> 25/08/2025</p>\n<p>\n</p><p>Student presentations will commence this week.</p></dd>",
+            "due_date": "<dd><p> Week 5</p>\n<p>\n</p><p>Student presentations will commence this week, during class.</p></dd>",
             "learning_objectives": null,
             "mode": "Oral",
             "category": "Presentation",
@@ -165,25 +165,25 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Concept project evaluation</strong><br><p>Concept evaluation system - a critical stage in NPD/NSD. Concept testing (customer-focused)procedure and full-screen (technical-commercial evaluation) process </p>\n<p>NEW PRODUCT CONCEPT (GROUP) DUE THIS WEEK</p>\n<p><strong>Readings/Ref</strong>: Crawford &amp; Di (Chapters 8, 9, 10)</p></br></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Concept project evaluation</strong><br><p>Concept evaluation system - a critical stage in NPD/NSD. Concept testing (customer-focused)procedure and full-screen (technical-commercial evaluation) process</p>\n<p><strong>Readings/Ref</strong>: Crawford &amp; Di (Chapters 8, 9, 10)</p></br></p></div></td>",
             "topic_title": "<strong>Concept project evaluation</strong>",
-            "topic_description": "Concept project evaluation Concept evaluation system - a critical stage in NPD/NSD. Concept testing (customer-focused)procedure and full-screen (technical-commercial evaluation) process NEW PRODUCT CONCEPT (GROUP) DUE THIS WEEK Readings/Ref : Crawford & Di (Chapters 8, 9, 10)",
+            "topic_description": "Concept project evaluation Concept evaluation system - a critical stage in NPD/NSD. Concept testing (customer-focused)procedure and full-screen (technical-commercial evaluation) process Readings/Ref : Crawford & Di (Chapters 8, 9, 10)",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes.</p>\n<p>Class discussion</p>\n<p>New product concept to be finalised in consultation with the tutor. Prepare for oral presentaion.</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Class discussion</p>\n<p>New product concept to be finalised in consultation with the tutor. Prepare for oral presentation.</p></p></div></td>",
             "topic_title": "<strong>Tutorial 3</strong>",
-            "topic_description": "Tutorial 3 Royal Queensland Show Public Holiday - Wednesday 14 Aug 2024 - Check Blackboard for announcements about affected classes. Class discussion New product concept to be finalised in consultation with the tutor. Prepare for oral presentaion.",
+            "topic_description": "Tutorial 3 Class discussion New product concept to be finalised in consultation with the tutor. Prepare for oral presentation.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Sales forecasting and product protocol</strong><br/><p>Product and service pricing, sales forecasting for new products, ATAR model, product protocol, voice of the customer (VOC). </p>\n<p>ORAL PRESENTATIONS (GROUP) STARTING THIS WEEK.</p>\n<p><strong>Readings/Ref: </strong>Crawford &amp; Di (Chapters 8,11,12)</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sales forecasting and product protocol</strong><br/><p>Product and service pricing, sales forecasting for new products, ATAR model, product protocol, voice of the customer (VOC).</p>\n<p><strong>Readings/Ref: </strong>Crawford &amp; Di (Chapters 8,11,12)</p></p></div></td>",
             "topic_title": "<strong>Sales forecasting and product protocol</strong>",
-            "topic_description": "Sales forecasting and product protocol Product and service pricing, sales forecasting for new products, ATAR model, product protocol, voice of the customer (VOC). ORAL PRESENTATIONS (GROUP) STARTING THIS WEEK. Readings/Ref: Crawford & Di (Chapters 8,11,12)",
+            "topic_description": "Sales forecasting and product protocol Product and service pricing, sales forecasting for new products, ATAR model, product protocol, voice of the customer (VOC). Readings/Ref: Crawford & Di (Chapters 8,11,12)",
             "learning_outcomes": []
         },
         {
@@ -229,9 +229,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester exam during class time</strong><br/><p>IN-SEMESTER EXAM (INDIVIDUAL) DUE  ON 09/09/2024.</p></p></div></td>",
-            "topic_title": "<strong>In-Semester exam during class time</strong>",
-            "topic_description": "In-Semester exam during class time IN-SEMESTER EXAM (INDIVIDUAL) DUE  ON 09/09/2024.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>To be announced</strong><br/></p></div></td>",
+            "topic_title": "<strong>To be announced</strong>",
+            "topic_description": "To be announced",
             "learning_outcomes": []
         },
         {
@@ -285,23 +285,23 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>High-tech product marketing strategy</strong><br/><p>Characteristics of high-tech products, Innovation diffusion theories, 'crossing-the-chasm', entrepreneurial marketing strategies to reach mainstream markets -- no text chapter -- readings provided on blackboard.</p>\n<p>MAJOR PROJECT - CONCEPT TESTING VIDEO (GROUP) DUE THIS WEEK.</p>\n<p><strong>Readings/Ref:</strong> Not in Textbook. Extra readings will be provided.</p>\n<p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>High-tech product marketing strategy</strong><br/><p>Characteristics of high-tech products, Innovation diffusion theories, 'crossing-the-chasm', entrepreneurial marketing strategies to reach mainstream markets -- no text chapter -- readings provided on blackboard.</p>\n<p><strong>Readings/Ref:</strong> Not in Textbook. Extra readings will be provided.</p></p></div></td>",
             "topic_title": "<strong>High-tech product marketing strategy</strong>",
-            "topic_description": "High-tech product marketing strategy Characteristics of high-tech products, Innovation diffusion theories, 'crossing-the-chasm', entrepreneurial marketing strategies to reach mainstream markets -- no text chapter -- readings provided on blackboard. MAJOR PROJECT - CONCEPT TESTING VIDEO (GROUP) DUE THIS WEEK. Readings/Ref: Not in Textbook. Extra readings will be provided. King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.",
+            "topic_description": "High-tech product marketing strategy Characteristics of high-tech products, Innovation diffusion theories, 'crossing-the-chasm', entrepreneurial marketing strategies to reach mainstream markets -- no text chapter -- readings provided on blackboard. Readings/Ref: Not in Textbook. Extra readings will be provided.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes.</p>\n<p>Class discussion</p>\n<p><br/></p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>Class discussion</p></p></div></td>",
             "topic_title": "<strong>Tutorial 10</strong>",
-            "topic_description": "Tutorial 10 King's Birthday Public Holiday - Monday 7 Oct 2024 - Check Blackboard for announcements about affected classes. Class discussion",
+            "topic_description": "Tutorial 10 Class discussion",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 12",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Public liability, ethical and legal issues</strong><br><p>A cycle of concerns in product/service marketing, product liability and sustainability initiatives.</p>\n<p><strong>Readings/Ref:</strong> Crawford &amp; Di (Chapters 20)</p></br></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public liability, ethical and legal issues</strong><br/><p>A cycle of concerns in product/service marketing, product liability and sustainability initiatives.</p>\n<p><strong>Readings/Ref:</strong> Crawford &amp; Di (Chapters 20)</p></p></div></td>",
             "topic_title": "<strong>Public liability, ethical and legal issues</strong>",
             "topic_description": "Public liability, ethical and legal issues A cycle of concerns in product/service marketing, product liability and sustainability initiatives. Readings/Ref: Crawford & Di (Chapters 20)",
             "learning_outcomes": []
