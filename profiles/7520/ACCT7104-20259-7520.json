@@ -9,7 +9,28 @@
     "class_code": "20259",
     "semester_code": "7520",
     "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe how the themes of control and influence pervade accounting for corporate structures."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain current international trends in the reporting of key accounting areas, recognising their impact on Australian reporting entities, and linking these to the relevant Australian Accounting Standards relating to intercorporate investments."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the process of consolidation and undertake the accounting procedures required to consolidate a parent entity and its controlled entities (including partly-owned controlled entities) in compliance with applicable accounting regulations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate the ability to evaluate and apply Australian Accounting Standards to a range of specific issues including joint arrangements, associated companies, segment reporting, translation of foreign currency financial statements and external administration/liquidation."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse and critically evaluate accounting topics in real world scenarios."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
