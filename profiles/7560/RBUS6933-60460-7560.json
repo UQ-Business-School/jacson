@@ -37,6 +37,10 @@
             "assessment_title": "Literature Review",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
@@ -49,13 +53,17 @@
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Based on the knowledge acquired in class regarding what a literature review should be, you are required to construct a literature review based on a research topic of interest. The review must include:</p>\n<p>1. An introductory paragraph that outlines the topic area of interest - i.e. what is your literature review about?</p>\n<p>2. A critical review of the existing body of knowledge surrounding the chosen topic area including the identification of theoretical framework to which the chosen area of interest belongs.</p>\n<p>3. A synthesis of the findings to date in this field and the relevant knowledge gap.</p>\n<p>4. A maximum of three research questions that will guide your enquiry and address exposed knowledge gap.</p>\n<p>Assessment length: 3,000 words</p>\n<p>More detail regarding this assignment and a detailed assessment rubric will be provided in class.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>This assessment is to be submitted via the Electronic Submission Folder available on the Course Blackboard site</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Research Design Proposal",
             "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
@@ -69,13 +77,17 @@
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment requires students to document their proposed research design. Requirements will be slightly different depending on whether students are undertaking a qualitative or a quantitative approach to their research. Specific guidelines will be made available in class but this assessment will require the following:</p>\n<p>1. Introduction</p>\n<p>2. Outline of Research Design and justification</p>\n<p>3. Data collection processes and procedures</p>\n<p>4. Data analysis techniques</p>\n<p>5. Considerations regarding reliability and validity </p>\n<p>Assessment length: 4,000 words</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>This assessment is to be submitted electronically via the Assignment Submissions Folder on the Course Blackboard Site.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Research Presentation",
             "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
