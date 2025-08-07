@@ -9,7 +9,28 @@
     "class_code": "60444",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse an organisation's external (Political, Economic, Social, Technical, Environmental and Legal) environment and internal environment using relevant SHRM frameworks and models."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate the ethical implications of particular SHRM activities when  managing people, applying various ethical principles in minimising unethical practices in SHRM environments."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify the core functions of SHRM to leverage individual career management competencies, productivity and well-being."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess manager's decisions about SHRM practices to create a SHRM plan that aligns business objectives and SHRM practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop reports that outline action plans for managing your career, managing SHRM functions and key success factors for successful implementation of SHRM theories and practices in a dynamic competitive environment."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
