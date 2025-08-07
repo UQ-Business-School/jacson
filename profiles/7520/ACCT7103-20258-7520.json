@@ -9,7 +9,32 @@
     "class_code": "20258",
     "semester_code": "7520",
     "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the nature and functions of auditing in the context of the audit engagement/different types of audits."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse the ethical and legal issues faced by auditors to form professional judgements on the appropriate course of action."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply the stages of audit planning and preliminary procedures to form an understanding of the audit client and its environment in order to develop audit strategies and design appropriate audit procedures."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess the audit client's risks, including carrying out an evaluation of the client's internal control system, and design appropriate audit procedures to test for material misstatements in financial statements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design audit procedures to complete the audit (including detecting subsequent events) and use professional judgement to form an audit opinion."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work on audit issues as a member of a team."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
