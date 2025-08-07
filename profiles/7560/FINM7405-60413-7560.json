@@ -9,7 +9,36 @@
     "class_code": "60413",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Appreciate how the economic environment influences the financial risks faced by a corporation."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand and measure the impact of interest rate changes on the value of fixed income securities."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand how to use futures and swaps to hedge interest rate risk."
+        },
+        {
+            "number": "LO4.",
+            "description": "In teams, appreciate how to play the role of central treasury in the efficient management of a portfolio of fixed interest securities."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand how a range of financial products can be employed to manage foreign exchange and commodity price risk."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand a variety of derivative products and in what situations they are employed."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand the financial crisis and the role derivatives played in it."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
@@ -307,19 +336,17 @@
         },
         {
             "learning_period": "Week 10",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10 Lecture</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 10 Lecture</strong>",
-            "topic_description": "Week 10 Lecture",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10 Tutorial</strong><br/></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10 Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Week 10 Tutorial</strong>",
             "topic_description": "Week 10 Tutorial",
-            "learning_outcomes": []
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
         },
         {
             "learning_period": "Week 10",
@@ -337,22 +364,6 @@
         },
         {
             "learning_period": "Week 11",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11 Lecture</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 11 Lecture</strong>",
-            "topic_description": "Week 11 Lecture",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 11",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11 Tutorial</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 11 Tutorial</strong>",
-            "topic_description": "Week 11 Tutorial",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 11",
             "activity_type": "Workshop",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Trading Game 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Trading Game 2</strong>",
@@ -364,22 +375,6 @@
                 "L04",
                 "L05"
             ]
-        },
-        {
-            "learning_period": "Week 12",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12 Lecture</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 12 Lecture</strong>",
-            "topic_description": "Week 12 Lecture",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 12",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12 Tutorial</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 12 Tutorial</strong>",
-            "topic_description": "Week 12 Tutorial",
-            "learning_outcomes": []
         },
         {
             "learning_period": "Week 12",
@@ -410,14 +405,6 @@
                 "L06",
                 "L07"
             ]
-        },
-        {
-            "learning_period": "Week 13",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13 Tutorial</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 13 Tutorial</strong>",
-            "topic_description": "Week 13 Tutorial",
-            "learning_outcomes": []
         }
     ]
 }
