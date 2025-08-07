@@ -9,7 +9,28 @@
     "class_code": "60214",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Define and describe the nature of leadership as a practice."
+        },
+        {
+            "number": "LO2.",
+            "description": "As individuals and in groups, describe and understand how individual and organisational practices relate to leadership."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate leadership capabilities in the personal and professional life."
+        },
+        {
+            "number": "LO4.",
+            "description": "Have a comprehensive understanding of leadership as context-related capacity."
+        },
+        {
+            "number": "LO5.",
+            "description": "Comprehend and describe the role of leadership in the well-being of self and others at the organisational, national, and international levels."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
@@ -19,7 +40,7 @@
             "due_date": "<dd><p> 15/09/2025 5:00 pm</p></dd>",
             "learning_objectives": "L03, L04, L05",
             "mode": "Activity/ Performance, Written",
-            "category": "Role play/ Simulation",
+            "category": "Paper/ Report/ Annotation, Role play/ Simulation",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>TASK:</strong></p>\n<p>This is a one-on-one peer mentoring practice, and each student is required to find one mentor and one mentee from the class. The mentorship begins in week 3, and must be completed by week 7. You are required to submit a written reflective report about your experience and observations as a mentor and mentee. </p>\n<p>The length of the report may range from 1000 to 2000 words count. About 500-1000 words for each role; ie mentor and mentee.</p>\n<p>For more details about the task, see the 'Mentorship Practice' document on Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Via Blackboard</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
@@ -29,13 +50,18 @@
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "The Dark Side of Leadership",
-            "special_indicators": [],
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
             "weighting": "<dd>50%</dd>",
             "due_date": "<dd><p> Week 12 - Week 13</p>\n<p>\n</p><p>You will deliver your presentation in person during the seminar time in Week 12 or Week 13. </p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Oral, Written",
             "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will deliver a presentation based on your Leadership Practices and how the practices enable you to mitigate the dark side of leadership in your future leadership.</p>\n<p>In your presentation, you should cover the following points:</p>\n<ul>\n<li>What is the dark side of leadership?</li>\n<li>Critically reflecting on the five Leadership Practices, explain how you think the leadership practices enable you to mitigate toxic elements in your leadership.</li>\n</ul>\n<p>The presentation will take place during the scheduled seminar. Failure to attend the presentation on the due date will incur a mark.</p>\n<p>Please note that the quality of the content is much more important than the delivery. However, a good presentation is a combination of reliable and clear content + professional communication. For this reason, I have allocated marks to both the content and presentation (see the marking rubric).</p>\n<p>A copy of your slides needs to be submitted via Blackboard, and before the seminar.</p>\n<p>Please make sure that you:</p>\n<ul>\n<li>Stick to the time limit (8 minutes per person. This may vary depending on the number of enrolments. You will be advised in advance if any changes were applied.)</li>\n<li>Limit the number of slides you use (I recommend no more than 6)</li>\n<li>Draw on quality reference materials and cite them on your slides. At least five journal articles (other than the suggested readings). Your reflection should show the benefit of having read intelligently in order to give you useful concepts and vocabulary.</li>\n<li>Focus on professional communication (eye contact, pace, projection, etc.)</li>\n</ul>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will deliver a presentation based on your Leadership Practices and how the practices enable you to mitigate the dark side of leadership in your future leadership.</p>\n<p>In your presentation, you should cover the following points:</p>\n<ul>\n<li>What is the dark side of leadership?</li>\n<li>Critically reflecting on the five Leadership Practices, explain how you think the leadership practices enable you to mitigate toxic elements in your leadership.</li>\n</ul>\n<p>The presentation will take place during the scheduled seminar. Failure to attend the presentation on the due date will incur a mark of 0.</p>\n<p>Please note that the quality of the content is much more important than the delivery. However, a good presentation is a combination of reliable and clear content + professional communication. For this reason, I have allocated marks to both the content and presentation (see the marking rubric).</p>\n<p>A copy of your slides needs to be submitted via Blackboard, and before the seminar.</p>\n<p>Please make sure that you:</p>\n<ul>\n<li>Stick to the time limit (8 minutes per person. This may vary depending on the number of enrolments. You will be advised in advance if any changes were applied.)</li>\n<li>Limit the number of slides you use (I recommend no more than 6)</li>\n<li>Draw on quality reference materials and cite them on your slides. At least five journal articles (other than the suggested readings). Your reflection should show the benefit of having read intelligently in order to give you useful concepts and vocabulary.</li>\n<li>Focus on professional communication (eye contact, pace, projection, etc.)</li>\n</ul>\n<p><strong>Please Note:</strong> The presentation will be recorded for marking purposes per UQ Policy.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Submit a copy of your presentation slides (PPT file) via Blackboard prior to start of your Presentation Seminar class.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
