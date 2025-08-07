@@ -9,7 +9,24 @@
     "class_code": "60478",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate the communication and sales skills required for effective performance in the tourism and events industries."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design a distribution strategy that considers the role of various entities in travel and events distribution systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate how tourism destinations and tourism and events businesses can use distribution channels and sales techniques to gain a competitive advantage."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse the drivers of innovation and technological change and their impact on tourism destinations, businesses, events and travellers."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
