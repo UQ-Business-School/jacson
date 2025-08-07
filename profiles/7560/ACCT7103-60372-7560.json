@@ -9,7 +9,32 @@
     "class_code": "60372",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the nature and functions of auditing in the context of the audit engagement/different types of audits."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse the ethical and legal issues faced by auditors to form professional judgements on the appropriate course of action."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply the stages of audit planning and preliminary procedures to form an understanding of the audit client and its environment in order to develop audit strategies and design appropriate audit procedures."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess the audit client's risks, including carrying out an evaluation of the client's internal control system, and design appropriate audit procedures to test for material misstatements in financial statements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design audit procedures to complete the audit (including detecting subsequent events) and use professional judgement to form an audit opinion."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work on audit issues as a member of a team."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
@@ -29,7 +54,7 @@
             "learning_objectives": "L01, L03, L04",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ timetable.</p>\n<p>The In-Semester Exam:</p>\n<ul>\n<li>will be based on Topics 1-4, including lectures and tutorials</li>\n<li>contains about 10 multiple choice questions and 3 written questions</li>\n<li>the written questions include practical/problem-solving questions that require you to analyse mini cases/scenarios and apply relevant audit theories/regulations/techniques to form appropriate judgments/decisions</li>\n<li>the written questions usually require you to demonstrate your understanding about important aspects of the audit process</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ timetable.</p>\n<p>The In-Semester Exam:</p>\n<ul>\n<li>will be based on Topics 1-4, including lectures and tutorials</li>\n<li>contains about 10 multiple choice questions and 3 written questions</li>\n<li>the written questions include practical/problem-solving questions that require you to analyse mini cases/scenarios and apply relevant audit theories/regulations/techniques to form appropriate judgments/decisions</li>\n<li>the written questions usually require you to demonstrate your understanding about important aspects of the audit process</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -73,7 +98,7 @@
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Exam:</p>\n<ul>\n<li>is a <strong>closed book, invigilated exam.</strong></li>\n<li>time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ websites</li>\n<li>contains about 4 to 5 written questions. Each question consists of a number of short answer/short essay/problem solving/application questions</li>\n<li>the written questions focus on problem-solving, which involves analysing cases/scenarios and applying relevant audit theories/regulations/techniques to form appropriate judgments/decisions</li>\n<li>some written questions require you to demonstrate your understanding of important aspects of the audit process</li>\n<li>more details of the final exam will be made available towards the end of the semester</li>\n<li>you are advised that <strong>ALL areas of the course are examinable</strong> and thus leaving out any section of the course material from your study plans would be ill-advised</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Exam:</p>\n<ul>\n<li>is a <strong>closed book, invigilated exam.</strong></li>\n<li>time/date will be announced by the UQ Central Examination Office later in the semester. Please keep an eye on your personalised UQ websites</li>\n<li>contains about 4 to 5 written questions. Each question consists of a number of short answer/short essay/problem solving/application questions</li>\n<li>the written questions focus on problem-solving, which involves analysing cases/scenarios and applying relevant audit theories/regulations/techniques to form appropriate judgments/decisions</li>\n<li>some written questions require you to demonstrate your understanding of important aspects of the audit process</li>\n<li>more details of the final exam will be made available towards the end of the semester</li>\n<li>you are advised that <strong>ALL areas of the course are examinable</strong> and thus leaving out any section of the course material from your study plans would be ill-advised</li>\n</ul>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
