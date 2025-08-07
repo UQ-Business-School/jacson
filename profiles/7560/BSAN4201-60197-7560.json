@@ -9,7 +9,28 @@
     "class_code": "60197",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain and recognise suitable problems in data science and business analytics"
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the strategy and modelling for data science and business analytics projects"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the main data analytic methods for solving data science and business analytics projects"
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain how to use data analytic methods in real-life"
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate how business strategy based on data science and business analytics can inform and improve business performance."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
