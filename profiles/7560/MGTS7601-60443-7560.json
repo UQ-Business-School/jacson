@@ -9,7 +9,28 @@
     "class_code": "60443",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify prominent theories and models about human behaviour in organisations, and critically discuss their application to management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify prominent theories and models of group functioning in organisations, and critically discuss their significance in workplaces."
+        },
+        {
+            "number": "LO3.",
+            "description": "As an individual and in groups, explain how organisations function as institutions including issues of structure, power, politics, and change."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically examine your own behaviour as a manager, and identify strategies for improving your skills in people management."
+        },
+        {
+            "number": "LO5.",
+            "description": "Reflect on the ethical and social impact of managing people within organisations."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
