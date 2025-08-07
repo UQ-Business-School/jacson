@@ -1,0 +1,543 @@
+{
+    "course_title": "Mine Planning and Sustainability",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MINE4127-22403-7520",
+    "full_course_code": "MINE4127-22403-7520",
+    "course_code": "MINE4127",
+    "class_code": "22403",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Identify and recognise the key levers for value creation as part of the strategic mine planning process."
+        },
+        {
+            "number": "LO2.",
+            "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Use the key levers for value creation to optimise a mine plan within the technical constraints of a mining operation."
+        },
+        {
+            "number": "LO3.",
+            "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Appreciate the iterative nature of mine planning."
+        },
+        {
+            "number": "LO4.",
+            "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Analyses, evaluate and compare mine plans according to key criteria."
+        },
+        {
+            "number": "LO5.",
+            "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Select the most appropriate mine plan and development strategy with justification."
+        },
+        {
+            "number": "LO6.",
+            "description": "INCORPORATE OPTIMISATION PROCESSES - Understand and use pit optimisation algorithms including Lerch Grossman and Floating Cone."
+        },
+        {
+            "number": "LO7.",
+            "description": "INCORPORATE OPTIMISATION PROCESSES - Understand the capabilities of Operations Research and Mathematical Modelling on solving complex optimisation problems."
+        },
+        {
+            "number": "LO8.",
+            "description": "CREATE AND ANALYSE COMPLEX FINANCIAL MODELS - Understand the impacts of time value of money and discounting on mine plan valuation."
+        },
+        {
+            "number": "LO9.",
+            "description": "CREATE AND ANALYSE COMPLEX FINANCIAL MODELS - Incorporate taxation, carry forward losses and depreciation into detailed financial modelling."
+        },
+        {
+            "number": "LO10.",
+            "description": "KEY DIFFERENCES WITH MINING AND OTHER INDUSTRIES - Understand the role and impact of marginal, total and fixed costs on the mine planning process."
+        },
+        {
+            "number": "LO11.",
+            "description": "KEY DIFFERENCES WITH MINING AND OTHER INDUSTRIES - Understand the impact of the exploitation of non-renewable resources on mining company value."
+        },
+        {
+            "number": "LO12.",
+            "description": "KEY DIFFERENCES WITH MINING AND OTHER INDUSTRIES - Incorporate key changes into the mine plan in order to mitigate the effect to maximise value the latest technological innovations into the system where appropriate."
+        },
+        {
+            "number": "LO13.",
+            "description": "EFFECTIVE COMMUNICATION - Acquire team skills to develop a mining project."
+        },
+        {
+            "number": "LO14.",
+            "description": "EFFECTIVE COMMUNICATION - Obtain advanced written and oral communication skills."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Take home assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 31/03/2025 - 14/04/2025</p>\n<p>\n</p><p>Submission is due at 1:00pm.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L10, L11, L12, L13",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a take home task to be completed individually over a 2-week period.</p>\n<p>It will comprise of a series of short answer and calculation questions relating to material covered in weeks 1-7. The value of each question will be provided upon release of the item. Further details about this task will be provided closer to its release.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This is submitted via Turnitin on Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Project (Pairs)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 28/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project will consist of an activity requiring the use of the Whittle 4X Software Package.</p>\n<p>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L14",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be a comprehensive examination on all topics addressed in this course throughout the semester. Questions will assess your theoretical knowledge and the application of this on practical problem based questions that will require you to draw meaningful conclusions from calculations. The exam will contain five questions worth 25% each. Students must answer four out of five questions.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Mine Planning &amp; Sustainability. Introduction to financial concepts</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to Mine Planning &amp; Sustainability. Introduction to financial concepts</strong>",
+            "topic_description": "Introduction to Mine Planning & Sustainability. Introduction to financial concepts",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ESG in Mining</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L13</p></div></td>",
+            "topic_title": "<strong>ESG in Mining</strong>",
+            "topic_description": "ESG in Mining",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L13"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The circular economy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>The circular economy</strong>",
+            "topic_description": "The circular economy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mining Economics</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>Mining Economics</strong>",
+            "topic_description": "Mining Economics",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial Concepts. Mining Economics.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L09, L10, L11</p></div></td>",
+            "topic_title": "<strong>Financial Concepts. Mining Economics.</strong>",
+            "topic_description": "Financial Concepts. Mining Economics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L09",
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mining method selection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L09, L10, L11</p></div></td>",
+            "topic_title": "<strong>Mining method selection</strong>",
+            "topic_description": "Mining method selection",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L09",
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mining method selection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Mining method selection</strong>",
+            "topic_description": "Mining method selection",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Process route selection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L09, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>Process route selection</strong>",
+            "topic_description": "Process route selection",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L09",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scale of Operation. Equivalent Grade. Basic Cut-off Grade.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Scale of Operation. Equivalent Grade. Basic Cut-off Grade.</strong>",
+            "topic_description": "Scale of Operation. Equivalent Grade. Basic Cut-off Grade.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scale of Operation. Equivalent Grade. Basic Cut-off Grade.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Scale of Operation. Equivalent Grade. Basic Cut-off Grade.</strong>",
+            "topic_description": "Scale of Operation. Equivalent Grade. Basic Cut-off Grade.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Open Pit Sequencing &amp; Scheduling</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Open Pit Sequencing &amp; Scheduling</strong>",
+            "topic_description": "Open Pit Sequencing & Scheduling",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Open Pit Sequencing &amp; Scheduling</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Open Pit Sequencing &amp; Scheduling</strong>",
+            "topic_description": "Open Pit Sequencing & Scheduling",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mine Production Scheduling</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L09, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>Underground Mine Production Scheduling</strong>",
+            "topic_description": "Underground Mine Production Scheduling",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mine Production Scheduling</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L09, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>Underground Mine Production Scheduling</strong>",
+            "topic_description": "Underground Mine Production Scheduling",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break(21 Apr - 27 Apr)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid semester break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid semester break</strong>",
+            "topic_description": "Mid semester break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cutoff Grade Policy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Cutoff Grade Policy</strong>",
+            "topic_description": "Cutoff Grade Policy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cutoff Grade Policy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Cutoff Grade Policy</strong>",
+            "topic_description": "Cutoff Grade Policy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pit optimisation algorithms</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Pit optimisation algorithms</strong>",
+            "topic_description": "Pit optimisation algorithms",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Financial modelling</strong><br/></p><p><strong>Learning outcomes:</strong> L08, L09</p></div></td>",
+            "topic_title": "<strong>Financial modelling</strong>",
+            "topic_description": "Financial modelling",
+            "learning_outcomes": [
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pit optimisation algorithms. Project.</strong><br/></p><p><strong>Learning outcomes:</strong> L08, L09</p></div></td>",
+            "topic_title": "<strong>Pit optimisation algorithms. Project.</strong>",
+            "topic_description": "Pit optimisation algorithms. Project.",
+            "learning_outcomes": [
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mine Closure</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L11, L12, L13</p></div></td>",
+            "topic_title": "<strong>Mine Closure</strong>",
+            "topic_description": "Mine Closure",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L11",
+                "L12",
+                "L13"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mine Closure. Project.</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L11, L12, L13</p></div></td>",
+            "topic_title": "<strong>Mine Closure. Project.</strong>",
+            "topic_description": "Mine Closure. Project.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L11",
+                "L12",
+                "L13"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review / Guest Lecturer</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14</p></div></td>",
+            "topic_title": "<strong>Course Review / Guest Lecturer</strong>",
+            "topic_description": "Course Review / Guest Lecturer",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14</p></div></td>",
+            "topic_title": "<strong>Course Review</strong>",
+            "topic_description": "Course Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14"
+            ]
+        }
+    ]
+}
