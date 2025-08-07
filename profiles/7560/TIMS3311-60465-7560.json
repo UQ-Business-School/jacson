@@ -9,7 +9,28 @@
     "class_code": "60465",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Build social capital by establishing networks with potential partners and investors as well as entrepreneurs and entrepreneurship mentors in startup ecosystems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Acquire practical skills and knowledge to develop and enhance an entrepreneurial mindset and self-efficacy through application of reflective learning."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply innovation and entrepreneurship theory to the process of founding, investing and growing an early stage startup."
+        },
+        {
+            "number": "LO4.",
+            "description": "Be able to clearly and effectively communicate a persuasive business case, value proposition or innovative solution to prospective customers, investors and commercial partners."
+        },
+        {
+            "number": "LO5.",
+            "description": "Successfully apply discovery driven planning methods in practical settings to provide impactful validated solutions to business model innovation problems, whilst effectively working as a valued member of a high-performing diverse team which operates in a dynamic environment."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
