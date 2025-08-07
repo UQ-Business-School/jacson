@@ -9,7 +9,36 @@
     "class_code": "62733",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (30/06/2025 - 23/08/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop awareness of your graduate attributes and how they may apply in the workplace and enhance employability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Articulate key business practices  within an organisation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Acquire practical skills and knowledge toward enhancing your employability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explore the different means by which organisations engage in business practices."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop the ability to think strategically from the perspective of a manager."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand the professional rigor expected in corporate practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "Have a clear understanding of how graduate attributes contribute to employability skills in a graduate career."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
