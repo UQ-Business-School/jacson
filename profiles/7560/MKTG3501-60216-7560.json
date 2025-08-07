@@ -9,7 +9,28 @@
     "class_code": "60216",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise strategic marketing issues faced by contemporary organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically analyse marketing situations, using evidence to identify marketing problems and opportunities."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate the viability of competitive marketing strategies, considering both innovative and traditional marketing solutions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Argue the importance of ethical marketing practice for ongoing firm success."
+        },
+        {
+            "number": "LO5.",
+            "description": "In groups, create marketing strategy to maximise marketing and firm performance."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
