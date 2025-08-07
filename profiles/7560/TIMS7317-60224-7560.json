@@ -9,7 +9,28 @@
     "class_code": "60224",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify the need for corporate involvement in sustainability. Analyse a  companies current sustainability status before developing plans to improve sustainability."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the drivers for organisational sustainability, focusing on the link between corporate activity as well as global and local environmental change."
+        },
+        {
+            "number": "LO3.",
+            "description": "Consider regulatory and valuation frameworks to make the moral, legal and business case for action on sustainability."
+        },
+        {
+            "number": "LO4.",
+            "description": "Create change strategies required to shift organisations towards sustainability articulating sustainable value delivered through these strategies."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work within a diverse group integrating different views and experiences into a cohesive outcome promoting sustainability goals."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
