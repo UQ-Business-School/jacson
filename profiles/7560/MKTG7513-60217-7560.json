@@ -9,7 +9,28 @@
     "class_code": "60217",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Interpret and apply social marketing principles and techniques to influence positive behaviour change."
+        },
+        {
+            "number": "LO2.",
+            "description": "Describe and distinguish the commonly used behavioural change theories in social marketing."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse societal problems for relevant ethical and socially responsible marketing solutions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Plan, conduct and present secondary and primary research appropriate for a specific social behaviour change enquiry."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate effective communication and collaboration abilities in making social innovation decisions as a group."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
