@@ -9,7 +9,24 @@
     "class_code": "60387",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Appreciate the overall context and need for information security within a business environment."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse security issues and propose security policies in terms of the fundamental security goals (confidentiality, integrity, authentication, authorisation, availability, non-repudiation)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse, evaluate and apply the principles of risk management as they relate to business information security."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse, evaluate and conceptually apply the major technical controls that are relevant to business information security."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
