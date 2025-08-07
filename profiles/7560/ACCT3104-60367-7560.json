@@ -9,7 +9,24 @@
     "class_code": "60367",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand and explain the role of the management accountant and management accounting information in planning, control and decision making of organisations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand, be able to evaluate and explain how management accounting information must adapt and respond to changes in organisational strategies, structure and operations over time, particularly in a changing business environment."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate ability to prepare, analyse and critically evaluate information to assist with costing, pricing and performance evaluation decisions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain and predict the behavioural implications of management accounting systems for costing, planning and control for the organisation."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
