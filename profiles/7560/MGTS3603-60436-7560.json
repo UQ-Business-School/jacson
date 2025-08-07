@@ -71,7 +71,7 @@
             ],
             "weighting": "<dd>20%</dd>",
             "due_date": "<dd><p> 7/10/2025 10:00 am</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05",
+            "learning_objectives": "L05",
             "mode": "Written",
             "category": "Essay/ Critique",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to submit a 1,500-word individual essay, addressing ONE (1) of the provided essay topics.</p>\n<p>This research essay is designed to assess your ability to:</p>\n<ul>\n<li>Demonstrate a strong understanding of key SHRM concepts, models and theories</li>\n<li>Critically interpret and evaluate academic research relevant to your chosen topic</li>\n<li>Effectively apply theory to HRM practice, drawing connections between scholarly literature and real-world organisational contexts</li>\n<li>Develop a clear, well-structured argument supported by evidence from credible sources</li>\n</ul>\n<p>Further details on the essay topics, submission requirements, and marking criteria can be found on Blackboard.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
@@ -82,7 +82,7 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
-            "assessment_title": "Case Study Practical",
+            "assessment_title": "Case Study Practical Exam",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -97,22 +97,24 @@
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Written",
-            "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+            "category": "Examination, Practical/ Demonstration",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This capstone assessment is designed to test your ability to apply and integrate Strategic Human Resource Management (SHRM) theories, frameworks, and concepts to a real-world scenario. It serves as a culmination of your learning throughout the course and will require critical analysis, synthesis, and application of course content.</p>\n<p>You will be presented with a case study at the beginning of Week 12, which you are encouraged to read and reflect on in advance. During the exam, you will receive a set of focal questions related to the case. You will have 2 hours to complete your responses in a short-answer essay format, drawing on your cumulative understanding of course topics.</p>\n<p>This is an individual, semi closed-book assessment. You may bring:</p>\n<ul>\n<li>A printed copy of the case study (without annotations or any handwritten/typed notes)</li>\n<li>One A4-sized page of notes (handwritten or printed, one side only)</li>\n</ul>\n<p>No other learning materials (e.g., textbooks, lecture notes, or digital devices) are permitted during the assessment. You are expected to work individually and uphold the highest standards of academic integrity.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>The assignment must be submitted in exam booklet in person.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Introduction to the course, discussion of learning objectives, learning activities and assessments, and group allocation in relation to Case Study Practical Assessment.</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Introduction to the course, discussion of learning objectives, learning activities and assessments, and group allocation in relation to Case Study Practical Assessment.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
             "topic_title": "<strong>Introduction</strong>",
             "topic_description": "Introduction Introduction to the course, discussion of learning objectives, learning activities and assessments, and group allocation in relation to Case Study Practical Assessment.",
-            "learning_outcomes": []
+            "learning_outcomes": [
+                "L01"
+            ]
         },
         {
             "learning_period": "Week 2",
