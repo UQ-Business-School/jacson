@@ -9,7 +9,24 @@
     "class_code": "60196",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the basic concepts of deep learning and AI and explain their relationship to and application in business."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the methods of deep learning available in the R software environment with an emphasis on artificial neural networks."
+        },
+        {
+            "number": "LO3.",
+            "description": "Compare and critically evaluate the various approaches to artificial neural networks and assess their value for decision making."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop an understanding of how deep learning will change business, government, and society, and the associated costs and benefits."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
