@@ -9,7 +9,24 @@
     "class_code": "60369",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Discuss the decision usefulness of accounting information to financial markets, including the issues of earnings quality and adverse selection"
+        },
+        {
+            "number": "LO2.",
+            "description": "Discuss the measurement perspective in practice, with a focus on financial statements as a benchmark for intrinsic value"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the moral hazard problem in the context of accounting numbers, and in particular in relation to the propensity to manage earnings"
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate any topical issue of accounting in financial markets in a sensible and scholarly manner"
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
