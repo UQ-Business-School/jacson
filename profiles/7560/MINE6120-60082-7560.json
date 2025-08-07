@@ -1,0 +1,216 @@
+{
+    "course_title": "Short Term Mine Planning and Scheduling",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MINE6120-60082-7560",
+    "full_course_code": "MINE6120-60082-7560",
+    "course_code": "MINE6120",
+    "class_code": "60082",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Undertake short term mine planning and scheduling within the broader mine planning process and mining value chain."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the objectives of short-term mine planning within the time horizons involved and general resource and sequencing constraints."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply fundamental project management tools including, Gantt Charts, Network Diagrams and Critical Path Method (CPM) to develop short term mine plans and schedules."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply and develop basic mathematical optimisation tools and programs to aid the mine planning decision making process."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply Inventory Management theories as it applies to short-term mine planning and scheduling."
+        },
+        {
+            "number": "LO6.",
+            "description": "Use higher level/strategic planning outputs as the basis from which to commence the short-term planning and scheduling process."
+        },
+        {
+            "number": "LO7.",
+            "description": "Examine and incorporate ore geology/characteristics and its relation to producing a product type/blend to specification as well as the role of equipment deployment and its impact on bench design."
+        },
+        {
+            "number": "LO8.",
+            "description": "Examine and incorporate short-term planning and scheduling aspects unique to waste materials (overburden) and the fundamentals of waste dump operations to ensure a sustainable post mine land use."
+        },
+        {
+            "number": "LO9.",
+            "description": "Incorporate operational compliance (including Health & Safety and ESG) and reconciliation aspects as it applies to short-term mine planning and scheduling."
+        },
+        {
+            "number": "LO10.",
+            "description": "Effectively communicate short-term mine plans and schedules to key stakeholders."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Brief",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 11/08/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the review and selection of a blast block at your operation for the purpose of generating a short term mine plan and schedule. If you are not in an operational setting, a case study may be made available. You will be required to submit a three-four-page project brief that goes some way in collating the information and inputs required as the basis in the development of your short-term schedule/plan. Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit via the Turn-It-In link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Progress Update Slide Pack",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 29/08/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the reporting of progress via a brief slide pack (PowerPoint) of no more than 15 slides covering the following elements:</p>\n<ul>\n<li>Description of the development of your short-term scheduling project, including the provision of all information/assumptions your have used in arriving at your current plan.</li>\n<li>Results to date</li>\n<li>Preliminary conclusions and recommendations and way forward</li>\n</ul>\n<p>In this update you will highlighting the milestones reached so far and identify any challenges or hurdles encountered and strategies to address them. This assessment provides an opportunity to provide feedback and guidance prior to the completion and submission of the final report. Please refer to Blackboard for detailed marking criteria. </p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit your slide pack to Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 15/09/2025 9:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this component you will be required to prepare a 15 minute presentation to be delivered during the on campus workshop. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants.</p>\n<p>This presentation should include the following:</p>\n<ul>\n<li>Introduction</li>\n<li>Description of the short-term planning and scheduling block (i.e. all key input details and assumptions)</li>\n<li>Final plan (how you arrived at your final plan, and its key characteristics)</li>\n<li>Evaluation of the riskiness of the plan</li>\n<li>Sensitivity analysis (changing one input variable)</li>\n<li>Items of particular importance to communication through to operations to enable them to make the best decision when/if the plan falls over</li>\n<li>Conclusions and recommendations</li>\n</ul>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em> A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em> To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Presentations will take place during the on-campus in-person workshop scheduled for Monday 15th September. External course participants may be present to provide feedback and commentary.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 25/09/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A final report of no more than 12 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to:</p>\n<ul>\n<li>A one-page executive summary</li>\n<li>Introduction</li>\n<li>Description of the short-term planning and scheduling block (i.e. all key input details and assumptions)</li>\n<li>Final plan (how you arrived at your final plan, and its key characteristics)</li>\n<li>Evaluation of the riskiness of the plan</li>\n<li>Sensitivity analysis (changing one input variable)</li>\n<li>Items of particular importance to communication through to operations to enable them to make the best decision when/if the plan falls over</li>\n<li>Final conclusions and recommendations</li>\n<li>Relevant references and appendices</li>\n</ul>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit via the Turn-It-In link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Foundations of short term mine planning and scheduling</strong><br/><p>The first module of this course (Module 1: Foundations of short term mine planning and scheduling) introduces the key components of the short-term planning and scheduling process and its role within the broader mine planning process and mining value chain. The objective of short-term scheduling, the time horizons involved, and general resource and sequencing constraints are discussed.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic_title": "<strong>Module 1: Foundations of short term mine planning and scheduling</strong>",
+            "topic_description": "Module 1: Foundations of short term mine planning and scheduling The first module of this course (Module 1: Foundations of short term mine planning and scheduling) introduces the key components of the short-term planning and scheduling process and its role within the broader mine planning process and mining value chain. The objective of short-term scheduling, the time horizons involved, and general resource and sequencing constraints are discussed.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Gantt Charts and Critical Path</strong><br/><p>Module 2 introduces Gantt Charts. Gantt Charts are a very common way of communicating plans and schedules - not just in mining but across a range of industries. This is followed by a section on Critical Paths.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L06, L10</p></div></td>",
+            "topic_title": "<strong>Module 2: Gantt Charts and Critical Path</strong>",
+            "topic_description": "Module 2: Gantt Charts and Critical Path Module 2 introduces Gantt Charts. Gantt Charts are a very common way of communicating plans and schedules - not just in mining but across a range of industries. This is followed by a section on Critical Paths.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L06",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3: Mathematical Optimisation</strong><br/><p>The focus of this module is to further enhance a mine planner's decision-making capability by introducing mathematical optimisation concepts which often form the basis for many of the computerised planning tools that are commercially available today. It is important to understand how these tools work and the fundamental algorithms behind them to aid the mine planning process.</p></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Module 3: Mathematical Optimisation</strong>",
+            "topic_description": "Module 3: Mathematical Optimisation The focus of this module is to further enhance a mine planner's decision-making capability by introducing mathematical optimisation concepts which often form the basis for many of the computerised planning tools that are commercially available today. It is important to understand how these tools work and the fundamental algorithms behind them to aid the mine planning process.",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4: Inventory Management</strong><br/><p>Inventory Management is perhaps a topic more associated with industrial processes. However, across the mining production cycle there are numerous activities where an inventory/buffer/float should be maintained. This Module seeks to answer the questions..... What is the cost of risk and potential upside of applying lean production theory to a real-life mine? Is it feasible to apply lean production theory to a real-life mine?</p></p><p><strong>Learning outcomes:</strong> L05, L06, L10</p></div></td>",
+            "topic_title": "<strong>Module 4: Inventory Management</strong>",
+            "topic_description": "Module 4: Inventory Management Inventory Management is perhaps a topic more associated with industrial processes. However, across the mining production cycle there are numerous activities where an inventory/buffer/float should be maintained. This Module seeks to answer the questions..... What is the cost of risk and potential upside of applying lean production theory to a real-life mine? Is it feasible to apply lean production theory to a real-life mine?",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 5: Ore Geology/Characteristics and Equipment Deployment</strong><br/><p>Modules 5 and 6 step through some of the fundamental elements to consider when bringing new blocks into production within a surface mining operation. Module 5 details the important inputs from strategic mine planning, the ore geology/characteristics and its relation to producing a product type/blend to specification as well as the role of equipment deployment and its impact on bench design.</p></p><p><strong>Learning outcomes:</strong> L06, L07, L10</p></div></td>",
+            "topic_title": "<strong>Module 5: Ore Geology/Characteristics and Equipment Deployment</strong>",
+            "topic_description": "Module 5: Ore Geology/Characteristics and Equipment Deployment Modules 5 and 6 step through some of the fundamental elements to consider when bringing new blocks into production within a surface mining operation. Module 5 details the important inputs from strategic mine planning, the ore geology/characteristics and its relation to producing a product type/blend to specification as well as the role of equipment deployment and its impact on bench design.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 6: Waste Management and Dumping Operations</strong><br/><p>While ore materials get most of the attention when planning and scheduling a mining operation (over the short and long term), in most cases stripping ratios in excess of 5:1, mean far greater amounts of waste materials (overburden) are actually moved in surface mining operations. While the movement of waste materials generally represents a cost to the operation, it is important that this aspect is carefully planned to ensure long term risks are minimised and post mining land use opportunities are maximised.</p>\n<p>Module 6 (Integrated Short-Term Mine Planning and Scheduling - Part B) carries on from Module 5 by focussing on the short-term planning and scheduling aspects unique to waste materials (overburden) and the fundamentals of waste dump operations. This carries on from a discussion around the role that waste dumps have in ensuring a sustainable post mine land use era.</p></p><p><strong>Learning outcomes:</strong> L06, L08, L10</p></div></td>",
+            "topic_title": "<strong>Module 6: Waste Management and Dumping Operations</strong>",
+            "topic_description": "Module 6: Waste Management and Dumping Operations While ore materials get most of the attention when planning and scheduling a mining operation (over the short and long term), in most cases stripping ratios in excess of 5:1, mean far greater amounts of waste materials (overburden) are actually moved in surface mining operations. While the movement of waste materials generally represents a cost to the operation, it is important that this aspect is carefully planned to ensure long term risks are minimised and post mining land use opportunities are maximised. Module 6 (Integrated Short-Term Mine Planning and Scheduling - Part B) carries on from Module 5 by focussing on the short-term planning and scheduling aspects unique to waste materials (overburden) and the fundamentals of waste dump operations. This carries on from a discussion around the role that waste dumps have in ensuring a sustainable post mine land use era.",
+            "learning_outcomes": [
+                "L06",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 7: Compliance and Reconciliation</strong><br/><p>Now that a short term mine plan and schedule has been developed, it is important that it is compliant with not only previously generated longer term mine plans but also with a host of other legislation (health and safety) as well as meeting community expectations around ESG/sustainability aspects.</p>\n<p>A reconciliation process whereby a plan is compared to the actual results should also be conducted. The results of this reconciliation process should also feedback into the mine planning process and provide the mechanism by which previous input assumptions are adjusted.</p></p><p><strong>Learning outcomes:</strong> L09, L10</p></div></td>",
+            "topic_title": "<strong>Module 7: Compliance and Reconciliation</strong>",
+            "topic_description": "Module 7: Compliance and Reconciliation Now that a short term mine plan and schedule has been developed, it is important that it is compliant with not only previously generated longer term mine plans but also with a host of other legislation (health and safety) as well as meeting community expectations around ESG/sustainability aspects. A reconciliation process whereby a plan is compared to the actual results should also be conducted. The results of this reconciliation process should also feedback into the mine planning process and provide the mechanism by which previous input assumptions are adjusted.",
+            "learning_outcomes": [
+                "L09",
+                "L10"
+            ]
+        }
+    ]
+}
