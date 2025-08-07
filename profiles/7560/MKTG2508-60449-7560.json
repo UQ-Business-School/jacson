@@ -9,7 +9,28 @@
     "class_code": "60449",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the value of brands, brand management concepts, principles and methods."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply enhanced analytical thinking skills in a brand management context."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop creative strategies and tactics to build, measure and manage brand equity."
+        },
+        {
+            "number": "LO4.",
+            "description": "Enhance student ability to plan, evaluate and communicate brand strategies."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate more effectively via discussion and presentations considering alternative perspectives in brand analysis and decision making."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
