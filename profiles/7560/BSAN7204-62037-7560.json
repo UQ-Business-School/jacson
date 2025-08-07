@@ -9,7 +9,20 @@
     "class_code": "62037",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Perform exploratory data analysis to describe data."
+        },
+        {
+            "number": "LO2.",
+            "description": "Construct and evaluate models for inferential statistical analysis for real-world problem solving."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate data-driven insights and value propositions for stakeholders."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
