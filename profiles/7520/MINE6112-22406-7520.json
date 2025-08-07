@@ -1,0 +1,419 @@
+{
+    "course_title": "Applied Mining Geomechanics",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MINE6112-22406-7520",
+    "full_course_code": "MINE6112-22406-7520",
+    "course_code": "MINE6112",
+    "class_code": "22406",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify the key engineering properties and mechanical behaviours of a rockmass."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate rockmass competence using relevant classification systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Integrate rock properties in mining geotechnical designs."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply stereographic projection techniques to assess the potential failure mode(s) of a slope."
+        },
+        {
+            "number": "LO5.",
+            "description": "Calculate the factor of safety and probability of failure of a slope for use in design optimisation."
+        },
+        {
+            "number": "LO6.",
+            "description": "Select appropriate real-time monitoring strategies for a slope."
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply constitutive models to analyse the stress distribution around excavation openings with different shapes."
+        },
+        {
+            "number": "LO8.",
+            "description": "Evaluate excavation stability and utilise this information in design improvements."
+        },
+        {
+            "number": "LO9.",
+            "description": "Assess caveability in block cave mining and stability in longwall mining."
+        },
+        {
+            "number": "LO10.",
+            "description": "Identify common geotechnical risks associated with mining methods and develop a mitigation plan for each identified risk."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Rock mechanical properties testing",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 17/03/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The prac will be held at lab 50-S107. Instruction on lab access will be provided when issuing the assessment.</p>\n<p>The class will be divided into three groups of your choice due to space constraints in the lab. Please enrol in your preferred group as soon as possible. You only need to attend your assigned group.</p>\n<p>Attending the lab prac is not compulsory, but strongly encouraged. For those who are unable to attend the practical session, the laboratory data will be made available on Blackboard to analyze and complete their reports. The submission due date will remain the same for everyone unless your extension request is approved by the university.</p>\n<p>Other <strong>important </strong>information includes:</p>\n<ol>\n<li>Please read the practical handout prior to your arrival.  </li>\n<li>Students must wear safety shoes and long pants.</li>\n<li>Gloves and safety glasses will be provided on the day.</li>\n<li>It is a condition of entry to practical classes that you have completed the Student Safety Declaration Form provided by a member of the teaching team before the class. When you arrive at the practical venue, it is also compulsory to sign in, and sign out as you leave the laboratory. </li>\n</ol>\n<p>Five types of rock testing will be carried out during the prac, which runs for 1.5 hours or slightly over.</p>\n<p>There will be three separate groups, and you can sign up for your preferred group via Blackboard. Please refer to Blackboard for a detailed marking criteria.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Slope stability analysis- field mapping",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 22/04/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L03, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assignment. The class will be split into two groups, which you can enrol via Blackboard.</p>\n<p>Field mapping practical will be conducted at the base of the Kangaroo Point cliffs. A map with the exact location and the details of requirements will be uploaded to Blackboard.</p>\n<p>Attending the field mapping is not compulsory, but strongly encouraged.</p>\n<p>When attending, you are required to wear steel-capped safety boots, long sleeves and long pants. You will not be admitted to the practical class if you fail to wear the prescribed personal protective equipment. </p>\n<p>You are also advised to bring a clipboard, pencils and rubber, sunscreen and a hat.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><strong>For those unable to attend, please try to obtain the data from a classmate or contact Zhongwei for assistance.</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Core Geotechnical Risks Associated with Deep Mining",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 28/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assignment. Each student is expected to report a short essay to explain the key geotechnical challenges associated with deep underground mining, and how to mitigate such geotechnical risks.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>60% Hurdle Rate: 40% </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination will assess all material covered in lectures, tutorials and assignments. </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the course and rock characterisation</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to the course and rock characterisation</strong>",
+            "topic_description": "Introduction to the course and rock characterisation",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geotechnical data collection techniques</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Geotechnical data collection techniques</strong>",
+            "topic_description": "Geotechnical data collection techniques",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanical Properties of Intact Rock</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Mechanical Properties of Intact Rock</strong>",
+            "topic_description": "Mechanical Properties of Intact Rock",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intact Rock Properties Measurements</strong><br/><p>Assignment 1</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Intact Rock Properties Measurements</strong>",
+            "topic_description": "Intact Rock Properties Measurements Assignment 1",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rock mass classification systems and applications</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Rock mass classification systems and applications</strong>",
+            "topic_description": "Rock mass classification systems and applications",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rock mass classification systems</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Rock mass classification systems</strong>",
+            "topic_description": "Rock mass classification systems",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strength of Rock Discontinuities and Rock Mass Strength &amp; Deformability</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Strength of Rock Discontinuities and Rock Mass Strength &amp; Deformability</strong>",
+            "topic_description": "Strength of Rock Discontinuities and Rock Mass Strength & Deformability",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rock Mass Strength &amp; Deformability</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Rock Mass Strength &amp; Deformability</strong>",
+            "topic_description": "Rock Mass Strength & Deformability",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rock Slope Stability</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Rock Slope Stability</strong>",
+            "topic_description": "Rock Slope Stability",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Slope monitoring and remediation</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Slope monitoring and remediation</strong>",
+            "topic_description": "Slope monitoring and remediation",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field Mapping at Kangaroo Point</strong><br/><p>Assignment 2</p></p><p><strong>Learning outcomes:</strong> L02, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Field Mapping at Kangaroo Point</strong>",
+            "topic_description": "Field Mapping at Kangaroo Point Assignment 2",
+            "learning_outcomes": [
+                "L02",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dip Software Tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Dip Software Tutorial</strong>",
+            "topic_description": "Dip Software Tutorial",
+            "learning_outcomes": [
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Slope stability calculation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L07</p></div></td>",
+            "topic_title": "<strong>Slope stability calculation</strong>",
+            "topic_description": "Slope stability calculation",
+            "learning_outcomes": [
+                "L02",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rock reinforcement and support- soft and hard rock</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L10</p></div></td>",
+            "topic_title": "<strong>Rock reinforcement and support- soft and hard rock</strong>",
+            "topic_description": "Rock reinforcement and support- soft and hard rock",
+            "learning_outcomes": [
+                "L03",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rock reinforcement calculation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L10</p></div></td>",
+            "topic_title": "<strong>Rock reinforcement calculation</strong>",
+            "topic_description": "Rock reinforcement calculation",
+            "learning_outcomes": [
+                "L03",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break(21 Apr - 27 Apr)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semeter Break- No Lecture</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semeter Break- No Lecture</strong>",
+            "topic_description": "Mid-Semeter Break- No Lecture",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Excavation stability and spans</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L09</p></div></td>",
+            "topic_title": "<strong>Excavation stability and spans</strong>",
+            "topic_description": "Excavation stability and spans",
+            "learning_outcomes": [
+                "L03",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Excavation stability</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L09</p></div></td>",
+            "topic_title": "<strong>Excavation stability</strong>",
+            "topic_description": "Excavation stability",
+            "learning_outcomes": [
+                "L03",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dynamic events: seismicity, rock burst, airblasts</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L10</p></div></td>",
+            "topic_title": "<strong>Dynamic events: seismicity, rock burst, airblasts</strong>",
+            "topic_description": "Dynamic events: seismicity, rock burst, airblasts",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mine Seismicity</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Mine Seismicity</strong>",
+            "topic_description": "Mine Seismicity",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Caving mechanics- hard rock</strong><br/><p>Assignment 3</p></p><p><strong>Learning outcomes:</strong> L03, L04, L10</p></div></td>",
+            "topic_title": "<strong>Caving mechanics- hard rock</strong>",
+            "topic_description": "Caving mechanics- hard rock Assignment 3",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Longwall Geomechanics and Subsidence</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Longwall Geomechanics and Subsidence</strong>",
+            "topic_description": "Longwall Geomechanics and Subsidence",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pillar mechanics and design</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Pillar mechanics and design</strong>",
+            "topic_description": "Pillar mechanics and design",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pillar mechanics</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Pillar mechanics</strong>",
+            "topic_description": "Pillar mechanics",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Course review</strong>",
+            "topic_description": "Course review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Subsidence calculation and Q&amp;A</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Subsidence calculation and Q&amp;A</strong>",
+            "topic_description": "Subsidence calculation and Q&A",
+            "learning_outcomes": [
+                "L03"
+            ]
+        }
+    ]
+}
