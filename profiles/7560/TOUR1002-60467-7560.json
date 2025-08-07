@@ -9,7 +9,24 @@
     "class_code": "60467",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Have an understanding of the key psychological foundations of visitor experiences."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain how visitor demographics, psychographics and motives influence decision making and behaviour of visitor experiences."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop visitor experience strategies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Through the usage of an infographic, redesign an existing visitor experience."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
