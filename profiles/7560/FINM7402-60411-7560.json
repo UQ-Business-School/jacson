@@ -9,7 +9,28 @@
     "class_code": "60411",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse whether a proposed corporate transaction is in the best interests of the firm's shareholders."
+        },
+        {
+            "number": "LO2.",
+            "description": "Determine the optimal capital structure for a firm."
+        },
+        {
+            "number": "LO3.",
+            "description": "Estimate a firm's weighted average cost of capital under classical and imputation systems, and analyse the relation between capital structure, the cost of capital and value."
+        },
+        {
+            "number": "LO4.",
+            "description": "Perform an internally consistent corporate valuation using the discounted cash flow approach."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify real options which are likely to affect firm value and perform a real options valuation."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
