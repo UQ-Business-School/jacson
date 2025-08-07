@@ -9,7 +9,24 @@
     "class_code": "60410",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand what corporate finance is, the role of the corporate manager, ethical issues and corporate responsibility, and the goal of financial management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply financial mathematics to problems on valuation and decision making and evaluate the strengths and weaknesses of the various financial decision-making techniques."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply and evaluate the basic concepts of risk in a financial context, and the approaches adopted in finance to minimise this risk."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate scenarios using the capital asset pricing model (CAPM) and the weighted average cost of capital (WACC)."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
