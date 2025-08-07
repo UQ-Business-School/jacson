@@ -9,7 +9,28 @@
     "class_code": "60448",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Interpret and illustrate cognitive, behavioural, and cultural theories that inform an understanding of consumer behaviour."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain and distinguish the internal and external factors that influence consumer behaviour (e.g., decision-making, attitudes, personality, lifestyle, social class, consumer culture)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse real-world problems for relevant ethical and evidence-based marketing solutions."
+        },
+        {
+            "number": "LO4.",
+            "description": "As a cooperative group, plan, conduct and present primary and secondary research appropriate for a specific consumer behaviour enquiry."
+        },
+        {
+            "number": "LO5.",
+            "description": "Select and use appropriate levels and means of communication."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
