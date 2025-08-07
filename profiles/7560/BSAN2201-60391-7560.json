@@ -150,9 +150,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>What is Business Analytics/The Analytics Advantage</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>What is Business Analytics/The Analytics Advantage</strong>",
-            "topic_description": "What is Business Analytics/The Analytics Advantage",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Touchpoint 1: Writing a Structured Summary of an Article</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Touchpoint 1: Writing a Structured Summary of an Article</strong>",
+            "topic_description": "Touchpoint 1: Writing a Structured Summary of an Article",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -178,9 +178,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Touchpoint 1: Writing a Structured Summary of an Article</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Touchpoint 1: Writing a Structured Summary of an Article</strong>",
-            "topic_description": "Touchpoint 1: Writing a Structured Summary of an Article",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is Business Analytics/The Analytics Advantage</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>What is Business Analytics/The Analytics Advantage</strong>",
+            "topic_description": "What is Business Analytics/The Analytics Advantage",
             "learning_outcomes": [
                 "L01",
                 "L02",
