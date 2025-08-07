@@ -9,7 +9,28 @@
     "class_code": "60386",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Define digital transformation and describe how it is enabled by emerging technologies."
+        },
+        {
+            "number": "LO2.",
+            "description": "Effectively participate in, and manage, business endeavours and initiatives related to digital transformation."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically evaluate how technology can be leveraged to improve intra and inter-organisational processes intended to enhance a firms competitive position."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work in teams to develop an understanding of, and skills related to, service design approaches needed to develop commercial opportunities through digital transformative technologies."
+        },
+        {
+            "number": "LO5.",
+            "description": "Assess and evaluate the factors that influence how relevant a given technology may become in the future."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
