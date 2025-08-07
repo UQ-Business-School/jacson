@@ -1,0 +1,191 @@
+{
+    "course_title": "Surface Mine Drilling and Blasting",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MINE6110-22404-7520",
+    "full_course_code": "MINE6110-22404-7520",
+    "course_code": "MINE6110",
+    "class_code": "22404",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Evaluate drilling and blasting techniques used to achieve specific objectives under various operational conditions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Quantify and differentiate surface blasting performance outcomes using standard industry metrics."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify and select optimisation strategies that maximise the value of surface drilling and blasting practices."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement standard industry D&B engineering design techniques."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply best practice modelling techniques to evaluate and optimise drill and blast designs and performance outcomes."
+        },
+        {
+            "number": "LO6.",
+            "description": "Contrast and select supporting D&B technologies, including drilling systems, explosives and accessories to achieve site specific objectives."
+        },
+        {
+            "number": "LO7.",
+            "description": "Examine D&B design and implementation processes to enhance efficiency and performance."
+        },
+        {
+            "number": "LO8.",
+            "description": "Implement quality assurance and quality control (QA/QC) protocols in surface drilling and blasting to aid successful execution and continuous improvement."
+        },
+        {
+            "number": "LO9.",
+            "description": "Apply relevant regulatory frameworks and industry best practice to ensure compliance of surface drilling and blasting operations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project brief",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 14/03/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L07, L09",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the review and selection of a D&amp;B design under implementation or previously implemented at your operation. If you are not in an operational setting, a real case study will be made available. You will be required to submit a two-page project brief using the available fillable PDF template.</p>\n<p>The project brief provides basic information of the design evaluation and improvement project that you will be conducting and includes the following:</p>\n<ul>\n<li><strong>Introduction:</strong> Provide a brief description of the operation, mining method and current D&amp;B activities</li>\n<li><strong>Problem statement:</strong> Provide context on a selected design and specific performance issue that would benefit from a revision and evaluation. Consultation with your colleagues and supervisors is expected.</li>\n<li><strong>Project Objectives:</strong> Outline the main objectives of this design evaluation and improvement project.</li>\n<li><strong>Value proposition:</strong> Outline the potential benefits of this design evaluation project.</li>\n<li><strong>Project scope and methodology: </strong>Outline the scope of the design evaluation and briefly describe the approach required to achieve the key objectives. Also describe the data collection requirements and any assumptions or limitations.</li>\n<li><strong>Project risks:</strong> Briefly identify the risks to completing this project and any mitigation strategies that can be put in place.</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via turn-it-in on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Progress update - slide pack",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 28/03/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the reporting of progress via a brief slide pack (PowerPoint or PDF presentation) of no more than 10 slides covering the following elements:</p>\n<ul>\n<li>Background description of evaluation case </li>\n<li>Progress vs Plan</li>\n<li>Results to date</li>\n<li>Conclusions and Way forward</li>\n</ul>\n<p>In this update you will highlighting the milestones reached so far and identify any challenges or hurdles encountered and strategies to address them. This assessment provides an opportunity to provide feedback and guidance prior to the completion and submission of the final report.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final report presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 15/04/2025 - 16/04/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this component you will be required to prepare a 10 minute presentation to be delivered during the workshop on campus. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants.</p>\n<p>This presentation should include the following:</p>\n<ul>\n<li>Introduction with a brief description of the project (i.e. details of D&amp;B design evaluated)</li>\n<li>Description of methodology and assumptions</li>\n<li>Results of evaluation and design improvements</li>\n<li>Summary of an implementation plan including a description of a process map highlighting key sign off, QA/QC and performance evaluation processes required</li>\n<li>Conclusions and recommendations</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Presentation to be delivered during the workshop on campus.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final report",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 24/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A final report of no more than 10 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to:</p>\n<ul>\n<li>A one-page executive summary</li>\n<li>Introduction with a brief description of the operation and D&amp;B activities implemented.</li>\n<li>Description the selected D&amp;B design evaluated</li>\n<li>Description of methodology and assumptions.</li>\n<li>Results of design evaluation and improvement recommendations</li>\n<li>Implementation plan</li>\n<li>Process map highlighting key QA/QC and performance evaluation processes</li>\n<li>Final conclusions and recommendations</li>\n<li>Relevant references and appendices</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via turn-it-in on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "O-week(17 Feb - 23 Feb)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online kick off meeting</strong><br/><p>Online kick off meeting to discuss the course, assessment, expectations around engagement and how to access the different tools available (Blackboard, Ed discussion board and Blasting Software)</p></p></div></td>",
+            "topic_title": "<strong>Online kick off meeting</strong>",
+            "topic_description": "Online kick off meeting Online kick off meeting to discuss the course, assessment, expectations around engagement and how to access the different tools available (Blackboard, Ed discussion board and Blasting Software)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self paced online modules</strong><br/><p>Students muct complete seven self paced online modules from Week1 until Week 6. The modules cover the following topics:</p>\n<ul>\n<li>Mining Value Chain</li>\n<li>Rock Blasting Fundamentals</li>\n<li>Drilling, Explosives and Initiation Systems</li>\n<li>Practical blast damage and fragmentation modelling</li>\n<li>Blast deisgn and analysis</li>\n<li>Environmental impacts of blasting</li>\n<li>Design implemenetation and operational considerations</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Self paced online modules</strong>",
+            "topic_description": "Self paced online modules Students muct complete seven self paced online modules from Week1 until Week 6. The modules cover the following topics: Mining Value Chain Rock Blasting Fundamentals Drilling, Explosives and Initiation Systems Practical blast damage and fragmentation modelling Blast deisgn and analysis Environmental impacts of blasting Design implemenetation and operational considerations",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 6",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online one hour drop-in Q&amp;A sessions</strong><br/><p>Q&amp;A Drop-in online sessions to support the learning process. Please review Blackboard instance for final times and oneline links</p>\n<ul>\n<li>Session 1 - 07/03/2025</li>\n<li>Session 2 - 21/03/2025</li>\n<li>Session 3 - 04/04/2024</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Online one hour drop-in Q&amp;A sessions</strong>",
+            "topic_description": "Online one hour drop-in Q&A sessions Q&A Drop-in online sessions to support the learning process. Please review Blackboard instance for final times and oneline links Session 1 - 07/03/2025 Session 2 - 21/03/2025 Session 3 - 04/04/2024",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>On campus workshop</strong><br/><p>Two-day design and blast workshop on campus. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>On campus workshop</strong>",
+            "topic_description": "On campus workshop Two-day design and blast workshop on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        }
+    ]
+}
