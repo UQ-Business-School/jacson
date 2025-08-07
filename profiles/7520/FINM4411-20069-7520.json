@@ -9,7 +9,28 @@
     "class_code": "20069",
     "semester_code": "7520",
     "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Develop a team project plan to analyse a current issue raised by an industry partner."
+        },
+        {
+            "number": "LO2.",
+            "description": "Conduct independent research and analysis to address one or more aspects of a current industry issue."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply finance theories, concepts, and techniques (or develop new ones) in response to a current industry issue."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work in teams to synthesise and present research findings in response to an industry issue."
+        },
+        {
+            "number": "LO5.",
+            "description": "Professionally communicate outcomes via reports and presentations."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
