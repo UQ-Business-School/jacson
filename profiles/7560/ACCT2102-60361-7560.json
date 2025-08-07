@@ -9,7 +9,24 @@
     "class_code": "60361",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain cost behaviour, its application to breakeven analysis and its importance in management decisions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply alternative methods of calculating the costs of products, services and other cost objects and evaluate how the method used can affect management decisions and organisational performance."
+        },
+        {
+            "number": "LO3.",
+            "description": "Compare and critically evaluate actual versus planned operating performance."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the need for management accounting information, systems and practices to change in response to changes in the operating and business environments."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
