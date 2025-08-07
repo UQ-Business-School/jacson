@@ -9,7 +9,28 @@
     "class_code": "60100",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate an understanding of the role and importance of media buying and planning in the strategic advertising process."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate the characteristics and strengths of specific media channels and vehicles to reach desired target audiences."
+        },
+        {
+            "number": "LO3.",
+            "description": "Articulate the importance of advertising strategy and consumer behaviour in generating a successful media campaign."
+        },
+        {
+            "number": "LO4.",
+            "description": "Gain a deep level of knowledge of the various advertising media available, including features, trends and measurement."
+        },
+        {
+            "number": "LO5.",
+            "description": "Establish and apply media strategies to achieve strategic marketing objectives both effectively and cost efficiently in response to a client brief."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
