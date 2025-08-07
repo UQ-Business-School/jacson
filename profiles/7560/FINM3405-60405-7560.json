@@ -258,9 +258,9 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 4: Trading Strategies</strong><br/><p><strong>Good Friday Public Holiday - Friday 18 April 2025 </strong>- Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 4: Trading Strategies</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
             "topic_title": "<strong>Options 4: Trading Strategies</strong>",
-            "topic_description": "Options 4: Trading Strategies Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "topic_description": "Options 4: Trading Strategies",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -312,9 +312,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 6: Exotic Options</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Options 6: Exotic Options</strong><br/><p><strong>King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Options 6: Exotic Options</strong>",
-            "topic_description": "Options 6: Exotic Options Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "topic_description": "Options 6: Exotic Options King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -325,9 +325,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Swaps 1: Credit Default Swaps</strong><br/><p>An insurance-like instrument for trading credit risk directly.</p>\n<p>Hull, Chapter 25.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Swaps 1: Credit Default Swaps</strong><br/><p>An insurance-like instrument for trading credit risk directly.</p>\n<p>Hull, Chapter 25.</p>\n<p><strong>King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Swaps 1: Credit Default Swaps</strong>",
-            "topic_description": "Swaps 1: Credit Default Swaps An insurance-like instrument for trading credit risk directly. Hull, Chapter 25.",
+            "topic_description": "Swaps 1: Credit Default Swaps An insurance-like instrument for trading credit risk directly. Hull, Chapter 25. King's Birthday - Monday 6 October 2025 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L01",
                 "L02",
