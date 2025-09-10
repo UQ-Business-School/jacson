@@ -69,7 +69,7 @@
                     "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "<dd>30%</dd>",
+            "weighting": "<dd>10%</dd>",
             "due_date": "<dd><p>Presentation During Your Class  Week 2,</p>\n<p>Presentation Slides Due Monday, 5pm  11/08/2025</p>\n<p>\n</p><p>Students will be required to present during their class either on Monday 11th from 5-7pm or Thursday 14th from 1-3pm. All slides must be submitted by 5pm on Monday 11th regardless of which class you are attending.</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Oral, Product/ Artefact/ Multimedia",
@@ -90,7 +90,7 @@
                 }
             ],
             "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p>During Your Class Week 4, 7:00 pm</p>\n<p>\n</p><p>Students will be required to undertake the case study in person during class either on Monday 25th August from 5-7pm or Thursday 28th August from 1-3pm.</p></dd>",
+            "due_date": "<dd><p>During Your Class  Week 4,</p>\n<p>\n</p><p>Students will be required to undertake the case study in person during class either on Monday 25th August from 5-7pm or Thursday 28th August from 1-3pm.</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Participation/ Student contribution, Reflection",
