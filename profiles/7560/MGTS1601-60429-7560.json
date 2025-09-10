@@ -200,9 +200,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Discussion</strong><br/><p>In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
-            "topic_title": "<strong>Assessment Discussion</strong>",
-            "topic_description": "Assessment Discussion In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Personality and Individual Differences</strong><br/><p>You will participate in another tutor-facilitated workshop and complete activities in your workshop team.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Personality and Individual Differences</strong>",
+            "topic_description": "Personality and Individual Differences You will participate in another tutor-facilitated workshop and complete activities in your workshop team.",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -222,9 +222,9 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop Development Tutorial </strong><br/><p>You will participate in another tutor-facilitated workshop and complete activities in your workshop team.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Workshop Development Tutorial </strong>",
-            "topic_description": "Workshop Development Tutorial You will participate in another tutor-facilitated workshop and complete activities in your workshop team.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Assessment Discussion</strong><br/><p>In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong> Assessment Discussion</strong>",
+            "topic_description": "Assessment Discussion In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -245,9 +245,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop Development Tutorial 2</strong><br/><p>In this tutorial you will have the opportunity to work on your workshop in class and receive feedback from your tutor.</p>\n<p>Your tutor will check in with Teams 1 and 2</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
-            "topic_title": "<strong>Workshop Development Tutorial 2</strong>",
-            "topic_description": "Workshop Development Tutorial 2 In this tutorial you will have the opportunity to work on your workshop in class and receive feedback from your tutor. Your tutor will check in with Teams 1 and 2",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop Development Tutorial </strong><br/><p>In this tutorial you will have the opportunity to work on your workshop in class and receive feedback from your tutor.</p>\n<p>Your tutor will check in with Teams 1 and 2</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop Development Tutorial </strong>",
+            "topic_description": "Workshop Development Tutorial In this tutorial you will have the opportunity to work on your workshop in class and receive feedback from your tutor. Your tutor will check in with Teams 1 and 2",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -384,9 +384,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Cultivating a Positive Organisation Culture</strong><br/><p>In this tutorial you will participate in experiential activities designed to help you learn to cultivate a positive organisational culture.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Cultivating a Positive Organisation Culture</strong>",
-            "topic_description": "Cultivating a Positive Organisation Culture In this tutorial you will participate in experiential activities designed to help you learn to cultivate a positive organisational culture.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Future of Work </strong><br/><p>In this tutorial you will discuss the major skills employers are seeking in the 21st century and beyond and learn how the workplace will change in future.</p>\n<p>Required readings will be provided at Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>The Future of Work </strong>",
+            "topic_description": "The Future of Work In this tutorial you will discuss the major skills employers are seeking in the 21st century and beyond and learn how the workplace will change in future. Required readings will be provided at Blackboard.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -406,9 +406,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Future of Work and Course Review</strong><br/><p>In this tutorial you will discuss the major skills employers are seeking in the 21st century and beyond and learn how the workplace will change in future.</p>\n<p>Required readings will be provided at Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>The Future of Work and Course Review</strong>",
-            "topic_description": "The Future of Work and Course Review In this tutorial you will discuss the major skills employers are seeking in the 21st century and beyond and learn how the workplace will change in future. Required readings will be provided at Blackboard.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Exam requirements</strong><br/><p>In this tutorial you will review course content and discuss exam details.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Course Review and Exam requirements</strong>",
+            "topic_description": "Course Review and Exam requirements In this tutorial you will review course content and discuss exam details.",
             "learning_outcomes": [
                 "L01",
                 "L02"
