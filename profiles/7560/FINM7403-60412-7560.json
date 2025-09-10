@@ -107,18 +107,6 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Not scheduled",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-study for the In-Semester Exam--no lecture this week</strong><br/><p>This week is designated for self-study in preparation for the in-semester exam. Tutorials will still run, but there will be no lectures. However, the lecture schedule may be adjusted depending on the finalised Saturday in-semester exam timetable.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Self-study for the In-Semester Exam--no lecture this week</strong>",
-            "topic_description": "Self-study for the In-Semester Exam--no lecture this week This week is designated for self-study in preparation for the in-semester exam. Tutorials will still run, but there will be no lectures. However, the lecture schedule may be adjusted depending on the finalised Saturday in-semester exam timetable.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03"
-            ]
-        },
-        {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1: The investment environment</strong><br/><p>This topic introduces the concepts of investments, focusing on the motives why people and institutions invest, and the environment in which these investment decisions take place. The topic concludes with a case study to help students understand the mechanics and implications of short-selling.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
@@ -262,6 +250,18 @@
                 "L01",
                 "L03",
                 "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-study for the In-Semester Exam--no lecture this week</strong><br/><p>This week is designated for self-study in preparation for the in-semester exam. Tutorials will still run, but there will be no lectures. However, the lecture schedule may be adjusted depending on the finalised Saturday in-semester exam timetable.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Self-study for the In-Semester Exam--no lecture this week</strong>",
+            "topic_description": "Self-study for the In-Semester Exam--no lecture this week This week is designated for self-study in preparation for the in-semester exam. Tutorials will still run, but there will be no lectures. However, the lecture schedule may be adjusted depending on the finalised Saturday in-semester exam timetable.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
             ]
         },
         {
