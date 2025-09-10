@@ -1,0 +1,201 @@
+{
+    "course_title": "Accounting and Business Analysis",
+    "study_period": "Sem 2 2025",
+    "location": "Brisbane City",
+    "attendance": "Intensive",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7804-62620-7560",
+    "full_course_code": "ACCT7804-62620-7560",
+    "course_code": "ACCT7804",
+    "class_code": "62620",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (18/08/2025 - 26/09/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use financial terminology and accounting principles to read and interpret financial reports."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse revenues and costs to critically evaluate and improve performance."
+        },
+        {
+            "number": "LO3.",
+            "description": "Individually and in teams, evaluate and compare investment options in ambiguous and/or uncertain contexts."
+        },
+        {
+            "number": "LO4.",
+            "description": "Communicate the outcomes of your analysis to diverse stakeholders."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Financial Projections for Startups",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 8/09/2025 5:30 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Groups will form in Week 4.</strong></p>\n<ul>\n<li>Review, analyse and compare an entity to a listed (or publicly available) entity</li>\n<li>Make a recommendation of whether to invest in the company and why</li>\n<li>Present and submit your analysis as a slide deck with speaker notes</li>\n<li>Presented live in-class + questions (20 mins total)</li>\n<li>All need to be prepared to answer questions</li>\n</ul>\n<p><strong>AI STATEMENT</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Financial Analysis and Valuation",
+            "special_indicators": [],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 19/09/2025 5:30 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Using an enterprise of your choice, or using a provided fictional case, in Excel: </p>\n<ul>\n<li>Prepare projected 5-year proforma financial statements based on relevant assumptions </li>\n<li>Prepare a sensitivity analysis showing the impact of variations in your key assumptions </li>\n<li>Calculate 6-8 financial ratios that demonstrate the financial health of the enterprise</li>\n<li>Prepare a breakeven analysis for the enterprise</li>\n</ul>\n<p>Prepare a short-written report:</p>\n<ul>\n<li>Explaining how you determined which assumptions were most relevant and how you estimated the assumptions</li>\n<li>What the five-year outlook is for the venture including any funding may they need to source and when.</li>\n<li>Make a recommendation as to whether a person should invest in this enterprise.</li>\n<li>Approximate word count: 2,000 words</li>\n</ul>\n<p><strong>AI STATEMENT</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted in Turnitin via Blackboard Assessments in PDF format only.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Online Quiz",
+            "special_indicators": [],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>20:30 26/09/2025 8:30 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Online Quiz. focused on Management Accounting</p>\n<p>You will be allowed two attempts for the quiz.</p>\n<p><strong>Best Score</strong> out of the <strong>two attempts</strong> will be recorded.</p>\n<p><strong>AI STATEMENT</strong></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 1: Measuring business activity: Balance Sheet and Income Statement</strong><br><p><strong>Monday - 18/08: 8:00 AM to 4:00 PM</strong></p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Day 1: Measuring business activity: Balance Sheet and Income Statement</strong>",
+            "topic_description": "Day 1: Measuring business activity: Balance Sheet and Income Statement Monday - 18/08: 8:00 AM to 4:00 PM",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1: Balance sheet and Income Statement</strong><br/><p><strong>Wednesday 20/08: 8:00 AM to 11:00AM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 1: Balance sheet and Income Statement</strong>",
+            "topic_description": "Tutorial 1: Balance sheet and Income Statement Wednesday 20/08: 8:00 AM to 11:00AM",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 2: Measuring business activity: Cash Flow Statement and the link between the three statements</strong><br/><p><strong>Friday - 22/08: 8:00 AM to 4:00 PM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Day 2: Measuring business activity: Cash Flow Statement and the link between the three statements</strong>",
+            "topic_description": "Day 2: Measuring business activity: Cash Flow Statement and the link between the three statements Friday - 22/08: 8:00 AM to 4:00 PM",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2: Financial projections</strong><br/><p><strong>Monday 25/08: 8:00 AM to 11:00 AM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2: Financial projections</strong>",
+            "topic_description": "Tutorial 2: Financial projections Monday 25/08: 8:00 AM to 11:00 AM",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 3: Analysing performance: Financial Statement Analysis and Business Valuations</strong><br/><p><strong>Wednesday 27/08: 8:00 AM to 4:00 PM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Day 3: Analysing performance: Financial Statement Analysis and Business Valuations</strong>",
+            "topic_description": "Day 3: Analysing performance: Financial Statement Analysis and Business Valuations Wednesday 27/08: 8:00 AM to 4:00 PM",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 - Financial analysis and valuation</strong><br/><p><strong>Friday 29/08: 8:00 AM to 11:00 AM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 3 - Financial analysis and valuation</strong>",
+            "topic_description": "Tutorial 3 - Financial analysis and valuation Friday 29/08: 8:00 AM to 11:00 AM",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 4: Analysing performance: Cost behaviour, Break-even point and Profitability of products</strong><br/><p><strong>Monday 8/09: 8:00 AM to 4:00 PM</strong></p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Day 4: Analysing performance: Cost behaviour, Break-even point and Profitability of products</strong>",
+            "topic_description": "Day 4: Analysing performance: Cost behaviour, Break-even point and Profitability of products Monday 8/09: 8:00 AM to 4:00 PM",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Cost behaviour, break-even point and profitability of products</strong><br/><p><strong>Wednesday 10/09: 8:00 AM to 11:00 AM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Cost behaviour, break-even point and profitability of products</strong>",
+            "topic_description": "Tutorial 4: Cost behaviour, break-even point and profitability of products Wednesday 10/09: 8:00 AM to 11:00 AM",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 5: Driving performance: Governance, Controlling responsibility centres, Transfer prices</strong><br/><p><strong>Monday 15/09: 8:00 AM to 4:00 PM</strong></p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Day 5: Driving performance: Governance, Controlling responsibility centres, Transfer prices</strong>",
+            "topic_description": "Day 5: Driving performance: Governance, Controlling responsibility centres, Transfer prices Monday 15/09: 8:00 AM to 4:00 PM",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5: Governance and controlling responsibility centres</strong><br/><p><strong>Wednesday 17/09: 8:00 AM to 4:00 PM</strong></p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 5: Governance and controlling responsibility centres</strong>",
+            "topic_description": "Tutorial 5: Governance and controlling responsibility centres Wednesday 17/09: 8:00 AM to 4:00 PM",
+            "learning_outcomes": [
+                "L02"
+            ]
+        }
+    ]
+}
