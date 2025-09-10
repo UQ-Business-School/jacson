@@ -1,0 +1,166 @@
+{
+    "course_title": "Private Equity and Venture Capital",
+    "study_period": "Sem 2 2025",
+    "location": "Brisbane City",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7106-62040-7560",
+    "full_course_code": "FINM7106-62040-7560",
+    "course_code": "FINM7106",
+    "class_code": "62040",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (18/08/2025 - 03/10/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Integrate financial and non-financial data from multiple sources to make robust investment decisions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse return streams on the various stages of a private business/venture evolution over different investment horizons to maximise returns on exit."
+        },
+        {
+            "number": "LO3.",
+            "description": "Present conclusions, key valuation strategies and findings to stakeholders with a group of peers."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate technological feasibility and business model viability."
+        },
+        {
+            "number": "LO5.",
+            "description": "Customise incentive frameworks appropriate for different stakeholders within the investment model."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1: Case Study Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 8/09/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to apply the knowledge and skills acquired during the initial online/self-directed learning content to analyse a chosen case study connected to Private Equity. They will provide a written paper responding to a range of questions and advise on strategies and approaches to Private Equity investments.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2: Simulation Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p>Part A During Class 19/09/2025 3:00 pm</p>\n<p>Part B Group Reflection 3/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral, Written",
+            "category": "Presentation, Reflection, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>On Day 3 of the face-to-face course you will work on an LBO simulation. You will be assessed on your group collaboration and the quality of the answers you present on the day. The questions you will present will depend on the number of groups on the day (70% of the total grade for this assignment).</p>\n<p>Following the face-to-face sessions, an additional short reflection piece on this exercise will be done in your group highlighting what you did well, what you could have done better and what you learnt from the exercise (30% of the total grade for this assignment).</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3: Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 3/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L04, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Following the face-to-face sessions students will submit a short reflection referring to the practical investment negotiations they performed. You will incorporate what you did well and why, what you could have done differently and the anticipated outcomes and provide specific examples of negotiations to describe the specifics of venture-capitalist/entrepreneurs negotiations.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 5",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Learning / Self-Paced Learning</strong><br/><p><strong>18 August - 16 September 2025 (Self-Directed Learning)</strong></p>\n<p>Topics covered include structuring a fund and raising capital, assessing investment opportunities and valuing potential investments. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Online Learning / Self-Paced Learning</strong>",
+            "topic_description": "Online Learning / Self-Paced Learning 18 August - 16 September 2025 (Self-Directed Learning) Topics covered include structuring a fund and raising capital, assessing investment opportunities and valuing potential investments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-Face Learning: Day 1 - 17 September 2025</strong><br/><p><strong>17 September 2025</strong></p>\n<p>Topics: Venture capital growth - negotiation and structuring the transaction.   </p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Face-Face Learning: Day 1 - 17 September 2025</strong>",
+            "topic_description": "Face-Face Learning: Day 1 - 17 September 2025 17 September 2025 Topics: Venture capital growth - negotiation and structuring the transaction.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face Learning: Day 2 - 18 September 2025</strong><br/><p><strong>18 September 2025</strong></p>\n<p>Topics: Venture capital growth - Buy out valuation </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Face-to-Face Learning: Day 2 - 18 September 2025</strong>",
+            "topic_description": "Face-to-Face Learning: Day 2 - 18 September 2025 18 September 2025 Topics: Venture capital growth - Buy out valuation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face-to-Face learning: Day 3 - 19 September 2025</strong><br/><p><strong>19 September 2025</strong></p>\n<p>Topics: Buy Out – Putting it all together </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Face-to-Face learning: Day 3 - 19 September 2025</strong>",
+            "topic_description": "Face-to-Face learning: Day 3 - 19 September 2025 19 September 2025 Topics: Buy Out – Putting it all together",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 8",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Learning / Assessment</strong><br/><p><strong>20 September - 10 October 2025</strong></p>\n<p>Topics include Value creation in portfolio companies and exit strategies. In addition to self directed learning, students will be working individually to develop their assessment. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Online Learning / Assessment</strong>",
+            "topic_description": "Online Learning / Assessment 20 September - 10 October 2025 Topics include Value creation in portfolio companies and exit strategies. In addition to self directed learning, students will be working individually to develop their assessment.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
