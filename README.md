@@ -4,15 +4,20 @@
 
 # JacSON — Overview, Setup & Configuration Guide
 
-Welcome to JacSON: a Javascript and JSON-based scraper and integration tool from UQ Jac Course Profiles into Blackboard Ultra.  
+Welcome to JacSON: a Javascript and JSON-based scraper and integration tool from UQ Course Profiles into Blackboard Ultra. 
+
+JacSON consists of two tools:
+1. An admin scraper utility to create a standardised format that can be rendered on other platforms (e.g. Websites, Google Sheets, Microsoft Excel, etc). Designed to be set-and-mostly-forget for admins (i.e. run it when new courses are published, recommended to run automatically on work laptop bootup)
+2. A course builder LMS Integration code to detect the current course offering and render the information in pre-designed formats. Designed to be set-and-forget for end users.
+
 This guide explains everything that must be edited if you're adapting JacSON for another school, faculty, or institution.
 
 ## Quick Links
 
-- View code on Github: https://github.com/uqgblaze/jacson
+- View code on Github: https://github.com/uq-business-school/jacson
 - Live version: 
   - Assessments preview: https://uq-business-school.github.io/jacson/demo/assessment.html
-  - Weekly Activities preview: https://uq-business-school.github.io/jacson/demo/weekly-activities.html
+  - Weekly Activities preview: https://uq-business-school.github.io/jacson/demo/week.html
   - Installation instructions: https://uq-business-school.github.io/jacson/demo/install.html
 
 ## Overview
@@ -35,7 +40,8 @@ JacSON automates the retrieval of learning outcomes, assessment details, and wee
 
 ## Limitations
 
-- This tool is purpose-built for the **UQ JAC system** and may not generalize to other institutions without significant modification.
+- This tool is purpose-built for the **UQ Course Profile system** and may not generalize to other institutions without significant modification.
+- Note: This does not actually read/edit/scrape JAC - it scrapes publicly available course profiles from https://course-profiles.uq.edu.au
 - Course profiles need to be written in a standardised format to benefit from this tool.
 - The JSON file can only be called within a **document** on Blackboard. **This script does not work at the course-view level.**
 
