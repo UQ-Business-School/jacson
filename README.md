@@ -11,7 +11,7 @@ This guide explains everything that must be edited if you're adapting JacSON for
 
 - View code on Github: https://github.com/uqgblaze/jacson
 - Live version: 
-  - Assessments preview: https://uq-business-school.github.io/jacson/demo/assessments.html
+  - Assessments preview: https://uq-business-school.github.io/jacson/demo/assessment.html
   - Weekly Activities preview: https://uq-business-school.github.io/jacson/demo/weekly-activities.html
   - Installation instructions: https://uq-business-school.github.io/jacson/demo/install.html
 
