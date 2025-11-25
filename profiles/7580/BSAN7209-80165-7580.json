@@ -1,0 +1,320 @@
+{
+    "course_title": "Managing Analytics Projects",
+    "study_period": "Summer 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7209-80165-7580",
+    "full_course_code": "BSAN7209-80165-7580",
+    "course_code": "BSAN7209",
+    "class_code": "80165",
+    "semester_code": "7580",
+    "semester_details": "Summer Semester, 2025 (05/01/2026 - 31/01/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Effectively appraise, judge and defend analytic projects and champion organisational change for a range of stakeholders."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design analytic projects aimed at high velocity industries and environments through practical approaches such as the business case, project plan, and test strategy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Manage project group dynamics to achieve agreed ethical, financial, temporal, and organisational objectives and expectations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Business Case with Pitch",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Report and Video -  23/12/2025 3:00 pm</p>\n<p>Q&amp;A During Class -  9/01/2026 3:00 pm</p>\n<p>\n</p><p>The above due date and time is when the report and video of the pitch is due.</p>\n<p>Team pitches will be presented utilising the team’s video during a live session.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a group assessment with multiple components. The assessment requires teams to:</p>\n<ul>\n<li>Write a project management focused business case (20%),</li>\n<li>Conduct a pitch (10%),</li>\n<li>Respond to Q&amp;A (5%) and </li>\n<li>Complete peer assessment (5%) after the assessment has been submitted. All peer assessments will be due one week after the submission due date.</li>\n</ul>\n<p>Groups will be formed over Weeks 1 and 2. The group size will depend on the number of enrolments for the semester. This will be announced by the course coordinator in Week 1.</p>\n<p>More details can be found on the task sheet in the Assessment Folder on Blackboard, including arrangements for groups that cannot attend the live session to present.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Business Case, Video and Peer Assessment will be submitted via the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Report",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>1st iteration -  16/01/2026 3:00 pm</p>\n<p>Final Report -  30/01/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The business case from Assessment 1 forms the base of the now individual project plan that is at the centre of this assessment submission.</p>\n<p>An iteration of the report must be submitted. </p>\n<p>After submission of the iteration, you will receive details of a disruptor. The disruptor is to see how you propose to address the issue and to test your project plan in areas such as adaptability, resiliency, risk management and contingency planning. It will also test you as a project manager as parts of the disruptor may mean that you need to approach management and disagree with them with evidence to support such a position.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment will be submitted via the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Reflective Report",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 9/02/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Reflection is an important skill in agile approaches. While in agile approaches it is undertaken with others, here this assessment is an individual activity. The task is to write a reflective report that is to cover the areas stated on the task sheet available on Blackboard.</p>\n<p><strong>AI Statement</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment will be submitted via the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.1: The BA project management journey</strong><br/><p>Self-Directed Learning: This is a two week module where you will take the first steps in navigating the journey of a business analytics project. We will consider: the differences between a business analytics project and business as usual, the required skills needed for your business analytics project, and evaluate the options available to kickstart a business analytics project.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 1.1: The BA project management journey</strong>",
+            "topic_description": "Topic 1.1: The BA project management journey Self-Directed Learning: This is a two week module where you will take the first steps in navigating the journey of a business analytics project. We will consider: the differences between a business analytics project and business as usual, the required skills needed for your business analytics project, and evaluate the options available to kickstart a business analytics project.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1.2: Setting the scene for a kickstart</strong><br/><p>Self-Directed Learning: This topic will continue to discuss recommendations for the management of a business analytics project. This week will mainly concentrate on the kickstart of the project when using CRISP-DM embedded in Scrum.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Topic 1.2: Setting the scene for a kickstart</strong>",
+            "topic_description": "Topic 1.2: Setting the scene for a kickstart Self-Directed Learning: This topic will continue to discuss recommendations for the management of a business analytics project. This week will mainly concentrate on the kickstart of the project when using CRISP-DM embedded in Scrum.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.2: Data understanding</strong><br/><p>Self-Directed Learning: This topic examines questions related to the data that will be needed for the project from a business case/project management perspective and delivery road maps.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 2.2: Data understanding</strong>",
+            "topic_description": "Topic 2.2: Data understanding Self-Directed Learning: This topic examines questions related to the data that will be needed for the project from a business case/project management perspective and delivery road maps.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.1 Business understanding</strong><br/><p>Self-Directed Learning: This topic considers a number of ways that business understanding can be gained. It will consider the application of CRISP-DM and facilitating workshops involving key stakeholders, utilising a range of techniques.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Topic 2.1 Business understanding</strong>",
+            "topic_description": "Topic 2.1 Business understanding Self-Directed Learning: This topic considers a number of ways that business understanding can be gained. It will consider the application of CRISP-DM and facilitating workshops involving key stakeholders, utilising a range of techniques.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 1</strong><br/><p>This topic introduces the general concepts required for business analytics projects.</p>\n<p><strong>Live session:</strong> In this seminar we will have a short introduction to the course and introduce the course content by running a simulation.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Live Session 1</strong>",
+            "topic_description": "Live Session 1 This topic introduces the general concepts required for business analytics projects. Live session: In this seminar we will have a short introduction to the course and introduce the course content by running a simulation. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 2</strong><br><p>This topic continues developing general concepts required for business analytics projects.</p>\n<p><strong>Live session:</strong> In this seminar we will finalise groups for the project and discuss requirements for a business analytics project.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Live Session 2</strong>",
+            "topic_description": "Live Session 2 This topic continues developing general concepts required for business analytics projects. Live session: In this seminar we will finalise groups for the project and discuss requirements for a business analytics project. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 2.3: Ethics and project management practices</strong><br><p>Self-Directed Learning: This topic is to allow some time to consider holistically how to avoid or mitigate common ethical dilemmas or issues that arise in business analytics project management.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Topic 2.3: Ethics and project management practices</strong>",
+            "topic_description": "Topic 2.3: Ethics and project management practices Self-Directed Learning: This topic is to allow some time to consider holistically how to avoid or mitigate common ethical dilemmas or issues that arise in business analytics project management.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 3</strong><br><p>This topic aims to prepare students for Assessment 1.</p>\n<p><strong>Live session:</strong> In this seminar we will continue to explore requirements and discuss ethical considerations.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session 3</strong>",
+            "topic_description": "Live Session 3 This topic aims to prepare students for Assessment 1. Live session: In this seminar we will continue to explore requirements and discuss ethical considerations. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 4</strong><br><p>This topic continues to prepare students for Assessment 1.</p>\n<p><strong>Live session:</strong> In this seminar we will continue our exploration of requirements, project management, and ethical considerations.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session 4</strong>",
+            "topic_description": "Live Session 4 This topic continues to prepare students for Assessment 1. Live session: In this seminar we will continue our exploration of requirements, project management, and ethical considerations. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2 Conclusion</strong><br/><p>Self-Directed Learning: This week's self directed study is to focus on concluding this module's work.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2 Conclusion</strong>",
+            "topic_description": "Module 2 Conclusion Self-Directed Learning: This week's self directed study is to focus on concluding this module's work.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 5</strong><br/><p>This topic explores ethical concerns for business analytics projects.</p>\n<p><strong>Live session:</strong> In this seminar we will explore project management as we debate the ethical considerations for a business analytics project.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session 5</strong>",
+            "topic_description": "Live Session 5 This topic explores ethical concerns for business analytics projects. Live session: In this seminar we will explore project management as we debate the ethical considerations for a business analytics project. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 6</strong><br><p>This week we review student pitches.</p>\n<p><strong>Live session:</strong> In this seminar we will review the pitches each group developed for Assessment 1.</p>\n<p><strong>Preparation</strong>: Students need to complete Assessment 1 before the live session.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session 6</strong>",
+            "topic_description": "Live Session 6 This week we review student pitches. Live session: In this seminar we will review the pitches each group developed for Assessment 1. Preparation : Students need to complete Assessment 1 before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.1: Daily Project Life and Challenges</strong><br/><p>Self-Directed Learning: This topic considers the management of a business analytics project's daily life during delivery and addressing risks, issues and changes.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Topic 3.1: Daily Project Life and Challenges</strong>",
+            "topic_description": "Topic 3.1: Daily Project Life and Challenges Self-Directed Learning: This topic considers the management of a business analytics project's daily life during delivery and addressing risks, issues and changes.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3.2: Organisational Change</strong><br/><p>Self-Directed Learning: This topic critically examines how a project manager can influence organisational change to lessen the risk of project failure, in particular, if the organisational culture may be creating barriers.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Topic 3.2: Organisational Change</strong>",
+            "topic_description": "Topic 3.2: Organisational Change Self-Directed Learning: This topic critically examines how a project manager can influence organisational change to lessen the risk of project failure, in particular, if the organisational culture may be creating barriers.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3 Conclusion</strong><br/><p>Self-Directed Learning: This week is a good time to reflect and explore the extra resources provided in this module. You may wish to reconsider Module 3.1 again in the light of the organisational change issues raised in Module 3.2. Please spend some time discussing the module topics on the discussion board.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Module 3 Conclusion</strong>",
+            "topic_description": "Module 3 Conclusion Self-Directed Learning: This week is a good time to reflect and explore the extra resources provided in this module. You may wish to reconsider Module 3.1 again in the light of the organisational change issues raised in Module 3.2. Please spend some time discussing the module topics on the discussion board.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.1: Final Delivery and implementation</strong><br/><p>Self-Directed Learning: This topic considers the final delivery planning requirements including final testing and implementation needs.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Topic 4.1: Final Delivery and implementation</strong>",
+            "topic_description": "Topic 4.1: Final Delivery and implementation Self-Directed Learning: This topic considers the final delivery planning requirements including final testing and implementation needs.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 7</strong><br/><p>This topic aims to prepare students for Assessment 2 and 3.</p>\n<p><strong>Live session:</strong> In this seminar we will explore project life, challenges, organisational change, and preparation for delivery.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session 7</strong>",
+            "topic_description": "Live Session 7 This topic aims to prepare students for Assessment 2 and 3. Live session: In this seminar we will explore project life, challenges, organisational change, and preparation for delivery. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.2: The rocky last mile</strong><br><p>Self-Directed Learning: This topic examines the closing a project to ensure a good handover into business as usual mode for the system and safeguarding the lessons learnt from this project so they are utilised by future projects.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Topic 4.2: The rocky last mile</strong>",
+            "topic_description": "Topic 4.2: The rocky last mile Self-Directed Learning: This topic examines the closing a project to ensure a good handover into business as usual mode for the system and safeguarding the lessons learnt from this project so they are utilised by future projects.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4.3 Course Summary</strong><br/><p>Self-Directed Learning: This week is looking back over the course and reflecting on the journey. It is an opportunity to undertake a retrospective. It is also about the completion of the final assessment piece.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Topic 4.3 Course Summary</strong>",
+            "topic_description": "Topic 4.3 Course Summary Self-Directed Learning: This week is looking back over the course and reflecting on the journey. It is an opportunity to undertake a retrospective. It is also about the completion of the final assessment piece.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 8</strong><br/><p>This topic aims to prepare students for Assessment 2 and 3.</p>\n<p><strong>Live session:</strong> In this seminar we will explore testing, implementation planning, and preparation for final handover.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Live Session 8</strong>",
+            "topic_description": "Live Session 8 This topic aims to prepare students for Assessment 2 and 3. Live session: In this seminar we will explore testing, implementation planning, and preparation for final handover. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Session 9</strong><br/><p>This topic aims to prepare students for Assessment 2 and 3.</p>\n<p><strong>Live session:</strong> In this seminar we will explore project closure and its implications.</p>\n<p><strong>Preparation</strong>: Students need to complete this week's self-directed material before the live session.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Live Session 9</strong>",
+            "topic_description": "Live Session 9 This topic aims to prepare students for Assessment 2 and 3. Live session: In this seminar we will explore project closure and its implications. Preparation : Students need to complete this week's self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        }
+    ]
+}
